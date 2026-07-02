@@ -1,12 +1,22 @@
 """
 Genera data.json para el KAM Dashboard leyendo directamente desde Google Sheets.
 
-Lee 5 pestañas de la misma spreadsheet:
-  - Tickets   -> tickets/mes por país, y Q de clientes (ID tributario único) por país
-  - Usuarios  -> usuarios incentivados (col "N° usuarios incentivados") por país
-  - Reuniones -> reuniones por ejecutivo, atribuidas a país/rol vía Leyenda
-  - Leyenda   -> mapea KAM ID / correo -> rol (KAM, BDM, Full Cycle) y país
-  - Config    -> cantidad de ejecutivos por país/rol (editable desde el panel admin)
+Fuentes (2 spreadsheets):
+
+  Spreadsheet principal (SPREADSHEET_ID):
+    - Tickets   -> transacciones. Columna "empresa" = ID Empresa (clave de join).
+    - Usuarios  -> columna "N° usuarios incentivados" (col L) por ID Empresa.
+    - Reuniones -> reuniones por ejecutivo (join por KAM ID / email contra Leyenda).
+    - Leyenda   -> Email -> {rol, pais}. También define el headcount por rol/país
+                   (se cuenta a todos los que aparecen ahí, tengan o no cuentas asignadas).
+
+  Spreadsheet "Empresas (Todos los países)" (EMPRESAS_SPREADSHEET_ID):
+    - Una pestaña por país (Chile, Peru, Colombia, Ecuador, Mexico), cada una con
+      columnas ID Empresa / Rut / Kam / Email Kam. Es el mapa cuenta -> ejecutivo dueño.
+
+Con esto, cada ticket y cada fila de usuarios se atribuye a un ejecutivo real
+(vía ID Empresa -> Email Kam -> Leyenda), en vez de repartir el total del país
+por igual entre todos los roles.
 
 Corre en GitHub Actions con una service account (ver GOOGLE_SHEETS_CREDENTIALS).
 """
@@ -22,6 +32,9 @@ import gspread
 from google.oauth2.service_account import Credentials
 
 SPREADSHEET_ID = "19kyAlO7_3vF1BZnRDw0Yi5A0QN4w80akeHbXnUMXgKM"
+EMPRESAS_SPREADSHEET_ID = "1DvVU7NHLh-EraghQm5Qc9RNLKSVfsY5MJDfL0WJGhEw"
+EMPRESAS_TABS = ["Chile", "Peru", "Colombia", "Ecuador", "Mexico"]
+
 OUTPUT_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data.json")
 
 COUNTRY_ORDER = ["Chile", "Colombia", "Ecuador", "México", "Perú"]
@@ -52,7 +65,6 @@ COUNTRY_ALIASES = {
 # ---------------------------------------------------------------------------
 
 def normalize_key(s):
-    """minimiza un header a algo comparable: sin acentos, sin espacios, minúsculas"""
     s = unicodedata.normalize("NFKD", str(s)).encode("ascii", "ignore").decode("ascii")
     return re.sub(r"[^a-z0-9]", "", s.lower())
 
@@ -116,6 +128,17 @@ def normalize_tax_id(raw):
     return re.sub(r"[^A-Za-z0-9]", "", str(raw)).upper()
 
 
+def normalize_empresa_id(raw):
+    if raw is None:
+        return None
+    s = str(raw).strip()
+    if s == "":
+        return None
+    if s.endswith(".0"):
+        s = s[:-2]
+    return s
+
+
 def parse_number(raw):
     if raw is None:
         return None
@@ -153,8 +176,30 @@ def get_client():
     return gspread.authorize(creds)
 
 
+def build_empresa_owner_map(gc):
+    """Lee la spreadsheet 'Empresas (Todos los países)' y arma ID Empresa -> email dueño."""
+    sh = gc.open_by_key(EMPRESAS_SPREADSHEET_ID)
+    owner_map = {}
+    for tab in EMPRESAS_TABS:
+        pais = normalize_country(tab)
+        try:
+            ws = sh.worksheet(tab)
+        except gspread.WorksheetNotFound:
+            continue
+        records, h_idx = get_records(ws)
+        col_id = find_header(h_idx, "ID Empresa")
+        col_email = find_header(h_idx, "Email Kam")
+        for r in records:
+            eid = normalize_empresa_id(r.get(col_id, ""))
+            email = (r.get(col_email, "") or "").strip().lower()
+            if not eid or not email:
+                continue
+            owner_map[eid] = {"email": email, "pais": pais}
+    return owner_map
+
+
 # ---------------------------------------------------------------------------
-# Main
+# Lógica pura de agregación
 # ---------------------------------------------------------------------------
 
 def build_dashboard_data(
@@ -162,11 +207,9 @@ def build_dashboard_data(
     usuarios_records, usuarios_h,
     reuniones_records, reuniones_h,
     leyenda_records, leyenda_h,
-    config_records, config_h,
+    empresa_owner_map,
 ):
-    """Lógica pura de agregación (sin I/O) — separada para poder testear con datos falsos."""
-
-    # --- Leyenda: KAM ID / correo -> {rol, pais} -------------------------------
+    # --- Leyenda: KAM ID / correo -> {rol, pais}; también headcount por rol/pais ----
     col_correo = find_header(leyenda_h, "Correo", "Email")
     col_kamid = find_header(leyenda_h, "KAM ID")
     col_rol = find_header(leyenda_h, "Rol")
@@ -174,6 +217,8 @@ def build_dashboard_data(
 
     kamid_to_info = {}
     email_to_info = {}
+    ejecutivos_set = defaultdict(lambda: defaultdict(set))  # ejecutivos_set[rol][pais] = {emails}
+
     for r in leyenda_records:
         pais = normalize_country(r.get(col_pais_ley, ""))
         rol = (r.get(col_rol, "") or "").strip()
@@ -186,65 +231,87 @@ def build_dashboard_data(
             kamid_to_info[kamid] = info
         if correo:
             email_to_info[correo] = info
+            ejecutivos_set[rol][pais].add(correo)
 
-    # --- Config: ejecutivos por rol/pais ---------------------------------------
-    col_pais_cfg = find_header(config_h, "Pais", "País")
-    col_rol_cfg = find_header(config_h, "Rol")
-    col_exec_cfg = find_header(config_h, "Ejecutivos")
+    ejecutivos = {rol: {pais: len(emails) for pais, emails in paises.items()} for rol, paises in ejecutivos_set.items()}
 
-    ejecutivos = defaultdict(lambda: defaultdict(int))
-    for r in config_records:
-        pais = normalize_country(r.get(col_pais_cfg, ""))
-        rol = (r.get(col_rol_cfg, "") or "").strip()
-        n = parse_number(r.get(col_exec_cfg, "0")) or 0
-        if pais and rol:
-            ejecutivos[rol][pais] = int(n)
+    def resolve_owner_rol_pais(empresa_id, fallback_pais):
+        """Dado un ID Empresa, devuelve (rol, pais) del ejecutivo dueño, o (None, fallback_pais) si no se pudo atribuir."""
+        eid = normalize_empresa_id(empresa_id)
+        owner = empresa_owner_map.get(eid) if eid else None
+        if not owner:
+            return None, fallback_pais
+        info = email_to_info.get(owner["email"])
+        if not info:
+            return None, fallback_pais
+        return info["rol"], info["pais"]
 
-    # --- Tickets: conteo mensual por país + clientes únicos por país ----------
+    # --- Tickets: atribuir cada ticket a (rol, pais) vía ID Empresa -------------
     col_pais_tix = find_header(tickets_h, "pais", "país")
+    col_empresa_id = find_header(tickets_h, "empresa")
     col_idtrib = find_header(tickets_h, "id_tributario")
     col_fecha = find_header(tickets_h, "fechaCreacion")
 
-    tickets_by_country_month = defaultdict(lambda: defaultdict(int))
-    clientes_by_country = defaultdict(set)
+    tickets_by_role_country_month = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
+    clientes_by_role_country = defaultdict(lambda: defaultdict(set))
+    tickets_sin_asignar = 0
 
     for r in tickets_records:
-        pais = normalize_country(r.get(col_pais_tix, ""))
-        if not pais:
+        pais_ticket = normalize_country(r.get(col_pais_tix, ""))
+        if not pais_ticket:
             continue
+        empresa_id = r.get(col_empresa_id, "")
+        rol, _ = resolve_owner_rol_pais(empresa_id, pais_ticket)
+        if not rol:
+            tickets_sin_asignar += 1
+            continue
+
         id_trib = normalize_tax_id(r.get(col_idtrib, ""))
         if id_trib:
-            clientes_by_country[pais].add(id_trib)
+            clientes_by_role_country[rol][pais_ticket].add(id_trib)
+
         fecha = (r.get(col_fecha, "") or "").strip()
         if len(fecha) >= 10:
             try:
                 dt = datetime.strptime(fecha[:10], "%Y-%m-%d")
                 mk = month_key(dt.year, dt.month)
-                tickets_by_country_month[pais][mk] += 1
+                tickets_by_role_country_month[rol][pais_ticket][mk] += 1
             except ValueError:
                 pass
 
-    tickets_mensual = {}
-    for pais in COUNTRY_ORDER:
-        months = tickets_by_country_month.get(pais, {})
-        active = [v for v in months.values() if v > 0]
-        tickets_mensual[pais] = round(sum(active) / len(active), 2) if active else 0
+    tickets_mensual = defaultdict(dict)
+    for rol in ROLES:
+        for pais in COUNTRY_ORDER:
+            months = tickets_by_role_country_month[rol].get(pais, {})
+            active = [v for v in months.values() if v > 0]
+            tickets_mensual[rol][pais] = round(sum(active) / len(active), 2) if active else 0
 
-    total_clientes = {pais: len(clientes_by_country.get(pais, set())) for pais in COUNTRY_ORDER}
+    total_clientes = defaultdict(dict)
+    for rol in ROLES:
+        for pais in COUNTRY_ORDER:
+            total_clientes[rol][pais] = len(clientes_by_role_country[rol].get(pais, set()))
 
-    # --- Usuarios: sum columna L (usuarios incentivados) por país --------------
+    # --- Usuarios: atribuir columna L (usuarios incentivados) vía ID Empresa ----
     col_usuarios_l = find_header(usuarios_h, "N usuarios incentivados", "usuarios incentivados")
     col_pais_usr = find_header(usuarios_h, "Pais", "País")
+    col_id_empresa_usr = find_header(usuarios_h, "ID Empresa")
 
-    usuarios_total = defaultdict(float)
+    usuarios_total = defaultdict(lambda: defaultdict(float))
+    usuarios_sin_asignar = 0
+
     for r in usuarios_records:
         l_val = parse_number(r.get(col_usuarios_l, ""))
         if l_val is None:
             continue  # columna L vacía => empresa sin compras hace +12 meses, se excluye
-        pais = normalize_country(r.get(col_pais_usr, ""))
-        if not pais:
+        pais_usr = normalize_country(r.get(col_pais_usr, ""))
+        if not pais_usr:
             continue
-        usuarios_total[pais] += l_val
+        empresa_id = r.get(col_id_empresa_usr, "")
+        rol, _ = resolve_owner_rol_pais(empresa_id, pais_usr)
+        if not rol:
+            usuarios_sin_asignar += 1
+            continue
+        usuarios_total[rol][pais_usr] += l_val
 
     # --- Reuniones: atribuir cada reunión a (rol, pais) por mes -----------------
     col_kamid_reu = find_header(reuniones_h, "KAM ID")
@@ -254,7 +321,7 @@ def build_dashboard_data(
 
     reuniones_by_role_country_month = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
     all_month_keys = set()
-    unmatched = 0
+    reuniones_sin_match = 0
 
     for r in reuniones_records:
         kamid = (r.get(col_kamid_reu, "") or "").strip()
@@ -263,7 +330,7 @@ def build_dashboard_data(
             email = (r.get(col_seller_email, "") or "").strip().lower()
             info = email_to_info.get(email)
         if not info:
-            unmatched += 1
+            reuniones_sin_match += 1
             continue
 
         anio = parse_number(r.get(col_anio, ""))
@@ -283,16 +350,16 @@ def build_dashboard_data(
     for rol in ROLES:
         countries = {}
         for pais in COUNTRY_ORDER:
-            n_exec = ejecutivos[rol].get(pais, 0)
+            n_exec = ejecutivos.get(rol, {}).get(pais, 0)
             monthly_counts = [
                 reuniones_by_role_country_month[rol][pais].get(mk, 0) for mk in month_keys_sorted
             ]
             active = [v for v in monthly_counts if v > 0]
             reuniones_mensual_v = round(sum(active) / len(active), 2) if active else 0
 
-            t_mensual = tickets_mensual.get(pais, 0)
-            t_clientes = total_clientes.get(pais, 0)
-            u_total = round(usuarios_total.get(pais, 0), 2)
+            t_mensual = tickets_mensual[rol].get(pais, 0)
+            t_clientes = total_clientes[rol].get(pais, 0)
+            u_total = round(usuarios_total[rol].get(pais, 0), 2)
 
             countries[pais] = {
                 "flag": COUNTRY_FLAGS.get(pais, ""),
@@ -315,7 +382,9 @@ def build_dashboard_data(
         "country_order": COUNTRY_ORDER,
         "tabs": tabs,
         "meta": {
-            "reuniones_sin_match": unmatched,
+            "reuniones_sin_match": reuniones_sin_match,
+            "tickets_sin_asignar": tickets_sin_asignar,
+            "usuarios_sin_asignar": usuarios_sin_asignar,
         },
     }
     return output
@@ -329,21 +398,26 @@ def main():
     usuarios_records, usuarios_h = get_records(sh.worksheet("Usuarios"))
     reuniones_records, reuniones_h = get_records(sh.worksheet("Reuniones"))
     leyenda_records, leyenda_h = get_records(sh.worksheet("Leyenda"))
-    config_records, config_h = get_records(sh.worksheet("Config"))
+
+    empresa_owner_map = build_empresa_owner_map(gc)
 
     output = build_dashboard_data(
         tickets_records, tickets_h,
         usuarios_records, usuarios_h,
         reuniones_records, reuniones_h,
         leyenda_records, leyenda_h,
-        config_records, config_h,
+        empresa_owner_map,
     )
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"OK: data.json generado con {len(output['month_labels'])} meses. "
-          f"Reuniones sin match: {output['meta']['reuniones_sin_match']}")
+    print(
+        f"OK: data.json generado con {len(output['month_labels'])} meses. "
+        f"Reuniones sin match: {output['meta']['reuniones_sin_match']}, "
+        f"Tickets sin asignar: {output['meta']['tickets_sin_asignar']}, "
+        f"Usuarios sin asignar: {output['meta']['usuarios_sin_asignar']}."
+    )
 
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 """
-Test rápido con datos falsos (basados en filas reales que vimos en la sheet)
-para validar la lógica de agregación sin necesitar credenciales de Google.
+Test rápido con datos falsos para validar la lógica de atribución por ejecutivo
+(Tickets/Usuarios -> Empresas -> Leyenda) sin necesitar credenciales de Google.
 
 Correr con: python3 scripts/test_update_data.py
 """
@@ -19,71 +19,73 @@ def records(headers, rows):
 
 
 def main():
-    # --- Tickets: 2 empresas en Chile (3 tickets en jul, 1 en ago), 1 en Colombia
-    tickets_h = ["id", "empresa", "id_tributario", "fechaCreacion", "pais"]
-    tickets_rows = [
-        ["1", "A", "76.339.081-0", "2025-07-02 9:00:00", "Chile"],
-        ["2", "A", "76.339.081-0", "2025-07-05 9:00:00", "Chile"],
-        ["3", "B", "96568740-8", "2025-07-10 9:00:00", "Chile"],
-        ["4", "A", "76339081-0", "2025-08-01 9:00:00", "Chile"],  # mismo id_tributario, sin puntos
-        ["5", "C", "900000-1", "2025-07-15 9:00:00", "Colombia"],
-    ]
-    tickets_records, tickets_hidx = records(tickets_h, tickets_rows)
-
-    # Expectativa Chile: clientes únicos = {763390810, 965687408} = 2
-    #   meses activos: jul(3 tickets), ago(1 ticket) -> promedio = (3+1)/2 = 2.0
-    # Colombia: 1 cliente, 1 ticket en jul -> promedio = 1.0
-
-    # --- Usuarios: columna L, filtrar vacíos
-    usuarios_h = ["ID Empresa", "N° usuarios incentivados", "País"]
-    usuarios_rows = [
-        ["A", "100", "Chile"],
-        ["B", "50", "Chile"],
-        ["X", "", "Chile"],       # vacío -> excluido
-        ["C", "30", "Colombia"],
-    ]
-    usuarios_records, usuarios_hidx = records(usuarios_h, usuarios_rows)
-    # Chile usuarios_total = 150, Colombia = 30
-
-    # --- Leyenda
+    # --- Leyenda: define headcount y rol/pais por email
     leyenda_h = ["Correo", "KAM ID", "Rol", "Pais"]
     leyenda_rows = [
         ["ana@apprecio.com", "AN", "KAM", "Chile"],
         ["beto@apprecio.com", "BE", "BDM", "Chile"],
         ["cami@apprecio.com", "CA", "Full Cycle", "Colombia"],
-        ["sinid@apprecio.com", "", "KAM", "Colombia"],  # sin KAM ID, solo por email
+        ["sinid@apprecio.com", "", "KAM", "Colombia"],
     ]
     leyenda_records, leyenda_hidx = records(leyenda_h, leyenda_rows)
+    # Headcount esperado: KAM/Chile=1, BDM/Chile=1, Full Cycle/Colombia=1, KAM/Colombia=1
 
-    # --- Reuniones: incluye un caso #N/A que debe matchear por email
+    # --- Empresas (mapa ID Empresa -> dueño). Empresa "9" sin dueño reconocible en Leyenda (owner_x)
+    empresa_owner_map = {
+        "1": {"email": "ana@apprecio.com", "pais": "Chile"},
+        "2": {"email": "ana@apprecio.com", "pais": "Chile"},
+        "3": {"email": "beto@apprecio.com", "pais": "Chile"},
+        "4": {"email": "sinid@apprecio.com", "pais": "Colombia"},
+        "9": {"email": "owner_x@apprecio.com", "pais": "Chile"},  # no está en Leyenda
+    }
+
+    # --- Tickets: empresas 1 y 2 (Ana/KAM/Chile), empresa 3 (Beto/BDM/Chile),
+    #     empresa 9 (dueño no reconocido -> sin asignar), empresa 99 (no existe en Empresas -> sin asignar)
+    tickets_h = ["id", "empresa", "id_tributario", "fechaCreacion", "pais"]
+    tickets_rows = [
+        ["1", "1", "RUT-A", "2025-07-02 9:00:00", "Chile"],
+        ["2", "1", "RUT-A", "2025-07-05 9:00:00", "Chile"],
+        ["3", "2", "RUT-B", "2025-07-10 9:00:00", "Chile"],
+        ["4", "1", "RUT-A", "2025-08-01 9:00:00", "Chile"],
+        ["5", "3", "RUT-C", "2025-07-15 9:00:00", "Chile"],
+        ["6", "9", "RUT-D", "2025-07-15 9:00:00", "Chile"],
+        ["7", "99", "RUT-E", "2025-07-15 9:00:00", "Chile"],
+    ]
+    tickets_records, tickets_hidx = records(tickets_h, tickets_rows)
+    # KAM/Chile (Ana, empresas 1 y 2): clientes únicos {RUT-A, RUT-B} = 2
+    #   meses activos: jul (3 tickets: emp1x2 + emp2x1), ago (1 ticket emp1) -> (3+1)/2 = 2.0
+    # BDM/Chile (Beto, empresa 3): 1 cliente {RUT-C}, 1 ticket en jul -> mensual 1.0
+    # tickets_sin_asignar: empresa 9 (dueño no en leyenda) + empresa 99 (no en empresas) = 2
+
+    # --- Usuarios: columna L por ID Empresa
+    usuarios_h = ["ID Empresa", "N° usuarios incentivados", "País"]
+    usuarios_rows = [
+        ["1", "100", "Chile"],   # Ana/KAM/Chile
+        ["2", "50", "Chile"],    # Ana/KAM/Chile
+        ["3", "30", "Chile"],    # Beto/BDM/Chile
+        ["9", "20", "Chile"],    # sin asignar (owner no en Leyenda)
+        ["4", "", "Colombia"],   # columna L vacía -> excluido
+    ]
+    usuarios_records, usuarios_hidx = records(usuarios_h, usuarios_rows)
+    # KAM/Chile usuarios_total = 150, BDM/Chile = 30, usuarios_sin_asignar = 1
+
+    # --- Reuniones (igual que antes, vía KAM ID / email)
     reuniones_h = ["ID_REUNION", "FECHA_ISO", "ANIO", "MES", "SELLER_EMAIL", "KAM ID"]
     reuniones_rows = [
         ["r1", "2026-01-10", "2026", "1", "ana@apprecio.com", "AN"],
         ["r2", "2026-01-15", "2026", "1", "ana@apprecio.com", "AN"],
         ["r3", "2026-02-01", "2026", "2", "beto@apprecio.com", "BE"],
-        ["r4", "2026-01-20", "2026", "1", "sinid@apprecio.com", "#N/A"],  # fallback por email
-        ["r5", "2026-01-22", "2026", "1", "desconocido@apprecio.com", "#N/A"],  # sin match -> excluida
+        ["r4", "2026-01-20", "2026", "1", "sinid@apprecio.com", "#N/A"],
+        ["r5", "2026-01-22", "2026", "1", "desconocido@apprecio.com", "#N/A"],
     ]
     reuniones_records, reuniones_hidx = records(reuniones_h, reuniones_rows)
-
-    # --- Config: ejecutivos
-    config_h = ["Pais", "Rol", "Ejecutivos"]
-    config_rows = [
-        ["Chile", "KAM", "2"],
-        ["Chile", "BDM", "1"],
-        ["Chile", "Full Cycle", "0"],
-        ["Colombia", "KAM", "1"],
-        ["Colombia", "BDM", "0"],
-        ["Colombia", "Full Cycle", "1"],
-    ]
-    config_records, config_hidx = records(config_h, config_rows)
 
     output = build_dashboard_data(
         tickets_records, tickets_hidx,
         usuarios_records, usuarios_hidx,
         reuniones_records, reuniones_hidx,
         leyenda_records, leyenda_hidx,
-        config_records, config_hidx,
+        empresa_owner_map,
     )
 
     errors = []
@@ -98,31 +100,27 @@ def main():
     fc_col = output["tabs"]["Full Cycle"]["countries"]["Colombia"]
     ecuador_kam = output["tabs"]["KAM"]["countries"]["Ecuador"]
 
-    check("Chile total_clientes", kam_chile["total_clientes"], 2)
-    check("Chile tickets_mensual", kam_chile["tickets_mensual"], 2.0)
-    check("Chile KAM tickets_exec (2 exec)", kam_chile["tickets_exec"], 1.0)
-    check("Chile BDM tickets_exec (1 exec)", bdm_chile["tickets_exec"], 2.0)
-    check("Chile usuarios_total", kam_chile["usuarios_total"], 150.0)
-    check("Chile KAM usuarios_exec", kam_chile["usuarios_exec"], 75.0)
+    check("Headcount KAM/Chile", kam_chile["ejecutivos"], 1)
+    check("Headcount BDM/Chile", bdm_chile["ejecutivos"], 1)
+    check("Headcount KAM/Colombia", kam_col["ejecutivos"], 1)
+    check("Headcount Full Cycle/Colombia", fc_col["ejecutivos"], 1)
+    check("Headcount KAM/Ecuador (nadie en Leyenda)", ecuador_kam["ejecutivos"], 0)
 
-    check("Colombia total_clientes", kam_col["total_clientes"], 1)
-    check("Colombia usuarios_total", kam_col["usuarios_total"], 30.0)
+    check("KAM/Chile total_clientes (RUT-A, RUT-B)", kam_chile["total_clientes"], 2)
+    check("KAM/Chile tickets_mensual", kam_chile["tickets_mensual"], 2.0)
+    check("KAM/Chile tickets_exec (1 exec)", kam_chile["tickets_exec"], 2.0)
+    check("BDM/Chile total_clientes (RUT-C)", bdm_chile["total_clientes"], 1)
+    check("BDM/Chile tickets_mensual", bdm_chile["tickets_mensual"], 1.0)
 
-    # Reuniones: Ana (KAM, Chile) tiene 2 en enero -> reuniones_mensual=2.0, ejecutivos=2 -> exec=1.0
-    check("Chile KAM reuniones_mensual", kam_chile["reuniones_mensual"], 2.0)
-    check("Chile KAM reuniones_exec", kam_chile["reuniones_exec"], 1.0)
-    # Beto (BDM, Chile) 1 en feb -> mensual=1.0, ejecutivos=1 -> exec=1.0
-    check("Chile BDM reuniones_mensual", bdm_chile["reuniones_mensual"], 1.0)
-    # sinid (KAM, Colombia, matcheado por email) 1 en enero -> mensual=1.0, ejecutivos=1 -> exec=1.0
-    check("Colombia KAM reuniones_mensual", kam_col["reuniones_mensual"], 1.0)
-    # Full Cycle Colombia (Cami) no tuvo reuniones en el sample -> 0
-    check("Colombia Full Cycle reuniones_mensual", fc_col["reuniones_mensual"], 0)
+    check("KAM/Chile usuarios_total", kam_chile["usuarios_total"], 150.0)
+    check("BDM/Chile usuarios_total", bdm_chile["usuarios_total"], 30.0)
 
-    check("Reuniones sin match", output["meta"]["reuniones_sin_match"], 1)  # r5
+    check("Tickets sin asignar (empresa 9 + empresa 99)", output["meta"]["tickets_sin_asignar"], 2)
+    check("Usuarios sin asignar (empresa 9)", output["meta"]["usuarios_sin_asignar"], 1)
+    check("Reuniones sin match (r5)", output["meta"]["reuniones_sin_match"], 1)
 
-    # Ecuador sin datos en ninguna sheet -> todo en 0, sin división por cero
-    check("Ecuador ejecutivos", ecuador_kam["ejecutivos"], 0)
-    check("Ecuador tickets_exec (0 exec, no debe reventar)", ecuador_kam["tickets_exec"], 0)
+    check("KAM/Chile reuniones_mensual", kam_chile["reuniones_mensual"], 2.0)
+    check("KAM/Chile reuniones_exec", kam_chile["reuniones_exec"], 2.0)
 
     check("Tabs presentes", sorted(output["tabs"].keys()), ["BDM", "Full Cycle", "KAM"])
     check("Month labels", output["month_labels"], ["Ene 26", "Feb 26"])
@@ -134,7 +132,6 @@ def main():
         sys.exit(1)
     else:
         print("TODOS LOS CHECKS PASARON ✔")
-        print(f"reuniones_sin_match = {output['meta']['reuniones_sin_match']}")
 
 
 if __name__ == "__main__":
