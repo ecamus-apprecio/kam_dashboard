@@ -1,0 +1,372 @@
+{
+  "generated_at": "2026-07-02T18:05:41.518215+00:00",
+  "month_labels": [
+    "Ene 26",
+    "Feb 26",
+    "Mar 26",
+    "Abr 26",
+    "May 26",
+    "Jun 26",
+    "Jul 26"
+  ],
+  "country_order": [
+    "Chile",
+    "Colombia",
+    "Ecuador",
+    "México",
+    "Perú"
+  ],
+  "tabs": {
+    "KAM": {
+      "countries": {
+        "Chile": {
+          "flag": "🇨🇱",
+          "ejecutivos": 0,
+          "tickets_mensual": 577.0,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            24,
+            22,
+            14,
+            46,
+            14,
+            22,
+            3
+          ],
+          "reuniones_mensual": 20.71,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 599,
+          "usuarios_total": 165508.0,
+          "usuarios_exec": 0
+        },
+        "Colombia": {
+          "flag": "🇨🇴",
+          "ejecutivos": 0,
+          "tickets_mensual": 406.92,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            77,
+            74,
+            75,
+            88,
+            69,
+            51,
+            10
+          ],
+          "reuniones_mensual": 63.43,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 503,
+          "usuarios_total": 99263.0,
+          "usuarios_exec": 0
+        },
+        "Ecuador": {
+          "flag": "🇪🇨",
+          "ejecutivos": 0,
+          "tickets_mensual": 11.0,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reuniones_mensual": 0,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 24,
+          "usuarios_total": 1210.0,
+          "usuarios_exec": 0
+        },
+        "México": {
+          "flag": "🇲🇽",
+          "ejecutivos": 0,
+          "tickets_mensual": 57.62,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reuniones_mensual": 0,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 149,
+          "usuarios_total": 17472.0,
+          "usuarios_exec": 0
+        },
+        "Perú": {
+          "flag": "🇵🇪",
+          "ejecutivos": 0,
+          "tickets_mensual": 206.54,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            7,
+            13,
+            10,
+            19,
+            14,
+            28,
+            0
+          ],
+          "reuniones_mensual": 15.17,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 192,
+          "usuarios_total": 38853.0,
+          "usuarios_exec": 0
+        }
+      },
+      "country_order": [
+        "Chile",
+        "Colombia",
+        "Ecuador",
+        "México",
+        "Perú"
+      ]
+    },
+    "BDM": {
+      "countries": {
+        "Chile": {
+          "flag": "🇨🇱",
+          "ejecutivos": 0,
+          "tickets_mensual": 577.0,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            38,
+            19,
+            1,
+            0,
+            2,
+            15,
+            3
+          ],
+          "reuniones_mensual": 13.0,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 599,
+          "usuarios_total": 165508.0,
+          "usuarios_exec": 0
+        },
+        "Colombia": {
+          "flag": "🇨🇴",
+          "ejecutivos": 0,
+          "tickets_mensual": 406.92,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            15,
+            5
+          ],
+          "reuniones_mensual": 5.5,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 503,
+          "usuarios_total": 99263.0,
+          "usuarios_exec": 0
+        },
+        "Ecuador": {
+          "flag": "🇪🇨",
+          "ejecutivos": 0,
+          "tickets_mensual": 11.0,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reuniones_mensual": 0,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 24,
+          "usuarios_total": 1210.0,
+          "usuarios_exec": 0
+        },
+        "México": {
+          "flag": "🇲🇽",
+          "ejecutivos": 0,
+          "tickets_mensual": 57.62,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reuniones_mensual": 0,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 149,
+          "usuarios_total": 17472.0,
+          "usuarios_exec": 0
+        },
+        "Perú": {
+          "flag": "🇵🇪",
+          "ejecutivos": 0,
+          "tickets_mensual": 206.54,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reuniones_mensual": 0,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 192,
+          "usuarios_total": 38853.0,
+          "usuarios_exec": 0
+        }
+      },
+      "country_order": [
+        "Chile",
+        "Colombia",
+        "Ecuador",
+        "México",
+        "Perú"
+      ]
+    },
+    "Full Cycle": {
+      "countries": {
+        "Chile": {
+          "flag": "🇨🇱",
+          "ejecutivos": 0,
+          "tickets_mensual": 577.0,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reuniones_mensual": 0,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 599,
+          "usuarios_total": 165508.0,
+          "usuarios_exec": 0
+        },
+        "Colombia": {
+          "flag": "🇨🇴",
+          "ejecutivos": 0,
+          "tickets_mensual": 406.92,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            0,
+            0,
+            0,
+            7,
+            12,
+            15,
+            1
+          ],
+          "reuniones_mensual": 8.75,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 503,
+          "usuarios_total": 99263.0,
+          "usuarios_exec": 0
+        },
+        "Ecuador": {
+          "flag": "🇪🇨",
+          "ejecutivos": 0,
+          "tickets_mensual": 11.0,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "reuniones_mensual": 0,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 24,
+          "usuarios_total": 1210.0,
+          "usuarios_exec": 0
+        },
+        "México": {
+          "flag": "🇲🇽",
+          "ejecutivos": 0,
+          "tickets_mensual": 57.62,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            13,
+            18,
+            12,
+            16,
+            26,
+            40,
+            1
+          ],
+          "reuniones_mensual": 18.0,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 149,
+          "usuarios_total": 17472.0,
+          "usuarios_exec": 0
+        },
+        "Perú": {
+          "flag": "🇵🇪",
+          "ejecutivos": 0,
+          "tickets_mensual": 206.54,
+          "tickets_exec": 0,
+          "reuniones_monthly": [
+            0,
+            0,
+            5,
+            7,
+            5,
+            12,
+            0
+          ],
+          "reuniones_mensual": 7.25,
+          "reuniones_exec": 0,
+          "clientes_exec": 0,
+          "total_clientes": 192,
+          "usuarios_total": 38853.0,
+          "usuarios_exec": 0
+        }
+      },
+      "country_order": [
+        "Chile",
+        "Colombia",
+        "Ecuador",
+        "México",
+        "Perú"
+      ]
+    }
+  },
+  "meta": {
+    "reuniones_sin_match": 159
+  }
+}
