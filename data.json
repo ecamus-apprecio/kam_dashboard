@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T18:05:41.518215+00:00",
+  "generated_at": "2026-07-02T19:06:49.756286+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,7 +22,7 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 0,
-          "tickets_mensual": 577.0,
+          "tickets_mensual": 577.08,
           "tickets_exec": 0,
           "reuniones_monthly": [
             24,
@@ -36,14 +36,14 @@
           "reuniones_mensual": 20.71,
           "reuniones_exec": 0,
           "clientes_exec": 0,
-          "total_clientes": 599,
+          "total_clientes": 600,
           "usuarios_total": 165508.0,
           "usuarios_exec": 0
         },
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 0,
-          "tickets_mensual": 406.92,
+          "tickets_mensual": 407.08,
           "tickets_exec": 0,
           "reuniones_monthly": [
             77,
@@ -138,7 +138,7 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 0,
-          "tickets_mensual": 577.0,
+          "tickets_mensual": 577.08,
           "tickets_exec": 0,
           "reuniones_monthly": [
             38,
@@ -152,14 +152,14 @@
           "reuniones_mensual": 13.0,
           "reuniones_exec": 0,
           "clientes_exec": 0,
-          "total_clientes": 599,
+          "total_clientes": 600,
           "usuarios_total": 165508.0,
           "usuarios_exec": 0
         },
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 0,
-          "tickets_mensual": 406.92,
+          "tickets_mensual": 407.08,
           "tickets_exec": 0,
           "reuniones_monthly": [
             1,
@@ -254,7 +254,7 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 0,
-          "tickets_mensual": 577.0,
+          "tickets_mensual": 577.08,
           "tickets_exec": 0,
           "reuniones_monthly": [
             0,
@@ -268,14 +268,14 @@
           "reuniones_mensual": 0,
           "reuniones_exec": 0,
           "clientes_exec": 0,
-          "total_clientes": 599,
+          "total_clientes": 600,
           "usuarios_total": 165508.0,
           "usuarios_exec": 0
         },
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 0,
-          "tickets_mensual": 406.92,
+          "tickets_mensual": 407.08,
           "tickets_exec": 0,
           "reuniones_monthly": [
             0,
