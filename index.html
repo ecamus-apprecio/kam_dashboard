@@ -5,26 +5,27 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>KAM Dashboard — Rendimiento por País</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="https://accounts.google.com/gsi/client" async defer></script>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f1f5f9; color: #0f172a; min-height: 100vh; }
-
 /* Header */
 .header { background: #ffffff; border-bottom: 1px solid #e2e8f0; padding: 18px 28px; display: flex; align-items: center; justify-content: space-between; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
 .header-left h1 { font-size: 20px; font-weight: 700; color: #0f172a; }
 .header-left p { font-size: 12px; color: #94a3b8; margin-top: 2px; }
-.header-right { display: flex; gap: 8px; }
+.header-right { display: flex; gap: 8px; align-items: center; }
 .metric-toggle { padding: 6px 14px; border-radius: 6px; border: 1px solid #cbd5e1; background: transparent; color: #64748b; cursor: pointer; font-size: 13px; font-weight: 500; transition: all 0.15s; }
 .metric-toggle.active { background: #2563eb; border-color: #2563eb; color: white; }
 .metric-toggle:hover:not(.active) { border-color: #2563eb; color: #2563eb; }
-
+.user-chip { display:flex; align-items:center; gap:8px; padding: 4px 10px 4px 4px; border-radius: 20px; background:#f1f5f9; margin-left: 8px; }
+.user-chip img { width:24px; height:24px; border-radius:50%; }
+.user-chip span { font-size:12px; color:#475569; font-weight:600; }
+.logout-btn { border:none; background:transparent; color:#94a3b8; font-size:11px; cursor:pointer; text-decoration:underline; margin-left:6px; }
 .main { padding: 24px 28px; max-width: 1440px; margin: 0 auto; }
-
 /* Country cards */
 .country-cards { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin-bottom: 24px; }
 @media (max-width: 1100px) { .country-cards { grid-template-columns: repeat(3, 1fr); } }
 @media (max-width: 700px) { .country-cards { grid-template-columns: 1fr 1fr; } }
-
 .country-card { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 16px; cursor: pointer; transition: all 0.2s; position: relative; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
 .country-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: var(--color); }
 .country-card:hover { border-color: var(--color); transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
@@ -34,7 +35,6 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .card-metric { margin-bottom: 6px; }
 .card-metric-label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.05em; color: #94a3b8; }
 .card-metric-value { font-size: 15px; font-weight: 700; color: var(--color); }
-
 /* Ranking table */
 .section-title { font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: #94a3b8; margin-bottom: 14px; }
 .ranking-card { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; overflow-x: auto; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
@@ -55,24 +55,14 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .trend-up { background: #dcfce7; color: #16a34a; }
 .trend-down { background: #fee2e2; color: #dc2626; }
 .trend-flat { background: #f1f5f9; color: #64748b; }
-
 /* Charts grid */
 .charts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
 @media (max-width: 900px) { .charts-grid { grid-template-columns: 1fr; } }
-
 .chart-card { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
 .chart-title { font-size: 13px; font-weight: 600; color: #475569; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
 .chart-subtitle { font-size: 11px; color: #94a3b8; margin-bottom: 16px; }
 .chart-container { position: relative; }
-
 .chart-full { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
-
-/* Country selector for trend charts */
-.country-pills { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
-.cpill { padding: 3px 10px; border-radius: 12px; border: 1px solid #cbd5e1; background: transparent; color: #64748b; cursor: pointer; font-size: 11px; transition: all 0.15s; }
-.cpill.on { color: white; }
-.cpill:hover { opacity: 0.85; }
-
 /* Score section */
 .score-section { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
 .score-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; flex-wrap: wrap; gap: 12px; }
@@ -96,66 +86,89 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .score-dim { display: flex; justify-content: space-between; align-items: center; font-size: 10px; color: #64748b; }
 .score-dim-bar { flex: 1; mx: 6px; height: 3px; background: #e2e8f0; border-radius: 2px; margin: 0 6px; }
 .score-dim-fill { height: 3px; border-radius: 2px; transition: width 0.3s; }
-
 /* Score radar */
 .score-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
 @media (max-width: 900px) { .score-grid { grid-template-columns: 1fr; } }
-
 /* Tab switcher */
-.tab-bar { background: #ffffff; border-bottom: 1px solid #e2e8f0; padding: 0 28px; display: flex; gap: 0; }
+.tab-bar { background: #ffffff; border-bottom: 1px solid #e2e8f0; padding: 0 28px; display: flex; gap: 0; align-items: center; }
 .tab-btn { padding: 14px 28px; font-size: 14px; font-weight: 600; border: none; background: transparent; cursor: pointer; color: #94a3b8; border-bottom: 3px solid transparent; margin-bottom: -1px; transition: all 0.15s; letter-spacing: 0.02em; }
 .tab-btn:hover { color: #475569; }
 .tab-btn.active { color: #2563eb; border-bottom-color: #2563eb; }
 .tab-badge { display: inline-block; font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 10px; margin-left: 6px; background: #f1f5f9; color: #64748b; vertical-align: middle; }
 .tab-btn.active .tab-badge { background: #dbeafe; color: #2563eb; }
-
+.tab-btn.admin-tab { margin-left: auto; color: #7c3aed; }
+.tab-btn.admin-tab.active { color: #7c3aed; border-bottom-color: #7c3aed; }
 /* Scrollbar */
 ::-webkit-scrollbar { width: 5px; height: 5px; }
 ::-webkit-scrollbar-track { background: #f1f5f9; }
 ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+/* Login overlay */
+.login-overlay { position: fixed; inset: 0; background: linear-gradient(135deg,#0f172a,#1e293b); display: flex; align-items: center; justify-content: center; z-index: 1000; }
+.login-box { background: #ffffff; border-radius: 16px; padding: 40px 36px; text-align: center; max-width: 380px; width: 90%; box-shadow: 0 20px 60px rgba(0,0,0,0.35); }
+.login-box h1 { font-size: 18px; margin-bottom: 6px; }
+.login-box p { font-size: 13px; color: #64748b; margin-bottom: 22px; }
+.login-btn-slot { display: flex; justify-content: center; margin-bottom: 12px; }
+.login-error { color: #dc2626; font-size: 13px; margin-top: 14px; background: #fee2e2; border-radius: 8px; padding: 10px 12px; }
+.login-loading { font-size: 13px; color: #94a3b8; }
+.hidden { display: none !important; }
+/* Admin panel */
+.admin-card { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+.admin-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 18px; }
+@media (max-width: 900px) { .admin-grid { grid-template-columns: 1fr; } }
+.admin-country-block { border: 1px solid #e2e8f0; border-radius: 10px; padding: 16px; }
+.admin-country-title { font-size: 13px; font-weight: 700; margin-bottom: 12px; display:flex; align-items:center; gap:8px; }
+.admin-role-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; gap: 10px; }
+.admin-role-row label { font-size: 12px; color: #64748b; }
+.admin-role-row input { width: 70px; padding: 6px 8px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px; text-align: center; }
+.admin-save-btn { margin-top: 20px; padding: 10px 22px; border: none; border-radius: 8px; background: #2563eb; color: white; font-weight: 600; font-size: 14px; cursor: pointer; }
+.admin-save-btn:disabled { background: #94a3b8; cursor: not-allowed; }
+.admin-status { margin-top: 12px; font-size: 13px; }
+.admin-status.ok { color: #16a34a; }
+.admin-status.err { color: #dc2626; }
 </style>
 </head>
 <body>
+
+<!-- Login gate -->
+<div class="login-overlay" id="loginOverlay">
+  <div class="login-box">
+    <h1>KAM Dashboard</h1>
+    <p>Ingresá con tu cuenta de Google @apprecio.com o @dcanje.com</p>
+    <div class="login-btn-slot" id="googleBtnSlot"></div>
+    <div class="login-loading" id="loginLoading">Cargando…</div>
+    <div class="login-error hidden" id="loginError"></div>
+  </div>
+</div>
+
+<div id="app" class="hidden">
 <div class="header">
   <div class="header-left">
     <h1>KAM Dashboard — Rendimiento por País</h1>
-    <p id="headerSubtitle">KAMs — Tickets · Reuniones · Clientes · Usuarios | Ene 2025 → Mar 2026</p>
+    <p id="headerSubtitle">Tickets · Reuniones · Clientes · Usuarios | <span id="rangeLabel"></span></p>
   </div>
   <div class="header-right">
     <button class="metric-toggle active" onclick="setMetric('tickets_exec')" id="btn-tickets_exec">Tickets/Exec</button>
     <button class="metric-toggle" onclick="setMetric('reuniones_exec')" id="btn-reuniones_exec">Reuniones/Exec</button>
     <button class="metric-toggle" onclick="setMetric('clientes_exec')" id="btn-clientes_exec">Clientes/Exec</button>
     <button class="metric-toggle" onclick="setMetric('usuarios_exec')" id="btn-usuarios_exec">Usuarios/Exec</button>
-
+    <div class="user-chip" id="userChip"></div>
   </div>
 </div>
-
-<div class="tab-bar">
-  <button class="tab-btn active" id="tab-KAM" onclick="setTab('KAM')">
-    KAMs <span class="tab-badge" id="badge-KAM">—</span>
-  </button>
-  <button class="tab-btn" id="tab-BDM" onclick="setTab('BDM')">
-    BDMs <span class="tab-badge" id="badge-BDM">—</span>
-  </button>
-</div>
-
-<div class="main">
+<div class="tab-bar" id="tabBar"></div>
+<div class="main" id="mainView">
   <!-- Country Cards -->
   <div class="country-cards" id="countryCards"></div>
-
   <!-- Ranking Table -->
   <div class="ranking-card">
-    <div class="section-title">Ranking de Carga Operativa por Ejecutivo</div>
+    <div class="section-title" id="rankTitle">Ranking de Carga Operativa por Ejecutivo</div>
     <table class="rank-table" id="rankTable"></table>
   </div>
-
   <!-- Clients Section -->
   <div class="chart-full" style="margin-bottom:20px">
     <div class="chart-title">Cartera de Clientes por Ejecutivo</div>
-    <div class="chart-subtitle">Promedio de clientes asignados por ejecutivo KAM</div>
+    <div class="chart-subtitle">Promedio de clientes asignados por ejecutivo</div>
     <div class="chart-container" style="height:220px"><canvas id="clientesExecChart"></canvas></div>
   </div>
-
   <!-- Charts row -->
   <div class="charts-grid">
     <div class="chart-card">
@@ -169,7 +182,6 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
       <div class="chart-container" style="height:230px"><canvas id="reunionesChart"></canvas></div>
     </div>
   </div>
-
   <!-- Score Section -->
   <div class="score-section">
     <div class="score-header">
@@ -181,7 +193,6 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
     </div>
     <div class="score-bars" id="scoreBars"></div>
   </div>
-
   <!-- Score radar + scatter -->
   <div class="score-grid">
     <div class="chart-card">
@@ -197,7 +208,42 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
   </div>
 </div>
 
+<!-- Admin view -->
+<div class="main hidden" id="adminView">
+  <div class="admin-card">
+    <div class="section-title">Configuración de Ejecutivos por País</div>
+    <p style="font-size:13px;color:#64748b">
+      Define cuántos ejecutivos hay por país y rol. Este valor es el denominador de todas las métricas "/Exec".
+      Se guarda directo en la pestaña Config de la spreadsheet y se refleja en el dashboard en la próxima actualización automática (cada ~3 horas).
+    </p>
+    <div class="admin-grid" id="adminGrid"></div>
+    <button class="admin-save-btn" id="adminSaveBtn" onclick="onSaveAdminClick()">Guardar cambios</button>
+    <div class="admin-status" id="adminStatus"></div>
+  </div>
+</div>
+</div>
+
 <script>
+/* ===================== CONFIG ===================== */
+const GOOGLE_CLIENT_ID = "790006243316-umr4b2mhqj48vlai557l0h6n6hi3srt7.apps.googleusercontent.com";
+const ALLOWED_DOMAINS = ["apprecio.com", "dcanje.com"];
+const ADMIN_EMAIL = "ecamus@apprecio.com";
+const SPREADSHEET_ID = "19kyAlO7_3vF1BZnRDw0Yi5A0QN4w80akeHbXnUMXgKM";
+const SESSION_KEY = "kam_dashboard_session";
+const SESSION_TTL_MS = 12 * 60 * 60 * 1000; // 12 horas
+
+// Orden exacto de filas en la pestaña Config (C2:C16) — no cambiar el orden sin actualizar la sheet
+const CONFIG_ROWS = [
+  { pais: "Chile", rol: "KAM" }, { pais: "Chile", rol: "BDM" }, { pais: "Chile", rol: "Full Cycle" },
+  { pais: "Colombia", rol: "KAM" }, { pais: "Colombia", rol: "BDM" }, { pais: "Colombia", rol: "Full Cycle" },
+  { pais: "Ecuador", rol: "KAM" }, { pais: "Ecuador", rol: "BDM" }, { pais: "Ecuador", rol: "Full Cycle" },
+  { pais: "México", rol: "KAM" }, { pais: "México", rol: "BDM" }, { pais: "México", rol: "Full Cycle" },
+  { pais: "Perú", rol: "KAM" }, { pais: "Perú", rol: "BDM" }, { pais: "Perú", rol: "Full Cycle" },
+];
+
+const TAB_ORDER = ["KAM", "BDM", "Full Cycle"];
+const TAB_LABELS = { "KAM": "KAMs", "BDM": "BDMs", "Full Cycle": "Full Cycle" };
+
 const COLORS = {
   "Chile":    "#3b82f6",
   "Colombia": "#f59e0b",
@@ -208,87 +254,165 @@ const COLORS = {
 const gridColor = "rgba(0,0,0,0.06)";
 const tickColor = "#94a3b8";
 
-let fullData = null;   // full API response with both tabs
-let data = null;       // current tab: {countries, country_order, month_labels}
+let fullData = null;
+let data = null;
 let currentTab = "KAM";
+let currentView = "data"; // 'data' | 'admin'
 let activeMetric = "tickets_exec";
 let charts = {};
+let currentUser = null; // { email, name, picture }
+let isAdmin = false;
 
-// Score weights (must sum to 100) — focused on carga operativa
 const WEIGHTS = [
-  { key: "tickets_exec",   label: "Tickets/Exec/Mes",  color: "#d97706", pct: 35, norm: "linear" },
-  { key: "clientes_exec",  label: "Clientes/Exec",     color: "#0891b2", pct: 25, norm: "linear" },
-  { key: "usuarios_exec",  label: "Usuarios/Exec",     color: "#16a34a", pct: 20, norm: "linear" },
-  { key: "reuniones_exec", label: "Reun./Exec/Mes",    color: "#7c3aed", pct: 20, norm: "linear" },
+  { key: "tickets_exec",   label: "Tickets/Exec/Mes",  color: "#d97706", pct: 35 },
+  { key: "clientes_exec",  label: "Clientes/Exec",     color: "#0891b2", pct: 25 },
+  { key: "usuarios_exec",  label: "Usuarios/Exec",     color: "#16a34a", pct: 20 },
+  { key: "reuniones_exec", label: "Reun./Exec/Mes",    color: "#7c3aed", pct: 20 },
 ];
 
-function calcScores() {
-  if (!data) return {};
-  const countries = data.country_order;
-  const normalized = {};
-
-  WEIGHTS.forEach(w => {
-    // Always use log normalization — compresses extreme outliers
-    const vals = countries.map(c => Math.max(0, data.countries[c][w.key] || 0));
-    const transformed = vals.map(v => Math.log1p(v));
-    const tMax = Math.max(...transformed);
-    const tMin = Math.min(...transformed);
-    const range = tMax - tMin || 1;
-
-    countries.forEach((c, i) => {
-      if (!normalized[c]) normalized[c] = {};
-      // Map to 10–90 so no dimension is ever exactly 0 or 100
-      normalized[c][w.key] = 10 + ((transformed[i] - tMin) / range) * 80;
-    });
-  });
-
-  const scores = {};
-  const totalW = WEIGHTS.reduce((s, w) => s + w.pct, 0) || 1;
-  countries.forEach(c => {
-    scores[c] = WEIGHTS.reduce((s, w) => s + normalized[c][w.key] * (w.pct / totalW), 0);
-  });
-  return { scores, normalized };
+/* ===================== AUTH ===================== */
+function decodeJwt(token) {
+  const base64Url = token.split(".")[1];
+  const base64 = base64Url.replace(/-/g, "+").replace(/_/g, "/");
+  const jsonPayload = decodeURIComponent(
+    atob(base64).split("").map(c => "%" + c.charCodeAt(0).toString(16).padStart(2, "0")).join("")
+  );
+  return JSON.parse(jsonPayload);
 }
 
-function fmtUSD(n) {
-  if (n >= 1000000) return "$" + (n/1000000).toFixed(2) + "M";
-  if (n >= 1000) return "$" + (n/1000).toFixed(1) + "K";
-  return "$" + Math.round(n).toLocaleString("es-CL");
+function isAllowedDomain(email) {
+  const domain = (email || "").split("@")[1] || "";
+  return ALLOWED_DOMAINS.includes(domain.toLowerCase());
 }
-function fmtN(n) { return Math.round(n).toLocaleString("es-CL"); }
 
+function onCredentialResponse(response) {
+  const payload = decodeJwt(response.credential);
+  const email = (payload.email || "").toLowerCase();
+  if (!isAllowedDomain(email)) {
+    showLoginError("Acceso restringido a cuentas @apprecio.com o @dcanje.com");
+    return;
+  }
+  const session = { email, name: payload.name, picture: payload.picture, ts: Date.now() };
+  localStorage.setItem(SESSION_KEY, JSON.stringify(session));
+  applySession(session);
+}
+
+function showLoginError(msg) {
+  const el = document.getElementById("loginError");
+  el.textContent = msg;
+  el.classList.remove("hidden");
+}
+
+function applySession(session) {
+  currentUser = session;
+  isAdmin = session.email === ADMIN_EMAIL;
+  document.getElementById("loginOverlay").classList.add("hidden");
+  document.getElementById("app").classList.remove("hidden");
+  renderUserChip();
+  boot();
+}
+
+function renderUserChip() {
+  const el = document.getElementById("userChip");
+  el.innerHTML = `
+    ${currentUser.picture ? `<img src="${currentUser.picture}" alt="">` : ""}
+    <span>${currentUser.name || currentUser.email}${isAdmin ? " · Admin" : ""}</span>
+    <button class="logout-btn" onclick="logout()">Salir</button>
+  `;
+}
+
+function logout() {
+  localStorage.removeItem(SESSION_KEY);
+  location.reload();
+}
+
+function tryRestoreSession() {
+  const raw = localStorage.getItem(SESSION_KEY);
+  if (!raw) return false;
+  try {
+    const session = JSON.parse(raw);
+    if (Date.now() - session.ts > SESSION_TTL_MS) return false;
+    if (!isAllowedDomain(session.email)) return false;
+    applySession(session);
+    return true;
+  } catch (e) {
+    return false;
+  }
+}
+
+window.onload = function () {
+  if (tryRestoreSession()) return;
+  document.getElementById("loginLoading").classList.add("hidden");
+  google.accounts.id.initialize({
+    client_id: GOOGLE_CLIENT_ID,
+    callback: onCredentialResponse,
+  });
+  google.accounts.id.renderButton(document.getElementById("googleBtnSlot"), {
+    theme: "outline", size: "large", width: 260,
+  });
+};
+
+/* ===================== DATA LOADING ===================== */
 async function loadData() {
-  fullData = {"tabs": {"KAM": {"countries": {"Chile": {"flag": "🇨🇱", "ejecutivos": 5, "tickets_mensual": 729.1666666666666, "tickets_exec": 145.83333333333331, "reuniones_monthly": [0, 0, 0, 37, 32, 41, 39, 44, 31, 32, 27, 20, 34, 26, 15], "reuniones_mensual": 31.5, "reuniones_exec": 6.3, "clientes_exec": 128.4, "total_clientes": 642, "usuarios_total": 156583.0, "usuarios_exec": 31316.6}, "Colombia": {"flag": "🇨🇴", "ejecutivos": 7, "tickets_mensual": 409.9166666666667, "tickets_exec": 58.55952380952381, "reuniones_monthly": [0, 0, 0, 64, 62, 68, 70, 63, 65, 103, 54, 117, 116, 90, 72], "reuniones_mensual": 78.66666666666667, "reuniones_exec": 11.238095238095239, "clientes_exec": 69.42857142857143, "total_clientes": 486, "usuarios_total": 91346.0, "usuarios_exec": 13049.42857142857}, "Ecuador": {"flag": "🇪🇨", "ejecutivos": 5, "tickets_mensual": 10.583333333333334, "tickets_exec": 2.1166666666666667, "reuniones_monthly": [0, 0, 0, 3, 1, 5, 2, 4, 1, 0, 1, 1, 1, 0, 0], "reuniones_mensual": 2.111111111111111, "reuniones_exec": 0.4222222222222222, "clientes_exec": 5.4, "total_clientes": 27, "usuarios_total": 1195.0, "usuarios_exec": 239.0}, "México": {"flag": "🇲🇽", "ejecutivos": 2, "tickets_mensual": 56.583333333333336, "tickets_exec": 28.291666666666668, "reuniones_monthly": [0, 0, 0, 21, 31, 21, 44, 34, 41, 67, 29, 33, 29, 48, 18], "reuniones_mensual": 34.666666666666664, "reuniones_exec": 17.333333333333332, "clientes_exec": 71.5, "total_clientes": 143, "usuarios_total": 15498.0, "usuarios_exec": 7749.0}, "Perú": {"flag": "🇵🇪", "ejecutivos": 4, "tickets_mensual": 229.66666666666666, "tickets_exec": 57.416666666666664, "reuniones_monthly": [0, 0, 0, 24, 13, 19, 6, 7, 16, 13, 6, 4, 10, 17, 10], "reuniones_mensual": 12.083333333333334, "reuniones_exec": 3.0208333333333335, "clientes_exec": 55.75, "total_clientes": 223, "usuarios_total": 37165.0, "usuarios_exec": 9291.25}}, "country_order": ["Chile", "Colombia", "Ecuador", "México", "Perú"]}, "BDM": {"countries": {"Chile": {"flag": "🇨🇱", "ejecutivos": 1, "tickets_mensual": 2.111111111111111, "tickets_exec": 2.111111111111111, "reuniones_monthly": [0, 0, 0, 43, 32, 36, 42, 41, 37, 15, 10, 41, 36, 17, 14], "reuniones_mensual": 30.333333333333332, "reuniones_exec": 30.333333333333332, "clientes_exec": 10.0, "total_clientes": 10, "usuarios_total": 272.0, "usuarios_exec": 272.0}, "Colombia": {"flag": "🇨🇴", "ejecutivos": 1, "tickets_mensual": 1.4545454545454546, "tickets_exec": 1.4545454545454546, "reuniones_monthly": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 3, 2], "reuniones_mensual": 8.666666666666666, "reuniones_exec": 8.666666666666666, "clientes_exec": 4.0, "total_clientes": 4, "usuarios_total": 51.0, "usuarios_exec": 51.0}, "Ecuador": {"flag": "🇪🇨", "ejecutivos": 1, "tickets_mensual": 1.0, "tickets_exec": 1.0, "reuniones_monthly": [0, 0, 0, 4, 4, 5, 3, 1, 2, 0, 2, 3, 3, 1, 0], "reuniones_mensual": 2.8, "reuniones_exec": 2.8, "clientes_exec": 1.0, "total_clientes": 1, "usuarios_total": 21.0, "usuarios_exec": 21.0}, "México": {"flag": "🇲🇽", "ejecutivos": 1, "tickets_mensual": 4.0, "tickets_exec": 4.0, "reuniones_monthly": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 18, 2, 5], "reuniones_mensual": 9.5, "reuniones_exec": 9.5, "clientes_exec": 8.0, "total_clientes": 8, "usuarios_total": 53.0, "usuarios_exec": 53.0}, "Perú": {"flag": "🇵🇪", "ejecutivos": 1, "tickets_mensual": 2.0, "tickets_exec": 2.0, "reuniones_monthly": [0, 0, 0, 5, 6, 10, 10, 10, 6, 5, 5, 14, 9, 6, 1], "reuniones_mensual": 7.25, "reuniones_exec": 7.25, "clientes_exec": 2.0, "total_clientes": 2, "usuarios_total": 59.0, "usuarios_exec": 59.0}}, "country_order": ["Chile", "Colombia", "Ecuador", "México", "Perú"]}}, "month_labels": ["Ene 25", "Feb 25", "Mar 25", "Abr 25", "May 25", "Jun 25", "Jul 25", "Ago 25", "Sep 25", "Oct 25", "Nov 25", "Dic 25", "Ene 26", "Feb 26", "Mar 26"], "country_order": ["Chile", "Colombia", "Ecuador", "México", "Perú"]};
-  // Update tab badges with exec counts
-  ["KAM","BDM"].forEach(tab => {
-    const execSum = fullData.country_order.reduce((s, c) => s + (fullData.tabs[tab].countries[c].ejecutivos || 0), 0);
-    document.getElementById("badge-" + tab).textContent = execSum + " exec.";
+  const res = await fetch("data.json?_=" + Date.now());
+  fullData = await res.json();
+  const availableTabs = TAB_ORDER.filter(t => fullData.tabs[t]);
+  renderTabBar(availableTabs);
+  document.getElementById("rangeLabel").textContent =
+    fullData.month_labels && fullData.month_labels.length
+      ? `${fullData.month_labels[0]} → ${fullData.month_labels[fullData.month_labels.length - 1]}`
+      : "";
+  setTab(availableTabs[0] || "KAM");
+}
+
+function boot() {
+  loadData().catch(err => {
+    document.getElementById("mainView").innerHTML =
+      `<div style="padding:40px;text-align:center;color:#dc2626">No se pudo cargar data.json: ${err.message}</div>`;
   });
-  setTab("KAM");
+}
+
+/* ===================== TAB BAR ===================== */
+function renderTabBar(availableTabs) {
+  const el = document.getElementById("tabBar");
+  let html = availableTabs.map(t => {
+    const execSum = fullData.country_order.reduce((s, c) => s + (fullData.tabs[t].countries[c].ejecutivos || 0), 0);
+    return `<button class="tab-btn" id="tab-${t}" onclick="setTab('${t}')">${TAB_LABELS[t] || t} <span class="tab-badge" id="badge-${t}">${execSum} exec.</span></button>`;
+  }).join("");
+  if (isAdmin) {
+    html += `<button class="tab-btn admin-tab" id="tab-admin" onclick="setView('admin')">⚙ Admin</button>`;
+  }
+  el.innerHTML = html;
+}
+
+function setView(view) {
+  currentView = view;
+  document.getElementById("mainView").classList.toggle("hidden", view !== "data");
+  document.getElementById("adminView").classList.toggle("hidden", view !== "admin");
+  document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+  if (view === "admin") {
+    document.getElementById("tab-admin").classList.add("active");
+    renderAdminView();
+  } else {
+    const btn = document.getElementById("tab-" + currentTab);
+    if (btn) btn.classList.add("active");
+  }
 }
 
 function setTab(tab) {
   currentTab = tab;
   data = {
-    countries:     fullData.tabs[tab].countries,
+    countries: fullData.tabs[tab].countries,
     country_order: fullData.tabs[tab].country_order,
-    month_labels:  fullData.month_labels,
+    month_labels: fullData.month_labels,
   };
-  // Update tab buttons
+  setView("data");
   document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
-  document.getElementById("tab-" + tab).classList.add("active");
-  // Update header subtitle
-  const subtitleMap = {
-    KAM: "KAMs — Tickets · Reuniones · Clientes · Usuarios | Ene 2025 → Mar 2026",
-    BDM: "BDMs — Tickets · Reuniones · Clientes · Usuarios | Ene 2025 → Mar 2026",
-  };
-  document.getElementById("headerSubtitle").textContent = subtitleMap[tab];
-  // Update ranking title
-  const rankTitleMap = {
-    KAM: "Ranking de Carga Operativa por Ejecutivo — KAMs",
-    BDM: "Ranking de Carga Operativa por Ejecutivo — BDMs",
-  };
-  document.querySelector(".section-title").textContent = rankTitleMap[tab];
+  const btn = document.getElementById("tab-" + tab);
+  if (btn) btn.classList.add("active");
+  document.getElementById("headerSubtitle").innerHTML =
+    `${TAB_LABELS[tab] || tab} — Tickets · Reuniones · Clientes · Usuarios | <span>${fullData.month_labels[0] || ""} → ${fullData.month_labels[fullData.month_labels.length - 1] || ""}</span>`;
+  document.getElementById("rankTitle").textContent = `Ranking de Carga Operativa por Ejecutivo — ${TAB_LABELS[tab] || tab}`;
   render();
 }
 
@@ -300,6 +424,33 @@ function setMetric(m) {
   renderRanking();
 }
 
+/* ===================== SCORE CALC ===================== */
+function calcScores() {
+  if (!data) return { scores: {}, normalized: {} };
+  const countries = data.country_order;
+  const normalized = {};
+  WEIGHTS.forEach(w => {
+    const vals = countries.map(c => Math.max(0, data.countries[c][w.key] || 0));
+    const transformed = vals.map(v => Math.log1p(v));
+    const tMax = Math.max(...transformed);
+    const tMin = Math.min(...transformed);
+    const range = tMax - tMin || 1;
+    countries.forEach((c, i) => {
+      if (!normalized[c]) normalized[c] = {};
+      normalized[c][w.key] = 10 + ((transformed[i] - tMin) / range) * 80;
+    });
+  });
+  const scores = {};
+  const totalW = WEIGHTS.reduce((s, w) => s + w.pct, 0) || 1;
+  countries.forEach(c => {
+    scores[c] = WEIGHTS.reduce((s, w) => s + normalized[c][w.key] * (w.pct / totalW), 0);
+  });
+  return { scores, normalized };
+}
+
+function fmtN(n) { return Math.round(n).toLocaleString("es-CL"); }
+
+/* ===================== RENDER (vista datos) ===================== */
 function render() {
   renderCards();
   renderRanking();
@@ -313,7 +464,7 @@ function render() {
 }
 
 function metricInfo(country_data) {
-  switch(activeMetric) {
+  switch (activeMetric) {
     case "tickets_exec":   return { val: country_data.tickets_exec,       fmt: n => n.toFixed(1), label: "Tickets/Exec/Mes" };
     case "reuniones_exec": return { val: country_data.reuniones_exec,     fmt: n => n.toFixed(1), label: "Reun./Exec/Mes" };
     case "clientes_exec":  return { val: country_data.clientes_exec || 0, fmt: n => n.toFixed(1), label: "Clientes/Exec" };
@@ -325,13 +476,11 @@ function metricInfo(country_data) {
 function renderCards() {
   const order = data.country_order;
   const vals = order.map(c => metricInfo(data.countries[c]).val);
-  const maxVal = Math.max(...vals);
+  const maxVal = Math.max(...vals, 0.0001);
   const { scores } = calcScores();
-
   const html = order.map(c => {
     const cd = data.countries[c];
     const info = metricInfo(cd);
-    const pct = maxVal > 0 ? (info.val / maxVal * 100) : 0;
     const color = COLORS[c];
     const secMap = {
       "tickets_exec":   { label: "Tickets prom./mes",   value: fmtN(cd.tickets_mensual) },
@@ -340,11 +489,12 @@ function renderCards() {
       "usuarios_exec":  { label: "Usuarios totales",    value: cd.usuarios_total > 0 ? fmtN(cd.usuarios_total) : "—" },
     };
     const sec = secMap[activeMetric];
+    const score = scores[c] || 0;
     return `
     <div class="country-card" style="--color:${color}">
       <div class="card-flag">${cd.flag}</div>
       <div class="card-country">${c}</div>
-      <div class="card-execs">${cd.ejecutivos} ejecutivo${cd.ejecutivos>1?'s':''}</div>
+      <div class="card-execs">${cd.ejecutivos} ejecutivo${cd.ejecutivos != 1 ? 's' : ''}</div>
       <div class="card-metric">
         <div class="card-metric-label">${info.label}</div>
         <div class="card-metric-value" style="color:${color}">${info.fmt(info.val)}</div>
@@ -356,10 +506,10 @@ function renderCards() {
       <div style="margin-top:10px;border-top:1px solid #f1f5f9;padding-top:10px">
         <div class="card-metric-label">Score compuesto</div>
         <div style="display:flex;align-items:center;gap:8px;margin-top:4px">
-          <div style="font-size:22px;font-weight:800;color:${color}">${scores[c].toFixed(0)}</div>
+          <div style="font-size:22px;font-weight:800;color:${color}">${score.toFixed(0)}</div>
           <div style="flex:1">
             <div style="background:#f1f5f9;border-radius:3px;height:4px">
-              <div style="width:${scores[c].toFixed(0)}%;height:4px;border-radius:3px;background:${color}"></div>
+              <div style="width:${score.toFixed(0)}%;height:4px;border-radius:3px;background:${color}"></div>
             </div>
             <div style="font-size:9px;color:#94a3b8;margin-top:2px">/ 100</div>
           </div>
@@ -371,38 +521,27 @@ function renderCards() {
 }
 
 function renderRanking() {
-  const order = [...data.country_order].sort((a, b) => {
-    return metricInfo(data.countries[b]).val - metricInfo(data.countries[a]).val;
-  });
-  const info0 = metricInfo(data.countries[order[0]]);
-  const maxVal = info0.val;
-
+  const order = [...data.country_order].sort((a, b) => metricInfo(data.countries[b]).val - metricInfo(data.countries[a]).val);
   const metricCols = [
-    { key: "tickets_exec",   label: "Tickets/Exec/Mes", fmt: n => n.toFixed(1),  color: "#d97706" },
-    { key: "reuniones_exec", label: "Reun./Exec/Mes",   fmt: n => n.toFixed(1),  color: "#7c3aed" },
-    { key: "clientes_exec",  label: "Clientes/Exec",    fmt: n => n.toFixed(1),  color: "#0891b2" },
-    { key: "usuarios_exec",  label: "Usuarios/Exec",    fmt: n => fmtN(n),       color: "#16a34a" },
+    { key: "tickets_exec",   label: "Tickets/Exec/Mes", fmt: n => n.toFixed(1), color: "#d97706" },
+    { key: "reuniones_exec", label: "Reun./Exec/Mes",   fmt: n => n.toFixed(1), color: "#7c3aed" },
+    { key: "clientes_exec",  label: "Clientes/Exec",    fmt: n => n.toFixed(1), color: "#0891b2" },
+    { key: "usuarios_exec",  label: "Usuarios/Exec",    fmt: n => fmtN(n),      color: "#16a34a" },
   ];
-
   const { scores } = calcScores();
-  const maxScore = Math.max(...data.country_order.map(c => scores[c]));
-
   const thead = `<thead><tr>
-    <th>#</th><th>País</th>
-    <th>Score</th>
+    <th>#</th><th>País</th><th>Score</th>
     ${metricCols.map(mc => `<th>${mc.label}</th>`).join("")}
   </tr></thead>`;
-
   const tbody = order.map((c, i) => {
     const cd = data.countries[c];
-    const score = scores[c];
+    const score = scores[c] || 0;
     const cols = metricCols.map(mc => {
       const v = cd[mc.key] || 0;
       return `<td style="font-size:13px;font-weight:600;color:${mc.color}">${mc.fmt(v)}</td>`;
     }).join("");
-
     return `<tr>
-      <td class="rank-num" style="color:${COLORS[c]}">${i+1}</td>
+      <td class="rank-num" style="color:${COLORS[c]}">${i + 1}</td>
       <td>
         <div style="display:flex;align-items:center;gap:8px">
           <span class="rank-flag">${cd.flag}</span>
@@ -413,77 +552,41 @@ function renderRanking() {
       ${cols}
     </tr>`;
   }).join("");
-
   document.getElementById("rankTable").innerHTML = thead + `<tbody>${tbody}</tbody>`;
 }
 
 function renderUsuarios() {
-  const countries = [...data.country_order].sort((a, b) =>
-    (data.countries[b].usuarios_exec || 0) - (data.countries[a].usuarios_exec || 0)
-  );
+  const countries = [...data.country_order].sort((a, b) => (data.countries[b].usuarios_exec || 0) - (data.countries[a].usuarios_exec || 0));
   const vals = countries.map(c => data.countries[c].usuarios_exec || 0);
   const labels = countries.map(c => data.countries[c].flag + "  " + c);
-
   if (charts.usuariosExec) charts.usuariosExec.destroy();
   charts.usuariosExec = new Chart(document.getElementById("usuariosExecChart"), {
     type: "bar",
-    data: {
-      labels,
-      datasets: [{
-        label: "Usuarios / Ejecutivo",
-        data: vals,
-        backgroundColor: countries.map(c => COLORS[c] + "cc"),
-        borderColor: countries.map(c => COLORS[c]),
-        borderWidth: 1.5,
-        borderRadius: 5,
-      }]
-    },
+    data: { labels, datasets: [{ label: "Usuarios / Ejecutivo", data: vals, backgroundColor: countries.map(c => COLORS[c] + "cc"), borderColor: countries.map(c => COLORS[c]), borderWidth: 1.5, borderRadius: 5 }] },
     options: {
-      indexAxis: "y",
-      responsive: true, maintainAspectRatio: false,
+      indexAxis: "y", responsive: true, maintainAspectRatio: false,
       plugins: {
         legend: { display: false },
-        tooltip: {
-          callbacks: {
-            label: ctx => {
-              const c = countries[ctx.dataIndex];
-              const cd = data.countries[c];
-              return [
-                ` ${fmtN(ctx.raw)} usuarios/exec`,
-                ` Total: ${cd.usuarios_total > 0 ? fmtN(cd.usuarios_total) : "—"}`,
-                ` Ejecutivos: ${cd.ejecutivos}`,
-              ];
-            }
-          }
-        }
+        tooltip: { callbacks: { label: ctx => {
+          const c = countries[ctx.dataIndex]; const cd = data.countries[c];
+          return [` ${fmtN(ctx.raw)} usuarios/exec`, ` Total: ${cd.usuarios_total > 0 ? fmtN(cd.usuarios_total) : "—"}`, ` Ejecutivos: ${cd.ejecutivos}`];
+        }}}
       },
-      scales: {
-        x: { ticks: { color: tickColor, font: { size: 11 } }, grid: { color: gridColor } },
-        y: { ticks: { color: "#0f172a", font: { size: 12 } }, grid: { display: false } }
-      }
+      scales: { x: { ticks: { color: tickColor, font: { size: 11 } }, grid: { color: gridColor } }, y: { ticks: { color: "#0f172a", font: { size: 12 } }, grid: { display: false } } }
     }
   });
 }
 
 function renderReuniones() {
-  const datasets = data.country_order.map(c => ({
-    label: c,
-    data: data.countries[c].reuniones_monthly,
-    backgroundColor: COLORS[c] + "bb",
-    borderRadius: 3,
-  }));
+  const datasets = data.country_order.map(c => ({ label: c, data: data.countries[c].reuniones_monthly, backgroundColor: COLORS[c] + "bb", borderRadius: 3 }));
   if (charts.reuniones) charts.reuniones.destroy();
   charts.reuniones = new Chart(document.getElementById("reunionesChart"), {
     type: "bar",
     data: { labels: data.month_labels, datasets },
     options: {
-      responsive: true, maintainAspectRatio: false,
-      interaction: { mode: "index", intersect: false },
+      responsive: true, maintainAspectRatio: false, interaction: { mode: "index", intersect: false },
       plugins: { legend: { labels: { color: "#6b7280", font: { size: 11 }, boxWidth: 10 } } },
-      scales: {
-        x: { stacked: true, ticks: { color: tickColor, font: { size: 10 } }, grid: { color: gridColor } },
-        y: { stacked: true, ticks: { color: tickColor, font: { size: 10 } }, grid: { color: gridColor } }
-      }
+      scales: { x: { stacked: true, ticks: { color: tickColor, font: { size: 10 } }, grid: { color: gridColor } }, y: { stacked: true, ticks: { color: tickColor, font: { size: 10 } }, grid: { color: gridColor } } }
     }
   });
 }
@@ -491,25 +594,11 @@ function renderReuniones() {
 function renderScatter() {
   const allUsuarios = data.country_order.map(c => data.countries[c].usuarios_exec || 0);
   const maxUsuarios = Math.max(...allUsuarios) || 1;
-
   const scatterData = data.country_order.map(c => {
     const cd = data.countries[c];
-    return {
-      country: c,
-      x: cd.tickets_exec,
-      y: cd.reuniones_exec,
-      r: Math.max(8, Math.min(40, ((cd.usuarios_exec || 0) / maxUsuarios) * 40)),
-    };
+    return { country: c, x: cd.tickets_exec, y: cd.reuniones_exec, r: Math.max(8, Math.min(40, ((cd.usuarios_exec || 0) / maxUsuarios) * 40)) };
   });
-
-  const datasets = scatterData.map(pt => ({
-    label: pt.country,
-    data: [{ x: pt.x, y: pt.y, r: pt.r }],
-    backgroundColor: COLORS[pt.country] + "bb",
-    borderColor: COLORS[pt.country],
-    borderWidth: 2,
-  }));
-
+  const datasets = scatterData.map(pt => ({ label: pt.country, data: [{ x: pt.x, y: pt.y, r: pt.r }], backgroundColor: COLORS[pt.country] + "bb", borderColor: COLORS[pt.country], borderWidth: 2 }));
   if (charts.scatter) charts.scatter.destroy();
   charts.scatter = new Chart(document.getElementById("scatterChart"), {
     type: "bubble",
@@ -518,31 +607,14 @@ function renderScatter() {
       responsive: true, maintainAspectRatio: false,
       plugins: {
         legend: { labels: { color: "#6b7280", font: { size: 12 }, boxWidth: 12 } },
-        tooltip: {
-          callbacks: {
-            label: ctx => {
-              const c = ctx.dataset.label;
-              const cd = data.countries[c];
-              return [
-                ` ${cd.flag} ${c}`,
-                ` Tickets/Exec/Mes: ${cd.tickets_exec.toFixed(1)}`,
-                ` Reuniones/Exec/Mes: ${cd.reuniones_exec.toFixed(1)}`,
-                ` Usuarios/Exec: ${fmtN(cd.usuarios_exec || 0)}`,
-                ` Ejecutivos: ${cd.ejecutivos}`,
-              ];
-            }
-          }
-        }
+        tooltip: { callbacks: { label: ctx => {
+          const c = ctx.dataset.label; const cd = data.countries[c];
+          return [` ${cd.flag} ${c}`, ` Tickets/Exec/Mes: ${cd.tickets_exec.toFixed(1)}`, ` Reuniones/Exec/Mes: ${cd.reuniones_exec.toFixed(1)}`, ` Usuarios/Exec: ${fmtN(cd.usuarios_exec || 0)}`, ` Ejecutivos: ${cd.ejecutivos}`];
+        }}}
       },
       scales: {
-        x: {
-          title: { display: true, text: "Tickets / Ejecutivo / Mes", color: "#6b7280", font: { size: 11 } },
-          ticks: { color: tickColor }, grid: { color: gridColor }
-        },
-        y: {
-          title: { display: true, text: "Reuniones / Ejecutivo / Mes", color: "#6b7280", font: { size: 11 } },
-          ticks: { color: tickColor }, grid: { color: gridColor }
-        }
+        x: { title: { display: true, text: "Tickets / Ejecutivo / Mes", color: "#6b7280", font: { size: 11 } }, ticks: { color: tickColor }, grid: { color: gridColor } },
+        y: { title: { display: true, text: "Reuniones / Ejecutivo / Mes", color: "#6b7280", font: { size: 11 } }, ticks: { color: tickColor }, grid: { color: gridColor } }
       }
     }
   });
@@ -550,23 +622,17 @@ function renderScatter() {
 
 function renderWeightControls() {
   const el = document.getElementById("weightControls");
-  el.innerHTML = WEIGHTS.map((w, i) => {
-    return '<div class="weight-item">' +
-      '<div class="weight-label">' + w.label + '<span id="wval-' + i + '">' + w.pct + '%</span></div>' +
-      '<input type="range" class="weight-slider" min="0" max="100" value="' + w.pct + '" ' +
-        'style="accent-color:' + w.color + '" ' +
-        'oninput="onWeightChange(' + i + ', this.value)">' +
-    '</div>';
-  }).join("");
+  el.innerHTML = WEIGHTS.map((w, i) => `
+    <div class="weight-item">
+      <div class="weight-label">${w.label}<span id="wval-${i}">${w.pct}%</span></div>
+      <input type="range" class="weight-slider" min="0" max="100" value="${w.pct}" style="accent-color:${w.color}" oninput="onWeightChange(${i}, this.value)">
+    </div>`).join("");
 }
 
 function onWeightChange(idx, val) {
   WEIGHTS[idx].pct = parseInt(val);
   document.getElementById("wval-" + idx).textContent = val + "%";
-  renderScore();
-  renderRadar();
-  renderRanking();
-  renderCards();
+  renderScore(); renderRadar(); renderRanking(); renderCards();
 }
 
 function renderScore() {
@@ -574,25 +640,19 @@ function renderScore() {
   const order = [...data.country_order].sort((a, b) => scores[b] - scores[a]);
   const el = document.getElementById("scoreBars");
   el.innerHTML = order.map((c, rank) => {
-    const score = scores[c];
-    const cd = data.countries[c];
-    const color = COLORS[c];
+    const score = scores[c]; const cd = data.countries[c]; const color = COLORS[c];
     const dims = WEIGHTS.map(w => {
       const v = normalized[c][w.key];
-      return '<div class="score-dim">' +
-        '<span>' + w.label + '</span>' +
-        '<div class="score-dim-bar"><div class="score-dim-fill" style="width:' + v.toFixed(0) + '%;background:' + w.color + '"></div></div>' +
-        '<span style="color:' + w.color + ';font-weight:700">' + v.toFixed(0) + '</span>' +
-      '</div>';
+      return `<div class="score-dim"><span>${w.label}</span><div class="score-dim-bar"><div class="score-dim-fill" style="width:${v.toFixed(0)}%;background:${w.color}"></div></div><span style="color:${w.color};font-weight:700">${v.toFixed(0)}</span></div>`;
     }).join("");
-    return '<div class="score-bar-card" style="--color:' + color + ';--fill:' + score.toFixed(0) + '%">' +
-      '<div class="score-rank">#' + (rank+1) + '</div>' +
-      '<div class="score-flag">' + cd.flag + '</div>' +
-      '<div class="score-country">' + c + '</div>' +
-      '<div class="score-value" style="color:' + color + '">' + score.toFixed(0) + '</div>' +
-      '<div style="font-size:10px;color:#4b5563;margin-bottom:8px">/ 100</div>' +
-      '<div class="score-breakdown">' + dims + '</div>' +
-    '</div>';
+    return `<div class="score-bar-card" style="--color:${color};--fill:${score.toFixed(0)}%">
+      <div class="score-rank">#${rank + 1}</div>
+      <div class="score-flag">${cd.flag}</div>
+      <div class="score-country">${c}</div>
+      <div class="score-value" style="color:${color}">${score.toFixed(0)}</div>
+      <div style="font-size:10px;color:#4b5563;margin-bottom:8px">/ 100</div>
+      <div class="score-breakdown">${dims}</div>
+    </div>`;
   }).join("");
 }
 
@@ -600,13 +660,7 @@ function renderRadar() {
   const { normalized } = calcScores();
   const labels = WEIGHTS.map(w => w.label);
   const datasets = data.country_order.map(c => ({
-    label: c,
-    data: WEIGHTS.map(w => normalized[c][w.key]),
-    borderColor: COLORS[c],
-    backgroundColor: COLORS[c] + "22",
-    pointBackgroundColor: COLORS[c],
-    pointRadius: 3,
-    borderWidth: 2,
+    label: c, data: WEIGHTS.map(w => normalized[c][w.key]), borderColor: COLORS[c], backgroundColor: COLORS[c] + "22", pointBackgroundColor: COLORS[c], pointRadius: 3, borderWidth: 2,
   }));
   if (charts.radar) charts.radar.destroy();
   charts.radar = new Chart(document.getElementById("radarChart"), {
@@ -614,71 +668,102 @@ function renderRadar() {
     data: { labels, datasets },
     options: {
       responsive: true, maintainAspectRatio: false,
-      scales: {
-        r: {
-          min: 0, max: 100,
-          ticks: { color: "#94a3b8", font: { size: 9 }, stepSize: 25, backdropColor: "transparent" },
-          grid: { color: "rgba(0,0,0,0.07)" },
-          pointLabels: { color: "#475569", font: { size: 11 } },
-          angleLines: { color: "rgba(0,0,0,0.07)" },
-        }
-      },
-      plugins: {
-        legend: { labels: { color: "#475569", font: { size: 11 }, boxWidth: 10 } }
-      }
+      scales: { r: { min: 0, max: 100, ticks: { color: "#94a3b8", font: { size: 9 }, stepSize: 25, backdropColor: "transparent" }, grid: { color: "rgba(0,0,0,0.07)" }, pointLabels: { color: "#475569", font: { size: 11 } }, angleLines: { color: "rgba(0,0,0,0.07)" } } },
+      plugins: { legend: { labels: { color: "#475569", font: { size: 11 }, boxWidth: 10 } } }
     }
   });
 }
 
 function renderClientes() {
-  const countries = [...data.country_order].sort((a, b) =>
-    (data.countries[b].clientes_exec || 0) - (data.countries[a].clientes_exec || 0)
-  );
+  const countries = [...data.country_order].sort((a, b) => (data.countries[b].clientes_exec || 0) - (data.countries[a].clientes_exec || 0));
   const vals = countries.map(c => data.countries[c].clientes_exec || 0);
   const labels = countries.map(c => data.countries[c].flag + "  " + c);
-
   if (charts.clientesExec) charts.clientesExec.destroy();
   charts.clientesExec = new Chart(document.getElementById("clientesExecChart"), {
     type: "bar",
-    data: {
-      labels,
-      datasets: [{
-        label: "Clientes / Ejecutivo",
-        data: vals,
-        backgroundColor: countries.map(c => COLORS[c] + "cc"),
-        borderColor: countries.map(c => COLORS[c]),
-        borderWidth: 1.5,
-        borderRadius: 5,
-      }]
-    },
+    data: { labels, datasets: [{ label: "Clientes / Ejecutivo", data: vals, backgroundColor: countries.map(c => COLORS[c] + "cc"), borderColor: countries.map(c => COLORS[c]), borderWidth: 1.5, borderRadius: 5 }] },
     options: {
-      indexAxis: "y",
-      responsive: true, maintainAspectRatio: false,
-      plugins: {
-        legend: { display: false },
-        tooltip: {
-          callbacks: {
-            label: ctx => {
-              const c = countries[ctx.dataIndex];
-              const cd = data.countries[c];
-              return [
-                ` ${ctx.raw.toFixed(1)} clientes/exec`,
-                ` Total: ${cd.total_clientes > 0 ? fmtN(cd.total_clientes) : "—"}`,
-                ` Ejecutivos: ${cd.ejecutivos}`,
-              ];
-            }
-          }
-        }
-      },
-      scales: {
-        x: { ticks: { color: tickColor, font: { size: 11 } }, grid: { color: gridColor } },
-        y: { ticks: { color: "#0f172a", font: { size: 12 } }, grid: { display: false } }
-      }
+      indexAxis: "y", responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false }, tooltip: { callbacks: { label: ctx => {
+        const c = countries[ctx.dataIndex]; const cd = data.countries[c];
+        return [` ${ctx.raw.toFixed(1)} clientes/exec`, ` Total: ${cd.total_clientes > 0 ? fmtN(cd.total_clientes) : "—"}`, ` Ejecutivos: ${cd.ejecutivos}`];
+      }}}},
+      scales: { x: { ticks: { color: tickColor, font: { size: 11 } }, grid: { color: gridColor } }, y: { ticks: { color: "#0f172a", font: { size: 12 } }, grid: { display: false } } }
     }
   });
 }
 
-loadData();
+/* ===================== ADMIN VIEW ===================== */
+function renderAdminView() {
+  const el = document.getElementById("adminGrid");
+  const countries = fullData.country_order;
+  el.innerHTML = countries.map(pais => {
+    const rows = ["KAM", "BDM", "Full Cycle"].map(rol => {
+      const tabData = fullData.tabs[rol];
+      const current = tabData ? (tabData.countries[pais].ejecutivos || 0) : 0;
+      return `<div class="admin-role-row">
+        <label>${rol}</label>
+        <input type="number" min="0" step="1" id="admin-${pais}-${rol}" value="${current}">
+      </div>`;
+    }).join("");
+    return `<div class="admin-country-block">
+      <div class="admin-country-title">${fullData.tabs.KAM ? fullData.tabs.KAM.countries[pais].flag : ""} ${pais}</div>
+      ${rows}
+    </div>`;
+  }).join("");
+  document.getElementById("adminStatus").textContent = "";
+}
+
+function onSaveAdminClick() {
+  const btn = document.getElementById("adminSaveBtn");
+  btn.disabled = true;
+  const statusEl = document.getElementById("adminStatus");
+  statusEl.className = "admin-status";
+  statusEl.textContent = "Solicitando autorización de Google…";
+
+  const tokenClient = google.accounts.oauth2.initTokenClient({
+    client_id: GOOGLE_CLIENT_ID,
+    scope: "https://www.googleapis.com/auth/spreadsheets",
+    callback: (tokenResponse) => {
+      if (tokenResponse.error) {
+        statusEl.className = "admin-status err";
+        statusEl.textContent = "No se pudo autorizar: " + tokenResponse.error;
+        btn.disabled = false;
+        return;
+      }
+      saveConfigToSheet(tokenResponse.access_token, statusEl, btn);
+    },
+  });
+  tokenClient.requestAccessToken({ hint: currentUser.email });
+}
+
+async function saveConfigToSheet(accessToken, statusEl, btn) {
+  statusEl.textContent = "Guardando en la spreadsheet…";
+  const values = CONFIG_ROWS.map(({ pais, rol }) => {
+    const input = document.getElementById(`admin-${pais}-${rol}`);
+    const n = parseInt(input.value, 10);
+    return [isNaN(n) ? 0 : n];
+  });
+  try {
+    const url = `https://sheets.googleapis.com/v4/spreadsheets/${SPREADSHEET_ID}/values/Config!C2:C16?valueInputOption=RAW`;
+    const res = await fetch(url, {
+      method: "PUT",
+      headers: { "Authorization": `Bearer ${accessToken}`, "Content-Type": "application/json" },
+      body: JSON.stringify({ values }),
+    });
+    if (!res.ok) {
+      const errBody = await res.text();
+      throw new Error(`${res.status} ${errBody}`);
+    }
+    statusEl.className = "admin-status ok";
+    statusEl.textContent = "Guardado. Los cambios se reflejarán en el dashboard en la próxima actualización automática (cada ~3 horas).";
+  } catch (err) {
+    statusEl.className = "admin-status err";
+    statusEl.textContent = "Error al guardar: " + err.message;
+  } finally {
+    btn.disabled = false;
+  }
+}
 </script>
 </body>
 </html>
