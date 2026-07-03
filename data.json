@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T16:18:19.436236+00:00",
+  "generated_at": "2026-07-03T18:59:22.110838+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 297.85,
-          "tickets_exec": 59.57,
+          "tickets_mensual": 297.92,
+          "tickets_exec": 59.58,
           "reuniones_monthly": [
             24,
             22,
@@ -43,8 +43,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 240.23,
-          "tickets_exec": 48.05,
+          "tickets_mensual": 240.31,
+          "tickets_exec": 48.06,
           "reuniones_monthly": [
             77,
             74,
@@ -106,8 +106,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 68.0,
-          "tickets_exec": 34.0,
+          "tickets_mensual": 68.31,
+          "tickets_exec": 34.16,
           "reuniones_monthly": [
             7,
             13,
@@ -147,10 +147,10 @@
             0,
             2,
             15,
-            4
+            7
           ],
-          "reuniones_mensual": 13.17,
-          "reuniones_exec": 13.17,
+          "reuniones_mensual": 13.67,
+          "reuniones_exec": 13.67,
           "clientes_exec": 33.0,
           "total_clientes": 33,
           "usuarios_total": 1125.0,
@@ -168,10 +168,10 @@
             0,
             0,
             15,
-            6
+            7
           ],
-          "reuniones_mensual": 5.75,
-          "reuniones_exec": 5.75,
+          "reuniones_mensual": 6.0,
+          "reuniones_exec": 6.0,
           "clientes_exec": 8.0,
           "total_clientes": 8,
           "usuarios_total": 151.0,
@@ -284,10 +284,10 @@
             7,
             12,
             15,
-            2
+            3
           ],
-          "reuniones_mensual": 9.0,
-          "reuniones_exec": 9.0,
+          "reuniones_mensual": 9.25,
+          "reuniones_exec": 9.25,
           "clientes_exec": 166.0,
           "total_clientes": 166,
           "usuarios_total": 29897.0,
@@ -326,10 +326,10 @@
             16,
             26,
             40,
-            1
+            3
           ],
-          "reuniones_mensual": 18.0,
-          "reuniones_exec": 9.0,
+          "reuniones_mensual": 18.29,
+          "reuniones_exec": 9.14,
           "clientes_exec": 65.5,
           "total_clientes": 131,
           "usuarios_total": 16508.0,
@@ -338,8 +338,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 1,
-          "tickets_mensual": 115.46,
-          "tickets_exec": 115.46,
+          "tickets_mensual": 115.85,
+          "tickets_exec": 115.85,
           "reuniones_monthly": [
             0,
             0,
@@ -368,7 +368,7 @@
   },
   "meta": {
     "reuniones_sin_match": 159,
-    "tickets_sin_asignar": 1910,
+    "tickets_sin_asignar": 1911,
     "usuarios_sin_asignar": 224
   }
 }
