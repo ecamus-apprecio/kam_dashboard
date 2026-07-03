@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T01:48:30.229449+00:00",
+  "generated_at": "2026-07-03T06:20:18.901372+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -43,8 +43,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 240.0,
-          "tickets_exec": 48.0,
+          "tickets_mensual": 240.08,
+          "tickets_exec": 48.02,
           "reuniones_monthly": [
             77,
             74,
