@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T11:24:22.912607+00:00",
+  "generated_at": "2026-07-03T13:31:02.591276+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -31,10 +31,10 @@
             46,
             14,
             22,
-            3
+            4
           ],
-          "reuniones_mensual": 20.71,
-          "reuniones_exec": 4.14,
+          "reuniones_mensual": 20.86,
+          "reuniones_exec": 4.17,
           "clientes_exec": 75.8,
           "total_clientes": 379,
           "usuarios_total": 90813.0,
