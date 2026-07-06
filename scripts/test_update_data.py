@@ -80,7 +80,7 @@ def main():
     ]
     reuniones_records, reuniones_hidx = records(reuniones_h, reuniones_rows)
 
-    output = build_dashboard_data(
+    output, unmatched_report = build_dashboard_data(
         tickets_records, tickets_hidx,
         usuarios_records, usuarios_hidx,
         reuniones_records, reuniones_hidx,
@@ -118,6 +118,20 @@ def main():
     check("Tickets sin asignar (empresa 9 + empresa 99)", output["meta"]["tickets_sin_asignar"], 2)
     check("Usuarios sin asignar (empresa 9)", output["meta"]["usuarios_sin_asignar"], 1)
     check("Reuniones sin match (r5)", output["meta"]["reuniones_sin_match"], 1)
+
+    # --- Reporte detallado de sin-asignar ---
+    tix_detalle = {d["empresa_id"]: d for d in unmatched_report["tickets_sin_asignar"]}
+    check("Detalle tickets: empresa 9 presente", "9" in tix_detalle, True)
+    check("Detalle tickets: motivo empresa 9", tix_detalle.get("9", {}).get("motivo"), "email_kam_no_esta_en_leyenda")
+    check("Detalle tickets: empresa 99 presente", "99" in tix_detalle, True)
+    check("Detalle tickets: motivo empresa 99", tix_detalle.get("99", {}).get("motivo"), "empresa_no_esta_en_hoja_empresas")
+
+    usr_detalle = {d["empresa_id"]: d for d in unmatched_report["usuarios_sin_asignar"]}
+    check("Detalle usuarios: empresa 9 presente", "9" in usr_detalle, True)
+    check("Detalle usuarios: usuarios_incentivados empresa 9", usr_detalle.get("9", {}).get("usuarios_incentivados"), 20.0)
+
+    reu_keys = [(d["kam_id"], d["seller_email"]) for d in unmatched_report["reuniones_sin_match"]]
+    check("Detalle reuniones: fila r5 presente", ("#N/A", "desconocido@apprecio.com") in reu_keys, True)
 
     check("KAM/Chile reuniones_mensual", kam_chile["reuniones_mensual"], 2.0)
     check("KAM/Chile reuniones_exec", kam_chile["reuniones_exec"], 2.0)
