@@ -131,10 +131,6 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
     <p id="headerSubtitle">Tickets · Reuniones · Clientes · Usuarios | <span id="rangeLabel"></span></p>
   </div>
   <div class="header-right">
-    <button class="metric-toggle active" onclick="setMetric('tickets_exec')" id="btn-tickets_exec">Tickets/Exec</button>
-    <button class="metric-toggle" onclick="setMetric('reuniones_exec')" id="btn-reuniones_exec">Reuniones/Exec</button>
-    <button class="metric-toggle" onclick="setMetric('clientes_exec')" id="btn-clientes_exec">Clientes/Exec</button>
-    <button class="metric-toggle" onclick="setMetric('usuarios_exec')" id="btn-usuarios_exec">Usuarios/Exec</button>
     <div class="user-chip" id="userChip"></div>
   </div>
 </div>
@@ -216,7 +212,6 @@ const tickColor = "#94a3b8";
 let fullData = null;
 let data = null;
 let currentTab = "KAM";
-let activeMetric = "tickets_exec";
 let charts = {};
 let currentUser = null; // { email, name, picture }
 
@@ -339,9 +334,12 @@ function renderTabBar(availableTabs) {
 
 function setTab(tab) {
   currentTab = tab;
+  const countries = fullData.tabs[tab].countries;
+  // Solo mostramos países que tengan al menos 1 ejecutivo de este rol
+  const visibleCountries = fullData.tabs[tab].country_order.filter(c => (countries[c].ejecutivos || 0) > 0);
   data = {
-    countries: fullData.tabs[tab].countries,
-    country_order: fullData.tabs[tab].country_order,
+    countries: countries,
+    country_order: visibleCountries,
     month_labels: fullData.month_labels,
   };
   document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
@@ -351,14 +349,6 @@ function setTab(tab) {
     `${TAB_LABELS[tab] || tab} — Tickets · Reuniones · Clientes · Usuarios | <span>${fullData.month_labels[0] || ""} → ${fullData.month_labels[fullData.month_labels.length - 1] || ""}</span>`;
   document.getElementById("rankTitle").textContent = `Ranking de Carga Operativa por Ejecutivo — ${TAB_LABELS[tab] || tab}`;
   render();
-}
-
-function setMetric(m) {
-  activeMetric = m;
-  document.querySelectorAll(".metric-toggle").forEach(b => b.classList.remove("active"));
-  document.getElementById("btn-" + m).classList.add("active");
-  renderCards();
-  renderRanking();
 }
 
 /* ===================== SCORE CALC ===================== */
@@ -400,46 +390,29 @@ function render() {
   renderRadar();
 }
 
-function metricInfo(country_data) {
-  switch (activeMetric) {
-    case "tickets_exec":   return { val: country_data.tickets_exec,       fmt: n => n.toFixed(1), label: "Tickets/Exec/Mes" };
-    case "reuniones_exec": return { val: country_data.reuniones_exec,     fmt: n => n.toFixed(1), label: "Reun./Exec/Mes" };
-    case "clientes_exec":  return { val: country_data.clientes_exec || 0, fmt: n => n.toFixed(1), label: "Clientes/Exec" };
-    case "usuarios_exec":  return { val: country_data.usuarios_exec || 0, fmt: n => fmtN(n),       label: "Usuarios/Exec" };
-    default: return { val: 0, fmt: n => n.toFixed(1), label: "" };
-  }
-}
-
 function renderCards() {
-  const order = data.country_order;
-  const vals = order.map(c => metricInfo(data.countries[c]).val);
-  const maxVal = Math.max(...vals, 0.0001);
   const { scores } = calcScores();
+  const order = [...data.country_order].sort((a, b) => (scores[b] || 0) - (scores[a] || 0));
   const html = order.map(c => {
     const cd = data.countries[c];
-    const info = metricInfo(cd);
     const color = COLORS[c];
-    const secMap = {
-      "tickets_exec":   { label: "Tickets prom./mes",   value: fmtN(cd.tickets_mensual) },
-      "reuniones_exec": { label: "Reuniones prom./mes", value: cd.reuniones_mensual.toFixed(1) },
-      "clientes_exec":  { label: "Total clientes",      value: cd.total_clientes > 0 ? fmtN(cd.total_clientes) : "—" },
-      "usuarios_exec":  { label: "Usuarios totales",    value: cd.usuarios_total > 0 ? fmtN(cd.usuarios_total) : "—" },
-    };
-    const sec = secMap[activeMetric];
     const score = scores[c] || 0;
+    const stats = [
+      { label: "Tickets/Exec/Mes", value: cd.tickets_exec.toFixed(1) },
+      { label: "Reun./Exec/Mes",   value: cd.reuniones_exec.toFixed(1) },
+      { label: "Clientes/Exec",    value: cd.clientes_exec.toFixed(1) },
+      { label: "Usuarios/Exec",    value: fmtN(cd.usuarios_exec || 0) },
+    ];
     return `
     <div class="country-card" style="--color:${color}">
       <div class="card-flag">${cd.flag}</div>
       <div class="card-country">${c}</div>
       <div class="card-execs">${cd.ejecutivos} ejecutivo${cd.ejecutivos != 1 ? 's' : ''}</div>
+      ${stats.map(s => `
       <div class="card-metric">
-        <div class="card-metric-label">${info.label}</div>
-        <div class="card-metric-value" style="color:${color}">${info.fmt(info.val)}</div>
-      </div>
-      <div class="card-metric">
-        <div class="card-metric-label">${sec.label}</div>
-        <div class="card-metric-value" style="color:${color};font-size:13px">${sec.value}</div>
-      </div>
+        <div class="card-metric-label">${s.label}</div>
+        <div class="card-metric-value" style="color:${color};font-size:13px">${s.value}</div>
+      </div>`).join("")}
       <div style="margin-top:10px;border-top:1px solid #f1f5f9;padding-top:10px">
         <div class="card-metric-label">Score compuesto</div>
         <div style="display:flex;align-items:center;gap:8px;margin-top:4px">
@@ -458,14 +431,14 @@ function renderCards() {
 }
 
 function renderRanking() {
-  const order = [...data.country_order].sort((a, b) => metricInfo(data.countries[b]).val - metricInfo(data.countries[a]).val);
+  const { scores } = calcScores();
+  const order = [...data.country_order].sort((a, b) => (scores[b] || 0) - (scores[a] || 0));
   const metricCols = [
     { key: "tickets_exec",   label: "Tickets/Exec/Mes", fmt: n => n.toFixed(1), color: "#d97706" },
     { key: "reuniones_exec", label: "Reun./Exec/Mes",   fmt: n => n.toFixed(1), color: "#7c3aed" },
     { key: "clientes_exec",  label: "Clientes/Exec",    fmt: n => n.toFixed(1), color: "#0891b2" },
     { key: "usuarios_exec",  label: "Usuarios/Exec",    fmt: n => fmtN(n),      color: "#16a34a" },
   ];
-  const { scores } = calcScores();
   const thead = `<thead><tr>
     <th>#</th><th>País</th><th>Score</th>
     ${metricCols.map(mc => `<th>${mc.label}</th>`).join("")}
@@ -530,7 +503,7 @@ function renderReuniones() {
 
 function renderScatter() {
   const allUsuarios = data.country_order.map(c => data.countries[c].usuarios_exec || 0);
-  const maxUsuarios = Math.max(...allUsuarios) || 1;
+  const maxUsuarios = Math.max(...allUsuarios, 0) || 1;
   const scatterData = data.country_order.map(c => {
     const cd = data.countries[c];
     return { country: c, x: cd.tickets_exec, y: cd.reuniones_exec, r: Math.max(8, Math.min(40, ((cd.usuarios_exec || 0) / maxUsuarios) * 40)) };
