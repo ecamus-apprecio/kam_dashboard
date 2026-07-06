@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T14:15:32.185517+00:00",
+  "generated_at": "2026-07-06T17:33:29.717569+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "433",
@@ -371,6 +371,15 @@
       "count": 13
     },
     {
+      "empresa_id": "1329",
+      "nombre_empresa": "AUTODRAFT",
+      "rut": "77.177.341-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 13
+    },
+    {
       "empresa_id": "1474",
       "nombre_empresa": "LTC Gestión de Personas",
       "rut": "99.595.990-9",
@@ -404,15 +413,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "count": 12
-    },
-    {
-      "empresa_id": "1329",
-      "nombre_empresa": "AUTODRAFT",
-      "rut": "77.177.341-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "count": 12
     },
     {
