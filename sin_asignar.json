@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T19:35:39.706468+00:00",
+  "generated_at": "2026-07-06T22:05:38.804535+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "433",
@@ -425,18 +425,18 @@
       "count": 12
     },
     {
-      "empresa_id": "1478",
-      "nombre_empresa": "RCV SPA",
-      "rut": "77401785-2",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "count": 11
-    },
-    {
       "empresa_id": "1479",
       "nombre_empresa": "Belcorp Marketing",
       "rut": "96524830-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 12
+    },
+    {
+      "empresa_id": "1478",
+      "nombre_empresa": "RCV SPA",
+      "rut": "77401785-2",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
@@ -686,6 +686,24 @@
       "count": 7
     },
     {
+      "empresa_id": "750",
+      "nombre_empresa": "MEGALUX (CHILE) S.P.A.",
+      "rut": "762494485",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 6
+    },
+    {
+      "empresa_id": "1321",
+      "nombre_empresa": "Kavak",
+      "rut": "77.446.987-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 6
+    },
+    {
       "empresa_id": "1748",
       "nombre_empresa": "RICOH CHILE S.A",
       "rut": "96513980-k",
@@ -747,15 +765,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "count": 6
-    },
-    {
-      "empresa_id": "750",
-      "nombre_empresa": "MEGALUX (CHILE) S.P.A.",
-      "rut": "762494485",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "count": 5
     },
     {
       "empresa_id": "1327",
@@ -855,15 +864,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "count": 5
-    },
-    {
-      "empresa_id": "1321",
-      "nombre_empresa": "Kavak",
-      "rut": "77.446.987-7",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "count": 4
     },
     {
       "empresa_id": "1418",

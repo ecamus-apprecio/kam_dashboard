@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T19:35:39.706468+00:00",
+  "generated_at": "2026-07-06T22:05:38.804535+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 297.46,
-          "tickets_exec": 59.49,
+          "tickets_mensual": 297.85,
+          "tickets_exec": 59.57,
           "reuniones_monthly": [
             24,
             22,
@@ -43,8 +43,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 240.23,
-          "tickets_exec": 48.05,
+          "tickets_mensual": 240.31,
+          "tickets_exec": 48.06,
           "reuniones_monthly": [
             77,
             74,
@@ -147,10 +147,10 @@
             0,
             2,
             15,
-            8
+            9
           ],
-          "reuniones_mensual": 13.83,
-          "reuniones_exec": 13.83,
+          "reuniones_mensual": 14.0,
+          "reuniones_exec": 14.0,
           "clientes_exec": 33.0,
           "total_clientes": 33,
           "usuarios_total": 1127.0,
@@ -168,10 +168,10 @@
             0,
             0,
             15,
-            9
+            10
           ],
-          "reuniones_mensual": 6.5,
-          "reuniones_exec": 6.5,
+          "reuniones_mensual": 6.75,
+          "reuniones_exec": 6.75,
           "clientes_exec": 9.0,
           "total_clientes": 9,
           "usuarios_total": 232.0,
@@ -254,7 +254,7 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 0,
-          "tickets_mensual": 164.46,
+          "tickets_mensual": 164.54,
           "tickets_exec": 0,
           "reuniones_monthly": [
             0,
@@ -275,8 +275,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 1,
-          "tickets_mensual": 143.31,
-          "tickets_exec": 143.31,
+          "tickets_mensual": 143.38,
+          "tickets_exec": 143.38,
           "reuniones_monthly": [
             0,
             0,
@@ -368,7 +368,7 @@
   },
   "meta": {
     "reuniones_sin_match": 159,
-    "tickets_sin_asignar": 1908,
+    "tickets_sin_asignar": 1912,
     "usuarios_sin_asignar": 224
   }
 }
