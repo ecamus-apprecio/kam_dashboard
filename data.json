@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T12:34:45.780229+00:00",
+  "generated_at": "2026-07-06T14:15:32.185517+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 296.62,
-          "tickets_exec": 59.32,
+          "tickets_mensual": 297.23,
+          "tickets_exec": 59.45,
           "reuniones_monthly": [
             24,
             22,
@@ -43,8 +43,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 239.54,
-          "tickets_exec": 47.91,
+          "tickets_mensual": 239.92,
+          "tickets_exec": 47.98,
           "reuniones_monthly": [
             77,
             74,
@@ -138,8 +138,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 1,
-          "tickets_mensual": 10.54,
-          "tickets_exec": 10.54,
+          "tickets_mensual": 10.62,
+          "tickets_exec": 10.62,
           "reuniones_monthly": [
             38,
             19,
@@ -368,7 +368,7 @@
   },
   "meta": {
     "reuniones_sin_match": 159,
-    "tickets_sin_asignar": 1904,
+    "tickets_sin_asignar": 1906,
     "usuarios_sin_asignar": 224
   }
 }

@@ -1,0 +1,4103 @@
+{
+  "generated_at": "2026-07-06T14:15:32.185517+00:00",
+  "tickets_sin_asignar": [
+    {
+      "empresa_id": "433",
+      "nombre_empresa": "MAF",
+      "rut": "79678590K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 89
+    },
+    {
+      "empresa_id": "1372",
+      "nombre_empresa": "Grupo Progestion",
+      "rut": "76.909.880-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 77
+    },
+    {
+      "empresa_id": "1802",
+      "nombre_empresa": "TELEFONICA CHILE S.A.",
+      "rut": "90635000-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 74
+    },
+    {
+      "empresa_id": "336",
+      "nombre_empresa": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS S.A.C",
+      "rut": "20211614545",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 61
+    },
+    {
+      "empresa_id": "273",
+      "nombre_empresa": "Tanner",
+      "rut": "966675608",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 58
+    },
+    {
+      "empresa_id": "495",
+      "nombre_empresa": "Opinando Online",
+      "rut": "766186386",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 47
+    },
+    {
+      "empresa_id": "1319",
+      "nombre_empresa": "Atento Panel 2",
+      "rut": "96895220-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 45
+    },
+    {
+      "empresa_id": "229",
+      "nombre_empresa": "CREDIMINUTO",
+      "rut": "901308756",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 45
+    },
+    {
+      "empresa_id": "1243",
+      "nombre_empresa": "Sinergía Inmobiliaria",
+      "rut": "96787990-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 44
+    },
+    {
+      "empresa_id": "461",
+      "nombre_empresa": "Banco Falabella",
+      "rut": "965096604",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 38
+    },
+    {
+      "empresa_id": "686",
+      "nombre_empresa": "Versilia",
+      "rut": "20609117339",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 38
+    },
+    {
+      "empresa_id": "224",
+      "nombre_empresa": "APIECEOFPIECOLOMBIA",
+      "rut": "900691521",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 34
+    },
+    {
+      "empresa_id": "455",
+      "nombre_empresa": "SGS Del Peru SAC",
+      "rut": "20100114349",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 33
+    },
+    {
+      "empresa_id": "349",
+      "nombre_empresa": "Macc Corredora de Seguros SpA (Automovil Club)",
+      "rut": "764498771",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 30
+    },
+    {
+      "empresa_id": "1402",
+      "nombre_empresa": "EssilorLuxottica Chile",
+      "rut": "96.891.370-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "count": 29
+    },
+    {
+      "empresa_id": "350",
+      "nombre_empresa": "Cadem",
+      "rut": "96583240-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 27
+    },
+    {
+      "empresa_id": "232",
+      "nombre_empresa": "Salesland",
+      "rut": "20543323862",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 26
+    },
+    {
+      "empresa_id": "1324",
+      "nombre_empresa": "Midea Carrier",
+      "rut": "96.763.560-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 25
+    },
+    {
+      "empresa_id": "979",
+      "nombre_empresa": "Unidad Créditos",
+      "rut": "766975011",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 25
+    },
+    {
+      "empresa_id": "1255",
+      "nombre_empresa": "VTR Operaciones domicilio",
+      "rut": "761141430",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 22
+    },
+    {
+      "empresa_id": "223",
+      "nombre_empresa": "EASY SOLUTIONS SAS",
+      "rut": "830118355",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 21
+    },
+    {
+      "empresa_id": "662",
+      "nombre_empresa": "Migrante Sociedad Financiera",
+      "rut": "769338330",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 20
+    },
+    {
+      "empresa_id": "1417",
+      "nombre_empresa": "HORSE LOS ANDES",
+      "rut": "93367000-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 20
+    },
+    {
+      "empresa_id": "1399",
+      "nombre_empresa": "Polymershapes",
+      "rut": "96.823.070-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "count": 20
+    },
+    {
+      "empresa_id": "1140",
+      "nombre_empresa": "CHEIL CHILE",
+      "rut": "76485702-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 19
+    },
+    {
+      "empresa_id": "1754",
+      "nombre_empresa": "Americar",
+      "rut": "76414568-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 18
+    },
+    {
+      "empresa_id": "1423",
+      "nombre_empresa": "Automotora Arauco Ltda",
+      "rut": "89.460.500-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 18
+    },
+    {
+      "empresa_id": "15",
+      "nombre_empresa": "SIIGO",
+      "rut": "992560754001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "count": 17
+    },
+    {
+      "empresa_id": "379",
+      "nombre_empresa": "Zurich Santander Generales",
+      "rut": "76.590.840-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 16
+    },
+    {
+      "empresa_id": "1421",
+      "nombre_empresa": "Comercializadora de Vehiculos Motorizados Arauco",
+      "rut": "76.146.105-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 16
+    },
+    {
+      "empresa_id": "431",
+      "nombre_empresa": "Sindicato N° 2 Clínica Las Condes",
+      "rut": "71.951.400-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 16
+    },
+    {
+      "empresa_id": "248",
+      "nombre_empresa": "HHO CARBON CLEANER",
+      "rut": "76492561-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 16
+    },
+    {
+      "empresa_id": "533",
+      "nombre_empresa": "SYSTEMBASE TELECOMUNICACIONES E.I.R.L",
+      "rut": "20551526161",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 16
+    },
+    {
+      "empresa_id": "290",
+      "nombre_empresa": "Seguros Sura",
+      "rut": "99017000-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 15
+    },
+    {
+      "empresa_id": "1015",
+      "nombre_empresa": "Grupo Norte",
+      "rut": "76.737.740-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 15
+    },
+    {
+      "empresa_id": "744",
+      "nombre_empresa": "LAUREATE - CLUB CAMPEONES",
+      "rut": "20521386470",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 15
+    },
+    {
+      "empresa_id": "1361",
+      "nombre_empresa": "C'EST SI BON",
+      "rut": "76308072-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 14
+    },
+    {
+      "empresa_id": "1362",
+      "nombre_empresa": "TONY ROMAS 2",
+      "rut": "76565154-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 14
+    },
+    {
+      "empresa_id": "1360",
+      "nombre_empresa": "SABORES DEL MUNDO",
+      "rut": "77252682-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 14
+    },
+    {
+      "empresa_id": "333",
+      "nombre_empresa": "COVISIAN",
+      "rut": "20515056468",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 14
+    },
+    {
+      "empresa_id": "1447",
+      "nombre_empresa": "Defontana",
+      "rut": "76.389.469-k",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 13
+    },
+    {
+      "empresa_id": "1474",
+      "nombre_empresa": "LTC Gestión de Personas",
+      "rut": "99.595.990-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 13
+    },
+    {
+      "empresa_id": "1359",
+      "nombre_empresa": "TONY ROMAS",
+      "rut": "76.177.208-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "aavila@apprecio.com",
+      "count": 13
+    },
+    {
+      "empresa_id": "1126",
+      "nombre_empresa": "UNAB",
+      "rut": "71.540.100-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 13
+    },
+    {
+      "empresa_id": "378",
+      "nombre_empresa": "Zurich Santander Vida",
+      "rut": "968196308",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 12
+    },
+    {
+      "empresa_id": "1329",
+      "nombre_empresa": "AUTODRAFT",
+      "rut": "77.177.341-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 12
+    },
+    {
+      "empresa_id": "1338",
+      "nombre_empresa": "Goopcar",
+      "rut": "77.667.047-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "aavila@apprecio.com",
+      "count": 12
+    },
+    {
+      "empresa_id": "1478",
+      "nombre_empresa": "RCV SPA",
+      "rut": "77401785-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 11
+    },
+    {
+      "empresa_id": "1479",
+      "nombre_empresa": "Belcorp Marketing",
+      "rut": "96524830-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 11
+    },
+    {
+      "empresa_id": "518",
+      "nombre_empresa": "ASSURANT SERVICES PERU SAC",
+      "rut": "20425017781",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 11
+    },
+    {
+      "empresa_id": "235",
+      "nombre_empresa": "FACTORED",
+      "rut": "901317478",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 11
+    },
+    {
+      "empresa_id": "806",
+      "nombre_empresa": "ESSITY CHILE",
+      "rut": "942820003",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 10
+    },
+    {
+      "empresa_id": "1201",
+      "nombre_empresa": "INXAIT",
+      "rut": "76837207-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 10
+    },
+    {
+      "empresa_id": "1522",
+      "nombre_empresa": "HDI Banca Seguros",
+      "rut": "99.231.000-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "count": 10
+    },
+    {
+      "empresa_id": "550",
+      "nombre_empresa": "Alborada",
+      "rut": "769695818",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 10
+    },
+    {
+      "empresa_id": "1414",
+      "nombre_empresa": "Holdtech",
+      "rut": "76.650.100-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "aavila@apprecio.com",
+      "count": 10
+    },
+    {
+      "empresa_id": "981",
+      "nombre_empresa": "Sindicato TP",
+      "rut": "651874777",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 10
+    },
+    {
+      "empresa_id": "594",
+      "nombre_empresa": "Copec S.A.",
+      "rut": "995200007",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 10
+    },
+    {
+      "empresa_id": "1486",
+      "nombre_empresa": "SyP",
+      "rut": "77701107-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 10
+    },
+    {
+      "empresa_id": "210",
+      "nombre_empresa": "SITT Y CIA SAS",
+      "rut": "830110734",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 10
+    },
+    {
+      "empresa_id": "1424",
+      "nombre_empresa": "Vct Chile",
+      "rut": "85037900-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 9
+    },
+    {
+      "empresa_id": "650",
+      "nombre_empresa": "PATRICIO HIDALGO",
+      "rut": "804631003",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 9
+    },
+    {
+      "empresa_id": "895",
+      "nombre_empresa": "Suzuval",
+      "rut": "784195600",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 9
+    },
+    {
+      "empresa_id": "1493",
+      "nombre_empresa": "Conectados",
+      "rut": "76050902-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 9
+    },
+    {
+      "empresa_id": "1846",
+      "nombre_empresa": "VIVO TECH",
+      "rut": "55.555.555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 9
+    },
+    {
+      "empresa_id": "1057",
+      "nombre_empresa": "NEXOS SOFTWARE",
+      "rut": "8110237291",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 9
+    },
+    {
+      "empresa_id": "1202",
+      "nombre_empresa": "Stellantis Calidad",
+      "rut": "84687500K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 8
+    },
+    {
+      "empresa_id": "1465",
+      "nombre_empresa": "Coseche Ventas",
+      "rut": "91139000-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "count": 8
+    },
+    {
+      "empresa_id": "382",
+      "nombre_empresa": "Jas Transporte",
+      "rut": "78080110-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 8
+    },
+    {
+      "empresa_id": "590",
+      "nombre_empresa": "IACC",
+      "rut": "878452003",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 8
+    },
+    {
+      "empresa_id": "80",
+      "nombre_empresa": "Cementos Pacasmayo",
+      "rut": "20419387658",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 8
+    },
+    {
+      "empresa_id": "268",
+      "nombre_empresa": "BSALE PERÚ",
+      "rut": "20602556272",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 8
+    },
+    {
+      "empresa_id": "598",
+      "nombre_empresa": "Versilia Colombia",
+      "rut": "902018021",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 8
+    },
+    {
+      "empresa_id": "1128",
+      "nombre_empresa": "Automotriz Cumsille",
+      "rut": "88.427.300-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 7
+    },
+    {
+      "empresa_id": "1955",
+      "nombre_empresa": "TUAUTO SPA",
+      "rut": "76982452-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 7
+    },
+    {
+      "empresa_id": "938",
+      "nombre_empresa": "SALESLAND CHILE",
+      "rut": "5555",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 7
+    },
+    {
+      "empresa_id": "1748",
+      "nombre_empresa": "RICOH CHILE S.A",
+      "rut": "96513980-k",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 6
+    },
+    {
+      "empresa_id": "1357",
+      "nombre_empresa": "Grupo Bimbo",
+      "rut": "82.623.500-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 6
+    },
+    {
+      "empresa_id": "236",
+      "nombre_empresa": "Tata Consultancy RRHH",
+      "rut": "20535627101",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 6
+    },
+    {
+      "empresa_id": "457",
+      "nombre_empresa": "BLUEBOX",
+      "rut": "20601167132",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 6
+    },
+    {
+      "empresa_id": "329",
+      "nombre_empresa": "Peru ESL Services",
+      "rut": "20601116121",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 6
+    },
+    {
+      "empresa_id": "213",
+      "nombre_empresa": "MUNDO REPRESENTACIONES",
+      "rut": "20563302080",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 6
+    },
+    {
+      "empresa_id": "999",
+      "nombre_empresa": "Jikkosoft SAS",
+      "rut": "9007653786",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 6
+    },
+    {
+      "empresa_id": "750",
+      "nombre_empresa": "MEGALUX (CHILE) S.P.A.",
+      "rut": "762494485",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "1327",
+      "nombre_empresa": "Customer Care WOM",
+      "rut": "789216908",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "1323",
+      "nombre_empresa": "Globe Italia 3",
+      "rut": "78986740-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "473",
+      "nombre_empresa": "Marsol",
+      "rut": "914430003",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "1744",
+      "nombre_empresa": "COMERCIAL SEKIP KAYA LIMITADA",
+      "rut": "76630803-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "1504",
+      "nombre_empresa": "Track Link Chile",
+      "rut": "77379375-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "1382",
+      "nombre_empresa": "Los Mercaderes",
+      "rut": "77.613.110-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "1172",
+      "nombre_empresa": "Motorola",
+      "rut": "76096433-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "739",
+      "nombre_empresa": "ACTIVA RESEARCH",
+      "rut": "76069565-3",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "1052",
+      "nombre_empresa": "SOFTCARIBBEAN S.A.S",
+      "rut": "9002300040",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "1364",
+      "nombre_empresa": "CORPORACIÓN EDUCATIVA COLEGIO SAGRADO CORAZON MONT",
+      "rut": "8110027879",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 5
+    },
+    {
+      "empresa_id": "1321",
+      "nombre_empresa": "Kavak",
+      "rut": "77.446.987-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "1418",
+      "nombre_empresa": "Eddvantage SpA",
+      "rut": "76335806-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "456",
+      "nombre_empresa": "Valvoline",
+      "rut": "798941607",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "1118",
+      "nombre_empresa": "CrossLines",
+      "rut": "77.004.307-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "1407",
+      "nombre_empresa": "Disecom",
+      "rut": "96.546.050-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "1422",
+      "nombre_empresa": "Automotriz Covema SPA",
+      "rut": "76.379.738-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "1381",
+      "nombre_empresa": "Teknica",
+      "rut": "96.710.540-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "908",
+      "nombre_empresa": "PWC",
+      "rut": "815134001",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "1436",
+      "nombre_empresa": "Olx Contact Center",
+      "rut": "76.611.509-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "aavila@apprecio.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "1124",
+      "nombre_empresa": "Trendy",
+      "rut": "78.109.470-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "1889",
+      "nombre_empresa": "Ingeneria y Proyectos JR Telecomunicaciones Ltda",
+      "rut": "76061491-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "688",
+      "nombre_empresa": "GLOBALLOGIC PERU S.A.C.",
+      "rut": "20609422191",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "663",
+      "nombre_empresa": "EVALUAR.COM SAC",
+      "rut": "20549574247",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "587",
+      "nombre_empresa": "ZENTURY SECURITY",
+      "rut": "20605299866",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "758",
+      "nombre_empresa": "Medifarma  - Comercial",
+      "rut": "20100018625",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "855",
+      "nombre_empresa": "ZAZ CONDUCTORES E.I.R.L",
+      "rut": "20613920197",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "881",
+      "nombre_empresa": "TIME INKJET",
+      "rut": "20614676770",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "398",
+      "nombre_empresa": "PROYECTO E SAS",
+      "rut": "900110407",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "226",
+      "nombre_empresa": "Parques y Funerarias SAS",
+      "rut": "860015300",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "824",
+      "nombre_empresa": "beClassmates",
+      "rut": "764297687",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "1012",
+      "nombre_empresa": "LICAVIR SAS",
+      "rut": "8300722812",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "1343",
+      "nombre_empresa": "E-DENTAL COLOMBIA SAS",
+      "rut": "9010525270",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 4
+    },
+    {
+      "empresa_id": "1165",
+      "nombre_empresa": "Compunet Group",
+      "rut": "78466220-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "618",
+      "nombre_empresa": "Southbridge",
+      "rut": "992880007",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1746",
+      "nombre_empresa": "GARCIA MARCHANT Y COMPANIA LIMITADA",
+      "rut": "76560536-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1735",
+      "nombre_empresa": "LA LAUNA SPA",
+      "rut": "77561664-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1736",
+      "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
+      "rut": "77776240-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "929",
+      "nombre_empresa": "LA CATRINA",
+      "rut": "765687330",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1429",
+      "nombre_empresa": "GCOM Habitat",
+      "rut": "980001008",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1234",
+      "nombre_empresa": "T26",
+      "rut": "77.091.292-k",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "742",
+      "nombre_empresa": "Seidor Analytics",
+      "rut": "760366218",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1480",
+      "nombre_empresa": "CEVA Logistics",
+      "rut": "78.947.550-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1318",
+      "nombre_empresa": "Muruna",
+      "rut": "77704565-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1975",
+      "nombre_empresa": "Augustar Seguros de Vida",
+      "rut": "76632384-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "573",
+      "nombre_empresa": "GRUPO TVES",
+      "rut": "20.601.973.562",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "648",
+      "nombre_empresa": "KITCHEN CENTER",
+      "rut": "20516400472",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1056",
+      "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
+      "rut": "9003602789",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1153",
+      "nombre_empresa": "MUMU COLOMBIA SAS",
+      "rut": "9016576244",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1334",
+      "nombre_empresa": "NISUM COLOMBIA SAS",
+      "rut": "9015511261",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1444",
+      "nombre_empresa": "GRASASBIO SAS",
+      "rut": "9011100720",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "1452",
+      "nombre_empresa": "Bulkmatic de Colombia SAS",
+      "rut": "9009704395",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "234",
+      "nombre_empresa": "GRUPO MORSA",
+      "rut": "ECL1906253I5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 3
+    },
+    {
+      "empresa_id": "400",
+      "nombre_empresa": "Zenit Seguros Generales",
+      "rut": "760612235",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "303",
+      "nombre_empresa": "Cruz Verde",
+      "rut": "898072002",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "2002",
+      "nombre_empresa": "INMOBILIARIA BUSTAMANTE",
+      "rut": "76522417-9",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "count": 2
+    },
+    {
+      "empresa_id": "1730",
+      "nombre_empresa": "FOCHITEK",
+      "rut": "76210425-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1233",
+      "nombre_empresa": "Atento",
+      "rut": "96895220-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1203",
+      "nombre_empresa": "SEIDOR CHILE SA",
+      "rut": "96.986.170-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1458",
+      "nombre_empresa": "Farmacia la Botica Popular",
+      "rut": "77528008-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "435",
+      "nombre_empresa": "Farmex SPA",
+      "rut": "768317755",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1090",
+      "nombre_empresa": "Pie Vital",
+      "rut": "76.547.928-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1310",
+      "nombre_empresa": "MACC ASISTENCIA",
+      "rut": "772905246",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1713",
+      "nombre_empresa": "ODOOTECHNOLOGIES",
+      "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1238",
+      "nombre_empresa": "PRECISION",
+      "rut": "96.980.910-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1501",
+      "nombre_empresa": "DEMO SL",
+      "rut": "999999999",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1581",
+      "nombre_empresa": "FR Group Corredores de Seguros",
+      "rut": "79.619.240-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1956",
+      "nombre_empresa": "Casas Latam",
+      "rut": "78071599-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1954",
+      "nombre_empresa": "Sind. Komatsu Chile S.A Establecimi",
+      "rut": "65042972-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1940",
+      "nombre_empresa": "Americar - Denali",
+      "rut": "77461290-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "2005",
+      "nombre_empresa": "SOCIAS INMOBILIARIAS",
+      "rut": "78095861-8",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "count": 2
+    },
+    {
+      "empresa_id": "319",
+      "nombre_empresa": "CENTENARIO",
+      "rut": "",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "801",
+      "nombre_empresa": "TOULOUSE LAUTREC",
+      "rut": "20603817185",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "427",
+      "nombre_empresa": "Alianza Francesa de Trujillo",
+      "rut": "20175099931",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "347",
+      "nombre_empresa": "SERVICIOS INTEGRALES TOUCH COLOMBIA S.A.S.",
+      "rut": "901495015",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "430",
+      "nombre_empresa": "Grasas S.A.",
+      "rut": "8913005294",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1135",
+      "nombre_empresa": "ORIGAMI MERCADEO SOCIAL",
+      "rut": "9003202344",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1141",
+      "nombre_empresa": "EDUCA EDTECH COLOMBIA SAS",
+      "rut": "9016655540",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1307",
+      "nombre_empresa": "FUNDACION EDUCATIVA DE INGLATERRA",
+      "rut": "8600238148",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1453",
+      "nombre_empresa": "MAINSOFT CONSULTING SAS",
+      "rut": "9004878523",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1495",
+      "nombre_empresa": "CORPORACION INTERACTUAR",
+      "rut": "8909848433",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1500",
+      "nombre_empresa": "PARDENTALES LTDA",
+      "rut": "8000004391",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "1411",
+      "nombre_empresa": "ICONICO STUDIO SAS",
+      "rut": "9013626150",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "240",
+      "nombre_empresa": "Sobremesa",
+      "rut": "ESO200620S9A",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "230",
+      "nombre_empresa": "Creatblue",
+      "rut": "POM030403GG2",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 2
+    },
+    {
+      "empresa_id": "342",
+      "nombre_empresa": "Europcar",
+      "rut": "96565580-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1624",
+      "nombre_empresa": "Cy Send",
+      "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1839",
+      "nombre_empresa": "ZURICH CHILE ASSET",
+      "rut": "77750920 -9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1356",
+      "nombre_empresa": "Grupo Mok Marketplace",
+      "rut": "968094807",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1814",
+      "nombre_empresa": "BUSINESS AGENCY SAS",
+      "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1817",
+      "nombre_empresa": "Equilibrium",
+      "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1376",
+      "nombre_empresa": "Sindicato Lubricantes",
+      "rut": "73.542.300-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1087",
+      "nombre_empresa": "Automotora Cristian Aguila",
+      "rut": "76.656.338-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1473",
+      "nombre_empresa": "Joinready Chile",
+      "rut": "77.611.443-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dallendes@apprecio.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "829",
+      "nombre_empresa": "MARVICH SPA",
+      "rut": "762345277",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1503",
+      "nombre_empresa": "GGCS",
+      "rut": "76217859-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1877",
+      "nombre_empresa": "Botilleria de Barrio",
+      "rut": "76.172.616-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "ecamus@apprecio.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1634",
+      "nombre_empresa": "Kuantiv",
+      "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1433",
+      "nombre_empresa": "STBS",
+      "rut": "65.113.472-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "897",
+      "nombre_empresa": "Whitestack Chile",
+      "rut": "766661130",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "423",
+      "nombre_empresa": "Ingeniería Volcán Nevado",
+      "rut": "96.575.610-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1431",
+      "nombre_empresa": "Cade Grayson",
+      "rut": "96.716.020-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1943",
+      "nombre_empresa": "NILO ARROYO",
+      "rut": "76.345.095-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1953",
+      "nombre_empresa": "COMERCIAL BRAVO Y MARTINEZ",
+      "rut": "76849210-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1958",
+      "nombre_empresa": "Sincex",
+      "rut": "78040780-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "2003",
+      "nombre_empresa": "COMERCIAL CENTRAL CHILE",
+      "rut": "76026619-1",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "count": 1
+    },
+    {
+      "empresa_id": "2006",
+      "nombre_empresa": "MDL AUTOS",
+      "rut": "77704290-4",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "count": 1
+    },
+    {
+      "empresa_id": "476",
+      "nombre_empresa": "UPCH - PROYECTOS3",
+      "rut": "20110768151",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "45",
+      "nombre_empresa": "ALADIAH",
+      "rut": "20605043471",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "998",
+      "nombre_empresa": "Fuerza Demo",
+      "rut": "999999999",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1218",
+      "nombre_empresa": "LIDERA CENTRO DE ENTRENAMIENTO SAS",
+      "rut": "9018945829",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1303",
+      "nombre_empresa": "OPTIPLANT CONSULTORES S.A.S.",
+      "rut": "9003480049",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "449",
+      "nombre_empresa": "OPINANDO ONLINE",
+      "rut": "766186386",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1416",
+      "nombre_empresa": "OMEGA TECHNOLOGIES SAS",
+      "rut": "9008930733",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1408",
+      "nombre_empresa": "SIMPLE TECH",
+      "rut": "9015448206",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1325",
+      "nombre_empresa": "GLOBAL TALENT GT SAS",
+      "rut": "9017487361",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1443",
+      "nombre_empresa": "Sada Logistics SAS",
+      "rut": "9015440479",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1409",
+      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
+      "rut": "9010904869",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1466",
+      "nombre_empresa": "EMPRESA COLOMBIANA DE CLAVOS EMCOCLAVOS S.A.S.",
+      "rut": "8600294151",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1536",
+      "nombre_empresa": "SIGNOS STUDIO SAS",
+      "rut": "832004603",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "1535",
+      "nombre_empresa": "KNOWLEDGE AT PROCESSES AND TRAINING ALLIES SAS",
+      "rut": "900231103",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "207",
+      "nombre_empresa": "IN 369",
+      "rut": "DURH74090991A",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 1
+    },
+    {
+      "empresa_id": "208",
+      "nombre_empresa": "MUEBLERIA D'EUROPE",
+      "rut": "TAB980709JY8",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "count": 1
+    }
+  ],
+  "usuarios_sin_asignar": [
+    {
+      "empresa_id": "1522",
+      "nombre_empresa": "HDI Banca Seguros",
+      "rut": "99231000-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "usuarios_incentivados": 5044.0
+    },
+    {
+      "empresa_id": "333",
+      "nombre_empresa": "COVISIAN",
+      "rut": "20515056468",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 3305.0
+    },
+    {
+      "empresa_id": "495",
+      "nombre_empresa": "Opinando Online",
+      "rut": "76618638-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 1776.0
+    },
+    {
+      "empresa_id": "1372",
+      "nombre_empresa": "Grupo Progestion",
+      "rut": "76909880-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 1247.0
+    },
+    {
+      "empresa_id": "378",
+      "nombre_empresa": "Zurich Santander Vida",
+      "rut": "96819630-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 1201.0
+    },
+    {
+      "empresa_id": "1802",
+      "nombre_empresa": "TELEFONICA CHILE S.A.",
+      "rut": "90635000-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 1178.0
+    },
+    {
+      "empresa_id": "1319",
+      "nombre_empresa": "Atento Panel 2",
+      "rut": "96895220-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 1076.0
+    },
+    {
+      "empresa_id": "303",
+      "nombre_empresa": "Cruz Verde",
+      "rut": "89807200-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 1073.0
+    },
+    {
+      "empresa_id": "1433",
+      "nombre_empresa": "STBS",
+      "rut": "65113472-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 1019.0
+    },
+    {
+      "empresa_id": "379",
+      "nombre_empresa": "Zurich Santander Generales",
+      "rut": "76590840-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 885.0
+    },
+    {
+      "empresa_id": "1172",
+      "nombre_empresa": "Motorola",
+      "rut": "76096433-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 870.0
+    },
+    {
+      "empresa_id": "234",
+      "nombre_empresa": "GRUPO MORSA",
+      "rut": "ECL1906253I5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 837.0
+    },
+    {
+      "empresa_id": "290",
+      "nombre_empresa": "Seguros Sura",
+      "rut": "99017000-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 813.0
+    },
+    {
+      "empresa_id": "236",
+      "nombre_empresa": "Tata Consultancy RRHH",
+      "rut": "20535627101",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 760.0
+    },
+    {
+      "empresa_id": "455",
+      "nombre_empresa": "SGS Del Peru SAC",
+      "rut": "20100114349",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 679.0
+    },
+    {
+      "empresa_id": "1846",
+      "nombre_empresa": "VIVO TECH",
+      "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 662.0
+    },
+    {
+      "empresa_id": "979",
+      "nombre_empresa": "Unidad Créditos",
+      "rut": "76697501-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 642.0
+    },
+    {
+      "empresa_id": "431",
+      "nombre_empresa": "Sindicato N° 2 Clínica Las Condes",
+      "rut": "71951400-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 608.0
+    },
+    {
+      "empresa_id": "1233",
+      "nombre_empresa": "Atento",
+      "rut": "96895220-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 488.0
+    },
+    {
+      "empresa_id": "1381",
+      "nombre_empresa": "Teknica",
+      "rut": "96710540-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 472.0
+    },
+    {
+      "empresa_id": "938",
+      "nombre_empresa": "SALESLAND CHILE",
+      "rut": "5555",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 463.0
+    },
+    {
+      "empresa_id": "744",
+      "nombre_empresa": "LAUREATE - CLUB CAMPEONES",
+      "rut": "20521386470",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 461.0
+    },
+    {
+      "empresa_id": "461",
+      "nombre_empresa": "Banco Falabella",
+      "rut": "96509660-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 441.0
+    },
+    {
+      "empresa_id": "1255",
+      "nombre_empresa": "VTR Operaciones domicilio",
+      "rut": "76114143-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 433.0
+    },
+    {
+      "empresa_id": "433",
+      "nombre_empresa": "MAF",
+      "rut": "79678590-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 423.0
+    },
+    {
+      "empresa_id": "347",
+      "nombre_empresa": "SERVICIOS INTEGRALES TOUCH COLOMBIA S.A.S.",
+      "rut": "901495015",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 406.0
+    },
+    {
+      "empresa_id": "1414",
+      "nombre_empresa": "Holdtech",
+      "rut": "76650100-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "aavila@apprecio.com",
+      "usuarios_incentivados": 396.0
+    },
+    {
+      "empresa_id": "686",
+      "nombre_empresa": "Deloitte Auditoria",
+      "rut": "80276200-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 391.0
+    },
+    {
+      "empresa_id": "806",
+      "nombre_empresa": "ESSITY CHILE",
+      "rut": "94282000-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 351.0
+    },
+    {
+      "empresa_id": "1402",
+      "nombre_empresa": "EssilorLuxottica Chile",
+      "rut": "96891370-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "usuarios_incentivados": 336.0
+    },
+    {
+      "empresa_id": "1429",
+      "nombre_empresa": "GCOM Habitat",
+      "rut": "98000100-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 333.0
+    },
+    {
+      "empresa_id": "336",
+      "nombre_empresa": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS S.A.C",
+      "rut": "20211614545",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 300.0
+    },
+    {
+      "empresa_id": "908",
+      "nombre_empresa": "PWC",
+      "rut": "81513400-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 290.0
+    },
+    {
+      "empresa_id": "1480",
+      "nombre_empresa": "CEVA Logistics",
+      "rut": "78947550-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 276.0
+    },
+    {
+      "empresa_id": "232",
+      "nombre_empresa": "Salesland",
+      "rut": "20543323862",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 270.0
+    },
+    {
+      "empresa_id": "273",
+      "nombre_empresa": "Tanner",
+      "rut": "96667560-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 268.0
+    },
+    {
+      "empresa_id": "981",
+      "nombre_empresa": "Sindicato TP",
+      "rut": "65187477-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 252.0
+    },
+    {
+      "empresa_id": "598",
+      "nombre_empresa": "Versilia Colombia",
+      "rut": "902018021",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 232.0
+    },
+    {
+      "empresa_id": "359",
+      "nombre_empresa": "CyC Chile Importaciones, Exportaciones y Comercial",
+      "rut": "77182809",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 227.0
+    },
+    {
+      "empresa_id": "1140",
+      "nombre_empresa": "CHEIL CHILE",
+      "rut": "76485702-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 216.0
+    },
+    {
+      "empresa_id": "213",
+      "nombre_empresa": "MUNDO REPRESENTACIONES",
+      "rut": "20563302080",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 216.0
+    },
+    {
+      "empresa_id": "1201",
+      "nombre_empresa": "INXAIT",
+      "rut": "76837207-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 212.0
+    },
+    {
+      "empresa_id": "1479",
+      "nombre_empresa": "Belcorp Marketing",
+      "rut": "96524830-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 203.0
+    },
+    {
+      "empresa_id": "1327",
+      "nombre_empresa": "Customer Care WOM",
+      "rut": "78921690-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 200.0
+    },
+    {
+      "empresa_id": "1817",
+      "nombre_empresa": "Equilibrium",
+      "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 195.0
+    },
+    {
+      "empresa_id": "1324",
+      "nombre_empresa": "Midea Carrier",
+      "rut": "96763560-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 181.0
+    },
+    {
+      "empresa_id": "1321",
+      "nombre_empresa": "Kavak",
+      "rut": "77446987-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 176.0
+    },
+    {
+      "empresa_id": "1015",
+      "nombre_empresa": "Grupo Norte",
+      "rut": "76737740-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 169.0
+    },
+    {
+      "empresa_id": "1376",
+      "nombre_empresa": "Sindicato Lubricantes",
+      "rut": "73542300-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 163.0
+    },
+    {
+      "empresa_id": "229",
+      "nombre_empresa": "CREDIMINUTO",
+      "rut": "901308756",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 158.0
+    },
+    {
+      "empresa_id": "739",
+      "nombre_empresa": "ACTIVA RESEARCH",
+      "rut": "76069565-3",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 154.0
+    },
+    {
+      "empresa_id": "235",
+      "nombre_empresa": "FACTORED",
+      "rut": "901317478",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 146.0
+    },
+    {
+      "empresa_id": "1202",
+      "nombre_empresa": "Stellantis Calidad",
+      "rut": "84687500-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 140.0
+    },
+    {
+      "empresa_id": "1495",
+      "nombre_empresa": "CORPORACION INTERACTUAR",
+      "rut": "8909848433",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 137.0
+    },
+    {
+      "empresa_id": "223",
+      "nombre_empresa": "EASY SOLUTIONS SAS",
+      "rut": "830118355",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 130.0
+    },
+    {
+      "empresa_id": "1474",
+      "nombre_empresa": "LTC Gestión de Personas",
+      "rut": "99595990-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 128.0
+    },
+    {
+      "empresa_id": "1954",
+      "nombre_empresa": "Sind. Komatsu Chile S.A Establecimi",
+      "rut": "65042972-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 127.0
+    },
+    {
+      "empresa_id": "999",
+      "nombre_empresa": "Jikkosoft SAS",
+      "rut": "9007653786",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 125.0
+    },
+    {
+      "empresa_id": "456",
+      "nombre_empresa": "Valvoline",
+      "rut": "79894160-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 120.0
+    },
+    {
+      "empresa_id": "1338",
+      "nombre_empresa": "Goopcar",
+      "rut": "77667047-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "aavila@apprecio.com",
+      "usuarios_incentivados": 114.0
+    },
+    {
+      "empresa_id": "662",
+      "nombre_empresa": "Migrante Sociedad Financiera",
+      "rut": "76933833-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 109.0
+    },
+    {
+      "empresa_id": "1423",
+      "nombre_empresa": "Automotora Arauco Ltda",
+      "rut": "89460500-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 103.0
+    },
+    {
+      "empresa_id": "210",
+      "nombre_empresa": "SITT Y CIA SAS",
+      "rut": "830110734",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 103.0
+    },
+    {
+      "empresa_id": "1465",
+      "nombre_empresa": "Coseche Ventas",
+      "rut": "91139000-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "usuarios_incentivados": 87.0
+    },
+    {
+      "empresa_id": "1634",
+      "nombre_empresa": "Kuantiv",
+      "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 83.0
+    },
+    {
+      "empresa_id": "398",
+      "nombre_empresa": "PROYECTO E SAS",
+      "rut": "900110407",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 81.0
+    },
+    {
+      "empresa_id": "590",
+      "nombre_empresa": "IACC",
+      "rut": "87845200-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 79.0
+    },
+    {
+      "empresa_id": "1243",
+      "nombre_empresa": "Sinergía Inmobiliaria",
+      "rut": "96787990-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 78.0
+    },
+    {
+      "empresa_id": "1329",
+      "nombre_empresa": "AUTODRAFT",
+      "rut": "77177341-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 77.0
+    },
+    {
+      "empresa_id": "895",
+      "nombre_empresa": "Suzuval",
+      "rut": "78419560-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 72.0
+    },
+    {
+      "empresa_id": "1424",
+      "nombre_empresa": "Vct Chile",
+      "rut": "85037900-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 70.0
+    },
+    {
+      "empresa_id": "1128",
+      "nombre_empresa": "Automotriz Cumsille",
+      "rut": "88427300-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 69.0
+    },
+    {
+      "empresa_id": "1318",
+      "nombre_empresa": "Muruna",
+      "rut": "77704565-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 69.0
+    },
+    {
+      "empresa_id": "1403",
+      "nombre_empresa": "Profesionales Croquevielle Asociados Ltda",
+      "rut": "77696073-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "usuarios_incentivados": 66.0
+    },
+    {
+      "empresa_id": "1493",
+      "nombre_empresa": "Conectados",
+      "rut": "76050902-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 61.0
+    },
+    {
+      "empresa_id": "1124",
+      "nombre_empresa": "Trendy",
+      "rut": "78109470-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 60.0
+    },
+    {
+      "empresa_id": "1144",
+      "nombre_empresa": "Sierra Gorda SCM",
+      "rut": "76081590-k",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 60.0
+    },
+    {
+      "empresa_id": "618",
+      "nombre_empresa": "Southbridge",
+      "rut": "99288000-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 58.0
+    },
+    {
+      "empresa_id": "1057",
+      "nombre_empresa": "NEXOS SOFTWARE",
+      "rut": "8110237291",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 58.0
+    },
+    {
+      "empresa_id": "473",
+      "nombre_empresa": "Marsol",
+      "rut": "91443000-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 54.0
+    },
+    {
+      "empresa_id": "1421",
+      "nombre_empresa": "Comercializadora de Vehiculos Motorizados Arauco",
+      "rut": "76146105-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 54.0
+    },
+    {
+      "empresa_id": "1754",
+      "nombre_empresa": "Americar",
+      "rut": "76414568-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 54.0
+    },
+    {
+      "empresa_id": "758",
+      "nombre_empresa": "Medifarma  - Comercial",
+      "rut": "20100018625",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 52.0
+    },
+    {
+      "empresa_id": "518",
+      "nombre_empresa": "ASSURANT SERVICES PERU SAC",
+      "rut": "20425017781",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 51.0
+    },
+    {
+      "empresa_id": "1153",
+      "nombre_empresa": "MUMU COLOMBIA SAS",
+      "rut": "9016576244",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 48.0
+    },
+    {
+      "empresa_id": "1407",
+      "nombre_empresa": "Disecom",
+      "rut": "96546050-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 47.0
+    },
+    {
+      "empresa_id": "1889",
+      "nombre_empresa": "Ingeneria y Proyectos JR Telecomunicaciones Ltda",
+      "rut": "76061491-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 47.0
+    },
+    {
+      "empresa_id": "1422",
+      "nombre_empresa": "Automotriz Covema SPA",
+      "rut": "76379738-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 46.0
+    },
+    {
+      "empresa_id": "1364",
+      "nombre_empresa": "CORPORACIÓN EDUCATIVA COLEGIO SAGRADO CORAZON MONT",
+      "rut": "8110027879",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 46.0
+    },
+    {
+      "empresa_id": "1452",
+      "nombre_empresa": "Bulkmatic de Colombia SAS",
+      "rut": "9009704395",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 45.0
+    },
+    {
+      "empresa_id": "1486",
+      "nombre_empresa": "SyP",
+      "rut": "77701107-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 42.0
+    },
+    {
+      "empresa_id": "688",
+      "nombre_empresa": "GLOBALLOGIC PERU S.A.C.",
+      "rut": "20609422191",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 42.0
+    },
+    {
+      "empresa_id": "15",
+      "nombre_empresa": "SIIGO",
+      "rut": "992560754001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "usuarios_incentivados": 42.0
+    },
+    {
+      "empresa_id": "1165",
+      "nombre_empresa": "Compunet Group",
+      "rut": "78466220-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 40.0
+    },
+    {
+      "empresa_id": "319",
+      "nombre_empresa": "CENTENARIO",
+      "rut": "",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 40.0
+    },
+    {
+      "empresa_id": "349",
+      "nombre_empresa": "Macc Corredora de Seguros SpA (Automovil Club)",
+      "rut": "76449877-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 39.0
+    },
+    {
+      "empresa_id": "1361",
+      "nombre_empresa": "C'EST SI BON",
+      "rut": "76308072-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 39.0
+    },
+    {
+      "empresa_id": "1334",
+      "nombre_empresa": "NISUM COLOMBIA SAS",
+      "rut": "9015511261",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 39.0
+    },
+    {
+      "empresa_id": "855",
+      "nombre_empresa": "ZAZ CONDUCTORES E.I.R.L",
+      "rut": "20613920197",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 37.0
+    },
+    {
+      "empresa_id": "80",
+      "nombre_empresa": "Cementos Pacasmayo",
+      "rut": "20419387658",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 36.0
+    },
+    {
+      "empresa_id": "1012",
+      "nombre_empresa": "LICAVIR SAS",
+      "rut": "8300722812",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 36.0
+    },
+    {
+      "empresa_id": "457",
+      "nombre_empresa": "BLUEBOX",
+      "rut": "20601167132",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 34.0
+    },
+    {
+      "empresa_id": "226",
+      "nombre_empresa": "Parques y Funerarias SAS",
+      "rut": "860015300",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 34.0
+    },
+    {
+      "empresa_id": "1343",
+      "nombre_empresa": "E-DENTAL COLOMBIA SAS",
+      "rut": "9010525270",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 33.0
+    },
+    {
+      "empresa_id": "742",
+      "nombre_empresa": "Seidor Analytics",
+      "rut": "76036621-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 32.0
+    },
+    {
+      "empresa_id": "750",
+      "nombre_empresa": "MEGALUX (CHILE) S.P.A.",
+      "rut": "76249448-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 30.0
+    },
+    {
+      "empresa_id": "1052",
+      "nombre_empresa": "SOFTCARIBBEAN S.A.S",
+      "rut": "9002300040",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 29.0
+    },
+    {
+      "empresa_id": "1399",
+      "nombre_empresa": "Polymershapes",
+      "rut": "96823070-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "usuarios_incentivados": 28.0
+    },
+    {
+      "empresa_id": "1417",
+      "nombre_empresa": "HORSE LOS ANDES",
+      "rut": "93367000-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 28.0
+    },
+    {
+      "empresa_id": "1478",
+      "nombre_empresa": "RCV SPA",
+      "rut": "77401785-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 28.0
+    },
+    {
+      "empresa_id": "1436",
+      "nombre_empresa": "Olx Contact Center",
+      "rut": "76611509-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "aavila@apprecio.com",
+      "usuarios_incentivados": 27.0
+    },
+    {
+      "empresa_id": "1310",
+      "nombre_empresa": "MACC ASISTENCIA",
+      "rut": "77290524-6",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 25.0
+    },
+    {
+      "empresa_id": "650",
+      "nombre_empresa": "PATRICIO HIDALGO",
+      "rut": "80463100-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 23.0
+    },
+    {
+      "empresa_id": "427",
+      "nombre_empresa": "Alianza Francesa de Trujillo",
+      "rut": "20175099931",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 22.0
+    },
+    {
+      "empresa_id": "1453",
+      "nombre_empresa": "MAINSOFT CONSULTING SAS",
+      "rut": "9004878523",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 22.0
+    },
+    {
+      "empresa_id": "1357",
+      "nombre_empresa": "Grupo Bimbo",
+      "rut": "82623500-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 21.0
+    },
+    {
+      "empresa_id": "550",
+      "nombre_empresa": "Alborada",
+      "rut": "76969581-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 20.0
+    },
+    {
+      "empresa_id": "1362",
+      "nombre_empresa": "TONY ROMAS 2",
+      "rut": "76565154-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 20.0
+    },
+    {
+      "empresa_id": "1418",
+      "nombre_empresa": "Eddvantage SpA",
+      "rut": "76335806-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 20.0
+    },
+    {
+      "empresa_id": "430",
+      "nombre_empresa": "Grasas S.A.",
+      "rut": "8913005294",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 20.0
+    },
+    {
+      "empresa_id": "435",
+      "nombre_empresa": "Farmex SPA",
+      "rut": "76831775-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 19.0
+    },
+    {
+      "empresa_id": "1958",
+      "nombre_empresa": "Sincex",
+      "rut": "78040780-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 19.0
+    },
+    {
+      "empresa_id": "897",
+      "nombre_empresa": "Whitestack Chile",
+      "rut": "76666113-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 18.0
+    },
+    {
+      "empresa_id": "1118",
+      "nombre_empresa": "CrossLines",
+      "rut": "77004307-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 18.0
+    },
+    {
+      "empresa_id": "1431",
+      "nombre_empresa": "Cade Grayson",
+      "rut": "96716020-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 18.0
+    },
+    {
+      "empresa_id": "1748",
+      "nombre_empresa": "RICOH CHILE S.A",
+      "rut": "96513980-k",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 17.0
+    },
+    {
+      "empresa_id": "230",
+      "nombre_empresa": "Creatblue",
+      "rut": "POM030403GG2",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 17.0
+    },
+    {
+      "empresa_id": "929",
+      "nombre_empresa": "LA CATRINA",
+      "rut": "76568733-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 16.0
+    },
+    {
+      "empresa_id": "1359",
+      "nombre_empresa": "TONY ROMAS",
+      "rut": "76177208-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "aavila@apprecio.com",
+      "usuarios_incentivados": 16.0
+    },
+    {
+      "empresa_id": "1503",
+      "nombre_empresa": "GGCS",
+      "rut": "76217859-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 16.0
+    },
+    {
+      "empresa_id": "648",
+      "nombre_empresa": "KITCHEN CENTER",
+      "rut": "20516400472",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 16.0
+    },
+    {
+      "empresa_id": "1126",
+      "nombre_empresa": "UNAB",
+      "rut": "71540100-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 15.0
+    },
+    {
+      "empresa_id": "1458",
+      "nombre_empresa": "Farmacia la Botica Popular",
+      "rut": "77528008-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 15.0
+    },
+    {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 15.0
+    },
+    {
+      "empresa_id": "248",
+      "nombre_empresa": "HHO CARBON CLEANER",
+      "rut": "76492561-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 14.0
+    },
+    {
+      "empresa_id": "268",
+      "nombre_empresa": "BSALE PERÚ",
+      "rut": "20602556272",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 14.0
+    },
+    {
+      "empresa_id": "587",
+      "nombre_empresa": "ZENTURY SECURITY",
+      "rut": "20605299866",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 14.0
+    },
+    {
+      "empresa_id": "1444",
+      "nombre_empresa": "GRASASBIO SAS",
+      "rut": "9011100720",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 14.0
+    },
+    {
+      "empresa_id": "240",
+      "nombre_empresa": "Sobremesa",
+      "rut": "ESO200620S9A",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 14.0
+    },
+    {
+      "empresa_id": "824",
+      "nombre_empresa": "beClassmates",
+      "rut": "764297687",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 13.0
+    },
+    {
+      "empresa_id": "1056",
+      "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
+      "rut": "9003602789",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 13.0
+    },
+    {
+      "empresa_id": "1090",
+      "nombre_empresa": "Pie Vital",
+      "rut": "76547928-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 12.0
+    },
+    {
+      "empresa_id": "1203",
+      "nombre_empresa": "SEIDOR CHILE SA",
+      "rut": "96986170-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 12.0
+    },
+    {
+      "empresa_id": "1447",
+      "nombre_empresa": "Defontana",
+      "rut": "76389469-k",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 12.0
+    },
+    {
+      "empresa_id": "1141",
+      "nombre_empresa": "EDUCA EDTECH COLOMBIA SAS",
+      "rut": "9016655540",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 12.0
+    },
+    {
+      "empresa_id": "382",
+      "nombre_empresa": "Jas Transporte",
+      "rut": "78080110-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 11.0
+    },
+    {
+      "empresa_id": "881",
+      "nombre_empresa": "TIME INKJET",
+      "rut": "20614676770",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 11.0
+    },
+    {
+      "empresa_id": "1238",
+      "nombre_empresa": "PRECISION",
+      "rut": "96980910-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 10.0
+    },
+    {
+      "empresa_id": "1839",
+      "nombre_empresa": "ZURICH CHILE ASSET",
+      "rut": "77750920 -9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 10.0
+    },
+    {
+      "empresa_id": "663",
+      "nombre_empresa": "EVALUAR.COM SAC",
+      "rut": "20549574247",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 10.0
+    },
+    {
+      "empresa_id": "224",
+      "nombre_empresa": "APIECEOFPIECOLOMBIA",
+      "rut": "900691521",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "usuarios_incentivados": 9.0
+    },
+    {
+      "empresa_id": "342",
+      "nombre_empresa": "Europcar",
+      "rut": "96565580-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 8.0
+    },
+    {
+      "empresa_id": "1087",
+      "nombre_empresa": "Automotora Cristian Aguila",
+      "rut": "76656338-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 8.0
+    },
+    {
+      "empresa_id": "1956",
+      "nombre_empresa": "Casas Latam",
+      "rut": "78071599-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 8.0
+    },
+    {
+      "empresa_id": "801",
+      "nombre_empresa": "TOULOUSE LAUTREC",
+      "rut": "20603817185",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 8.0
+    },
+    {
+      "empresa_id": "1135",
+      "nombre_empresa": "ORIGAMI MERCADEO SOCIAL",
+      "rut": "9003202344",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 8.0
+    },
+    {
+      "empresa_id": "1382",
+      "nombre_empresa": "Los Mercaderes",
+      "rut": "77613110-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 7.0
+    },
+    {
+      "empresa_id": "1360",
+      "nombre_empresa": "SABORES DEL MUNDO",
+      "rut": "77252682-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 7.0
+    },
+    {
+      "empresa_id": "2003",
+      "nombre_empresa": "COMERCIAL CENTRAL CHILE",
+      "rut": "76026619-1",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "usuarios_incentivados": 7.0
+    },
+    {
+      "empresa_id": "1303",
+      "nombre_empresa": "OPTIPLANT CONSULTORES S.A.S.",
+      "rut": "9003480049",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 7.0
+    },
+    {
+      "empresa_id": "1504",
+      "nombre_empresa": "Track Link Chile",
+      "rut": "77379375-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "usuarios_incentivados": 6.0
+    },
+    {
+      "empresa_id": "1940",
+      "nombre_empresa": "Americar - Denali",
+      "rut": "77461290-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 6.0
+    },
+    {
+      "empresa_id": "329",
+      "nombre_empresa": "Peru ESL Services",
+      "rut": "20601116121",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 6.0
+    },
+    {
+      "empresa_id": "1581",
+      "nombre_empresa": "FR Group Corredores de Seguros",
+      "rut": "79619240-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 5.0
+    },
+    {
+      "empresa_id": "1736",
+      "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
+      "rut": "77776240-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 5.0
+    },
+    {
+      "empresa_id": "1500",
+      "nombre_empresa": "PARDENTALES LTDA",
+      "rut": "8000004391",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 5.0
+    },
+    {
+      "empresa_id": "1234",
+      "nombre_empresa": "T26",
+      "rut": "77091292-k",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 4.0
+    },
+    {
+      "empresa_id": "1415",
+      "nombre_empresa": "Verallia Chile",
+      "rut": "76092970-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 4.0
+    },
+    {
+      "empresa_id": "533",
+      "nombre_empresa": "SYSTEMBASE TELECOMUNICACIONES E.I.R.L",
+      "rut": "20551526161",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 4.0
+    },
+    {
+      "empresa_id": "1536",
+      "nombre_empresa": "SIGNOS STUDIO SAS",
+      "rut": "832004603",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 4.0
+    },
+    {
+      "empresa_id": "400",
+      "nombre_empresa": "Zenit Seguros Generales",
+      "rut": "76061223-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 3.0
+    },
+    {
+      "empresa_id": "423",
+      "nombre_empresa": "Ingeniería Volcán Nevado",
+      "rut": "96575610-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 3.0
+    },
+    {
+      "empresa_id": "1323",
+      "nombre_empresa": "Globe Italia 3",
+      "rut": "78986740-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 3.0
+    },
+    {
+      "empresa_id": "1473",
+      "nombre_empresa": "Joinready Chile",
+      "rut": "77611443-K",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dallendes@apprecio.com",
+      "usuarios_incentivados": 3.0
+    },
+    {
+      "empresa_id": "1955",
+      "nombre_empresa": "TUAUTO SPA",
+      "rut": "76982452-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 3.0
+    },
+    {
+      "empresa_id": "1411",
+      "nombre_empresa": "ICONICO STUDIO SAS",
+      "rut": "9013626150",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 3.0
+    },
+    {
+      "empresa_id": "1466",
+      "nombre_empresa": "EMPRESA COLOMBIANA DE CLAVOS EMCOCLAVOS S.A.S.",
+      "rut": "8600294151",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 3.0
+    },
+    {
+      "empresa_id": "148",
+      "nombre_empresa": "OBOTICARIO_WHOLESALES",
+      "rut": "900611019",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "test@test.com",
+      "usuarios_incentivados": 3.0
+    },
+    {
+      "empresa_id": "829",
+      "nombre_empresa": "MARVICH SPA",
+      "rut": "76234527-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "1713",
+      "nombre_empresa": "ODOOTECHNOLOGIES",
+      "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "1744",
+      "nombre_empresa": "COMERCIAL SEKIP KAYA LIMITADA",
+      "rut": "76630803-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "1943",
+      "nombre_empresa": "NILO ARROYO",
+      "rut": "76345095-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "1953",
+      "nombre_empresa": "COMERCIAL BRAVO Y MARTINEZ",
+      "rut": "76849210-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "1975",
+      "nombre_empresa": "Augustar Seguros de Vida",
+      "rut": "76632384-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "2005",
+      "nombre_empresa": "SOCIAS INMOBILIARIAS",
+      "rut": "78095861-8",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "1772",
+      "nombre_empresa": "Óptica Santa Lucía",
+      "rut": "80941300-4",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "ecamus@apprecio.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "1699",
+      "nombre_empresa": "XS MARKET",
+      "rut": "76218671-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "496",
+      "nombre_empresa": "OM PHarma",
+      "rut": "Nº 20100309191",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "1307",
+      "nombre_empresa": "FUNDACION EDUCATIVA DE INGLATERRA",
+      "rut": "8600238148",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "609",
+      "nombre_empresa": "QROOM 360 LLC",
+      "rut": "22000155335",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "1746",
+      "nombre_empresa": "GARCIA MARCHANT Y COMPANIA LIMITADA",
+      "rut": "76560536-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "1560",
+      "nombre_empresa": "Demo1 CL",
+      "rut": "99999999-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "45",
+      "nombre_empresa": "ALADIAH",
+      "rut": "20605043471",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "573",
+      "nombre_empresa": "GRUPO TVES",
+      "rut": "20.601.973.562",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "1408",
+      "nombre_empresa": "SIMPLE TECH",
+      "rut": "9015448206",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "1409",
+      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
+      "rut": "9010904869",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "1416",
+      "nombre_empresa": "OMEGA TECHNOLOGIES SAS",
+      "rut": "9008930733",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "1443",
+      "nombre_empresa": "Sada Logistics SAS",
+      "rut": "9015440479",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "375",
+      "nombre_empresa": "INDUSTRIAS INCA SAS",
+      "rut": "860001777",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 1.0
+    }
+  ],
+  "reuniones_sin_match": [
+    {
+      "kam_id": "#N/A",
+      "seller_email": "lgalindo@apprecio.com, scuellar@apprecio.com",
+      "count": 16
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "ctrujillo@dcanje.com, golvera@dcanje.com",
+      "count": 14
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "golvera@dcanje.com, jtejada@dcanje.com",
+      "count": 13
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "ctrujillo@dcanje.com, jtejada@dcanje.com",
+      "count": 6
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "csilva@apprecio.com, dindaburu@dcanje.com",
+      "count": 4
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aavila@dcanje.com",
+      "count": 4
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, lgalindo@apprecio.com",
+      "count": 4
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, lgalindo@apprecio.com",
+      "count": 4
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, csilva@apprecio.com, lgalindo@apprecio.com",
+      "count": 3
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, csilva@apprecio.com",
+      "count": 3
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, rmolina@apprecio.com",
+      "count": 2
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, dindaburu@dcanje.com",
+      "count": 2
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "alvaroagliati@dcanje.com, bgonzalez@apprecio.com",
+      "count": 2
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "alvaroagliati@dcanje.com, ljamasmie@apprecio.com",
+      "count": 2
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "asilva@apprecio.com, dallendes@dcanje.com",
+      "count": 2
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, ftorres@apprecio.com",
+      "count": 2
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "scuellar@apprecio.com, shernandez@apprecio.com",
+      "count": 2
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aavila@dcanje.com, csilva@apprecio.com",
+      "count": 2
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "csilva@apprecio.com, dindaburu@dcanje.com, lgalindo@apprecio.com",
+      "count": 2
+    },
+    {
+      "kam_id": "Aura",
+      "seller_email": "aavila@dcanje.com",
+      "count": 2
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "alvaroagliati@dcanje.com, ctrujillo@dcanje.com, golvera@dcanje.com, jtejada@dcanje.com, jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "jleighton@apprecio.com, scuellar@apprecio.com, srojas@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dindaburu@dcanje.com, scuellar@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aavila@apprecio.com, rmolina@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dindaburu@dcanje.com, rmolina@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dduran@apprecio.com, jguerra@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, dallendes@apprecio.com, dindaburu@dcanje.com, lgalindo@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, dallendes@dcanje.com, jtejada@dcanje.com, lgalindo@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "csilva@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "ctrujillo@dcanje.com, cvaldivia@dcanje.com, jleiva@apprecio.com, jvalencia@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, ftorres@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "bcastro@apprecio.com, dallendes@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, dduran@apprecio.com, msernaque@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, dindaburu@apprecio.com, shernandez@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, lgalindo@apprecio.com, rmolina@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "msernaque@apprecio.com, scuellar@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "ktan@apprecio.com, scuellar@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dindaburu@dcanje.com, fafigueroa@apprecio.com, rmolina@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, lgalindo@apprecio.com, scuellar@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "alvaroagliati@dcanje.com, asilva@apprecio.com, dallendes@dcanje.com, msernaque@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, ftorres@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "csilva@apprecio.com, scuellar@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dindaburu@apprecio.com, imolina@apprecio.com, rmolina@apprecio.com, srodriguez@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "bosorio@apprecio.com, rmolina@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, jtejada@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "csilva@apprecio.com, shernandez@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "alvaroagliati@apprecio.com, dallendes@dcanje.com, ktan@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, ljamasmie@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "alvaroagliati@dcanje.com, dallendes@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "bcastro@apprecio.com, ftorres@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dindaburu@dcanje.com, shernandez@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "bgonzalez@apprecio.com, bosorio@apprecio.com, ftorres@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, kli@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "alvaroagliati@dcanje.com, dallendes@dcanje.com, jceballos@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, imolina@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "alvaroagliati@apprecio.com, dallendes@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "bgonzalez@apprecio.com, bosorio@apprecio.com, ljamasmie@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "camiloayala@apprecio.com, dallendes@dcanje.com, ktan@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "csilva@apprecio.com, dallendes@dcanje.com, jtejada@dcanje.com, lgalindo@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "csilva@apprecio.com, dallendes@dcanje.com, jtejada@dcanje.com, lgalindo@apprecio.com, nalvarado@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "alvaroagliati@apprecio.com, dallendes@dcanje.com, kli@dcanje.com, ktan@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "jtejada@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dindaburu@apprecio.com, shernandez@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aavila@dcanje.com, amendoza@apprecio.com, ftorres@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "amendoza@apprecio.com, bosorio@apprecio.com, rmolina@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "bgonzalez@apprecio.com, jcalzada@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dduran@apprecio.com, jguerra@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, lgalindo@apprecio.com, scuellar@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, dindaburu@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, dallendes@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "bosorio@apprecio.com, ljamasmie@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "bgonzalez@apprecio.com, bosorio@apprecio.com, ftorres@apprecio.com, ljamasmie@apprecio.com, sgajardo@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, jguerra@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "csilva@apprecio.com, lgalindo@apprecio.com, scuellar@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, golvera@dcanje.com, jtejada@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dallendes@dcanje.com, kli@dcanje.com, msernaque@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "csilva@apprecio.com, dallendes@dcanje.com, jtejada@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "aleon@apprecio.com, scuellar@apprecio.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "j.bermudez@dyninno.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "alvaroagliati@dcanje.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "vcortes@gaviriarealestate.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "yerly.padierna@sapians.com.co",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "alejandra.montoya@lineadirecta.com.co",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "ncontreras@calbaq.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "dvega@zutun.io",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "tesorero@13.cbs.cl",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "mariajose.correa@boosmap.com",
+      "count": 1
+    },
+    {
+      "kam_id": "#N/A",
+      "seller_email": "bgarciam@atlasdesarrollos.com",
+      "count": 1
+    }
+  ]
+}
