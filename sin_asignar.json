@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T17:33:29.717569+00:00",
+  "generated_at": "2026-07-06T19:35:39.706468+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "433",
@@ -188,7 +188,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
-      "count": 21
+      "count": 22
     },
     {
       "empresa_id": "662",

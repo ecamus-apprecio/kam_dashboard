@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T17:33:29.717569+00:00",
+  "generated_at": "2026-07-06T19:35:39.706468+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -31,10 +31,10 @@
             46,
             14,
             22,
-            10
+            11
           ],
-          "reuniones_mensual": 21.71,
-          "reuniones_exec": 4.34,
+          "reuniones_mensual": 21.86,
+          "reuniones_exec": 4.37,
           "clientes_exec": 75.6,
           "total_clientes": 378,
           "usuarios_total": 90463.0,
@@ -43,8 +43,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 240.08,
-          "tickets_exec": 48.02,
+          "tickets_mensual": 240.23,
+          "tickets_exec": 48.05,
           "reuniones_monthly": [
             77,
             74,
@@ -159,8 +159,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 1,
-          "tickets_mensual": 2.42,
-          "tickets_exec": 2.42,
+          "tickets_mensual": 2.5,
+          "tickets_exec": 2.5,
           "reuniones_monthly": [
             1,
             1,
@@ -172,8 +172,8 @@
           ],
           "reuniones_mensual": 6.5,
           "reuniones_exec": 6.5,
-          "clientes_exec": 8.0,
-          "total_clientes": 8,
+          "clientes_exec": 9.0,
+          "total_clientes": 9,
           "usuarios_total": 232.0,
           "usuarios_exec": 232.0
         },
@@ -254,7 +254,7 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 0,
-          "tickets_mensual": 164.31,
+          "tickets_mensual": 164.46,
           "tickets_exec": 0,
           "reuniones_monthly": [
             0,
@@ -326,10 +326,10 @@
             16,
             26,
             40,
-            5
+            6
           ],
-          "reuniones_mensual": 18.57,
-          "reuniones_exec": 9.29,
+          "reuniones_mensual": 18.71,
+          "reuniones_exec": 9.36,
           "clientes_exec": 65.5,
           "total_clientes": 131,
           "usuarios_total": 16503.0,
@@ -368,7 +368,7 @@
   },
   "meta": {
     "reuniones_sin_match": 159,
-    "tickets_sin_asignar": 1907,
+    "tickets_sin_asignar": 1908,
     "usuarios_sin_asignar": 224
   }
 }
