@@ -42,7 +42,15 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .rank-table th { text-align: left; padding: 8px 14px; color: #94a3b8; font-weight: 500; border-bottom: 1px solid #f1f5f9; font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; white-space: nowrap; }
 .rank-table td { padding: 11px 14px; border-bottom: 1px solid #f8fafc; vertical-align: middle; }
 .rank-table tr:last-child td { border-bottom: none; }
-.rank-table tr:hover td { background: #f8fafc; }
+.rank-table tr.rank-row:hover td { background: #f8fafc; }
+.rank-table tr.rank-row { cursor: pointer; }
+.rank-chevron { color: #cbd5e1; font-size: 11px; width: 18px; }
+.rank-detail-row td { background: #f8fafc; padding: 0 14px 14px 14px !important; border-bottom: 1px solid #f1f5f9; }
+.exec-detail-table { width: 100%; border-collapse: collapse; font-size: 12px; margin-top: 4px; }
+.exec-detail-table th { text-align: left; padding: 6px 10px; color: #94a3b8; font-weight: 500; font-size: 10px; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid #e2e8f0; }
+.exec-detail-table td { padding: 7px 10px; border-bottom: 1px solid #eef2f7; }
+.exec-detail-table tr:last-child td { border-bottom: none; }
+.exec-pool-row td { font-style: italic; color: #94a3b8; }
 .rank-num { font-weight: 800; font-size: 16px; color: #cbd5e1; width: 30px; }
 .rank-flag { font-size: 18px; }
 .rank-name { font-weight: 700; color: #0f172a; }
@@ -214,6 +222,7 @@ let data = null;
 let currentTab = "KAM";
 let charts = {};
 let currentUser = null; // { email, name, picture }
+let expandedRankRows = new Set(); // países con el detalle por ejecutivo abierto en el ranking
 
 const WEIGHTS = [
   { key: "tickets_exec",   label: "Tickets/Exec/Mes",  color: "#d97706", pct: 35 },
@@ -334,6 +343,7 @@ function renderTabBar(availableTabs) {
 
 function setTab(tab) {
   currentTab = tab;
+  expandedRankRows.clear();
   const countries = fullData.tabs[tab].countries;
   // Solo mostramos países que tengan al menos 1 ejecutivo de este rol
   const visibleCountries = fullData.tabs[tab].country_order.filter(c => (countries[c].ejecutivos || 0) > 0);
@@ -358,13 +368,14 @@ function calcScores() {
   const normalized = {};
   WEIGHTS.forEach(w => {
     const vals = countries.map(c => Math.max(0, data.countries[c][w.key] || 0));
+    // log1p comprime escalas muy distintas (ej. usuarios en miles) sin perder proporción real.
     const transformed = vals.map(v => Math.log1p(v));
-    const tMax = Math.max(...transformed);
-    const tMin = Math.min(...transformed);
-    const range = tMax - tMin || 1;
+    const tMax = Math.max(...transformed, 0);
     countries.forEach((c, i) => {
       if (!normalized[c]) normalized[c] = {};
-      normalized[c][w.key] = 10 + ((transformed[i] - tMin) / range) * 80;
+      // % respecto al líder de este grupo (no min-max): si los países están parecidos en
+      // la realidad, quedan parecidos en el score. Antes se forzaba siempre 10↔90.
+      normalized[c][w.key] = tMax > 0 ? (transformed[i] / tMax) * 100 : 0;
     });
   });
   const scores = {};
@@ -439,18 +450,21 @@ function renderRanking() {
     { key: "clientes_exec",  label: "Clientes/Exec",    fmt: n => n.toFixed(1), color: "#0891b2" },
     { key: "usuarios_exec",  label: "Usuarios/Exec",    fmt: n => fmtN(n),      color: "#16a34a" },
   ];
+  const totalCols = 4 + metricCols.length; // chevron + # + país + score + métricas
   const thead = `<thead><tr>
-    <th>#</th><th>País</th><th>Score</th>
+    <th></th><th>#</th><th>País</th><th>Score</th>
     ${metricCols.map(mc => `<th>${mc.label}</th>`).join("")}
   </tr></thead>`;
   const tbody = order.map((c, i) => {
     const cd = data.countries[c];
     const score = scores[c] || 0;
+    const isOpen = expandedRankRows.has(c);
     const cols = metricCols.map(mc => {
       const v = cd[mc.key] || 0;
       return `<td style="font-size:13px;font-weight:600;color:${mc.color}">${mc.fmt(v)}</td>`;
     }).join("");
-    return `<tr>
+    const mainRow = `<tr class="rank-row" onclick="toggleRankRow('${c}')">
+      <td class="rank-chevron">${isOpen ? "▾" : "▸"}</td>
       <td class="rank-num" style="color:${COLORS[c]}">${i + 1}</td>
       <td>
         <div style="display:flex;align-items:center;gap:8px">
@@ -461,8 +475,56 @@ function renderRanking() {
       <td style="font-size:14px;font-weight:800;color:${COLORS[c]}">${score.toFixed(0)}</td>
       ${cols}
     </tr>`;
+    const detailRow = isOpen
+      ? `<tr class="rank-detail-row"><td colspan="${totalCols}">${renderExecDetailTable(c, cd)}</td></tr>`
+      : "";
+    return mainRow + detailRow;
   }).join("");
   document.getElementById("rankTable").innerHTML = thead + `<tbody>${tbody}</tbody>`;
+}
+
+function toggleRankRow(pais) {
+  if (expandedRankRows.has(pais)) expandedRankRows.delete(pais);
+  else expandedRankRows.add(pais);
+  renderRanking();
+}
+
+function renderExecDetailTable(pais, cd) {
+  const execs = cd.ejecutivos_detalle || [];
+  const pool = cd.pool_sin_asignar || { tickets_mensual: 0, total_clientes: 0, usuarios_total: 0 };
+  const hasPool = (pool.tickets_mensual > 0) || (pool.total_clientes > 0) || (pool.usuarios_total > 0);
+
+  if (!execs.length && !hasPool) {
+    return `<div style="padding:10px 4px;color:#94a3b8;font-size:12px">Sin ejecutivos ni datos para ${pais} en esta pestaña.</div>`;
+  }
+
+  const rows = execs.map(e => `
+    <tr>
+      <td class="rank-name" style="font-size:12px">${e.nombre}</td>
+      <td style="color:#d97706;font-weight:600">${e.tickets_mensual.toFixed(1)}</td>
+      <td style="color:#7c3aed;font-weight:600">${e.reuniones_mensual.toFixed(1)}</td>
+      <td style="color:#0891b2;font-weight:600">${e.total_clientes}</td>
+      <td style="color:#16a34a;font-weight:600">${fmtN(e.usuarios_total)}</td>
+    </tr>`).join("");
+
+  const poolRow = hasPool ? `
+    <tr class="exec-pool-row">
+      <td>Sin asignar (repartido en el promedio del país)</td>
+      <td>${pool.tickets_mensual.toFixed(1)}</td>
+      <td>—</td>
+      <td>${pool.total_clientes}</td>
+      <td>${fmtN(pool.usuarios_total)}</td>
+    </tr>` : "";
+
+  return `
+    <table class="exec-detail-table">
+      <thead>
+        <tr>
+          <th>Ejecutivo</th><th>Tickets/mes</th><th>Reun./mes</th><th>Clientes</th><th>Usuarios</th>
+        </tr>
+      </thead>
+      <tbody>${rows}${poolRow}</tbody>
+    </table>`;
 }
 
 function renderUsuarios() {
