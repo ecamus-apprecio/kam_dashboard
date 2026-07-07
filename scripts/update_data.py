@@ -326,10 +326,16 @@ def build_dashboard_data(
         res = resolve_owner(empresa_id)
         rol = res["rol"]
         es_fallback = False
-        if not rol:
+        if rol:
+            # Ya identificamos al dueño real: confiamos en SU país registrado en la Leyenda
+            # por sobre la columna "pais" de la fila del ticket (que puede venir mal tipeada).
+            # Así el total del país y el detalle por ejecutivo siempre usan el mismo país.
+            pais_bucket = res["pais"]
+        else:
             tickets_sin_asignar += 1
             key = normalize_empresa_id(empresa_id) or f"SIN_ID::{r.get(col_idtrib, '')}"
-            rol = pick_fallback_rol(pais_ticket, key)
+            pais_bucket = pais_ticket
+            rol = pick_fallback_rol(pais_bucket, key)
             es_fallback = True
             if rol:
                 tickets_redistribuidos += 1
@@ -349,9 +355,9 @@ def build_dashboard_data(
 
         id_trib = normalize_tax_id(r.get(col_idtrib, ""))
         if id_trib:
-            clientes_by_role_country[rol][pais_ticket].add(id_trib)
+            clientes_by_role_country[rol][pais_bucket].add(id_trib)
             if es_fallback:
-                clientes_pool_by_role_country[rol][pais_ticket].add(id_trib)
+                clientes_pool_by_role_country[rol][pais_bucket].add(id_trib)
             else:
                 clientes_by_exec[res["owner_email"]].add(id_trib)
 
@@ -360,9 +366,9 @@ def build_dashboard_data(
             try:
                 dt = datetime.strptime(fecha[:10], "%Y-%m-%d")
                 mk = month_key(dt.year, dt.month)
-                tickets_by_role_country_month[rol][pais_ticket][mk] += 1
+                tickets_by_role_country_month[rol][pais_bucket][mk] += 1
                 if es_fallback:
-                    tickets_pool_by_role_country_month[rol][pais_ticket][mk] += 1
+                    tickets_pool_by_role_country_month[rol][pais_bucket][mk] += 1
                 else:
                     tickets_by_exec_month[res["owner_email"]][mk] += 1
             except ValueError:
@@ -408,10 +414,16 @@ def build_dashboard_data(
         res = resolve_owner(empresa_id)
         rol = res["rol"]
         es_fallback = False
-        if not rol:
+        if rol:
+            # Mismo criterio que en Tickets: confiamos en el país registrado del dueño
+            # real por sobre la columna "país" de la fila (evita descuadres entre el
+            # total del país y la suma de los ejecutivos si esa columna viene mal tipeada).
+            pais_bucket = res["pais"]
+        else:
             usuarios_sin_asignar += 1
             key = normalize_empresa_id(empresa_id) or f"SIN_ID::{r.get(col_idtrib_usr, '')}"
-            rol = pick_fallback_rol(pais_usr, key)
+            pais_bucket = pais_usr
+            rol = pick_fallback_rol(pais_bucket, key)
             es_fallback = True
             if rol:
                 usuarios_redistribuidos += 1
@@ -428,9 +440,9 @@ def build_dashboard_data(
             entry["usuarios_incentivados"] += l_val
             if not rol:
                 continue  # país sin regla de reparto -> se sigue excluyendo, como antes
-        usuarios_total[rol][pais_usr] += l_val
+        usuarios_total[rol][pais_bucket] += l_val
         if es_fallback:
-            usuarios_pool_by_role_country[rol][pais_usr] += l_val
+            usuarios_pool_by_role_country[rol][pais_bucket] += l_val
         else:
             usuarios_by_exec[res["owner_email"]] += l_val
 
