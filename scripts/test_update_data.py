@@ -373,7 +373,70 @@ def test_pais_real_del_dueno_gana_sobre_tab_de_empresas():
         print("PAÍS REAL DEL DUEÑO GANA: OK ✔")
 
 
+def test_alias_de_dominio_apprecio_dcanje():
+    """Regresión: Joao Guerra está en la Leyenda como jguerra@apprecio.com (Full Cycle/Perú),
+    pero en 'Empresas' sus cuentas tienen el Email Kam registrado como jguerra@dcanje.com.
+    Sin el alias de dominio, esas cuentas caen como 'sin asignar' -> fallback a KAM/Perú,
+    vaciando por completo los números reales de Joao. Con el alias, deben matchear igual."""
+    leyenda_h = ["Correo", "KAM ID", "Rol", "Pais"]
+    leyenda_rows = [
+        ["jguerra@apprecio.com", "JG", "Full Cycle", "Perú"],
+        ["msernaque@apprecio.com", "MS", "KAM", "Perú"],
+    ]
+    leyenda_records, leyenda_hidx = records(leyenda_h, leyenda_rows)
+
+    # "Empresas" tiene el Email Kam de Joao con el otro dominio (dcanje.com, no apprecio.com).
+    empresa_owner_map = {
+        ("Perú", "49"): {"email": "jguerra@dcanje.com", "pais": "Perú"},
+        ("Perú", "61"): {"email": "jguerra@dcanje.com", "pais": "Perú"},
+    }
+
+    tickets_h = ["id", "empresa", "id_tributario", "fechaCreacion", "pais"]
+    tickets_rows = [
+        ["1", "49", "A", "2025-01-05", "Perú"],
+        ["2", "61", "B", "2025-01-10", "Perú"],
+    ]
+    tickets_records, tickets_hidx = records(tickets_h, tickets_rows)
+
+    usuarios_records, usuarios_hidx = [], build_header_index(
+        ["ID Empresa", "N usuarios incentivados", "Pais"]
+    )
+    reuniones_records, reuniones_hidx = [], build_header_index(
+        ["ID_REUNION", "FECHA_ISO", "ANIO", "MES", "SELLER_EMAIL", "KAM ID"]
+    )
+
+    output, unmatched = build_dashboard_data(
+        tickets_records, tickets_hidx,
+        usuarios_records, usuarios_hidx,
+        reuniones_records, reuniones_hidx,
+        leyenda_records, leyenda_hidx,
+        empresa_owner_map,
+    )
+
+    errors = []
+
+    def check(label, actual, expected):
+        if actual != expected:
+            errors.append(f"{label}: esperado {expected}, obtuve {actual}")
+
+    fc_peru = output["tabs"]["Full Cycle"]["countries"]["Perú"]
+    kam_peru = output["tabs"]["KAM"]["countries"]["Perú"]
+
+    check("Los 2 tickets de Joao matchean a él (Full Cycle/Perú), no quedan sin asignar", fc_peru["total_clientes"], 2)
+    check("No hay nada redistribuido a KAM/Perú (todo matcheó por el alias de dominio)", kam_peru["total_clientes"], 0)
+    check("Sin tickets sin asignar", output["meta"]["tickets_sin_asignar"], 0)
+
+    if errors:
+        print("FALLÓ (alias de dominio):")
+        for e in errors:
+            print(" -", e)
+        sys.exit(1)
+    else:
+        print("ALIAS DE DOMINIO APPRECIO/DCANJE: OK ✔")
+
+
 if __name__ == "__main__":
     main()
     test_ids_no_se_mezclan_entre_paises()
     test_pais_real_del_dueno_gana_sobre_tab_de_empresas()
+    test_alias_de_dominio_apprecio_dcanje()
