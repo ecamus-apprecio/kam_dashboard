@@ -369,11 +369,13 @@ def build_dashboard_data(
                 pass
 
     tickets_mensual = defaultdict(dict)
+    tickets_n_meses = defaultdict(dict)  # meses activos usados como denominador (compartido con exec/pool)
     for rol in ROLES:
         for pais in COUNTRY_ORDER:
             months = tickets_by_role_country_month[rol].get(pais, {})
             active = [v for v in months.values() if v > 0]
             tickets_mensual[rol][pais] = round(sum(active) / len(active), 2) if active else 0
+            tickets_n_meses[rol][pais] = len(active)
 
     total_clientes = defaultdict(dict)
     for rol in ROLES:
@@ -484,21 +486,53 @@ def build_dashboard_data(
     month_keys_sorted = sorted(all_month_keys)
     month_labels = [month_label(mk) for mk in month_keys_sorted]
 
-    # --- Detalle por ejecutivo real (nombre) -------------------------------------
-    def avg_activos(month_dict):
-        active = [v for v in month_dict.values() if v > 0]
-        return round(sum(active) / len(active), 2) if active else 0
+    # --- Reuniones: promedio mensual y meses activos por rol/país (mismo criterio que tickets) ---
+    reuniones_mensual = defaultdict(dict)
+    reuniones_n_meses = defaultdict(dict)
+    reuniones_monthly_by_role_country = defaultdict(dict)
+    for rol in ROLES:
+        for pais in COUNTRY_ORDER:
+            monthly_counts = [
+                reuniones_by_role_country_month[rol][pais].get(mk, 0) for mk in month_keys_sorted
+            ]
+            active = [v for v in monthly_counts if v > 0]
+            reuniones_mensual[rol][pais] = round(sum(active) / len(active), 2) if active else 0
+            reuniones_n_meses[rol][pais] = len(active)
+            reuniones_monthly_by_role_country[rol][pais] = monthly_counts
 
+    # --- Detalle por ejecutivo real (nombre) -------------------------------------
+    # Lo redistribuido (pool) NO se muestra aparte: se reparte en partes iguales entre
+    # los ejecutivos reales de ese rol/país y se suma directo a sus propios números,
+    # usando el MISMO denominador de meses que el país (para que la suma de todos los
+    # ejecutivos coincida con el total del país en las tarjetas/ranking).
     ejecutivos_detalle = defaultdict(lambda: defaultdict(list))  # [rol][pais] = [ {...}, ... ]
     for correo, info in correo_to_exec.items():
         rol, pais = info["rol"], info["pais"]
+        n_exec = ejecutivos.get(rol, {}).get(pais, 0) or 1
+
+        n_meses_tix = tickets_n_meses.get(rol, {}).get(pais, 0)
+        own_tickets_sum = sum(tickets_by_exec_month.get(correo, {}).values())
+        pool_tickets_sum = sum(tickets_pool_by_role_country_month[rol].get(pais, {}).values())
+        own_tickets_mensual = (own_tickets_sum / n_meses_tix) if n_meses_tix else 0
+        pool_tickets_mensual = (pool_tickets_sum / n_meses_tix) if n_meses_tix else 0
+
+        n_meses_reu = reuniones_n_meses.get(rol, {}).get(pais, 0)
+        own_reuniones_sum = sum(reuniones_by_exec_month.get(correo, {}).values())
+        own_reuniones_mensual = (own_reuniones_sum / n_meses_reu) if n_meses_reu else 0
+
+        own_clientes = len(clientes_by_exec.get(correo, set()))
+        pool_clientes = len(clientes_pool_by_role_country[rol].get(pais, set()))
+
+        own_usuarios = usuarios_by_exec.get(correo, 0)
+        pool_usuarios = usuarios_pool_by_role_country[rol].get(pais, 0)
+
         ejecutivos_detalle[rol][pais].append({
             "nombre": info["nombre"],
             "correo": correo,
-            "tickets_mensual": avg_activos(tickets_by_exec_month.get(correo, {})),
-            "reuniones_mensual": avg_activos(reuniones_by_exec_month.get(correo, {})),
-            "total_clientes": len(clientes_by_exec.get(correo, set())),
-            "usuarios_total": round(usuarios_by_exec.get(correo, 0), 2),
+            "tickets_mensual": round(own_tickets_mensual + pool_tickets_mensual / n_exec, 2),
+            "reuniones_mensual": round(own_reuniones_mensual, 2),
+            "total_clientes": round(own_clientes + pool_clientes / n_exec, 2),
+            "usuarios_total": round(own_usuarios + pool_usuarios / n_exec, 2),
         })
     for rol in ejecutivos_detalle:
         for pais in ejecutivos_detalle[rol]:
@@ -510,19 +544,12 @@ def build_dashboard_data(
         countries = {}
         for pais in COUNTRY_ORDER:
             n_exec = ejecutivos.get(rol, {}).get(pais, 0)
-            monthly_counts = [
-                reuniones_by_role_country_month[rol][pais].get(mk, 0) for mk in month_keys_sorted
-            ]
-            active = [v for v in monthly_counts if v > 0]
-            reuniones_mensual_v = round(sum(active) / len(active), 2) if active else 0
+            monthly_counts = reuniones_monthly_by_role_country[rol][pais]
+            reuniones_mensual_v = reuniones_mensual[rol].get(pais, 0)
 
             t_mensual = tickets_mensual[rol].get(pais, 0)
             t_clientes = total_clientes[rol].get(pais, 0)
             u_total = round(usuarios_total[rol].get(pais, 0), 2)
-
-            pool_tickets = avg_activos(tickets_pool_by_role_country_month[rol].get(pais, {}))
-            pool_clientes = len(clientes_pool_by_role_country[rol].get(pais, set()))
-            pool_usuarios = round(usuarios_pool_by_role_country[rol].get(pais, 0), 2)
 
             countries[pais] = {
                 "flag": COUNTRY_FLAGS.get(pais, ""),
@@ -537,11 +564,6 @@ def build_dashboard_data(
                 "usuarios_total": u_total,
                 "usuarios_exec": safe_div(u_total, n_exec),
                 "ejecutivos_detalle": ejecutivos_detalle.get(rol, {}).get(pais, []),
-                "pool_sin_asignar": {
-                    "tickets_mensual": pool_tickets,
-                    "total_clientes": pool_clientes,
-                    "usuarios_total": pool_usuarios,
-                },
             }
         tabs[rol] = {"countries": countries, "country_order": COUNTRY_ORDER}
 
