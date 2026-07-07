@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-07-07T17:22:23.781285+00:00",
+  "generated_at": "2026-07-07T18:26:05.554099+00:00",
   "tickets_sin_asignar": [
-    {
-      "empresa_id": "185",
-      "nombre_empresa": "UTP S.A.C",
-      "rut": "20462509236",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 340
-    },
     {
       "empresa_id": "620",
       "nombre_empresa": "Entel - Impulsa Perú",
@@ -20,36 +10,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 261
-    },
-    {
-      "empresa_id": "49",
-      "nombre_empresa": "IPSOS - Premium Data",
-      "rut": "20503632528",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 161
-    },
-    {
-      "empresa_id": "61",
-      "nombre_empresa": "IPSOS PERU",
-      "rut": "20260497414",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 88
-    },
-    {
-      "empresa_id": "87",
-      "nombre_empresa": "ARELLANO",
-      "rut": "20306302621",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 80
     },
     {
       "empresa_id": "1802",
@@ -62,46 +22,6 @@
       "count": 74
     },
     {
-      "empresa_id": "193",
-      "nombre_empresa": "USIL",
-      "rut": "20297868790",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 74
-    },
-    {
-      "empresa_id": "336",
-      "nombre_empresa": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS S.A.C",
-      "rut": "20211614545",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 62
-    },
-    {
-      "empresa_id": "264",
-      "nombre_empresa": "UNIVERSIDADPRIVADADELNORTESAC",
-      "rut": "",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 47
-    },
-    {
-      "empresa_id": "752",
-      "nombre_empresa": "DROGUERIA PERU S.A.C.",
-      "rut": "20271470381",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 47
-    },
-    {
       "empresa_id": "114",
       "nombre_empresa": "CONGRUPO",
       "rut": "800146643",
@@ -112,26 +32,6 @@
       "count": 46
     },
     {
-      "empresa_id": "486",
-      "nombre_empresa": "ONCOSALUD S.A.C.",
-      "rut": "20101039910",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 44
-    },
-    {
-      "empresa_id": "687",
-      "nombre_empresa": "AUNA  - FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 43
-    },
-    {
       "empresa_id": "10",
       "nombre_empresa": "Apprecio",
       "rut": "76.339.081-0",
@@ -140,26 +40,6 @@
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 42
-    },
-    {
-      "empresa_id": "98",
-      "nombre_empresa": "TELEPERFORMANCE PERU SAC",
-      "rut": "20602276491",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 42
-    },
-    {
-      "empresa_id": "404",
-      "nombre_empresa": "AUNA - GSP SERVICIOS GENERALES S.A.C.",
-      "rut": "20536435582",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 39
     },
     {
       "empresa_id": "686",
@@ -182,16 +62,6 @@
       "count": 36
     },
     {
-      "empresa_id": "91",
-      "nombre_empresa": "Los Portales",
-      "rut": "20553346178",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 35
-    },
-    {
       "empresa_id": "505",
       "nombre_empresa": "TresMontes lucchetti",
       "rut": "995505800",
@@ -200,26 +70,6 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 31
-    },
-    {
-      "empresa_id": "200",
-      "nombre_empresa": "MOKPERÚSAC",
-      "rut": "",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 30
-    },
-    {
-      "empresa_id": "682",
-      "nombre_empresa": "ZEGEL - AREAS",
-      "rut": "20553617627",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 28
     },
     {
       "empresa_id": "3",
@@ -232,26 +82,6 @@
       "count": 27
     },
     {
-      "empresa_id": "232",
-      "nombre_empresa": "Salesland",
-      "rut": "20543323862",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 26
-    },
-    {
-      "empresa_id": "335",
-      "nombre_empresa": "IES CIBERTEC SAC",
-      "rut": "20349287111",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 23
-    },
-    {
       "empresa_id": "165",
       "nombre_empresa": "ENTEL-CHILE S.A.",
       "rut": "92580000",
@@ -262,52 +92,12 @@
       "count": 22
     },
     {
-      "empresa_id": "58",
-      "nombre_empresa": "AUTOSECURITY",
-      "rut": "760380342",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 21
-    },
-    {
-      "empresa_id": "689",
-      "nombre_empresa": "GLOBALIA CONSULTANCY S.A.C.",
-      "rut": "20604454451",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 21
-    },
-    {
-      "empresa_id": "100",
-      "nombre_empresa": "FERREYROS S.A",
-      "rut": "20100028698",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 19
-    },
-    {
       "empresa_id": "1754",
       "nombre_empresa": "Americar",
       "rut": "76414568-2",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 18
-    },
-    {
-      "empresa_id": "145",
-      "nombre_empresa": "ZEGEL - IPAE",
-      "rut": "20553617627",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 18
     },
@@ -322,16 +112,6 @@
       "count": 17
     },
     {
-      "empresa_id": "186",
-      "nombre_empresa": "CONSTRUCTORA GALILEA",
-      "rut": "20521119943",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 17
-    },
-    {
       "empresa_id": "15",
       "nombre_empresa": "SIIGO",
       "rut": "992560754001",
@@ -340,56 +120,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 17
-    },
-    {
-      "empresa_id": "743",
-      "nombre_empresa": "Medifarma",
-      "rut": "20100018625",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 16
-    },
-    {
-      "empresa_id": "744",
-      "nombre_empresa": "LAUREATE - CLUB CAMPEONES",
-      "rut": "20521386470",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 15
-    },
-    {
-      "empresa_id": "115",
-      "nombre_empresa": "SIEGFRIED MARKETING",
-      "rut": "20523951603",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 14
-    },
-    {
-      "empresa_id": "164",
-      "nombre_empresa": "SOLE",
-      "rut": "20555190132",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 14
-    },
-    {
-      "empresa_id": "606",
-      "nombre_empresa": "BAT - PRIMAX",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 14
     },
     {
       "empresa_id": "63",
@@ -402,12 +132,12 @@
       "count": 14
     },
     {
-      "empresa_id": "608",
-      "nombre_empresa": "BAT - TAMBO",
-      "rut": "20261180937",
-      "pais": "Perú",
+      "empresa_id": "58",
+      "nombre_empresa": "AUTOSECURITY",
+      "rut": "760380342",
+      "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 13
     },
@@ -432,16 +162,6 @@
       "count": 13
     },
     {
-      "empresa_id": "525",
-      "nombre_empresa": "Heineken",
-      "rut": "20605524126",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 12
-    },
-    {
       "empresa_id": "533",
       "nombre_empresa": "Fidetech",
       "rut": "9015865580",
@@ -458,56 +178,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 11
-    },
-    {
-      "empresa_id": "741",
-      "nombre_empresa": "CALOX VITA PHARMA SAC",
-      "rut": "20506934061",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 11
-    },
-    {
-      "empresa_id": "770",
-      "nombre_empresa": "VIVIENDAS DEL PERÚ",
-      "rut": "20512691529",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 11
-    },
-    {
-      "empresa_id": "71",
-      "nombre_empresa": "Prima AFP",
-      "rut": "20510398158",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 11
-    },
-    {
-      "empresa_id": "777",
-      "nombre_empresa": "BAT - AVA",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 11
-    },
-    {
-      "empresa_id": "518",
-      "nombre_empresa": "ASSURANT SERVICES PERU SAC",
-      "rut": "20425017781",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 11
     },
@@ -532,52 +202,12 @@
       "count": 10
     },
     {
-      "empresa_id": "868",
-      "nombre_empresa": "Bases propias Inbound - AUNA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 10
-    },
-    {
       "empresa_id": "754",
       "nombre_empresa": "FORD - FUERZA",
       "rut": "20555903546",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 10
-    },
-    {
-      "empresa_id": "631",
-      "nombre_empresa": "BAT - Premiaciones Groceries",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 10
-    },
-    {
-      "empresa_id": "804",
-      "nombre_empresa": "MI PC LISTA",
-      "rut": "20512034617",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 10
-    },
-    {
-      "empresa_id": "607",
-      "nombre_empresa": "BAT - OXXO",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 10
     },
@@ -602,26 +232,6 @@
       "count": 9
     },
     {
-      "empresa_id": "856",
-      "nombre_empresa": "CONCENTRIX BPO",
-      "rut": "20525011993",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 9
-    },
-    {
-      "empresa_id": "871",
-      "nombre_empresa": "Gestión Digital - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 9
-    },
-    {
       "empresa_id": "1057",
       "nombre_empresa": "NEXOS SOFTWARE",
       "rut": "8110237291",
@@ -632,42 +242,12 @@
       "count": 9
     },
     {
-      "empresa_id": "92",
-      "nombre_empresa": "IDAT",
-      "rut": "20605391738",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "870",
-      "nombre_empresa": "Marca Blanca - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
       "empresa_id": "434",
       "nombre_empresa": "Entel Call Center Outbound",
       "rut": "96806980-2",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "647",
-      "nombre_empresa": "GENFAR DEL PERU S.A.C.",
-      "rut": "20609981262",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 8
     },
@@ -708,26 +288,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 7
-    },
-    {
-      "empresa_id": "373",
-      "nombre_empresa": "LAUREATE PERU S.A.C",
-      "rut": "20521386470",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 7
-    },
-    {
-      "empresa_id": "817",
-      "nombre_empresa": "Medifarma - Marketing",
-      "rut": "20100018625",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 7
     },
@@ -782,56 +342,6 @@
       "count": 6
     },
     {
-      "empresa_id": "206",
-      "nombre_empresa": "NIUBIZ",
-      "rut": "20341198217",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
-      "empresa_id": "236",
-      "nombre_empresa": "Tata Consultancy RRHH",
-      "rut": "20535627101",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
-      "empresa_id": "138",
-      "nombre_empresa": "GASODOMESTICOS SAC",
-      "rut": "20600608976",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
-      "empresa_id": "803",
-      "nombre_empresa": "PLAYWITH LATIN AMERICA",
-      "rut": "20600195833",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
-      "empresa_id": "701",
-      "nombre_empresa": "BAT - REPSOL",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
       "empresa_id": "821",
       "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
       "rut": "20614426692",
@@ -858,66 +368,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "676",
-      "nombre_empresa": "DIGITAL - ENTEL",
-      "rut": "20106897914",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "153",
-      "nombre_empresa": "SIEMENS SAC",
-      "rut": "20605499725",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "739",
-      "nombre_empresa": "ACTIVA RESEARCH",
-      "rut": "76069565-3",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "485",
-      "nombre_empresa": "DATABLU S.A.C.",
-      "rut": "20603000901",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "466",
-      "nombre_empresa": "BCP - MKT ED FINANCIERA",
-      "rut": "20100047218",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "816",
-      "nombre_empresa": "UNIVERSIDAD MARIA AUXILIADORA S.A.C.",
-      "rut": "20550807123",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 5
     },
@@ -1002,26 +452,6 @@
       "count": 4
     },
     {
-      "empresa_id": "214",
-      "nombre_empresa": "ISTECEX",
-      "rut": "20117489371",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "869",
-      "nombre_empresa": "Call de citas - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
       "empresa_id": "690",
       "nombre_empresa": "TM Gestion inmobiliaria",
       "rut": "20549790373",
@@ -1032,62 +462,12 @@
       "count": 4
     },
     {
-      "empresa_id": "729",
-      "nombre_empresa": "BAT - On Trade",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "802",
-      "nombre_empresa": "CENTRO DE INNOVACION PROFESIONAL EIRL",
-      "rut": "20606165031",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
       "empresa_id": "758",
       "nombre_empresa": "Medifarma  - Comercial",
       "rut": "20100018625",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "610",
-      "nombre_empresa": "BAT - PROMOTORES",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "855",
-      "nombre_empresa": "ZAZ CONDUCTORES E.I.R.L",
-      "rut": "20613920197",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "246",
-      "nombre_empresa": "ITG SOLUTIONS",
-      "rut": "20505160674",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 4
     },
@@ -1172,16 +552,6 @@
       "count": 4
     },
     {
-      "empresa_id": "107",
-      "nombre_empresa": "LUXE WATCHES-EC",
-      "rut": "993368924001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dallendes@apprecio.com",
-      "redistribuido_a": null,
-      "count": 4
-    },
-    {
       "empresa_id": "229",
       "nombre_empresa": "Atlas Desarrollos",
       "rut": "EGH03012742A",
@@ -1232,112 +602,22 @@
       "count": 3
     },
     {
-      "empresa_id": "201",
-      "nombre_empresa": "LA VICTORIA",
-      "rut": "20544794508",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "484",
-      "nombre_empresa": "BCP",
-      "rut": "20100047218",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "659",
-      "nombre_empresa": "DIDI",
-      "rut": "20.608.737.252",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "865",
-      "nombre_empresa": "IDAT-AREAS",
-      "rut": "20605391738",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "789",
-      "nombre_empresa": "URBALIMA SAC",
-      "rut": "20550773393",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "136",
-      "nombre_empresa": "DINERS CLUB PERU S A",
-      "rut": "20100118760",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "241",
-      "nombre_empresa": "PACASMAYO TI",
-      "rut": "20419387658",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "340",
-      "nombre_empresa": "Russell Mineral",
-      "rut": "20607594113",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "753",
-      "nombre_empresa": "GRUPO PATIO PERÚ",
-      "rut": "20555903546",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "749",
-      "nombre_empresa": "Seven Services",
-      "rut": "20544938356",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
       "empresa_id": "882",
       "nombre_empresa": "RUTACA PERU",
       "rut": "20601432472",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "855",
+      "nombre_empresa": "JSMD MANAGEMENT S.A.S",
+      "rut": "9014062521",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 3
     },
@@ -1415,6 +695,16 @@
       "empresa_id": "75",
       "nombre_empresa": "PRECISION ECUADOR",
       "rut": "993016578001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 3
+    },
+    {
+      "empresa_id": "71",
+      "nombre_empresa": "EVALUAR",
+      "rut": "1792213495001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1548,106 +838,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "247",
-      "nombre_empresa": "SIEMENS ENERGY SAC",
-      "rut": "20303180720",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "796",
-      "nombre_empresa": "BCP - Agencias",
-      "rut": "20100047218",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "217",
-      "nombre_empresa": "AUNA - GSP SERVICIOS COMERCIALES",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "319",
-      "nombre_empresa": "CENTENARIO",
-      "rut": "",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "574",
-      "nombre_empresa": "Limagas - Transformación digital",
-      "rut": "20100007348",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "629",
-      "nombre_empresa": "AGHASO SAC",
-      "rut": "20608707850",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "483",
-      "nombre_empresa": "SANTILLANA S.A.",
-      "rut": "20.100.366.151",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "801",
-      "nombre_empresa": "TOULOUSE LAUTREC",
-      "rut": "20603817185",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "427",
-      "nombre_empresa": "Alianza Francesa de Trujillo",
-      "rut": "20175099931",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "833",
-      "nombre_empresa": "Pricinc By AR  (Arellano)",
-      "rut": "20600619145",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -1992,52 +1182,12 @@
       "count": 1
     },
     {
-      "empresa_id": "80",
-      "nombre_empresa": "Cementos Pacasmayo",
-      "rut": "20419387658",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "577",
-      "nombre_empresa": "Portugal-  Gerencia de genéricos y OTCX",
-      "rut": "20100204330",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "888",
       "nombre_empresa": "UPC CAMPAÑAS POST GRADO",
       "rut": "20211614545",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "476",
-      "nombre_empresa": "UPCH - PROYECTOS3",
-      "rut": "20110768151",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "131",
-      "nombre_empresa": "ASOCIACION DE EXPORTADORES - ADEX",
-      "rut": "20100365341",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -2062,32 +1212,12 @@
       "count": 1
     },
     {
-      "empresa_id": "641",
-      "nombre_empresa": "UNIMAQ SA",
-      "rut": "20100027021",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "822",
       "nombre_empresa": "PERIFERIA IT CORP PERU S.A.C.",
       "rut": "20563741679",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "599",
-      "nombre_empresa": "SIETEL SAC",
-      "rut": "20565287509",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -2112,42 +1242,12 @@
       "count": 1
     },
     {
-      "empresa_id": "723",
-      "nombre_empresa": "SOLUCIONES CREALO 150 SAC\t - CEMENTOS PACASMAYO",
-      "rut": "20612989142",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "842",
       "nombre_empresa": "BUK CHILE",
       "rut": "20606476338",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "612",
-      "nombre_empresa": "ZEGEL - ITS",
-      "rut": "20553617627",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "415",
-      "nombre_empresa": "CORRIENTE ALTERNA",
-      "rut": "20118169671",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -2182,16 +1282,6 @@
       "count": 1
     },
     {
-      "empresa_id": "289",
-      "nombre_empresa": "Bosch Peru SAC",
-      "rut": "20524506166",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "859",
       "nombre_empresa": "TuCambista SAC",
       "rut": "20602160557",
@@ -2222,52 +1312,12 @@
       "count": 1
     },
     {
-      "empresa_id": "51",
-      "nombre_empresa": "KANTAR IBOPE MEDIA - PANELES",
-      "rut": "20297154673",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "874",
-      "nombre_empresa": "MOK - HIRAOKA",
-      "rut": "20555299061",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "884",
-      "nombre_empresa": "Heineken - Programa 5S",
-      "rut": "20605524126",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "885",
       "nombre_empresa": "DROGUERIA CADILLO",
       "rut": "20392764373",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "879",
-      "nombre_empresa": "IBR PERU S.A.",
-      "rut": "20552836481",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -2288,16 +1338,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "554",
-      "nombre_empresa": "BAT - TRADE",
-      "rut": "20100124492",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -2325,6 +1365,16 @@
       "empresa_id": "1140",
       "nombre_empresa": "MPI PHARMACEUTICA COLOMBIA SAS",
       "rut": "9009080612",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "801",
+      "nombre_empresa": "DAYVO SISTEMAS COLOMBIA SAS",
+      "rut": "9011939174",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
@@ -2512,16 +1562,6 @@
       "count": 1
     },
     {
-      "empresa_id": "110",
-      "nombre_empresa": "Fidetech",
-      "rut": "9015865580",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dallendes@apprecio.com",
-      "redistribuido_a": null,
-      "count": 1
-    },
-    {
       "empresa_id": "97",
       "nombre_empresa": "TMRMOVILIDAD SAS",
       "rut": "1793204109001",
@@ -2555,6 +1595,16 @@
       "empresa_id": "60",
       "nombre_empresa": "MEGONETWORKS",
       "rut": "1793065457001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 1
+    },
+    {
+      "empresa_id": "100",
+      "nombre_empresa": "DKT Ecuador",
+      "rut": "1792748321001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -2600,19 +1650,39 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "count": 1
+    },
+    {
+      "empresa_id": "232",
+      "nombre_empresa": "Sinergy Solutions",
+      "rut": "SSO001124AT2",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 1
+    },
+    {
+      "empresa_id": "236",
+      "nombre_empresa": "MELLOW",
+      "rut": "WAM180816UK6",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 1
+    },
+    {
+      "empresa_id": "246",
+      "nombre_empresa": "NEOCENTER",
+      "rut": "NEO0303288Z1",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 1
     }
   ],
   "usuarios_sin_asignar": [
-    {
-      "empresa_id": "98",
-      "nombre_empresa": "TELEPERFORMANCE PERU SAC",
-      "rut": "20602276491",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 4787.0
-    },
     {
       "empresa_id": "10",
       "nombre_empresa": "Apprecio",
@@ -2622,26 +1692,6 @@
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 3311.0
-    },
-    {
-      "empresa_id": "49",
-      "nombre_empresa": "IPSOS - Premium Data",
-      "rut": "20503632528",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2778.0
-    },
-    {
-      "empresa_id": "185",
-      "nombre_empresa": "UTP S.A.C",
-      "rut": " 20462509236",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2664.0
     },
     {
       "empresa_id": "343",
@@ -2664,16 +1714,6 @@
       "usuarios_incentivados": 2116.0
     },
     {
-      "empresa_id": "608",
-      "nombre_empresa": "BAT - TAMBO",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1893.0
-    },
-    {
       "empresa_id": "620",
       "nombre_empresa": "Entel - Impulsa Perú",
       "rut": "20106897914",
@@ -2684,16 +1724,6 @@
       "usuarios_incentivados": 1483.0
     },
     {
-      "empresa_id": "606",
-      "nombre_empresa": "BAT - PRIMAX",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1438.0
-    },
-    {
       "empresa_id": "1",
       "nombre_empresa": "Apprecio",
       "rut": "",
@@ -2702,16 +1732,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 1386.0
-    },
-    {
-      "empresa_id": "607",
-      "nombre_empresa": "BAT - OXXO",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1205.0
     },
     {
       "empresa_id": "1802",
@@ -2734,26 +1754,6 @@
       "usuarios_incentivados": 837.0
     },
     {
-      "empresa_id": "236",
-      "nombre_empresa": "Tata Consultancy RRHH",
-      "rut": "20535627101",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 760.0
-    },
-    {
-      "empresa_id": "689",
-      "nombre_empresa": "GLOBALIA CONSULTANCY S.A.C.",
-      "rut": "20604454451",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 670.0
-    },
-    {
       "empresa_id": "1846",
       "nombre_empresa": "VIVO TECH",
       "rut": "55555555-5",
@@ -2764,26 +1764,6 @@
       "usuarios_incentivados": 662.0
     },
     {
-      "empresa_id": "264",
-      "nombre_empresa": "UNIVERSIDADPRIVADADELNORTESAC",
-      "rut": "",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 657.0
-    },
-    {
-      "empresa_id": "193",
-      "nombre_empresa": "USIL",
-      "rut": "20297868790",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 635.0
-    },
-    {
       "empresa_id": "1074",
       "nombre_empresa": "Logis Fashion",
       "rut": "96653770-1",
@@ -2792,16 +1772,6 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 600.0
-    },
-    {
-      "empresa_id": "58",
-      "nombre_empresa": "AUTOSECURITY",
-      "rut": "76038034-2",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 565.0
     },
     {
       "empresa_id": "434",
@@ -2822,16 +1792,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 463.0
-    },
-    {
-      "empresa_id": "744",
-      "nombre_empresa": "LAUREATE - CLUB CAMPEONES",
-      "rut": "20521386470",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 461.0
     },
     {
       "empresa_id": "505",
@@ -2874,26 +1834,6 @@
       "usuarios_incentivados": 377.0
     },
     {
-      "empresa_id": "687",
-      "nombre_empresa": "AUNA  - FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 374.0
-    },
-    {
-      "empresa_id": "61",
-      "nombre_empresa": "IPSOS PERU",
-      "rut": "20260497414",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 368.0
-    },
-    {
       "empresa_id": "165",
       "nombre_empresa": "ENTEL-CHILE S.A.",
       "rut": "92580000",
@@ -2902,16 +1842,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 363.0
-    },
-    {
-      "empresa_id": "186",
-      "nombre_empresa": "CONSTRUCTORA GALILEA",
-      "rut": "20521119943",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 351.0
     },
     {
       "empresa_id": "1528",
@@ -2934,36 +1864,6 @@
       "usuarios_incentivados": 335.0
     },
     {
-      "empresa_id": "336",
-      "nombre_empresa": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS S.A.C",
-      "rut": "20211614545",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 300.0
-    },
-    {
-      "empresa_id": "232",
-      "nombre_empresa": "Salesland",
-      "rut": "20543323862",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 270.0
-    },
-    {
-      "empresa_id": "164",
-      "nombre_empresa": "SOLE",
-      "rut": "20555190132",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 268.0
-    },
-    {
       "empresa_id": "1035",
       "nombre_empresa": "Polar",
       "rut": "76333370-1",
@@ -2982,16 +1882,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 232.0
-    },
-    {
-      "empresa_id": "145",
-      "nombre_empresa": "ZEGEL - IPAE",
-      "rut": "20553617627",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 229.0
     },
     {
       "empresa_id": "359",
@@ -3014,36 +1904,6 @@
       "usuarios_incentivados": 216.0
     },
     {
-      "empresa_id": "631",
-      "nombre_empresa": "BAT - Premiaciones Groceries",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 212.0
-    },
-    {
-      "empresa_id": "777",
-      "nombre_empresa": "BAT - AVA",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 207.0
-    },
-    {
-      "empresa_id": "701",
-      "nombre_empresa": "BAT - REPSOL",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 199.0
-    },
-    {
       "empresa_id": "1817",
       "nombre_empresa": "Equilibrium",
       "rut": "55555555-5",
@@ -3052,16 +1912,6 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 195.0
-    },
-    {
-      "empresa_id": "153",
-      "nombre_empresa": "SIEMENS SAC",
-      "rut": "20605499725",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 192.0
     },
     {
       "empresa_id": "821",
@@ -3074,26 +1924,6 @@
       "usuarios_incentivados": 183.0
     },
     {
-      "empresa_id": "91",
-      "nombre_empresa": "Los Portales",
-      "rut": "20553346178",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 182.0
-    },
-    {
-      "empresa_id": "335",
-      "nombre_empresa": "IES CIBERTEC SAC",
-      "rut": "20349287111",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 171.0
-    },
-    {
       "empresa_id": "788",
       "nombre_empresa": "SALESLAND CHILE",
       "rut": "555555555",
@@ -3104,36 +1934,6 @@
       "usuarios_incentivados": 166.0
     },
     {
-      "empresa_id": "739",
-      "nombre_empresa": "ACTIVA RESEARCH",
-      "rut": "76069565-3",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 154.0
-    },
-    {
-      "empresa_id": "741",
-      "nombre_empresa": "CALOX VITA PHARMA SAC",
-      "rut": "20506934061",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 153.0
-    },
-    {
-      "empresa_id": "743",
-      "nombre_empresa": "Medifarma",
-      "rut": "20100018625",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 151.0
-    },
-    {
       "empresa_id": "79",
       "nombre_empresa": "NTT-DATA ECUADOR S.A.",
       "rut": "1793207896001",
@@ -3142,36 +1942,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 148.0
-    },
-    {
-      "empresa_id": "770",
-      "nombre_empresa": "VIVIENDAS DEL PERÚ",
-      "rut": "20512691529",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 147.0
-    },
-    {
-      "empresa_id": "100",
-      "nombre_empresa": "FERREYROS S.A",
-      "rut": "20100028698",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 142.0
-    },
-    {
-      "empresa_id": "87",
-      "nombre_empresa": "ARELLANO",
-      "rut": "20306302621",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 141.0
     },
     {
       "empresa_id": "1495",
@@ -3224,26 +1994,6 @@
       "usuarios_incentivados": 115.0
     },
     {
-      "empresa_id": "92",
-      "nombre_empresa": "IDAT",
-      "rut": "20605391738",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 112.0
-    },
-    {
-      "empresa_id": "71",
-      "nombre_empresa": "Prima AFP",
-      "rut": "20510398158",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 107.0
-    },
-    {
       "empresa_id": "754",
       "nombre_empresa": "FORD - FUERZA",
       "rut": "20555903546",
@@ -3252,16 +2002,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 105.0
-    },
-    {
-      "empresa_id": "817",
-      "nombre_empresa": "Medifarma - Marketing",
-      "rut": "20100018625",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 98.0
     },
     {
       "empresa_id": "822",
@@ -3274,26 +2014,6 @@
       "usuarios_incentivados": 94.0
     },
     {
-      "empresa_id": "214",
-      "nombre_empresa": "ISTECEX",
-      "rut": "20117489371",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 90.0
-    },
-    {
-      "empresa_id": "200",
-      "nombre_empresa": "MOKPERÚSAC",
-      "rut": "",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 89.0
-    },
-    {
       "empresa_id": "89",
       "nombre_empresa": "CALBAQ S.A.",
       "rut": "0990135630001",
@@ -3302,16 +2022,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 88.0
-    },
-    {
-      "empresa_id": "131",
-      "nombre_empresa": "ASOCIACION DE EXPORTADORES - ADEX",
-      "rut": "20100365341",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 84.0
     },
     {
       "empresa_id": "1634",
@@ -3334,56 +2044,6 @@
       "usuarios_incentivados": 81.0
     },
     {
-      "empresa_id": "868",
-      "nombre_empresa": "Bases propias Inbound - AUNA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 80.0
-    },
-    {
-      "empresa_id": "752",
-      "nombre_empresa": "DROGUERIA PERU S.A.C.",
-      "rut": "20271470381",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 79.0
-    },
-    {
-      "empresa_id": "682",
-      "nombre_empresa": "ZEGEL - AREAS",
-      "rut": "20553617627",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 78.0
-    },
-    {
-      "empresa_id": "373",
-      "nombre_empresa": "LAUREATE PERU S.A.C",
-      "rut": "20521386470",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 73.0
-    },
-    {
-      "empresa_id": "222",
-      "nombre_empresa": "BEYOND ELITE CHILE SpA",
-      "rut": "771252850",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 65.0
-    },
-    {
       "empresa_id": "82",
       "nombre_empresa": "SMARTSTORES S.A.",
       "rut": "0190495825001",
@@ -3392,36 +2052,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 63.0
-    },
-    {
-      "empresa_id": "486",
-      "nombre_empresa": "ONCOSALUD S.A.C.",
-      "rut": "20101039910",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 61.0
-    },
-    {
-      "empresa_id": "870",
-      "nombre_empresa": "Marca Blanca - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 61.0
-    },
-    {
-      "empresa_id": "485",
-      "nombre_empresa": "DATABLU S.A.C.",
-      "rut": "20603000901",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 59.0
     },
     {
       "empresa_id": "1057",
@@ -3434,42 +2064,12 @@
       "usuarios_incentivados": 58.0
     },
     {
-      "empresa_id": "729",
-      "nombre_empresa": "BAT - On Trade",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 56.0
-    },
-    {
-      "empresa_id": "871",
-      "nombre_empresa": "Gestión Digital - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 55.0
-    },
-    {
       "empresa_id": "1754",
       "nombre_empresa": "Americar",
       "rut": "76414568-2",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 54.0
-    },
-    {
-      "empresa_id": "247",
-      "nombre_empresa": "SIEMENS ENERGY SAC",
-      "rut": "20303180720",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 54.0
     },
@@ -3482,16 +2082,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 52.0
-    },
-    {
-      "empresa_id": "518",
-      "nombre_empresa": "ASSURANT SERVICES PERU SAC",
-      "rut": "20425017781",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 51.0
     },
     {
       "empresa_id": "1153",
@@ -3534,26 +2124,6 @@
       "usuarios_incentivados": 45.0
     },
     {
-      "empresa_id": "865",
-      "nombre_empresa": "IDAT-AREAS",
-      "rut": "20605391738",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 43.0
-    },
-    {
-      "empresa_id": "138",
-      "nombre_empresa": "GASODOMESTICOS SAC",
-      "rut": "20600608976",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 42.0
-    },
-    {
       "empresa_id": "15",
       "nombre_empresa": "SIIGO",
       "rut": "992560754001",
@@ -3562,36 +2132,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 42.0
-    },
-    {
-      "empresa_id": "107",
-      "nombre_empresa": "LUXE WATCHES-EC",
-      "rut": "0993368924001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dallendes@apprecio.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 42.0
-    },
-    {
-      "empresa_id": "404",
-      "nombre_empresa": "AUNA - GSP SERVICIOS GENERALES S.A.C.",
-      "rut": "20536435582",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 41.0
-    },
-    {
-      "empresa_id": "319",
-      "nombre_empresa": "CENTENARIO",
-      "rut": "",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 40.0
     },
     {
       "empresa_id": "23",
@@ -3624,36 +2164,6 @@
       "usuarios_incentivados": 39.0
     },
     {
-      "empresa_id": "647",
-      "nombre_empresa": "GENFAR DEL PERU S.A.C.",
-      "rut": "20609981262",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 38.0
-    },
-    {
-      "empresa_id": "855",
-      "nombre_empresa": "ZAZ CONDUCTORES E.I.R.L",
-      "rut": "20613920197",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 37.0
-    },
-    {
-      "empresa_id": "599",
-      "nombre_empresa": "SIETEL SAC",
-      "rut": "20565287509",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 36.0
-    },
-    {
       "empresa_id": "1012",
       "nombre_empresa": "LICAVIR SAS",
       "rut": "8300722812",
@@ -3672,16 +2182,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 36.0
-    },
-    {
-      "empresa_id": "796",
-      "nombre_empresa": "BCP - Agencias",
-      "rut": "20100047218",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 35.0
     },
     {
       "empresa_id": "895",
@@ -3724,16 +2224,6 @@
       "usuarios_incentivados": 30.0
     },
     {
-      "empresa_id": "753",
-      "nombre_empresa": "GRUPO PATIO PERÚ",
-      "rut": "20555903546",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 29.0
-    },
-    {
       "empresa_id": "1052",
       "nombre_empresa": "SOFTCARIBBEAN S.A.S",
       "rut": "9002300040",
@@ -3754,54 +2244,14 @@
       "usuarios_incentivados": 29.0
     },
     {
-      "empresa_id": "749",
-      "nombre_empresa": "Seven Services",
-      "rut": "20544938356",
-      "pais": "Perú",
+      "empresa_id": "855",
+      "nombre_empresa": "JSMD MANAGEMENT S.A.S",
+      "rut": "9014062521",
+      "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 26.0
-    },
-    {
-      "empresa_id": "519",
-      "nombre_empresa": "C&C CHILE IMPORTACIONES, EXPORTACIONES Y COMERCIAL",
-      "rut": "77.182.809-0",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 25.0
-    },
-    {
-      "empresa_id": "705",
-      "nombre_empresa": "TELEPERFORMANCE PERU SAC - DE CO A PE",
-      "rut": "20602276491",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 25.0
-    },
-    {
-      "empresa_id": "676",
-      "nombre_empresa": "DIGITAL - ENTEL",
-      "rut": "20106897914",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 23.0
-    },
-    {
-      "empresa_id": "427",
-      "nombre_empresa": "Alianza Francesa de Trujillo",
-      "rut": "20175099931",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 23.0
+      "usuarios_incentivados": 27.0
     },
     {
       "empresa_id": "861",
@@ -3810,16 +2260,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 23.0
-    },
-    {
-      "empresa_id": "63",
-      "nombre_empresa": "Hersil Comercial",
-      "rut": "20100060150",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 23.0
     },
@@ -3844,36 +2284,6 @@
       "usuarios_incentivados": 22.0
     },
     {
-      "empresa_id": "241",
-      "nombre_empresa": "PACASMAYO TI",
-      "rut": "20419387658",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 21.0
-    },
-    {
-      "empresa_id": "483",
-      "nombre_empresa": "SANTILLANA S.A.",
-      "rut": "20100366151",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 21.0
-    },
-    {
-      "empresa_id": "856",
-      "nombre_empresa": "CONCENTRIX BPO",
-      "rut": "20525011993",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 21.0
-    },
-    {
       "empresa_id": "1255",
       "nombre_empresa": "XCB DE COLOMBIA LIMITED SUCURSAL COLOMBIANA",
       "rut": "8300683180",
@@ -3884,22 +2294,22 @@
       "usuarios_incentivados": 21.0
     },
     {
+      "empresa_id": "63",
+      "nombre_empresa": "HUBTEK ECUADOR S.A.S.",
+      "rut": "0993375303001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "usuarios_incentivados": 21.0
+    },
+    {
       "empresa_id": "550",
       "nombre_empresa": "Alborada",
       "rut": "76969581-8",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 20.0
-    },
-    {
-      "empresa_id": "610",
-      "nombre_empresa": "BAT - PROMOTORES",
-      "rut": "20261180937",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 20.0
     },
@@ -3924,32 +2334,12 @@
       "usuarios_incentivados": 19.0
     },
     {
-      "empresa_id": "803",
-      "nombre_empresa": "PLAYWITH LATIN AMERICA",
-      "rut": "20600195833",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 19.0
-    },
-    {
       "empresa_id": "1748",
       "nombre_empresa": "RICOH CHILE S.A",
       "rut": "96513980-k",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 17.0
-    },
-    {
-      "empresa_id": "804",
-      "nombre_empresa": "MI PC LISTA",
-      "rut": "20512034617",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 17.0
     },
@@ -3984,42 +2374,12 @@
       "usuarios_incentivados": 17.0
     },
     {
-      "empresa_id": "816",
-      "nombre_empresa": "UNIVERSIDAD MARIA AUXILIADORA S.A.C.",
-      "rut": "20550807123",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 16.0
-    },
-    {
-      "empresa_id": "206",
-      "nombre_empresa": "NIUBIZ",
-      "rut": "20341198217",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 14.0
-    },
-    {
       "empresa_id": "841",
       "nombre_empresa": "Digital itouch",
       "rut": "20606282851",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 14.0
-    },
-    {
-      "empresa_id": "67",
-      "nombre_empresa": "Hersil Marketing",
-      "rut": "20100060150",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 14.0
     },
@@ -4064,16 +2424,6 @@
       "usuarios_incentivados": 14.0
     },
     {
-      "empresa_id": "415",
-      "nombre_empresa": "CORRIENTE ALTERNA",
-      "rut": "20118169671",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 13.0
-    },
-    {
       "empresa_id": "1056",
       "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
       "rut": "9003602789",
@@ -4094,24 +2444,14 @@
       "usuarios_incentivados": 13.0
     },
     {
-      "empresa_id": "629",
-      "nombre_empresa": "AGHASO SAC",
-      "rut": "20608707850",
-      "pais": "Perú",
+      "empresa_id": "232",
+      "nombre_empresa": "Sinergy Solutions",
+      "rut": "SSO001124AT2",
+      "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 12.0
-    },
-    {
-      "empresa_id": "577",
-      "nombre_empresa": "Portugal-  Gerencia de genéricos y OTCX",
-      "rut": "20100204330",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 12.0
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 13.0
     },
     {
       "empresa_id": "1141",
@@ -4122,6 +2462,16 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
       "usuarios_incentivados": 12.0
+    },
+    {
+      "empresa_id": "58",
+      "nombre_empresa": "AUTOSECURITY",
+      "rut": "76038034-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 11.0
     },
     {
       "empresa_id": "881",
@@ -4184,23 +2534,13 @@
       "usuarios_incentivados": 10.0
     },
     {
-      "empresa_id": "246",
-      "nombre_empresa": "ITG SOLUTIONS",
-      "rut": "20505160674",
-      "pais": "Perú",
+      "empresa_id": "71",
+      "nombre_empresa": "EVALUAR",
+      "rut": "1792213495001",
+      "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 9.0
-    },
-    {
-      "empresa_id": "612",
-      "nombre_empresa": "ZEGEL - ITS",
-      "rut": "20553617627",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "usuarios_incentivados": 9.0
     },
     {
@@ -4210,26 +2550,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 8.0
-    },
-    {
-      "empresa_id": "525",
-      "nombre_empresa": "Heineken",
-      "rut": "20605524126",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 8.0
-    },
-    {
-      "empresa_id": "801",
-      "nombre_empresa": "TOULOUSE LAUTREC",
-      "rut": "20603817185",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 8.0
     },
@@ -4274,22 +2594,12 @@
       "usuarios_incentivados": 7.0
     },
     {
-      "empresa_id": "80",
-      "nombre_empresa": "Cementos Pacasmayo",
-      "rut": "20419387658",
-      "pais": "Perú",
+      "empresa_id": "801",
+      "nombre_empresa": "DAYVO SISTEMAS COLOMBIA SAS",
+      "rut": "9011939174",
+      "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 7.0
-    },
-    {
-      "empresa_id": "659",
-      "nombre_empresa": "DIDI",
-      "rut": "20.608.737.252",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 7.0
     },
@@ -4310,16 +2620,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 6.0
-    },
-    {
-      "empresa_id": "115",
-      "nombre_empresa": "SIEGFRIED MARKETING",
-      "rut": "20523951603",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
     },
@@ -4360,16 +2660,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 5.0
-    },
-    {
-      "empresa_id": "136",
-      "nombre_empresa": "DINERS CLUB PERU S A",
-      "rut": "20100118760",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 5.0
     },
@@ -4450,26 +2740,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3.0
-    },
-    {
-      "empresa_id": "869",
-      "nombre_empresa": "Call de citas - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3.0
-    },
-    {
-      "empresa_id": "879",
-      "nombre_empresa": "IBR PERU S.A.",
-      "rut": "20552836481",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
@@ -4604,72 +2874,12 @@
       "usuarios_incentivados": 2.0
     },
     {
-      "empresa_id": "466",
-      "nombre_empresa": "BCP - MKT ED FINANCIERA",
-      "rut": "20100047218",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "201",
-      "nombre_empresa": "LA VICTORIA",
-      "rut": "20544794508",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "289",
-      "nombre_empresa": "Bosch Peru SAC",
-      "rut": "20524506166",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "340",
-      "nombre_empresa": "Russell Mineral",
-      "rut": "20607594113",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
       "empresa_id": "690",
       "nombre_empresa": "TM Gestion inmobiliaria",
       "rut": "20549790373",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "789",
-      "nombre_empresa": "URBALIMA SAC",
-      "rut": "20550773393",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "802",
-      "nombre_empresa": "CENTRO DE INNOVACION PROFESIONAL EIRL",
-      "rut": "20606165031",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
@@ -4704,32 +2914,12 @@
       "usuarios_incentivados": 2.0
     },
     {
-      "empresa_id": "874",
-      "nombre_empresa": "MOK - HIRAOKA",
-      "rut": "20555299061",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
       "empresa_id": "886",
       "nombre_empresa": "JLI METROLOGY",
       "rut": "20510675097",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "496",
-      "nombre_empresa": "OM PHarma",
-      "rut": "Nº 20100309191",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
@@ -4784,6 +2974,16 @@
       "usuarios_incentivados": 2.0
     },
     {
+      "empresa_id": "236",
+      "nombre_empresa": "MELLOW",
+      "rut": "WAM180816UK6",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 2.0
+    },
+    {
       "empresa_id": "493",
       "nombre_empresa": "HENKEL",
       "rut": "78803490-3",
@@ -4814,62 +3014,12 @@
       "usuarios_incentivados": 1.0
     },
     {
-      "empresa_id": "217",
-      "nombre_empresa": "AUNA - GSP SERVICIOS COMERCIALES",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
       "empresa_id": "64",
       "nombre_empresa": "Fuerza Demo 2",
       "rut": "20603016034",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "574",
-      "nombre_empresa": "Limagas - Transformación digital",
-      "rut": "20100007348",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "641",
-      "nombre_empresa": "UNIMAQ SA",
-      "rut": "20100027021",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "723",
-      "nombre_empresa": "SOLUCIONES CREALO 150 SAC\t - CEMENTOS PACASMAYO",
-      "rut": "20612989142",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "833",
-      "nombre_empresa": "Pricinc By AR  (Arellano)",
-      "rut": "20600619145",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
@@ -4884,52 +3034,12 @@
       "usuarios_incentivados": 1.0
     },
     {
-      "empresa_id": "884",
-      "nombre_empresa": "Heineken - Programa 5S",
-      "rut": "20605524126",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
       "empresa_id": "885",
       "nombre_empresa": "DROGUERIA CADILLO",
       "rut": "20392764373",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "499",
-      "nombre_empresa": "MAPFRE - CLIENTES",
-      "rut": "20418896915",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "536",
-      "nombre_empresa": "TCL",
-      "rut": "77.073.957-8",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "706",
-      "nombre_empresa": "Promoción PALDOLOR",
-      "rut": "20100060150",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jguerra@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
@@ -5021,6 +3131,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "427",
+      "nombre_empresa": "TCL Colombia",
+      "rut": "770739578",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     }
   ],
