@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T18:26:05.554099+00:00",
+  "generated_at": "2026-07-07T20:04:01.315200+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1558,6 +1558,16 @@
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1469",
+      "nombre_empresa": "CREATIVA PRODUCCIONES S.A",
+      "rut": "8300953526",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
