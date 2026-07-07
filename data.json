@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T01:55:52.321167+00:00",
+  "generated_at": "2026-07-07T06:35:16.668131+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -43,8 +43,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 241.15,
-          "tickets_exec": 48.23,
+          "tickets_mensual": 241.23,
+          "tickets_exec": 48.25,
           "reuniones_monthly": [
             77,
             74,
@@ -317,8 +317,8 @@
         "México": {
           "flag": "🇲🇽",
           "ejecutivos": 2,
-          "tickets_mensual": 55.31,
-          "tickets_exec": 27.66,
+          "tickets_mensual": 55.38,
+          "tickets_exec": 27.69,
           "reuniones_monthly": [
             13,
             18,
