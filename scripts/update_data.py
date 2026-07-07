@@ -24,6 +24,7 @@ Corre en GitHub Actions con una service account (ver GOOGLE_SHEETS_CREDENTIALS).
 import os
 import re
 import json
+import hashlib
 import unicodedata
 from datetime import datetime, timezone
 from collections import defaultdict
@@ -58,6 +59,18 @@ COUNTRY_ALIASES = {
     "méxico": "México",
     "peru": "Perú",
     "perú": "Perú",
+}
+
+# Mientras la Leyenda / Empresas no estén 100% completas, los tickets y usuarios que
+# no logran matchear con ningún ejecutivo real se reparten -en vez de quedar excluidos
+# de los promedios- entre los roles indicados acá, según estas proporciones.
+# El reparto es determinístico (por ID Empresa), no al azar, para que los números no
+# salten entre corridas del pipeline. País sin entrada acá = se sigue excluyendo (Ecuador).
+FALLBACK_SPLIT = {
+    "Chile": [("KAM", 1.0)],
+    "Colombia": [("KAM", 0.9), ("BDM", 0.1)],
+    "México": [("Full Cycle", 1.0)],
+    "Perú": [("KAM", 1.0)],
 }
 
 
@@ -250,6 +263,22 @@ def build_dashboard_data(
             return {"rol": None, "pais": None, "motivo": "email_kam_no_esta_en_leyenda", "owner_email": owner["email"]}
         return {"rol": info["rol"], "pais": info["pais"], "motivo": None, "owner_email": owner["email"]}
 
+    def pick_fallback_rol(pais, seed_key):
+        """Si el país tiene una regla en FALLBACK_SPLIT, elige un rol respetando esas
+        proporciones (reparto determinístico según seed_key, no al azar). Devuelve None
+        si el país no tiene regla definida (se sigue excluyendo, como antes)."""
+        split = FALLBACK_SPLIT.get(pais)
+        if not split:
+            return None
+        digest = hashlib.md5(str(seed_key).encode("utf-8")).hexdigest()
+        r = int(digest[:8], 16) / 0xFFFFFFFF
+        acumulado = 0.0
+        for rol, peso in split:
+            acumulado += peso
+            if r < acumulado:
+                return rol
+        return split[-1][0]
+
     # --- Tickets: atribuir cada ticket a (rol, pais) vía ID Empresa -------------
     col_pais_tix = find_header(tickets_h, "pais", "país")
     col_empresa_id = find_header(tickets_h, "empresa")
@@ -260,6 +289,7 @@ def build_dashboard_data(
     tickets_by_role_country_month = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
     clientes_by_role_country = defaultdict(lambda: defaultdict(set))
     tickets_sin_asignar = 0
+    tickets_redistribuidos = 0
     tickets_sin_asignar_detalle = {}  # key: empresa_id -> {..., count}
 
     for r in tickets_records:
@@ -268,9 +298,13 @@ def build_dashboard_data(
             continue
         empresa_id = r.get(col_empresa_id, "")
         res = resolve_owner(empresa_id)
-        if not res["rol"]:
+        rol = res["rol"]
+        if not rol:
             tickets_sin_asignar += 1
             key = normalize_empresa_id(empresa_id) or f"SIN_ID::{r.get(col_idtrib, '')}"
+            rol = pick_fallback_rol(pais_ticket, key)
+            if rol:
+                tickets_redistribuidos += 1
             entry = tickets_sin_asignar_detalle.setdefault(key, {
                 "empresa_id": normalize_empresa_id(empresa_id),
                 "nombre_empresa": (r.get(col_nombre_empresa_tix, "") or "").strip(),
@@ -278,11 +312,12 @@ def build_dashboard_data(
                 "pais": pais_ticket,
                 "motivo": res["motivo"],
                 "email_kam_en_empresas": res["owner_email"],
+                "redistribuido_a": rol,
                 "count": 0,
             })
             entry["count"] += 1
-            continue
-        rol = res["rol"]
+            if not rol:
+                continue  # país sin regla de reparto -> se sigue excluyendo, como antes
 
         id_trib = normalize_tax_id(r.get(col_idtrib, ""))
         if id_trib:
@@ -318,6 +353,7 @@ def build_dashboard_data(
 
     usuarios_total = defaultdict(lambda: defaultdict(float))
     usuarios_sin_asignar = 0
+    usuarios_redistribuidos = 0
     usuarios_sin_asignar_detalle = {}
 
     for r in usuarios_records:
@@ -329,9 +365,13 @@ def build_dashboard_data(
             continue
         empresa_id = r.get(col_id_empresa_usr, "")
         res = resolve_owner(empresa_id)
-        if not res["rol"]:
+        rol = res["rol"]
+        if not rol:
             usuarios_sin_asignar += 1
             key = normalize_empresa_id(empresa_id) or f"SIN_ID::{r.get(col_idtrib_usr, '')}"
+            rol = pick_fallback_rol(pais_usr, key)
+            if rol:
+                usuarios_redistribuidos += 1
             entry = usuarios_sin_asignar_detalle.setdefault(key, {
                 "empresa_id": normalize_empresa_id(empresa_id),
                 "nombre_empresa": (r.get(col_nombre_empresa_usr, "") or "").strip(),
@@ -339,11 +379,13 @@ def build_dashboard_data(
                 "pais": pais_usr,
                 "motivo": res["motivo"],
                 "email_kam_en_empresas": res["owner_email"],
+                "redistribuido_a": rol,
                 "usuarios_incentivados": 0,
             })
             entry["usuarios_incentivados"] += l_val
-            continue
-        usuarios_total[res["rol"]][pais_usr] += l_val
+            if not rol:
+                continue  # país sin regla de reparto -> se sigue excluyendo, como antes
+        usuarios_total[rol][pais_usr] += l_val
 
     # --- Reuniones: atribuir cada reunión a (rol, pais) por mes -----------------
     col_kamid_reu = find_header(reuniones_h, "KAM ID")
@@ -360,8 +402,14 @@ def build_dashboard_data(
         kamid = (r.get(col_kamid_reu, "") or "").strip()
         info = kamid_to_info.get(kamid) if kamid and kamid.upper() != "#N/A" else None
         if not info:
-            email = (r.get(col_seller_email, "") or "").strip().lower()
-            info = email_to_info.get(email)
+            # SELLER_EMAIL a veces trae varios correos separados por coma (artefacto de fórmula).
+            # Probamos cada uno hasta encontrar un match en la Leyenda.
+            email_raw = (r.get(col_seller_email, "") or "").strip()
+            for candidate in email_raw.split(","):
+                candidate = candidate.strip().lower()
+                if candidate in email_to_info:
+                    info = email_to_info[candidate]
+                    break
         if not info:
             reuniones_sin_match += 1
             email_val = (r.get(col_seller_email, "") or "").strip()
@@ -425,7 +473,11 @@ def build_dashboard_data(
         "meta": {
             "reuniones_sin_match": reuniones_sin_match,
             "tickets_sin_asignar": tickets_sin_asignar,
+            "tickets_redistribuidos": tickets_redistribuidos,
+            "tickets_excluidos": tickets_sin_asignar - tickets_redistribuidos,
             "usuarios_sin_asignar": usuarios_sin_asignar,
+            "usuarios_redistribuidos": usuarios_redistribuidos,
+            "usuarios_excluidos": usuarios_sin_asignar - usuarios_redistribuidos,
         },
     }
 
@@ -464,11 +516,14 @@ def main():
     with open(UNMATCHED_REPORT_PATH, "w", encoding="utf-8") as f:
         json.dump(unmatched_report, f, ensure_ascii=False, indent=2)
 
+    meta = output["meta"]
     print(
         f"OK: data.json generado con {len(output['month_labels'])} meses. "
-        f"Reuniones sin match: {output['meta']['reuniones_sin_match']}, "
-        f"Tickets sin asignar: {output['meta']['tickets_sin_asignar']}, "
-        f"Usuarios sin asignar: {output['meta']['usuarios_sin_asignar']}."
+        f"Reuniones sin match: {meta['reuniones_sin_match']}. "
+        f"Tickets sin dueño reconocido: {meta['tickets_sin_asignar']} "
+        f"(redistribuidos: {meta['tickets_redistribuidos']}, excluidos: {meta['tickets_excluidos']}). "
+        f"Usuarios sin dueño reconocido: {meta['usuarios_sin_asignar']} "
+        f"(redistribuidos: {meta['usuarios_redistribuidos']}, excluidos: {meta['usuarios_excluidos']})."
     )
 
 
