@@ -172,34 +172,41 @@ def main():
     # --- Ecuador no tiene regla de fallback -> sigue excluyendo (emp40) ---
     check("Ecuador no recibe nada por fallback (sin regla)", ecuador_kam["tickets_mensual"], 0)
 
-    # --- Detalle por ejecutivo (nombre) + pool de lo redistribuido ---
+    # --- Detalle por ejecutivo (nombre). Ya NO hay "pool_sin_asignar" aparte: lo
+    # redistribuido se reparte en partes iguales y se suma directo a cada ejecutivo,
+    # con el mismo denominador de meses que el país (para que sumen exacto al total). ---
     kam_chile_execs = {e["correo"]: e for e in kam_chile["ejecutivos_detalle"]}
     check("KAM/Chile tiene 1 ejecutivo en el detalle", len(kam_chile["ejecutivos_detalle"]), 1)
     check("KAM/Chile detalle: nombre de Ana", kam_chile_execs.get("ana@apprecio.com", {}).get("nombre"), "Ana")
-    check("KAM/Chile detalle: tickets propios de Ana (sin fallback)", kam_chile_execs.get("ana@apprecio.com", {}).get("tickets_mensual"), 2.0)
-    check("KAM/Chile detalle: clientes propios de Ana", kam_chile_execs.get("ana@apprecio.com", {}).get("total_clientes"), 2)
-    check("KAM/Chile detalle: usuarios propios de Ana", kam_chile_execs.get("ana@apprecio.com", {}).get("usuarios_total"), 150.0)
-    check("KAM/Chile detalle: reuniones propias de Ana", kam_chile_execs.get("ana@apprecio.com", {}).get("reuniones_mensual"), 2.0)
-    check("KAM/Chile pool: tickets del fallback (emp9+emp99)", kam_chile["pool_sin_asignar"]["tickets_mensual"], 2.0)
-    check("KAM/Chile pool: clientes del fallback (D,E)", kam_chile["pool_sin_asignar"]["total_clientes"], 2)
-    check("KAM/Chile pool: usuarios del fallback (emp9)", kam_chile["pool_sin_asignar"]["usuarios_total"], 20.0)
+    # Ana es la única KAM en Chile -> se lleva el 100% de lo redistribuido (emp9+emp99) sumado a lo propio
+    check("KAM/Chile detalle: tickets de Ana (propios + 100% del pool)", kam_chile_execs.get("ana@apprecio.com", {}).get("tickets_mensual"), 3.0)
+    check("KAM/Chile detalle: clientes de Ana (propios + pool)", kam_chile_execs.get("ana@apprecio.com", {}).get("total_clientes"), 4.0)
+    check("KAM/Chile detalle: usuarios de Ana (propios + pool)", kam_chile_execs.get("ana@apprecio.com", {}).get("usuarios_total"), 170.0)
+    check("KAM/Chile detalle: reuniones de Ana (no hay pool de reuniones)", kam_chile_execs.get("ana@apprecio.com", {}).get("reuniones_mensual"), 2.0)
+    # Con 1 solo ejecutivo, su total coincide exacto con el total del país (no hay a quién más repartir)
+    check("KAM/Chile: suma de ejecutivos == total del país (tickets)", sum(e["tickets_mensual"] for e in kam_chile["ejecutivos_detalle"]), kam_chile["tickets_mensual"])
+    check("KAM/Chile: suma de ejecutivos == total del país (usuarios)", sum(e["usuarios_total"] for e in kam_chile["ejecutivos_detalle"]), kam_chile["usuarios_total"])
 
     bdm_chile_execs = {e["correo"]: e for e in bdm_chile["ejecutivos_detalle"]}
     check("BDM/Chile detalle: nombre de Beto", bdm_chile_execs.get("beto@apprecio.com", {}).get("nombre"), "Beto")
-    check("BDM/Chile detalle: tickets propios de Beto", bdm_chile_execs.get("beto@apprecio.com", {}).get("tickets_mensual"), 1.0)
-    check("BDM/Chile pool vacío (Chile reparte 100% a KAM)", bdm_chile["pool_sin_asignar"]["tickets_mensual"], 0)
+    check("BDM/Chile detalle: tickets de Beto (Chile reparte 100% a KAM, no le toca pool)", bdm_chile_execs.get("beto@apprecio.com", {}).get("tickets_mensual"), 1.0)
 
-    # Colombia: sinid no tiene nombre en Leyenda -> se deriva del correo
+    # Colombia: sinid no tiene nombre en Leyenda -> se deriva del correo. Es la única KAM ahí,
+    # así que se lleva el 100% del fallback de Colombia que cae en KAM (emp20).
     kam_col_execs = {e["correo"]: e for e in kam_col["ejecutivos_detalle"]}
     check("KAM/Colombia detalle: nombre derivado del correo (sinid)", kam_col_execs.get("sinid@apprecio.com", {}).get("nombre"), "Sinid")
-    check("KAM/Colombia pool: tickets del fallback (emp20)", kam_col["pool_sin_asignar"]["tickets_mensual"], 1.0)
-    check("BDM/Colombia sin ejecutivos reales (lista vacía)", bdm_col["ejecutivos_detalle"], [])
-    check("BDM/Colombia pool: tickets del fallback (emp44)", bdm_col["pool_sin_asignar"]["tickets_mensual"], 1.0)
-    check("BDM/Colombia pool: usuarios del fallback (emp44)", bdm_col["pool_sin_asignar"]["usuarios_total"], 40.0)
+    check("KAM/Colombia detalle: tickets de sinid (100% del pool, no tiene propios)", kam_col_execs.get("sinid@apprecio.com", {}).get("tickets_mensual"), 1.0)
+    check("KAM/Colombia detalle: clientes de sinid (pool, no tiene propios)", kam_col_execs.get("sinid@apprecio.com", {}).get("total_clientes"), 1.0)
+    check("BDM/Colombia sin ejecutivos reales (lista vacía, nadie a quién repartirle)", bdm_col["ejecutivos_detalle"], [])
 
-    check("Full Cycle/México pool: tickets del fallback (emp30)", fc_mex["pool_sin_asignar"]["tickets_mensual"], 1.0)
-    check("Full Cycle/México pool: usuarios del fallback (emp30)", fc_mex["pool_sin_asignar"]["usuarios_total"], 15.0)
-    check("KAM/Perú pool: tickets del fallback (emp31)", kam_peru["pool_sin_asignar"]["tickets_mensual"], 1.0)
+    fc_mex_execs = {e["correo"]: e for e in fc_mex["ejecutivos_detalle"]}
+    check("Full Cycle/México detalle: tickets de diego (100% del pool)", fc_mex_execs.get("diego@apprecio.com", {}).get("tickets_mensual"), 1.0)
+    check("Full Cycle/México detalle: usuarios de diego (100% del pool)", fc_mex_execs.get("diego@apprecio.com", {}).get("usuarios_total"), 15.0)
+
+    kam_peru_execs = {e["correo"]: e for e in kam_peru["ejecutivos_detalle"]}
+    check("KAM/Perú detalle: tickets de fer (100% del pool)", kam_peru_execs.get("fer@apprecio.com", {}).get("tickets_mensual"), 1.0)
+
+    check("No debe existir 'pool_sin_asignar' en la salida (se repartió, no se muestra aparte)", "pool_sin_asignar" in kam_chile, False)
 
     # --- Meta: sin_asignar / redistribuidos / excluidos ---
     check("Tickets sin dueño reconocido (total)", output["meta"]["tickets_sin_asignar"], 7)
