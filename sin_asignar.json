@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T13:48:06.961186+00:00",
+  "generated_at": "2026-07-07T14:47:31.182867+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "433",
@@ -522,6 +522,16 @@
       "count": 10
     },
     {
+      "empresa_id": "1424",
+      "nombre_empresa": "Vct Chile",
+      "rut": "85037900-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 10
+    },
+    {
       "empresa_id": "1201",
       "nombre_empresa": "INXAIT",
       "rut": "76837207-1",
@@ -600,16 +610,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 10
-    },
-    {
-      "empresa_id": "1424",
-      "nombre_empresa": "Vct Chile",
-      "rut": "85037900-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 9
     },
     {
       "empresa_id": "650",
@@ -902,6 +902,16 @@
       "count": 5
     },
     {
+      "empresa_id": "908",
+      "nombre_empresa": "PWC",
+      "rut": "815134001",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "1382",
       "nombre_empresa": "Los Mercaderes",
       "rut": "77.613.110-5",
@@ -1018,16 +1028,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "908",
-      "nombre_empresa": "PWC",
-      "rut": "815134001",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 4
     },
@@ -1564,7 +1564,7 @@
     {
       "empresa_id": "801",
       "nombre_empresa": "TOULOUSE LAUTREC",
-      "rut": "20603817185",
+      "rut": "20.603.817.185",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
