@@ -191,9 +191,17 @@ def get_client():
 
 
 def build_empresa_owner_map(gc):
-    """Lee la spreadsheet 'Empresas (Todos los países)' y arma ID Empresa -> email dueño."""
+    """Lee la spreadsheet 'Empresas (Todos los países)' y arma (país, ID Empresa) -> email dueño.
+
+    IMPORTANTE: la clave incluye el país porque el "ID Empresa" es correlativo por
+    pestaña/país (cada país arranca su propia numeración), NO es un ID global. Si se
+    indexara solo por ID (sin país), un ID "150" de Chile y un ID "150" de Colombia
+    -empresas totalmente distintas- se pisarían entre sí en el diccionario, mezclando
+    tickets/usuarios de un país con el ejecutivo equivocado de otro país.
+    """
     sh = gc.open_by_key(EMPRESAS_SPREADSHEET_ID)
     owner_map = {}
+    ids_vistos = defaultdict(set)  # eid -> {paises donde aparece} (para detectar colisiones)
     for tab in EMPRESAS_TABS:
         pais = normalize_country(tab)
         try:
@@ -208,7 +216,16 @@ def build_empresa_owner_map(gc):
             email = (r.get(col_email, "") or "").strip().lower()
             if not eid or not email:
                 continue
-            owner_map[eid] = {"email": email, "pais": pais}
+            owner_map[(pais, eid)] = {"email": email, "pais": pais}
+            ids_vistos[eid].add(pais)
+
+    colisiones = {eid: sorted(paises) for eid, paises in ids_vistos.items() if len(paises) > 1}
+    if colisiones:
+        print(
+            f"AVISO: {len(colisiones)} ID Empresa se repiten en más de un país "
+            f"(ej. {dict(list(colisiones.items())[:5])}). Cada uno se resuelve por su "
+            f"propio país, no se mezclan entre sí."
+        )
     return owner_map
 
 
@@ -267,13 +284,19 @@ def build_dashboard_data(
 
     ejecutivos = {rol: {pais: len(emails) for pais, emails in paises.items()} for rol, paises in ejecutivos_set.items()}
 
-    def resolve_owner(empresa_id):
-        """Dado un ID Empresa, intenta resolver el ejecutivo dueño (rol/pais).
+    def resolve_owner(empresa_id, pais_fila):
+        """Dado un ID Empresa y el país de la fila (Tickets/Usuarios), intenta resolver
+        el ejecutivo dueño (rol/pais). El "ID Empresa" es correlativo POR PAÍS en la hoja
+        Empresas (cada país tiene su propia numeración), así que hay que buscarlo en la
+        pestaña de ESE país -no en un pool global-, para no mezclar empresas de países
+        distintos que comparten el mismo ID por coincidencia.
         Devuelve dict con rol/pais si matchea, o motivo + email (si corresponde) si no."""
         eid = normalize_empresa_id(empresa_id)
         if not eid:
             return {"rol": None, "pais": None, "motivo": "sin_id_empresa", "owner_email": None}
-        owner = empresa_owner_map.get(eid)
+        if not pais_fila:
+            return {"rol": None, "pais": None, "motivo": "sin_pais_en_fila", "owner_email": None}
+        owner = empresa_owner_map.get((pais_fila, eid))
         if not owner:
             return {"rol": None, "pais": None, "motivo": "empresa_no_esta_en_hoja_empresas", "owner_email": None}
         info = email_to_info.get(owner["email"])
@@ -323,7 +346,7 @@ def build_dashboard_data(
         if not pais_ticket:
             continue
         empresa_id = r.get(col_empresa_id, "")
-        res = resolve_owner(empresa_id)
+        res = resolve_owner(empresa_id, pais_ticket)
         rol = res["rol"]
         es_fallback = False
         if rol:
@@ -411,7 +434,7 @@ def build_dashboard_data(
         if not pais_usr:
             continue
         empresa_id = r.get(col_id_empresa_usr, "")
-        res = resolve_owner(empresa_id)
+        res = resolve_owner(empresa_id, pais_usr)
         rol = res["rol"]
         es_fallback = False
         if rol:
