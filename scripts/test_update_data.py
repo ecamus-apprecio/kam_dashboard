@@ -253,5 +253,65 @@ def main():
         print("TODOS LOS CHECKS PASARON ✔")
 
 
+def test_reconciliacion_pais_ticket_vs_leyenda():
+    """Regresión: la columna 'pais' de una fila de Tickets/Usuarios puede venir mal
+    tipeada (ej. dice 'Colombia' pero el dueño real es un BDM registrado en Chile).
+    El país que manda es el registrado en la Leyenda del dueño real -no el de la fila-,
+    para que el total del país y la suma de los ejecutivos SIEMPRE coincidan exacto."""
+    leyenda_h = ["Correo", "KAM ID", "Rol", "Pais"]
+    leyenda_rows = [["beto@apprecio.com", "BE", "BDM", "Chile"]]
+    leyenda_records, leyenda_hidx = records(leyenda_h, leyenda_rows)
+
+    empresa_owner_map = {"1": {"email": "beto@apprecio.com", "pais": "Chile"}}
+
+    # Beto es BDM/Chile en la Leyenda, pero 2 de sus 3 tickets vienen con pais=Colombia
+    # tipeado en la fila (error de tipeo / dato mal ingresado en Tickets).
+    tickets_h = ["id", "empresa", "id_tributario", "fechaCreacion", "pais"]
+    tickets_rows = [
+        ["1", "1", "A", "2025-01-05", "Chile"],
+        ["2", "1", "A", "2025-02-05", "Colombia"],
+        ["3", "1", "B", "2025-03-05", "Colombia"],
+    ]
+    tickets_records, tickets_hidx = records(tickets_h, tickets_rows)
+
+    usuarios_records, usuarios_hidx = [], build_header_index(
+        ["ID Empresa", "N usuarios incentivados", "Pais"]
+    )
+    reuniones_records, reuniones_hidx = [], build_header_index(
+        ["ID_REUNION", "FECHA_ISO", "ANIO", "MES", "SELLER_EMAIL", "KAM ID"]
+    )
+
+    output, _ = build_dashboard_data(
+        tickets_records, tickets_hidx,
+        usuarios_records, usuarios_hidx,
+        reuniones_records, reuniones_hidx,
+        leyenda_records, leyenda_hidx,
+        empresa_owner_map,
+    )
+
+    errors = []
+
+    def check(label, actual, expected):
+        if actual != expected:
+            errors.append(f"{label}: esperado {expected}, obtuve {actual}")
+
+    bdm_chile = output["tabs"]["BDM"]["countries"]["Chile"]
+    bdm_col = output["tabs"]["BDM"]["countries"]["Colombia"]
+
+    check("Todo se atribuye a Chile (país real del dueño), no a Colombia", bdm_col["tickets_mensual"], 0)
+    check("País: total del país == suma de ejecutivos (Chile)", bdm_chile["tickets_mensual"],
+          sum(e["tickets_mensual"] for e in bdm_chile["ejecutivos_detalle"]))
+    check("Beto se lleva el total completo (único BDM/Chile)", bdm_chile["ejecutivos_detalle"][0]["tickets_mensual"], bdm_chile["tickets_mensual"])
+
+    if errors:
+        print("FALLÓ (reconciliación país):")
+        for e in errors:
+            print(" -", e)
+        sys.exit(1)
+    else:
+        print("RECONCILIACIÓN PAÍS TICKET vs LEYENDA: OK ✔")
+
+
 if __name__ == "__main__":
     main()
+    test_reconciliacion_pais_ticket_vs_leyenda()
