@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T22:05:38.804535+00:00",
+  "generated_at": "2026-07-07T01:55:52.321167+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "433",
@@ -8,7 +8,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "count": 89
+      "count": 90
     },
     {
       "empresa_id": "1372",
@@ -1891,7 +1891,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "usuarios_incentivados": 1776.0
+      "usuarios_incentivados": 1820.0
     },
     {
       "empresa_id": "1372",
@@ -1954,7 +1954,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "usuarios_incentivados": 885.0
+      "usuarios_incentivados": 889.0
     },
     {
       "empresa_id": "1172",
@@ -1963,7 +1963,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "usuarios_incentivados": 870.0
+      "usuarios_incentivados": 873.0
     },
     {
       "empresa_id": "234",
@@ -2296,7 +2296,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "usuarios_incentivados": 169.0
+      "usuarios_incentivados": 174.0
     },
     {
       "empresa_id": "1376",
@@ -2470,6 +2470,15 @@
       "usuarios_incentivados": 79.0
     },
     {
+      "empresa_id": "1329",
+      "nombre_empresa": "AUTODRAFT",
+      "rut": "77177341-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 79.0
+    },
+    {
       "empresa_id": "1243",
       "nombre_empresa": "Sinergía Inmobiliaria",
       "rut": "96787990-8",
@@ -2477,15 +2486,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "usuarios_incentivados": 78.0
-    },
-    {
-      "empresa_id": "1329",
-      "nombre_empresa": "AUTODRAFT",
-      "rut": "77177341-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "usuarios_incentivados": 77.0
     },
     {
       "empresa_id": "895",
@@ -2890,7 +2890,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "usuarios_incentivados": 22.0
+      "usuarios_incentivados": 23.0
     },
     {
       "empresa_id": "1453",
@@ -3001,6 +3001,15 @@
       "usuarios_incentivados": 17.0
     },
     {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "usuarios_incentivados": 17.0
+    },
+    {
       "empresa_id": "230",
       "nombre_empresa": "Creatblue",
       "rut": "POM030403GG2",
@@ -3064,15 +3073,6 @@
       "usuarios_incentivados": 15.0
     },
     {
-      "empresa_id": "1368",
-      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
-      "rut": "9009797448",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "usuarios_incentivados": 15.0
-    },
-    {
       "empresa_id": "248",
       "nombre_empresa": "HHO CARBON CLEANER",
       "rut": "76492561-0",
@@ -3100,6 +3100,15 @@
       "usuarios_incentivados": 14.0
     },
     {
+      "empresa_id": "824",
+      "nombre_empresa": "beClassmates",
+      "rut": "764297687",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "usuarios_incentivados": 14.0
+    },
+    {
       "empresa_id": "1444",
       "nombre_empresa": "GRASASBIO SAS",
       "rut": "9011100720",
@@ -3116,15 +3125,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "usuarios_incentivados": 14.0
-    },
-    {
-      "empresa_id": "824",
-      "nombre_empresa": "beClassmates",
-      "rut": "764297687",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "usuarios_incentivados": 13.0
     },
     {
       "empresa_id": "1056",
@@ -3532,6 +3532,15 @@
       "usuarios_incentivados": 2.0
     },
     {
+      "empresa_id": "1560",
+      "nombre_empresa": "Demo1 CL",
+      "rut": "99999999-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "usuarios_incentivados": 2.0
+    },
+    {
       "empresa_id": "1772",
       "nombre_empresa": "Óptica Santa Lucía",
       "rut": "80941300-4",
@@ -3580,15 +3589,6 @@
       "empresa_id": "1746",
       "nombre_empresa": "GARCIA MARCHANT Y COMPANIA LIMITADA",
       "rut": "76560536-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "1560",
-      "nombre_empresa": "Demo1 CL",
-      "rut": "99999999-9",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
