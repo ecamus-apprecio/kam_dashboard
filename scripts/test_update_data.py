@@ -37,12 +37,13 @@ def main():
     # --- Empresas (mapa ID Empresa -> dueño). Empresa "9" sin dueño reconocible en Leyenda.
     # Empresas 20, 30, 31, 40 y 99 NO están en el mapa a propósito (simulan cuentas nuevas
     # que todavía no se agregaron a la hoja "Empresas"), para probar el reparto fallback.
+    # Clave (país, ID Empresa): el ID es correlativo POR país en la hoja Empresas, no global.
     empresa_owner_map = {
-        "1": {"email": "ana@apprecio.com", "pais": "Chile"},
-        "2": {"email": "ana@apprecio.com", "pais": "Chile"},
-        "3": {"email": "beto@apprecio.com", "pais": "Chile"},
-        "4": {"email": "sinid@apprecio.com", "pais": "Colombia"},
-        "9": {"email": "owner_x@apprecio.com", "pais": "Chile"},  # no está en Leyenda
+        ("Chile", "1"): {"email": "ana@apprecio.com", "pais": "Chile"},
+        ("Chile", "2"): {"email": "ana@apprecio.com", "pais": "Chile"},
+        ("Chile", "3"): {"email": "beto@apprecio.com", "pais": "Chile"},
+        ("Colombia", "4"): {"email": "sinid@apprecio.com", "pais": "Colombia"},
+        ("Chile", "9"): {"email": "owner_x@apprecio.com", "pais": "Chile"},  # no está en Leyenda
     }
 
     # --- Tickets ---
@@ -253,24 +254,35 @@ def main():
         print("TODOS LOS CHECKS PASARON ✔")
 
 
-def test_reconciliacion_pais_ticket_vs_leyenda():
-    """Regresión: la columna 'pais' de una fila de Tickets/Usuarios puede venir mal
-    tipeada (ej. dice 'Colombia' pero el dueño real es un BDM registrado en Chile).
-    El país que manda es el registrado en la Leyenda del dueño real -no el de la fila-,
-    para que el total del país y la suma de los ejecutivos SIEMPRE coincidan exacto."""
+def test_ids_no_se_mezclan_entre_paises():
+    """Regresión CRÍTICA: el "ID Empresa" es correlativo POR país en la hoja Empresas
+    (cada país arranca su propia numeración desde 1), no es un ID global. Antes, el mapa
+    ID->dueño se armaba sin distinguir país, así que un ID "1" de Chile y un ID "1" de
+    Colombia (empresas totalmente distintas) se pisaban entre sí -el último país leído
+    ganaba-, mezclando tickets de un país con el ejecutivo de otro. Esto es exactamente
+    lo que reportó el usuario: Colombia mostraba más que Chile a pesar de tener menos
+    tickets reales. Ahora la búsqueda es por (país, ID), así que no se pueden mezclar.
+    """
     leyenda_h = ["Correo", "KAM ID", "Rol", "Pais"]
-    leyenda_rows = [["beto@apprecio.com", "BE", "BDM", "Chile"]]
+    leyenda_rows = [
+        ["beto@apprecio.com", "BE", "BDM", "Chile"],
+        ["carla@apprecio.com", "CA", "KAM", "Colombia"],
+    ]
     leyenda_records, leyenda_hidx = records(leyenda_h, leyenda_rows)
 
-    empresa_owner_map = {"1": {"email": "beto@apprecio.com", "pais": "Chile"}}
+    # Mismo ID "1" en dos países, dueños completamente distintos.
+    empresa_owner_map = {
+        ("Chile", "1"): {"email": "beto@apprecio.com", "pais": "Chile"},
+        ("Colombia", "1"): {"email": "carla@apprecio.com", "pais": "Colombia"},
+    }
 
-    # Beto es BDM/Chile en la Leyenda, pero 2 de sus 3 tickets vienen con pais=Colombia
-    # tipeado en la fila (error de tipeo / dato mal ingresado en Tickets).
     tickets_h = ["id", "empresa", "id_tributario", "fechaCreacion", "pais"]
     tickets_rows = [
         ["1", "1", "A", "2025-01-05", "Chile"],
-        ["2", "1", "A", "2025-02-05", "Colombia"],
-        ["3", "1", "B", "2025-03-05", "Colombia"],
+        ["2", "1", "B", "2025-02-05", "Chile"],
+        ["3", "1", "C", "2025-01-10", "Colombia"],
+        ["4", "1", "D", "2025-02-10", "Colombia"],
+        ["5", "1", "E", "2025-03-10", "Colombia"],
     ]
     tickets_records, tickets_hidx = records(tickets_h, tickets_rows)
 
@@ -296,22 +308,72 @@ def test_reconciliacion_pais_ticket_vs_leyenda():
             errors.append(f"{label}: esperado {expected}, obtuve {actual}")
 
     bdm_chile = output["tabs"]["BDM"]["countries"]["Chile"]
-    bdm_col = output["tabs"]["BDM"]["countries"]["Colombia"]
+    kam_col = output["tabs"]["KAM"]["countries"]["Colombia"]
 
-    check("Todo se atribuye a Chile (país real del dueño), no a Colombia", bdm_col["tickets_mensual"], 0)
-    check("País: total del país == suma de ejecutivos (Chile)", bdm_chile["tickets_mensual"],
-          sum(e["tickets_mensual"] for e in bdm_chile["ejecutivos_detalle"]))
-    check("Beto se lleva el total completo (único BDM/Chile)", bdm_chile["ejecutivos_detalle"][0]["tickets_mensual"], bdm_chile["tickets_mensual"])
+    check("Beto (Chile) solo se lleva sus 2 tickets, no los de Carla", bdm_chile["total_clientes"], 2)
+    check("Carla (Colombia) solo se lleva sus 3 tickets, no los de Beto", kam_col["total_clientes"], 3)
+    check("Detalle: Beto en BDM/Chile", bdm_chile["ejecutivos_detalle"][0]["nombre"], "Beto")
+    check("Detalle: Carla en KAM/Colombia", kam_col["ejecutivos_detalle"][0]["nombre"], "Carla")
 
     if errors:
-        print("FALLÓ (reconciliación país):")
+        print("FALLÓ (IDs cruzados entre países):")
         for e in errors:
             print(" -", e)
         sys.exit(1)
     else:
-        print("RECONCILIACIÓN PAÍS TICKET vs LEYENDA: OK ✔")
+        print("IDs NO SE MEZCLAN ENTRE PAÍSES: OK ✔")
+
+
+def test_pais_real_del_dueno_gana_sobre_tab_de_empresas():
+    """Caso más angosto: un ejecutivo puede tener una cuenta registrada en la pestaña
+    de Empresas de OTRO país (ej. gestiona remotamente una cuenta de Perú) pero su país
+    de trabajo real -el que importa para las métricas de carga operativa- es el que
+    dice su propia fila en la Leyenda. Ese debe ser el que gane."""
+    leyenda_h = ["Correo", "KAM ID", "Rol", "Pais"]
+    leyenda_rows = [["diana@apprecio.com", "DI", "KAM", "Chile"]]
+    leyenda_records, leyenda_hidx = records(leyenda_h, leyenda_rows)
+
+    # La empresa "5" vive en la pestaña Perú de "Empresas", pero la dueña (Diana) es KAM/Chile.
+    empresa_owner_map = {("Perú", "5"): {"email": "diana@apprecio.com", "pais": "Perú"}}
+
+    tickets_h = ["id", "empresa", "id_tributario", "fechaCreacion", "pais"]
+    tickets_rows = [["1", "5", "Z", "2025-01-05", "Perú"]]
+    tickets_records, tickets_hidx = records(tickets_h, tickets_rows)
+
+    usuarios_records, usuarios_hidx = [], build_header_index(
+        ["ID Empresa", "N usuarios incentivados", "Pais"]
+    )
+    reuniones_records, reuniones_hidx = [], build_header_index(
+        ["ID_REUNION", "FECHA_ISO", "ANIO", "MES", "SELLER_EMAIL", "KAM ID"]
+    )
+
+    output, _ = build_dashboard_data(
+        tickets_records, tickets_hidx,
+        usuarios_records, usuarios_hidx,
+        reuniones_records, reuniones_hidx,
+        leyenda_records, leyenda_hidx,
+        empresa_owner_map,
+    )
+
+    errors = []
+
+    def check(label, actual, expected):
+        if actual != expected:
+            errors.append(f"{label}: esperado {expected}, obtuve {actual}")
+
+    check("El ticket va a Chile (país real de Diana), no a Perú", output["tabs"]["KAM"]["countries"]["Chile"]["total_clientes"], 1)
+    check("Perú no recibe nada (la empresa vive ahí, pero la dueña trabaja desde Chile)", output["tabs"]["KAM"]["countries"]["Perú"]["total_clientes"], 0)
+
+    if errors:
+        print("FALLÓ (país real del dueño):")
+        for e in errors:
+            print(" -", e)
+        sys.exit(1)
+    else:
+        print("PAÍS REAL DEL DUEÑO GANA: OK ✔")
 
 
 if __name__ == "__main__":
     main()
-    test_reconciliacion_pais_ticket_vs_leyenda()
+    test_ids_no_se_mezclan_entre_paises()
+    test_pais_real_del_dueno_gana_sobre_tab_de_empresas()
