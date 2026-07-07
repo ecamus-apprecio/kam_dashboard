@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T11:36:34.356796+00:00",
+  "generated_at": "2026-07-07T13:48:06.961186+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "433",
@@ -8,7 +8,8 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "count": 90
+      "redistribuido_a": "KAM",
+      "count": 91
     },
     {
       "empresa_id": "1372",
@@ -17,6 +18,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 77
     },
     {
@@ -26,6 +28,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 74
     },
     {
@@ -35,6 +38,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 61
     },
     {
@@ -44,6 +48,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 58
     },
     {
@@ -53,6 +58,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 47
     },
     {
@@ -62,6 +68,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 45
     },
     {
@@ -71,6 +78,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 45
     },
     {
@@ -80,6 +88,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 44
     },
     {
@@ -89,6 +98,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 38
     },
     {
@@ -98,6 +108,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 38
     },
     {
@@ -107,6 +118,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 34
     },
     {
@@ -116,6 +128,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 33
     },
     {
@@ -125,6 +138,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 30
     },
     {
@@ -134,6 +148,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "redistribuido_a": "KAM",
       "count": 29
     },
     {
@@ -143,6 +158,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 27
     },
     {
@@ -152,6 +168,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 26
     },
     {
@@ -161,6 +178,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 25
     },
     {
@@ -170,6 +188,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 25
     },
     {
@@ -179,6 +198,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 22
     },
     {
@@ -188,6 +208,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 22
     },
     {
@@ -197,6 +218,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 20
     },
     {
@@ -206,6 +228,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 20
     },
     {
@@ -215,6 +238,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "redistribuido_a": "KAM",
       "count": 20
     },
     {
@@ -224,6 +248,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 19
     },
     {
@@ -233,6 +258,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 18
     },
     {
@@ -242,6 +268,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 18
     },
     {
@@ -251,6 +278,7 @@
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "redistribuido_a": null,
       "count": 17
     },
     {
@@ -260,6 +288,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 16
     },
     {
@@ -269,6 +298,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 16
     },
     {
@@ -278,6 +308,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 16
     },
     {
@@ -287,6 +318,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 16
     },
     {
@@ -296,6 +328,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 16
     },
     {
@@ -305,6 +338,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 15
     },
     {
@@ -314,6 +348,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 15
     },
     {
@@ -323,6 +358,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 15
     },
     {
@@ -332,6 +368,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 14
     },
     {
@@ -341,6 +378,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 14
     },
     {
@@ -350,6 +388,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 14
     },
     {
@@ -359,6 +398,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 14
     },
     {
@@ -368,6 +408,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 13
     },
     {
@@ -377,6 +418,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 13
     },
     {
@@ -386,6 +428,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 13
     },
     {
@@ -395,6 +438,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "aavila@apprecio.com",
+      "redistribuido_a": "KAM",
       "count": 13
     },
     {
@@ -404,6 +448,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 13
     },
     {
@@ -413,6 +458,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 12
     },
     {
@@ -422,6 +468,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "aavila@apprecio.com",
+      "redistribuido_a": "KAM",
       "count": 12
     },
     {
@@ -431,6 +478,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 12
     },
     {
@@ -440,6 +488,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 11
     },
     {
@@ -449,6 +498,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 11
     },
     {
@@ -458,6 +508,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 11
     },
     {
@@ -467,6 +518,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 10
     },
     {
@@ -476,6 +528,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 10
     },
     {
@@ -485,6 +538,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "redistribuido_a": "KAM",
       "count": 10
     },
     {
@@ -494,6 +548,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 10
     },
     {
@@ -503,6 +558,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "aavila@apprecio.com",
+      "redistribuido_a": "KAM",
       "count": 10
     },
     {
@@ -512,6 +568,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 10
     },
     {
@@ -521,6 +578,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 10
     },
     {
@@ -530,6 +588,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 10
     },
     {
@@ -539,6 +598,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 10
     },
     {
@@ -548,6 +608,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 9
     },
     {
@@ -557,6 +618,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 9
     },
     {
@@ -566,6 +628,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 9
     },
     {
@@ -575,6 +638,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 9
     },
     {
@@ -584,6 +648,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 9
     },
     {
@@ -593,6 +658,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 9
     },
     {
@@ -602,6 +668,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 8
     },
     {
@@ -611,6 +678,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "redistribuido_a": "KAM",
       "count": 8
     },
     {
@@ -620,6 +688,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 8
     },
     {
@@ -629,6 +698,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 8
     },
     {
@@ -638,6 +708,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 8
     },
     {
@@ -647,6 +718,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 8
     },
     {
@@ -656,6 +728,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 8
     },
     {
@@ -665,6 +738,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 7
     },
     {
@@ -674,6 +748,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 7
     },
     {
@@ -683,6 +758,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 7
     },
     {
@@ -692,6 +768,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 6
     },
     {
@@ -701,6 +778,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 6
     },
     {
@@ -710,6 +788,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 6
     },
     {
@@ -719,6 +798,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 6
     },
     {
@@ -728,6 +808,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 6
     },
     {
@@ -737,6 +818,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 6
     },
     {
@@ -746,6 +828,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 6
     },
     {
@@ -755,6 +838,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 6
     },
     {
@@ -764,6 +848,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 6
     },
     {
@@ -773,6 +858,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 5
     },
     {
@@ -782,6 +868,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 5
     },
     {
@@ -791,6 +878,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 5
     },
     {
@@ -800,6 +888,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 5
     },
     {
@@ -809,6 +898,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "redistribuido_a": "KAM",
       "count": 5
     },
     {
@@ -818,6 +908,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 5
     },
     {
@@ -827,6 +918,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 5
     },
     {
@@ -836,6 +928,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 5
     },
     {
@@ -845,6 +938,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 5
     },
     {
@@ -854,6 +948,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 5
     },
     {
@@ -863,6 +958,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 5
     },
     {
@@ -872,6 +968,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -881,6 +978,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -890,6 +988,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -899,6 +998,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -908,6 +1008,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -917,6 +1018,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -926,6 +1028,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -935,6 +1038,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "aavila@apprecio.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -944,6 +1048,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -953,6 +1058,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -962,6 +1068,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -971,6 +1078,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -980,6 +1088,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -989,6 +1098,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -998,6 +1108,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -1007,6 +1118,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -1016,6 +1128,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -1025,6 +1138,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -1034,6 +1148,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -1043,6 +1158,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 4
     },
     {
@@ -1052,6 +1168,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -1061,6 +1178,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1070,6 +1188,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1079,6 +1198,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1088,6 +1208,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1097,6 +1218,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1106,6 +1228,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1115,6 +1238,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1124,6 +1248,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1133,6 +1258,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1142,6 +1268,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1151,6 +1278,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1160,6 +1288,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1169,6 +1298,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1178,6 +1308,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1187,6 +1318,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1196,6 +1328,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1205,6 +1338,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1214,6 +1348,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1223,6 +1358,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1232,6 +1368,7 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
       "count": 3
     },
     {
@@ -1241,6 +1378,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1250,6 +1388,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1259,6 +1398,7 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1268,6 +1408,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1277,6 +1418,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1286,6 +1428,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1295,6 +1438,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1304,6 +1448,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1313,6 +1458,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1322,6 +1468,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1331,6 +1478,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1340,6 +1488,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1349,6 +1498,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1358,6 +1508,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1367,6 +1518,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1376,6 +1528,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1385,6 +1538,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1394,6 +1548,7 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1403,6 +1558,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1412,6 +1568,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1421,6 +1578,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1430,6 +1588,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1439,6 +1598,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 2
     },
     {
@@ -1448,6 +1608,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 2
     },
     {
@@ -1457,6 +1618,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 2
     },
     {
@@ -1466,6 +1628,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 2
     },
     {
@@ -1475,6 +1638,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1484,6 +1648,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 2
     },
     {
@@ -1493,6 +1658,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1502,6 +1668,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1511,6 +1678,7 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
       "count": 2
     },
     {
@@ -1520,6 +1688,7 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
       "count": 2
     },
     {
@@ -1529,6 +1698,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1538,6 +1708,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1547,6 +1718,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1556,6 +1728,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1565,6 +1738,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1574,6 +1748,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1583,6 +1758,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1592,6 +1768,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1601,6 +1778,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dallendes@apprecio.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1610,6 +1788,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1619,6 +1798,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1628,6 +1808,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "ecamus@apprecio.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1637,6 +1818,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1646,6 +1828,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1655,6 +1838,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1664,6 +1848,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1673,6 +1858,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1682,6 +1868,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1691,6 +1878,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1700,6 +1888,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1709,6 +1898,7 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1718,6 +1908,7 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1727,6 +1918,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1736,6 +1928,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1745,6 +1938,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1754,6 +1948,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1763,6 +1958,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1772,6 +1968,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1781,6 +1978,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1790,6 +1988,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1799,6 +1998,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1808,6 +2008,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1817,6 +2018,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1826,6 +2028,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1835,6 +2038,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1844,6 +2048,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
@@ -1853,6 +2058,7 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
       "count": 1
     },
     {
@@ -1862,6 +2068,7 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
       "count": 1
     }
   ],
@@ -1873,6 +2080,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 5044.0
     },
     {
@@ -1882,6 +2090,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 3305.0
     },
     {
@@ -1891,6 +2100,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1820.0
     },
     {
@@ -1900,6 +2110,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1247.0
     },
     {
@@ -1909,6 +2120,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1201.0
     },
     {
@@ -1918,6 +2130,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1178.0
     },
     {
@@ -1927,6 +2140,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1076.0
     },
     {
@@ -1936,6 +2150,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1073.0
     },
     {
@@ -1945,6 +2160,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1019.0
     },
     {
@@ -1954,6 +2170,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 889.0
     },
     {
@@ -1963,6 +2180,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 873.0
     },
     {
@@ -1972,6 +2190,7 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 837.0
     },
     {
@@ -1981,6 +2200,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 813.0
     },
     {
@@ -1990,6 +2210,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 760.0
     },
     {
@@ -1999,6 +2220,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 679.0
     },
     {
@@ -2008,6 +2230,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 662.0
     },
     {
@@ -2017,6 +2240,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 642.0
     },
     {
@@ -2026,6 +2250,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 608.0
     },
     {
@@ -2035,6 +2260,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 488.0
     },
     {
@@ -2044,6 +2270,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 472.0
     },
     {
@@ -2053,6 +2280,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 463.0
     },
     {
@@ -2062,6 +2290,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 461.0
     },
     {
@@ -2071,6 +2300,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 441.0
     },
     {
@@ -2080,6 +2310,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 433.0
     },
     {
@@ -2089,6 +2320,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 423.0
     },
     {
@@ -2098,6 +2330,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 406.0
     },
     {
@@ -2107,6 +2340,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "aavila@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 396.0
     },
     {
@@ -2116,6 +2350,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 391.0
     },
     {
@@ -2125,6 +2360,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 351.0
     },
     {
@@ -2134,6 +2370,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 336.0
     },
     {
@@ -2143,6 +2380,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 333.0
     },
     {
@@ -2152,6 +2390,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 300.0
     },
     {
@@ -2161,6 +2400,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 290.0
     },
     {
@@ -2170,6 +2410,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 276.0
     },
     {
@@ -2179,6 +2420,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 270.0
     },
     {
@@ -2188,6 +2430,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 268.0
     },
     {
@@ -2197,6 +2440,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 252.0
     },
     {
@@ -2206,6 +2450,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 232.0
     },
     {
@@ -2215,6 +2460,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 227.0
     },
     {
@@ -2224,6 +2470,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 216.0
     },
     {
@@ -2233,6 +2480,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 216.0
     },
     {
@@ -2242,6 +2490,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 212.0
     },
     {
@@ -2251,6 +2500,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 203.0
     },
     {
@@ -2260,6 +2510,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 200.0
     },
     {
@@ -2269,6 +2520,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 195.0
     },
     {
@@ -2278,6 +2530,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 181.0
     },
     {
@@ -2287,6 +2540,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 176.0
     },
     {
@@ -2296,6 +2550,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 174.0
     },
     {
@@ -2305,6 +2560,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 163.0
     },
     {
@@ -2314,6 +2570,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 158.0
     },
     {
@@ -2323,6 +2580,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 154.0
     },
     {
@@ -2332,6 +2590,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 146.0
     },
     {
@@ -2341,6 +2600,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 140.0
     },
     {
@@ -2350,6 +2610,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
       "usuarios_incentivados": 137.0
     },
     {
@@ -2359,6 +2620,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 130.0
     },
     {
@@ -2368,6 +2630,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 128.0
     },
     {
@@ -2377,6 +2640,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 127.0
     },
     {
@@ -2386,6 +2650,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 125.0
     },
     {
@@ -2395,6 +2660,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 120.0
     },
     {
@@ -2404,6 +2670,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "aavila@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 114.0
     },
     {
@@ -2413,6 +2680,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 109.0
     },
     {
@@ -2422,6 +2690,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 103.0
     },
     {
@@ -2431,6 +2700,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 103.0
     },
     {
@@ -2440,6 +2710,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 87.0
     },
     {
@@ -2449,6 +2720,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 83.0
     },
     {
@@ -2458,6 +2730,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 81.0
     },
     {
@@ -2467,6 +2740,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 79.0
     },
     {
@@ -2476,6 +2750,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 79.0
     },
     {
@@ -2485,6 +2760,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 78.0
     },
     {
@@ -2494,6 +2770,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 72.0
     },
     {
@@ -2503,6 +2780,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 70.0
     },
     {
@@ -2512,6 +2790,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 69.0
     },
     {
@@ -2521,6 +2800,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 69.0
     },
     {
@@ -2530,6 +2810,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 66.0
     },
     {
@@ -2539,6 +2820,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 61.0
     },
     {
@@ -2548,6 +2830,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 60.0
     },
     {
@@ -2557,6 +2840,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 60.0
     },
     {
@@ -2566,6 +2850,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 58.0
     },
     {
@@ -2575,6 +2860,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 58.0
     },
     {
@@ -2584,6 +2870,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 54.0
     },
     {
@@ -2593,6 +2880,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 54.0
     },
     {
@@ -2602,6 +2890,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 54.0
     },
     {
@@ -2611,6 +2900,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 52.0
     },
     {
@@ -2620,6 +2910,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 51.0
     },
     {
@@ -2629,6 +2920,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 48.0
     },
     {
@@ -2638,6 +2930,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 47.0
     },
     {
@@ -2647,6 +2940,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 47.0
     },
     {
@@ -2656,6 +2950,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 46.0
     },
     {
@@ -2665,6 +2960,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
       "usuarios_incentivados": 46.0
     },
     {
@@ -2674,6 +2970,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 45.0
     },
     {
@@ -2683,6 +2980,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 42.0
     },
     {
@@ -2692,6 +2990,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 42.0
     },
     {
@@ -2701,6 +3000,7 @@
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "redistribuido_a": null,
       "usuarios_incentivados": 42.0
     },
     {
@@ -2710,6 +3010,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 40.0
     },
     {
@@ -2719,6 +3020,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 40.0
     },
     {
@@ -2728,6 +3030,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 39.0
     },
     {
@@ -2737,6 +3040,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 39.0
     },
     {
@@ -2746,6 +3050,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 39.0
     },
     {
@@ -2755,6 +3060,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 37.0
     },
     {
@@ -2764,6 +3070,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 36.0
     },
     {
@@ -2773,6 +3080,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "usuarios_incentivados": 36.0
     },
     {
@@ -2782,6 +3090,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 34.0
     },
     {
@@ -2791,6 +3100,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 34.0
     },
     {
@@ -2800,6 +3110,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 33.0
     },
     {
@@ -2809,6 +3120,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 32.0
     },
     {
@@ -2818,6 +3130,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 30.0
     },
     {
@@ -2827,6 +3140,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "usuarios_incentivados": 29.0
     },
     {
@@ -2836,6 +3150,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 28.0
     },
     {
@@ -2845,6 +3160,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 28.0
     },
     {
@@ -2854,6 +3170,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 28.0
     },
     {
@@ -2863,6 +3180,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "aavila@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 27.0
     },
     {
@@ -2872,6 +3190,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 25.0
     },
     {
@@ -2881,6 +3200,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 23.0
     },
     {
@@ -2890,6 +3210,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 23.0
     },
     {
@@ -2899,6 +3220,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 22.0
     },
     {
@@ -2908,6 +3230,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 21.0
     },
     {
@@ -2917,6 +3240,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 20.0
     },
     {
@@ -2926,6 +3250,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 20.0
     },
     {
@@ -2935,6 +3260,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 20.0
     },
     {
@@ -2944,6 +3270,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "usuarios_incentivados": 20.0
     },
     {
@@ -2953,6 +3280,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 19.0
     },
     {
@@ -2962,6 +3290,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 19.0
     },
     {
@@ -2971,6 +3300,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 18.0
     },
     {
@@ -2980,6 +3310,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 18.0
     },
     {
@@ -2989,6 +3320,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 18.0
     },
     {
@@ -2998,6 +3330,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 17.0
     },
     {
@@ -3007,6 +3340,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 17.0
     },
     {
@@ -3016,6 +3350,7 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 17.0
     },
     {
@@ -3025,6 +3360,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 16.0
     },
     {
@@ -3034,6 +3370,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "aavila@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 16.0
     },
     {
@@ -3043,6 +3380,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 16.0
     },
     {
@@ -3052,6 +3390,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 16.0
     },
     {
@@ -3061,6 +3400,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 15.0
     },
     {
@@ -3070,6 +3410,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 15.0
     },
     {
@@ -3079,6 +3420,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 14.0
     },
     {
@@ -3088,6 +3430,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 14.0
     },
     {
@@ -3097,6 +3440,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 14.0
     },
     {
@@ -3106,6 +3450,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 14.0
     },
     {
@@ -3115,6 +3460,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 14.0
     },
     {
@@ -3124,6 +3470,7 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 14.0
     },
     {
@@ -3133,6 +3480,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 13.0
     },
     {
@@ -3142,6 +3490,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 12.0
     },
     {
@@ -3151,6 +3500,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 12.0
     },
     {
@@ -3160,6 +3510,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 12.0
     },
     {
@@ -3169,6 +3520,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "usuarios_incentivados": 12.0
     },
     {
@@ -3178,6 +3530,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 11.0
     },
     {
@@ -3187,6 +3540,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 11.0
     },
     {
@@ -3196,6 +3550,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 10.0
     },
     {
@@ -3205,6 +3560,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 10.0
     },
     {
@@ -3214,6 +3570,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 10.0
     },
     {
@@ -3223,6 +3580,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 9.0
     },
     {
@@ -3232,6 +3590,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 8.0
     },
     {
@@ -3241,6 +3600,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 8.0
     },
     {
@@ -3250,6 +3610,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 8.0
     },
     {
@@ -3259,6 +3620,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 8.0
     },
     {
@@ -3268,6 +3630,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "usuarios_incentivados": 8.0
     },
     {
@@ -3277,6 +3640,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 7.0
     },
     {
@@ -3286,6 +3650,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 7.0
     },
     {
@@ -3295,6 +3660,7 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 7.0
     },
     {
@@ -3304,6 +3670,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 7.0
     },
     {
@@ -3313,6 +3680,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
     },
     {
@@ -3322,6 +3690,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
     },
     {
@@ -3331,6 +3700,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
     },
     {
@@ -3340,6 +3710,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 5.0
     },
     {
@@ -3349,6 +3720,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 5.0
     },
     {
@@ -3358,6 +3730,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 5.0
     },
     {
@@ -3367,6 +3740,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 4.0
     },
     {
@@ -3376,6 +3750,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 4.0
     },
     {
@@ -3385,6 +3760,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 4.0
     },
     {
@@ -3394,6 +3770,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 4.0
     },
     {
@@ -3403,6 +3780,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
     {
@@ -3412,6 +3790,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
     {
@@ -3421,6 +3800,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
     {
@@ -3430,6 +3810,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dallendes@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
     {
@@ -3439,6 +3820,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
     {
@@ -3448,6 +3830,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
     {
@@ -3457,6 +3840,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
     {
@@ -3466,6 +3850,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "test@test.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
     {
@@ -3475,6 +3860,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3484,6 +3870,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3493,6 +3880,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3502,6 +3890,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3511,6 +3900,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3520,6 +3910,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3529,6 +3920,7 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3538,6 +3930,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3547,6 +3940,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "ecamus@apprecio.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3556,6 +3950,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3565,6 +3960,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3574,6 +3970,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3583,6 +3980,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
     {
@@ -3592,6 +3990,7 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
     {
@@ -3601,6 +4000,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
     {
@@ -3610,6 +4010,7 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
     {
@@ -3619,6 +4020,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
     {
@@ -3628,6 +4030,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
     {
@@ -3637,6 +4040,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
     {
@@ -3646,6 +4050,7 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
     {
@@ -3655,30 +4060,11 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "usuarios_incentivados": 1.0
     }
   ],
   "reuniones_sin_match": [
-    {
-      "kam_id": "#N/A",
-      "seller_email": "lgalindo@apprecio.com, scuellar@apprecio.com",
-      "count": 16
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "ctrujillo@dcanje.com, golvera@dcanje.com",
-      "count": 14
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "golvera@dcanje.com, jtejada@dcanje.com",
-      "count": 13
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "ctrujillo@dcanje.com, jtejada@dcanje.com",
-      "count": 6
-    },
     {
       "kam_id": "#N/A",
       "seller_email": "csilva@apprecio.com, dindaburu@dcanje.com",
@@ -3691,67 +4077,7 @@
     },
     {
       "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, lgalindo@apprecio.com",
-      "count": 4
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, lgalindo@apprecio.com",
-      "count": 4
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, csilva@apprecio.com, lgalindo@apprecio.com",
-      "count": 3
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, csilva@apprecio.com",
-      "count": 3
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, rmolina@apprecio.com",
-      "count": 2
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, dindaburu@dcanje.com",
-      "count": 2
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "alvaroagliati@dcanje.com, bgonzalez@apprecio.com",
-      "count": 2
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "alvaroagliati@dcanje.com, ljamasmie@apprecio.com",
-      "count": 2
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "asilva@apprecio.com, dallendes@dcanje.com",
-      "count": 2
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, ftorres@apprecio.com",
-      "count": 2
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "scuellar@apprecio.com, shernandez@apprecio.com",
-      "count": 2
-    },
-    {
-      "kam_id": "#N/A",
       "seller_email": "aavila@dcanje.com, csilva@apprecio.com",
-      "count": 2
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "csilva@apprecio.com, dindaburu@dcanje.com, lgalindo@apprecio.com",
       "count": 2
     },
     {
@@ -3761,207 +4087,7 @@
     },
     {
       "kam_id": "#N/A",
-      "seller_email": "alvaroagliati@dcanje.com, ctrujillo@dcanje.com, golvera@dcanje.com, jtejada@dcanje.com, jvalencia@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "jleighton@apprecio.com, scuellar@apprecio.com, srojas@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dindaburu@dcanje.com, scuellar@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aavila@apprecio.com, rmolina@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dindaburu@dcanje.com, rmolina@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dduran@apprecio.com, jguerra@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, dallendes@apprecio.com, dindaburu@dcanje.com, lgalindo@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, dallendes@dcanje.com, jtejada@dcanje.com, lgalindo@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
       "seller_email": "csilva@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "ctrujillo@dcanje.com, cvaldivia@dcanje.com, jleiva@apprecio.com, jvalencia@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, ftorres@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "bcastro@apprecio.com, dallendes@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, dduran@apprecio.com, msernaque@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, dindaburu@apprecio.com, shernandez@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, lgalindo@apprecio.com, rmolina@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "msernaque@apprecio.com, scuellar@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "ktan@apprecio.com, scuellar@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dindaburu@dcanje.com, fafigueroa@apprecio.com, rmolina@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, lgalindo@apprecio.com, scuellar@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "alvaroagliati@dcanje.com, asilva@apprecio.com, dallendes@dcanje.com, msernaque@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, ftorres@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "csilva@apprecio.com, scuellar@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dindaburu@apprecio.com, imolina@apprecio.com, rmolina@apprecio.com, srodriguez@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "bosorio@apprecio.com, rmolina@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, jtejada@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "csilva@apprecio.com, shernandez@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "alvaroagliati@apprecio.com, dallendes@dcanje.com, ktan@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, ljamasmie@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "alvaroagliati@dcanje.com, dallendes@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "bcastro@apprecio.com, ftorres@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dindaburu@dcanje.com, shernandez@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "bgonzalez@apprecio.com, bosorio@apprecio.com, ftorres@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, kli@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "alvaroagliati@dcanje.com, dallendes@dcanje.com, jceballos@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, imolina@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "alvaroagliati@apprecio.com, dallendes@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "bgonzalez@apprecio.com, bosorio@apprecio.com, ljamasmie@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "camiloayala@apprecio.com, dallendes@dcanje.com, ktan@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "csilva@apprecio.com, dallendes@dcanje.com, jtejada@dcanje.com, lgalindo@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "csilva@apprecio.com, dallendes@dcanje.com, jtejada@dcanje.com, lgalindo@apprecio.com, nalvarado@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "alvaroagliati@apprecio.com, dallendes@dcanje.com, kli@dcanje.com, ktan@apprecio.com",
       "count": 1
     },
     {
@@ -3971,82 +4097,7 @@
     },
     {
       "kam_id": "#N/A",
-      "seller_email": "dindaburu@apprecio.com, shernandez@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
       "seller_email": "aavila@dcanje.com, amendoza@apprecio.com, ftorres@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "amendoza@apprecio.com, bosorio@apprecio.com, rmolina@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "bgonzalez@apprecio.com, jcalzada@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dduran@apprecio.com, jguerra@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, lgalindo@apprecio.com, scuellar@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, dindaburu@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, dallendes@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "bosorio@apprecio.com, ljamasmie@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "bgonzalez@apprecio.com, bosorio@apprecio.com, ftorres@apprecio.com, ljamasmie@apprecio.com, sgajardo@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, jguerra@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "csilva@apprecio.com, lgalindo@apprecio.com, scuellar@apprecio.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, golvera@dcanje.com, jtejada@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "dallendes@dcanje.com, kli@dcanje.com, msernaque@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "csilva@apprecio.com, dallendes@dcanje.com, jtejada@dcanje.com",
-      "count": 1
-    },
-    {
-      "kam_id": "#N/A",
-      "seller_email": "aleon@apprecio.com, scuellar@apprecio.com",
       "count": 1
     },
     {
