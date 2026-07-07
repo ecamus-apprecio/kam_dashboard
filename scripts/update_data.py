@@ -228,10 +228,21 @@ def build_dashboard_data(
     col_kamid = find_header(leyenda_h, "KAM ID")
     col_rol = find_header(leyenda_h, "Rol")
     col_pais_ley = find_header(leyenda_h, "Pais", "País")
+    col_nombre_ley = find_header(leyenda_h, "Nombre", "Nombre Ejecutivo", "Ejecutivo", "Nombre completo")
+
+    def display_name(correo, raw_nombre):
+        nombre = (raw_nombre or "").strip()
+        if nombre:
+            return nombre
+        # Sin columna de nombre (o vacía): derivamos algo legible del correo.
+        local = correo.split("@")[0].replace(".", " ").replace("_", " ")
+        return " ".join(p.capitalize() for p in local.split() if p) or correo
 
     kamid_to_info = {}
+    kamid_to_correo = {}
     email_to_info = {}
     ejecutivos_set = defaultdict(lambda: defaultdict(set))  # ejecutivos_set[rol][pais] = {emails}
+    correo_to_exec = {}  # correo -> {"nombre", "rol", "pais"}
 
     for r in leyenda_records:
         pais = normalize_country(r.get(col_pais_ley, ""))
@@ -243,9 +254,16 @@ def build_dashboard_data(
         info = {"rol": rol, "pais": pais}
         if kamid and kamid.upper() != "#N/A":
             kamid_to_info[kamid] = info
+            if correo:
+                kamid_to_correo[kamid] = correo
         if correo:
             email_to_info[correo] = info
             ejecutivos_set[rol][pais].add(correo)
+            correo_to_exec[correo] = {
+                "nombre": display_name(correo, r.get(col_nombre_ley, "")),
+                "rol": rol,
+                "pais": pais,
+            }
 
     ejecutivos = {rol: {pais: len(emails) for pais, emails in paises.items()} for rol, paises in ejecutivos_set.items()}
 
@@ -292,6 +310,14 @@ def build_dashboard_data(
     tickets_redistribuidos = 0
     tickets_sin_asignar_detalle = {}  # key: empresa_id -> {..., count}
 
+    # Detalle por ejecutivo real (solo cuentas SÍ atribuidas a una persona concreta)
+    tickets_by_exec_month = defaultdict(lambda: defaultdict(int))  # [correo][mk] = count
+    clientes_by_exec = defaultdict(set)  # [correo] = {RUTs}
+
+    # Pool de lo redistribuido (no atribuible a una persona, repartido por rol/país)
+    tickets_pool_by_role_country_month = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
+    clientes_pool_by_role_country = defaultdict(lambda: defaultdict(set))
+
     for r in tickets_records:
         pais_ticket = normalize_country(r.get(col_pais_tix, ""))
         if not pais_ticket:
@@ -299,10 +325,12 @@ def build_dashboard_data(
         empresa_id = r.get(col_empresa_id, "")
         res = resolve_owner(empresa_id)
         rol = res["rol"]
+        es_fallback = False
         if not rol:
             tickets_sin_asignar += 1
             key = normalize_empresa_id(empresa_id) or f"SIN_ID::{r.get(col_idtrib, '')}"
             rol = pick_fallback_rol(pais_ticket, key)
+            es_fallback = True
             if rol:
                 tickets_redistribuidos += 1
             entry = tickets_sin_asignar_detalle.setdefault(key, {
@@ -322,6 +350,10 @@ def build_dashboard_data(
         id_trib = normalize_tax_id(r.get(col_idtrib, ""))
         if id_trib:
             clientes_by_role_country[rol][pais_ticket].add(id_trib)
+            if es_fallback:
+                clientes_pool_by_role_country[rol][pais_ticket].add(id_trib)
+            else:
+                clientes_by_exec[res["owner_email"]].add(id_trib)
 
         fecha = (r.get(col_fecha, "") or "").strip()
         if len(fecha) >= 10:
@@ -329,6 +361,10 @@ def build_dashboard_data(
                 dt = datetime.strptime(fecha[:10], "%Y-%m-%d")
                 mk = month_key(dt.year, dt.month)
                 tickets_by_role_country_month[rol][pais_ticket][mk] += 1
+                if es_fallback:
+                    tickets_pool_by_role_country_month[rol][pais_ticket][mk] += 1
+                else:
+                    tickets_by_exec_month[res["owner_email"]][mk] += 1
             except ValueError:
                 pass
 
@@ -356,6 +392,9 @@ def build_dashboard_data(
     usuarios_redistribuidos = 0
     usuarios_sin_asignar_detalle = {}
 
+    usuarios_by_exec = defaultdict(float)  # [correo] = total
+    usuarios_pool_by_role_country = defaultdict(lambda: defaultdict(float))
+
     for r in usuarios_records:
         l_val = parse_number(r.get(col_usuarios_l, ""))
         if l_val is None:
@@ -366,10 +405,12 @@ def build_dashboard_data(
         empresa_id = r.get(col_id_empresa_usr, "")
         res = resolve_owner(empresa_id)
         rol = res["rol"]
+        es_fallback = False
         if not rol:
             usuarios_sin_asignar += 1
             key = normalize_empresa_id(empresa_id) or f"SIN_ID::{r.get(col_idtrib_usr, '')}"
             rol = pick_fallback_rol(pais_usr, key)
+            es_fallback = True
             if rol:
                 usuarios_redistribuidos += 1
             entry = usuarios_sin_asignar_detalle.setdefault(key, {
@@ -386,6 +427,10 @@ def build_dashboard_data(
             if not rol:
                 continue  # país sin regla de reparto -> se sigue excluyendo, como antes
         usuarios_total[rol][pais_usr] += l_val
+        if es_fallback:
+            usuarios_pool_by_role_country[rol][pais_usr] += l_val
+        else:
+            usuarios_by_exec[res["owner_email"]] += l_val
 
     # --- Reuniones: atribuir cada reunión a (rol, pais) por mes -----------------
     col_kamid_reu = find_header(reuniones_h, "KAM ID")
@@ -394,6 +439,7 @@ def build_dashboard_data(
     col_mes = find_header(reuniones_h, "MES")
 
     reuniones_by_role_country_month = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
+    reuniones_by_exec_month = defaultdict(lambda: defaultdict(int))  # [correo][mk] = count
     all_month_keys = set()
     reuniones_sin_match = 0
     reuniones_sin_match_detalle = {}  # key: (kamid, email) -> count
@@ -401,6 +447,7 @@ def build_dashboard_data(
     for r in reuniones_records:
         kamid = (r.get(col_kamid_reu, "") or "").strip()
         info = kamid_to_info.get(kamid) if kamid and kamid.upper() != "#N/A" else None
+        correo_match = kamid_to_correo.get(kamid) if info else None
         if not info:
             # SELLER_EMAIL a veces trae varios correos separados por coma (artefacto de fórmula).
             # Probamos cada uno hasta encontrar un match en la Leyenda.
@@ -409,6 +456,7 @@ def build_dashboard_data(
                 candidate = candidate.strip().lower()
                 if candidate in email_to_info:
                     info = email_to_info[candidate]
+                    correo_match = candidate
                     break
         if not info:
             reuniones_sin_match += 1
@@ -430,9 +478,31 @@ def build_dashboard_data(
         mk = month_key(anio, mes)
         all_month_keys.add(mk)
         reuniones_by_role_country_month[info["rol"]][info["pais"]][mk] += 1
+        if correo_match:
+            reuniones_by_exec_month[correo_match][mk] += 1
 
     month_keys_sorted = sorted(all_month_keys)
     month_labels = [month_label(mk) for mk in month_keys_sorted]
+
+    # --- Detalle por ejecutivo real (nombre) -------------------------------------
+    def avg_activos(month_dict):
+        active = [v for v in month_dict.values() if v > 0]
+        return round(sum(active) / len(active), 2) if active else 0
+
+    ejecutivos_detalle = defaultdict(lambda: defaultdict(list))  # [rol][pais] = [ {...}, ... ]
+    for correo, info in correo_to_exec.items():
+        rol, pais = info["rol"], info["pais"]
+        ejecutivos_detalle[rol][pais].append({
+            "nombre": info["nombre"],
+            "correo": correo,
+            "tickets_mensual": avg_activos(tickets_by_exec_month.get(correo, {})),
+            "reuniones_mensual": avg_activos(reuniones_by_exec_month.get(correo, {})),
+            "total_clientes": len(clientes_by_exec.get(correo, set())),
+            "usuarios_total": round(usuarios_by_exec.get(correo, 0), 2),
+        })
+    for rol in ejecutivos_detalle:
+        for pais in ejecutivos_detalle[rol]:
+            ejecutivos_detalle[rol][pais].sort(key=lambda e: (-e["tickets_mensual"], e["nombre"]))
 
     # --- Construir estructura final ---------------------------------------------
     tabs = {}
@@ -450,6 +520,10 @@ def build_dashboard_data(
             t_clientes = total_clientes[rol].get(pais, 0)
             u_total = round(usuarios_total[rol].get(pais, 0), 2)
 
+            pool_tickets = avg_activos(tickets_pool_by_role_country_month[rol].get(pais, {}))
+            pool_clientes = len(clientes_pool_by_role_country[rol].get(pais, set()))
+            pool_usuarios = round(usuarios_pool_by_role_country[rol].get(pais, 0), 2)
+
             countries[pais] = {
                 "flag": COUNTRY_FLAGS.get(pais, ""),
                 "ejecutivos": n_exec,
@@ -462,6 +536,12 @@ def build_dashboard_data(
                 "total_clientes": t_clientes,
                 "usuarios_total": u_total,
                 "usuarios_exec": safe_div(u_total, n_exec),
+                "ejecutivos_detalle": ejecutivos_detalle.get(rol, {}).get(pais, []),
+                "pool_sin_asignar": {
+                    "tickets_mensual": pool_tickets,
+                    "total_clientes": pool_clientes,
+                    "usuarios_total": pool_usuarios,
+                },
             }
         tabs[rol] = {"countries": countries, "country_order": COUNTRY_ORDER}
 
