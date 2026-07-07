@@ -73,6 +73,12 @@ FALLBACK_SPLIT = {
     "Perú": [("KAM", 1.0)],
 }
 
+# Apprecio y Dcanje son la misma organización: la misma persona puede aparecer con
+# @apprecio.com en la Leyenda y @dcanje.com en "Empresas" (o viceversa), según qué
+# sheet se llenó primero. Sin esto, ese desajuste hace que sus tickets/usuarios caigan
+# como "sin asignar" aunque la persona SÍ esté correctamente en la Leyenda.
+DOMINIOS_EQUIVALENTES = ["apprecio.com", "dcanje.com"]
+
 
 # ---------------------------------------------------------------------------
 # Helpers genéricos
@@ -283,6 +289,23 @@ def build_dashboard_data(
             }
 
     ejecutivos = {rol: {pais: len(emails) for pais, emails in paises.items()} for rol, paises in ejecutivos_set.items()}
+
+    # --- Alias de dominio (apprecio.com <-> dcanje.com) para matchear el "Email Kam" de
+    # Empresas contra la Leyenda aunque una de las dos hojas use el dominio "equivocado"
+    # para esa persona. Solo afecta la resolución de dueño (email_to_info); el headcount
+    # y el nombre siguen basados únicamente en lo que la Leyenda registra literalmente.
+    # setdefault() para que un correo real registrado en la Leyenda SIEMPRE gane sobre
+    # un alias sintético (nunca se pisa a una persona real).
+    for correo_real, info in list(email_to_info.items()):
+        if "@" not in correo_real:
+            continue
+        local, dominio = correo_real.split("@", 1)
+        if dominio not in DOMINIOS_EQUIVALENTES:
+            continue
+        for alt_dominio in DOMINIOS_EQUIVALENTES:
+            if alt_dominio == dominio:
+                continue
+            email_to_info.setdefault(f"{local}@{alt_dominio}", info)
 
     def resolve_owner(empresa_id, pais_fila):
         """Dado un ID Empresa y el país de la fila (Tickets/Usuarios), intenta resolver
