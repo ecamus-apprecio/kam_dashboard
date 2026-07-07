@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T15:17:38.737694+00:00",
+  "generated_at": "2026-07-07T15:43:12.987333+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 401.08,
-          "tickets_exec": 80.22,
+          "tickets_mensual": 205.77,
+          "tickets_exec": 41.15,
           "reuniones_monthly": [
             31,
             26,
@@ -35,10 +35,10 @@
           ],
           "reuniones_mensual": 23.43,
           "reuniones_exec": 4.69,
-          "clientes_exec": 98.6,
-          "total_clientes": 493,
-          "usuarios_total": 117967.0,
-          "usuarios_exec": 23593.4,
+          "clientes_exec": 65.0,
+          "total_clientes": 325,
+          "usuarios_total": 49232.0,
+          "usuarios_exec": 9846.4,
           "ejecutivos_detalle": [
             {
               "nombre": "Johanna Calzada",
@@ -85,8 +85,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 259.38,
-          "tickets_exec": 51.88,
+          "tickets_mensual": 523.08,
+          "tickets_exec": 104.62,
           "reuniones_monthly": [
             100,
             87,
@@ -98,10 +98,10 @@
           ],
           "reuniones_mensual": 69.29,
           "reuniones_exec": 13.86,
-          "clientes_exec": 65.0,
-          "total_clientes": 325,
-          "usuarios_total": 69304.0,
-          "usuarios_exec": 13860.8,
+          "clientes_exec": 119.2,
+          "total_clientes": 596,
+          "usuarios_total": 149013.0,
+          "usuarios_exec": 29802.6,
           "ejecutivos_detalle": [
             {
               "nombre": "Sharon Hernandez",
@@ -170,7 +170,7 @@
         "México": {
           "flag": "🇲🇽",
           "ejecutivos": 0,
-          "tickets_mensual": 1.0,
+          "tickets_mensual": 0,
           "tickets_exec": 0,
           "reuniones_monthly": [
             0,
@@ -184,7 +184,7 @@
           "reuniones_mensual": 0,
           "reuniones_exec": 0,
           "clientes_exec": 0,
-          "total_clientes": 1,
+          "total_clientes": 0,
           "usuarios_total": 0,
           "usuarios_exec": 0,
           "ejecutivos_detalle": []
@@ -192,8 +192,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 89.08,
-          "tickets_exec": 44.54,
+          "tickets_mensual": 20.77,
+          "tickets_exec": 10.38,
           "reuniones_monthly": [
             8,
             15,
@@ -205,10 +205,10 @@
           ],
           "reuniones_mensual": 13.71,
           "reuniones_exec": 6.86,
-          "clientes_exec": 58.5,
-          "total_clientes": 117,
-          "usuarios_total": 17700.0,
-          "usuarios_exec": 8850.0,
+          "clientes_exec": 15.5,
+          "total_clientes": 31,
+          "usuarios_total": 6726.0,
+          "usuarios_exec": 3363.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Diana Duran",
@@ -242,8 +242,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 1,
-          "tickets_mensual": 10.77,
-          "tickets_exec": 10.77,
+          "tickets_mensual": 8.85,
+          "tickets_exec": 8.85,
           "reuniones_monthly": [
             59,
             25,
@@ -255,10 +255,10 @@
           ],
           "reuniones_mensual": 18.5,
           "reuniones_exec": 18.5,
-          "clientes_exec": 33.0,
-          "total_clientes": 33,
-          "usuarios_total": 1129.0,
-          "usuarios_exec": 1129.0,
+          "clientes_exec": 28.0,
+          "total_clientes": 28,
+          "usuarios_total": 1114.0,
+          "usuarios_exec": 1114.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Darling Allendes",
@@ -273,8 +273,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 1,
-          "tickets_mensual": 4.77,
-          "tickets_exec": 4.77,
+          "tickets_mensual": 8.62,
+          "tickets_exec": 8.62,
           "reuniones_monthly": [
             19,
             2,
@@ -286,10 +286,10 @@
           ],
           "reuniones_mensual": 11.75,
           "reuniones_exec": 11.75,
-          "clientes_exec": 19.0,
-          "total_clientes": 19,
-          "usuarios_total": 565.0,
-          "usuarios_exec": 565.0,
+          "clientes_exec": 28.0,
+          "total_clientes": 28,
+          "usuarios_total": 1256.0,
+          "usuarios_exec": 1256.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Laura Galindo",
@@ -304,7 +304,7 @@
         "Ecuador": {
           "flag": "🇪🇨",
           "ejecutivos": 0,
-          "tickets_mensual": 1.0,
+          "tickets_mensual": 0,
           "tickets_exec": 0,
           "reuniones_monthly": [
             0,
@@ -318,7 +318,7 @@
           "reuniones_mensual": 0,
           "reuniones_exec": 0,
           "clientes_exec": 0,
-          "total_clientes": 1,
+          "total_clientes": 0,
           "usuarios_total": 0,
           "usuarios_exec": 0,
           "ejecutivos_detalle": []
@@ -326,7 +326,7 @@
         "México": {
           "flag": "🇲🇽",
           "ejecutivos": 0,
-          "tickets_mensual": 1.0,
+          "tickets_mensual": 0,
           "tickets_exec": 0,
           "reuniones_monthly": [
             0,
@@ -340,15 +340,15 @@
           "reuniones_mensual": 0,
           "reuniones_exec": 0,
           "clientes_exec": 0,
-          "total_clientes": 2,
-          "usuarios_total": 6.0,
+          "total_clientes": 0,
+          "usuarios_total": 0,
           "usuarios_exec": 0,
           "ejecutivos_detalle": []
         },
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 0,
-          "tickets_mensual": 2.1,
+          "tickets_mensual": 0,
           "tickets_exec": 0,
           "reuniones_monthly": [
             0,
@@ -362,8 +362,8 @@
           "reuniones_mensual": 0,
           "reuniones_exec": 0,
           "clientes_exec": 0,
-          "total_clientes": 1,
-          "usuarios_total": 670.0,
+          "total_clientes": 0,
+          "usuarios_total": 0,
           "usuarios_exec": 0,
           "ejecutivos_detalle": []
         }
@@ -381,7 +381,7 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 0,
-          "tickets_mensual": 165.08,
+          "tickets_mensual": 0,
           "tickets_exec": 0,
           "reuniones_monthly": [
             0,
@@ -395,16 +395,16 @@
           "reuniones_mensual": 0,
           "reuniones_exec": 0,
           "clientes_exec": 0,
-          "total_clientes": 88,
-          "usuarios_total": 47076.0,
+          "total_clientes": 0,
+          "usuarios_total": 0,
           "usuarios_exec": 0,
           "ejecutivos_detalle": []
         },
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 1,
-          "tickets_mensual": 143.69,
-          "tickets_exec": 143.69,
+          "tickets_mensual": 141.23,
+          "tickets_exec": 141.23,
           "reuniones_monthly": [
             0,
             0,
@@ -416,10 +416,10 @@
           ],
           "reuniones_mensual": 9.5,
           "reuniones_exec": 9.5,
-          "clientes_exec": 166.0,
-          "total_clientes": 166,
-          "usuarios_total": 30013.0,
-          "usuarios_exec": 30013.0,
+          "clientes_exec": 204.0,
+          "total_clientes": 204,
+          "usuarios_total": 38782.0,
+          "usuarios_exec": 38782.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Paula Montoya",
@@ -434,7 +434,7 @@
         "Ecuador": {
           "flag": "🇪🇨",
           "ejecutivos": 0,
-          "tickets_mensual": 9.77,
+          "tickets_mensual": 0,
           "tickets_exec": 0,
           "reuniones_monthly": [
             0,
@@ -448,16 +448,16 @@
           "reuniones_mensual": 0,
           "reuniones_exec": 0,
           "clientes_exec": 0,
-          "total_clientes": 23,
-          "usuarios_total": 1171.0,
+          "total_clientes": 0,
+          "usuarios_total": 0,
           "usuarios_exec": 0,
           "ejecutivos_detalle": []
         },
         "México": {
           "flag": "🇲🇽",
           "ejecutivos": 2,
-          "tickets_mensual": 57.77,
-          "tickets_exec": 28.89,
+          "tickets_mensual": 351.0,
+          "tickets_exec": 175.5,
           "reuniones_monthly": [
             29,
             35,
@@ -469,10 +469,10 @@
           ],
           "reuniones_mensual": 23.86,
           "reuniones_exec": 11.93,
-          "clientes_exec": 72.5,
-          "total_clientes": 145,
-          "usuarios_total": 17459.0,
-          "usuarios_exec": 8729.5,
+          "clientes_exec": 151.5,
+          "total_clientes": 303,
+          "usuarios_total": 77564.0,
+          "usuarios_exec": 38782.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Colombina Trujillo",
@@ -495,8 +495,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 1,
-          "tickets_mensual": 115.92,
-          "tickets_exec": 115.92,
+          "tickets_mensual": 0,
+          "tickets_exec": 0.0,
           "reuniones_monthly": [
             0,
             0,
@@ -508,10 +508,10 @@
           ],
           "reuniones_mensual": 6.2,
           "reuniones_exec": 6.2,
-          "clientes_exec": 81.0,
-          "total_clientes": 81,
-          "usuarios_total": 20627.0,
-          "usuarios_exec": 20627.0,
+          "clientes_exec": 0.0,
+          "total_clientes": 0,
+          "usuarios_total": 0,
+          "usuarios_exec": 0.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Joao Guerra",
