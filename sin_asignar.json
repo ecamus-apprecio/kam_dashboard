@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T20:04:01.315200+00:00",
+  "generated_at": "2026-07-07T22:15:24.587134+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -402,6 +402,16 @@
       "count": 5
     },
     {
+      "empresa_id": "1343",
+      "nombre_empresa": "E-DENTAL COLOMBIA SAS",
+      "rut": "9010525270",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "1364",
       "nombre_empresa": "CORPORACIÓN EDUCATIVA COLEGIO SAGRADO CORAZON MONT",
       "rut": "8110027879",
@@ -518,16 +528,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "1343",
-      "nombre_empresa": "E-DENTAL COLOMBIA SAS",
-      "rut": "9010525270",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 4
     },
