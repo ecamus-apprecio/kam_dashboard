@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T11:09:21.462755+00:00",
+  "generated_at": "2026-07-08T14:27:38.044840+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -142,16 +142,6 @@
       "count": 13
     },
     {
-      "empresa_id": "533",
-      "nombre_empresa": "Fidetech",
-      "rut": "9015865580",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 12
-    },
-    {
       "empresa_id": "89",
       "nombre_empresa": "CALBAQ S.A.",
       "rut": "990135630001",
@@ -159,6 +149,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
+      "count": 13
+    },
+    {
+      "empresa_id": "533",
+      "nombre_empresa": "Fidetech",
+      "rut": "9015865580",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 12
     },
     {
@@ -522,6 +522,16 @@
       "count": 4
     },
     {
+      "empresa_id": "895",
+      "nombre_empresa": "GRUPO TSG SAS",
+      "rut": "9013414788",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "1202",
       "nombre_empresa": "CRISTAR TABLETOP S.A.S",
       "rut": "9014954528",
@@ -615,16 +625,6 @@
       "empresa_id": "855",
       "nombre_empresa": "JSMD MANAGEMENT S.A.S",
       "rut": "9014062521",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "895",
-      "nombre_empresa": "GRUPO TSG SAS",
-      "rut": "9013414788",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
