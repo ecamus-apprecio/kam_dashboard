@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T22:15:24.587134+00:00",
+  "generated_at": "2026-07-08T03:21:59.270783+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 261
+      "count": 250
     },
     {
       "empresa_id": "1802",
@@ -39,7 +39,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 42
+      "count": 40
     },
     {
       "empresa_id": "686",
@@ -79,7 +79,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 27
+      "count": 26
     },
     {
       "empresa_id": "165",
@@ -109,7 +109,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 17
+      "count": 16
     },
     {
       "empresa_id": "15",
@@ -119,7 +119,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 17
+      "count": 16
     },
     {
       "empresa_id": "63",
@@ -142,26 +142,6 @@
       "count": 13
     },
     {
-      "empresa_id": "89",
-      "nombre_empresa": "CALBAQ S.A.",
-      "rut": "990135630001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 13
-    },
-    {
-      "empresa_id": "68",
-      "nombre_empresa": "SATRACK SA",
-      "rut": "1792337321001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 13
-    },
-    {
       "empresa_id": "533",
       "nombre_empresa": "Fidetech",
       "rut": "9015865580",
@@ -172,6 +152,26 @@
       "count": 12
     },
     {
+      "empresa_id": "89",
+      "nombre_empresa": "CALBAQ S.A.",
+      "rut": "990135630001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 12
+    },
+    {
+      "empresa_id": "68",
+      "nombre_empresa": "SATRACK SA",
+      "rut": "1792337321001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 12
+    },
+    {
       "empresa_id": "661",
       "nombre_empresa": "Bonda",
       "rut": "20609428253",
@@ -179,16 +179,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 11
-    },
-    {
-      "empresa_id": "72",
-      "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
-      "rut": "1793197944001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "count": 11
     },
     {
@@ -215,6 +205,16 @@
       "empresa_id": "79",
       "nombre_empresa": "NTT-DATA ECUADOR S.A.",
       "rut": "1793207896001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 10
+    },
+    {
+      "empresa_id": "72",
+      "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
+      "rut": "1793197944001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1701,7 +1701,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3311.0
+      "usuarios_incentivados": 3339.0
     },
     {
       "empresa_id": "343",
@@ -1711,7 +1711,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2117.0
+      "usuarios_incentivados": 2122.0
     },
     {
       "empresa_id": "3",
@@ -1731,7 +1731,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1483.0
+      "usuarios_incentivados": 1451.0
     },
     {
       "empresa_id": "1",
@@ -1851,7 +1851,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 363.0
+      "usuarios_incentivados": 356.0
     },
     {
       "empresa_id": "1528",
@@ -2031,7 +2031,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 88.0
+      "usuarios_incentivados": 87.0
     },
     {
       "empresa_id": "1634",
@@ -2121,7 +2121,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 46.0
+      "usuarios_incentivados": 47.0
     },
     {
       "empresa_id": "1452",
@@ -2224,16 +2224,6 @@
       "usuarios_incentivados": 32.0
     },
     {
-      "empresa_id": "72",
-      "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
-      "rut": "1793197944001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 30.0
-    },
-    {
       "empresa_id": "1052",
       "nombre_empresa": "SOFTCARIBBEAN S.A.S",
       "rut": "9002300040",
@@ -2247,6 +2237,16 @@
       "empresa_id": "86",
       "nombre_empresa": "ASPENPHARMA S.A.",
       "rut": "1792453712001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "usuarios_incentivados": 29.0
+    },
+    {
+      "empresa_id": "72",
+      "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
+      "rut": "1793197944001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -2344,6 +2344,16 @@
       "usuarios_incentivados": 19.0
     },
     {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 18.0
+    },
+    {
       "empresa_id": "1748",
       "nombre_empresa": "RICOH CHILE S.A",
       "rut": "96513980-k",
@@ -2360,16 +2370,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "msernaque@",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 17.0
-    },
-    {
-      "empresa_id": "1368",
-      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
-      "rut": "9009797448",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 17.0
     },
@@ -2544,6 +2544,16 @@
       "usuarios_incentivados": 10.0
     },
     {
+      "empresa_id": "1500",
+      "nombre_empresa": "PARDENTALES LTDA",
+      "rut": "8000004391",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 9.0
+    },
+    {
       "empresa_id": "71",
       "nombre_empresa": "EVALUAR",
       "rut": "1792213495001",
@@ -2674,16 +2684,6 @@
       "usuarios_incentivados": 5.0
     },
     {
-      "empresa_id": "1500",
-      "nombre_empresa": "PARDENTALES LTDA",
-      "rut": "8000004391",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 5.0
-    },
-    {
       "empresa_id": "663",
       "nombre_empresa": "INVERSIONES INT SAS",
       "rut": "9004393012",
@@ -2700,6 +2700,16 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
+      "empresa_id": "1411",
+      "nombre_empresa": "ICONICO STUDIO SAS",
+      "rut": "9013626150",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 4.0
     },
@@ -2770,16 +2780,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3.0
-    },
-    {
-      "empresa_id": "1411",
-      "nombre_empresa": "ICONICO STUDIO SAS",
-      "rut": "9013626150",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
