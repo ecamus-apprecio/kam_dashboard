@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T19:54:02.497070+00:00",
+  "generated_at": "2026-07-09T22:26:58.661422+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -494,7 +494,7 @@
     {
       "empresa_id": "398",
       "nombre_empresa": "PROYECTO E SAS",
-      "rut": "900110407",
+      "rut": "900.110.407",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
