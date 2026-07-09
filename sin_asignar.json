@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T22:12:21.493066+00:00",
+  "generated_at": "2026-07-09T03:49:08.429823+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -39,7 +39,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 40
+      "count": 39
     },
     {
       "empresa_id": "686",
@@ -79,7 +79,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 26
+      "count": 24
     },
     {
       "empresa_id": "165",
@@ -100,16 +100,6 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 18
-    },
-    {
-      "empresa_id": "1",
-      "nombre_empresa": "Apprecio",
-      "rut": "",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 16
     },
     {
       "empresa_id": "15",
@@ -142,6 +132,16 @@
       "count": 13
     },
     {
+      "empresa_id": "1",
+      "nombre_empresa": "Apprecio",
+      "rut": "",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 13
+    },
+    {
       "empresa_id": "533",
       "nombre_empresa": "Fidetech",
       "rut": "9015865580",
@@ -170,16 +170,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 13
-    },
-    {
-      "empresa_id": "661",
-      "nombre_empresa": "Bonda",
-      "rut": "20609428253",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 11
     },
     {
       "empresa_id": "550",
@@ -226,6 +216,16 @@
       "nombre_empresa": "VIVO TECH",
       "rut": "55.555.555-5",
       "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
+      "empresa_id": "661",
+      "nombre_empresa": "Bonda",
+      "rut": "20609428253",
+      "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
@@ -1711,17 +1711,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3339.0
-    },
-    {
-      "empresa_id": "343",
-      "nombre_empresa": "ENTEL CHILE - CALL CENTER",
-      "rut": "92580000 - 7",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2122.0
+      "usuarios_incentivados": 3059.0
     },
     {
       "empresa_id": "3",
@@ -1734,6 +1724,16 @@
       "usuarios_incentivados": 2116.0
     },
     {
+      "empresa_id": "343",
+      "nombre_empresa": "ENTEL CHILE - CALL CENTER",
+      "rut": "92580000 - 7",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2115.0
+    },
+    {
       "empresa_id": "620",
       "nombre_empresa": "Entel - Impulsa Perú",
       "rut": "20106897914",
@@ -1741,7 +1741,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1451.0
+      "usuarios_incentivados": 1449.0
     },
     {
       "empresa_id": "1",
@@ -1761,7 +1761,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1178.0
+      "usuarios_incentivados": 1182.0
     },
     {
       "empresa_id": "234",
@@ -1961,7 +1961,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 148.0
+      "usuarios_incentivados": 146.0
     },
     {
       "empresa_id": "1495",
@@ -2044,6 +2044,16 @@
       "usuarios_incentivados": 87.0
     },
     {
+      "empresa_id": "398",
+      "nombre_empresa": "PROYECTO E SAS",
+      "rut": "900110407",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 84.0
+    },
+    {
       "empresa_id": "1634",
       "nombre_empresa": "Kuantiv",
       "rut": "55555555-5",
@@ -2052,16 +2062,6 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 83.0
-    },
-    {
-      "empresa_id": "398",
-      "nombre_empresa": "PROYECTO E SAS",
-      "rut": "900110407",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 81.0
     },
     {
       "empresa_id": "82",
@@ -2514,6 +2514,16 @@
       "usuarios_incentivados": 11.0
     },
     {
+      "empresa_id": "235",
+      "nombre_empresa": "H+Patrimonial",
+      "rut": "HSE080218RK5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 11.0
+    },
+    {
       "empresa_id": "1839",
       "nombre_empresa": "ZURICH CHILE ASSET",
       "rut": "77750920 -9",
@@ -2541,16 +2551,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "aavila@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 10.0
-    },
-    {
-      "empresa_id": "235",
-      "nombre_empresa": "H+Patrimonial",
-      "rut": "HSE080218RK5",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 10.0
     },
     {
@@ -2704,6 +2704,16 @@
       "usuarios_incentivados": 5.0
     },
     {
+      "empresa_id": "2006",
+      "nombre_empresa": "MDL AUTOS",
+      "rut": "77704290-4",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
       "empresa_id": "866",
       "nombre_empresa": "Inticash.",
       "rut": "20603568223",
@@ -2727,6 +2737,16 @@
       "empresa_id": "1536",
       "nombre_empresa": "SIGNOS STUDIO SAS",
       "rut": "832004603",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
+      "empresa_id": "1539",
+      "nombre_empresa": "TEXMUNDO COLOMBIA SAS",
+      "rut": "830146669",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3120,6 +3140,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "1535",
+      "nombre_empresa": "KNOWLEDGE AT PROCESSES AND TRAINING ALLIES SAS",
+      "rut": "900231103",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
