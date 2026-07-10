@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T22:26:58.661422+00:00",
+  "generated_at": "2026-07-10T03:50:45.139474+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 250
+      "count": 246
     },
     {
       "empresa_id": "1802",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 74
+      "count": 72
     },
     {
       "empresa_id": "114",
@@ -42,16 +42,6 @@
       "count": 39
     },
     {
-      "empresa_id": "686",
-      "nombre_empresa": "Versilia",
-      "rut": "20609117339",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 38
-    },
-    {
       "empresa_id": "343",
       "nombre_empresa": "ENTEL CHILE - CALL CENTER",
       "rut": "92580000 - 7",
@@ -60,6 +50,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 36
+    },
+    {
+      "empresa_id": "686",
+      "nombre_empresa": "Versilia",
+      "rut": "20609117339",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 35
     },
     {
       "empresa_id": "505",
@@ -79,7 +79,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 24
+      "count": 23
     },
     {
       "empresa_id": "165",
@@ -110,6 +110,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 16
+    },
+    {
+      "empresa_id": "89",
+      "nombre_empresa": "CALBAQ S.A.",
+      "rut": "990135630001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 14
     },
     {
       "empresa_id": "63",
@@ -149,16 +159,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 13
-    },
-    {
-      "empresa_id": "89",
-      "nombre_empresa": "CALBAQ S.A.",
-      "rut": "990135630001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "count": 13
     },
     {
@@ -494,7 +494,7 @@
     {
       "empresa_id": "398",
       "nombre_empresa": "PROYECTO E SAS",
-      "rut": "900.110.407",
+      "rut": "900110407",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
@@ -618,16 +618,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "855",
-      "nombre_empresa": "JSMD MANAGEMENT S.A.S",
-      "rut": "9014062521",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 3
     },
@@ -948,6 +938,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "855",
+      "nombre_empresa": "JSMD MANAGEMENT S.A.S",
+      "rut": "9014062521",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -1721,7 +1721,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2116.0
+      "usuarios_incentivados": 2117.0
     },
     {
       "empresa_id": "343",
@@ -1771,7 +1771,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 837.0
+      "usuarios_incentivados": 839.0
     },
     {
       "empresa_id": "1846",
@@ -1821,7 +1821,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 460.0
+      "usuarios_incentivados": 455.0
     },
     {
       "empresa_id": "347",
@@ -1994,22 +1994,22 @@
       "usuarios_incentivados": 125.0
     },
     {
-      "empresa_id": "849",
-      "nombre_empresa": "NATURA COSMETICOS S.A.",
-      "rut": "20101796532",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "ljamasmie@app",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 115.0
-    },
-    {
       "empresa_id": "1202",
       "nombre_empresa": "CRISTAR TABLETOP S.A.S",
       "rut": "9014954528",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 120.0
+    },
+    {
+      "empresa_id": "849",
+      "nombre_empresa": "NATURA COSMETICOS S.A.",
+      "rut": "20101796532",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "ljamasmie@app",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 115.0
     },
@@ -2021,7 +2021,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 105.0
+      "usuarios_incentivados": 103.0
     },
     {
       "empresa_id": "822",
@@ -2041,7 +2041,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 87.0
+      "usuarios_incentivados": 88.0
     },
     {
       "empresa_id": "398",
@@ -2184,6 +2184,16 @@
       "usuarios_incentivados": 39.0
     },
     {
+      "empresa_id": "895",
+      "nombre_empresa": "GRUPO TSG SAS",
+      "rut": "9013414788",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 37.0
+    },
+    {
       "empresa_id": "1012",
       "nombre_empresa": "LICAVIR SAS",
       "rut": "8300722812",
@@ -2202,16 +2212,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 36.0
-    },
-    {
-      "empresa_id": "895",
-      "nombre_empresa": "GRUPO TSG SAS",
-      "rut": "9013414788",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 35.0
     },
     {
       "empresa_id": "1343",
@@ -2241,7 +2241,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 29.0
+      "usuarios_incentivados": 30.0
     },
     {
       "empresa_id": "86",
@@ -2271,7 +2271,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 27.0
+      "usuarios_incentivados": 26.0
     },
     {
       "empresa_id": "861",
@@ -2504,6 +2504,16 @@
       "usuarios_incentivados": 11.0
     },
     {
+      "empresa_id": "1535",
+      "nombre_empresa": "KNOWLEDGE AT PROCESSES AND TRAINING ALLIES SAS",
+      "rut": "900231103",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 11.0
+    },
+    {
       "empresa_id": "68",
       "nombre_empresa": "SATRACK SA",
       "rut": "1792337321001",
@@ -2637,6 +2647,16 @@
       "empresa_id": "1303",
       "nombre_empresa": "OPTIPLANT CONSULTORES S.A.S.",
       "rut": "9003480049",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 7.0
+    },
+    {
+      "empresa_id": "1466",
+      "nombre_empresa": "EMPRESA COLOMBIANA DE CLAVOS EMCOCLAVOS S.A.S.",
+      "rut": "8600294151",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
@@ -2810,16 +2830,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3.0
-    },
-    {
-      "empresa_id": "1466",
-      "nombre_empresa": "EMPRESA COLOMBIANA DE CLAVOS EMCOCLAVOS S.A.S.",
-      "rut": "8600294151",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
@@ -3140,16 +3150,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "1535",
-      "nombre_empresa": "KNOWLEDGE AT PROCESSES AND TRAINING ALLIES SAS",
-      "rut": "900231103",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
