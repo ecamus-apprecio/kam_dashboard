@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T22:10:40.037032+00:00",
+  "generated_at": "2026-07-11T03:16:53.760103+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 246
+      "count": 242
     },
     {
       "empresa_id": "1802",
@@ -69,7 +69,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 31
+      "count": 30
     },
     {
       "empresa_id": "3",
@@ -109,7 +109,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 16
+      "count": 15
     },
     {
       "empresa_id": "89",
@@ -864,7 +864,7 @@
     {
       "empresa_id": "861",
       "nombre_empresa": "Habla Latam",
-      "rut": "20610759069",
+      "rut": "20.610.759.069",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1721,7 +1721,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2117.0
+      "usuarios_incentivados": 2118.0
     },
     {
       "empresa_id": "343",
@@ -1741,7 +1741,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1449.0
+      "usuarios_incentivados": 1443.0
     },
     {
       "empresa_id": "1",
@@ -1751,7 +1751,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1386.0
+      "usuarios_incentivados": 1405.0
     },
     {
       "empresa_id": "1802",
@@ -1761,7 +1761,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1182.0
+      "usuarios_incentivados": 1184.0
     },
     {
       "empresa_id": "234",
@@ -1801,7 +1801,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 512.0
+      "usuarios_incentivados": 513.0
     },
     {
       "empresa_id": "938",
@@ -1971,7 +1971,17 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 137.0
+      "usuarios_incentivados": 139.0
+    },
+    {
+      "empresa_id": "1202",
+      "nombre_empresa": "CRISTAR TABLETOP S.A.S",
+      "rut": "9014954528",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 130.0
     },
     {
       "empresa_id": "1954",
@@ -1992,16 +2002,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 125.0
-    },
-    {
-      "empresa_id": "1202",
-      "nombre_empresa": "CRISTAR TABLETOP S.A.S",
-      "rut": "9014954528",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 120.0
     },
     {
       "empresa_id": "849",
@@ -2041,7 +2041,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 88.0
+      "usuarios_incentivados": 89.0
     },
     {
       "empresa_id": "398",
@@ -2114,16 +2114,6 @@
       "usuarios_incentivados": 48.0
     },
     {
-      "empresa_id": "1889",
-      "nombre_empresa": "Ingeneria y Proyectos JR Telecomunicaciones Ltda",
-      "rut": "76061491-2",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 47.0
-    },
-    {
       "empresa_id": "1364",
       "nombre_empresa": "CORPORACIÓN EDUCATIVA COLEGIO SAGRADO CORAZON MONT",
       "rut": "8110027879",
@@ -2131,6 +2121,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "BDM",
+      "usuarios_incentivados": 48.0
+    },
+    {
+      "empresa_id": "1889",
+      "nombre_empresa": "Ingeneria y Proyectos JR Telecomunicaciones Ltda",
+      "rut": "76061491-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 47.0
     },
     {
@@ -2142,16 +2142,6 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 45.0
-    },
-    {
-      "empresa_id": "15",
-      "nombre_empresa": "SIIGO",
-      "rut": "992560754001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 42.0
     },
     {
       "empresa_id": "23",
@@ -2194,6 +2184,26 @@
       "usuarios_incentivados": 37.0
     },
     {
+      "empresa_id": "15",
+      "nombre_empresa": "SIIGO",
+      "rut": "992560754001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "usuarios_incentivados": 37.0
+    },
+    {
+      "empresa_id": "1343",
+      "nombre_empresa": "E-DENTAL COLOMBIA SAS",
+      "rut": "9010525270",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 36.0
+    },
+    {
       "empresa_id": "1012",
       "nombre_empresa": "LICAVIR SAS",
       "rut": "8300722812",
@@ -2212,16 +2222,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 36.0
-    },
-    {
-      "empresa_id": "1343",
-      "nombre_empresa": "E-DENTAL COLOMBIA SAS",
-      "rut": "9010525270",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 33.0
     },
     {
       "empresa_id": "121",
@@ -2271,7 +2271,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 26.0
+      "usuarios_incentivados": 28.0
     },
     {
       "empresa_id": "861",
@@ -2664,6 +2664,16 @@
       "usuarios_incentivados": 7.0
     },
     {
+      "empresa_id": "1501",
+      "nombre_empresa": "SYMPLIFICA SAS",
+      "rut": "9008628317",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 7.0
+    },
+    {
       "empresa_id": "1940",
       "nombre_empresa": "Americar - Denali",
       "rut": "77461290-4",
@@ -2714,6 +2724,16 @@
       "usuarios_incentivados": 5.0
     },
     {
+      "empresa_id": "1411",
+      "nombre_empresa": "ICONICO STUDIO SAS",
+      "rut": "9013626150",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 5.0
+    },
+    {
       "empresa_id": "663",
       "nombre_empresa": "INVERSIONES INT SAS",
       "rut": "9004393012",
@@ -2740,16 +2760,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 4.0
-    },
-    {
-      "empresa_id": "1411",
-      "nombre_empresa": "ICONICO STUDIO SAS",
-      "rut": "9013626150",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 4.0
     },
