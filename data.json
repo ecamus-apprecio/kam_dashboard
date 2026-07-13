@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T19:36:03.053202+00:00",
+  "generated_at": "2026-07-13T22:00:53.924779+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 568.23,
-          "tickets_exec": 113.65,
+          "tickets_mensual": 568.38,
+          "tickets_exec": 113.68,
           "reuniones_monthly": [
             31,
             26,
@@ -43,7 +43,7 @@
             {
               "nombre": "Lorenzo Jamasmie",
               "correo": "ljamasmie@apprecio.com",
-              "tickets_mensual": 176.03,
+              "tickets_mensual": 176.11,
               "reuniones_mensual": 6.71,
               "total_clientes": 107.4,
               "usuarios_total": 38995.6
@@ -51,7 +51,7 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 119.11,
+              "tickets_mensual": 119.18,
               "reuniones_mensual": 5.14,
               "total_clientes": 89.4,
               "usuarios_total": 17124.6
@@ -192,8 +192,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 153.15,
-          "tickets_exec": 76.58,
+          "tickets_mensual": 153.31,
+          "tickets_exec": 76.66,
           "reuniones_monthly": [
             8,
             15,
@@ -251,10 +251,10 @@
             0,
             2,
             15,
-            12
+            13
           ],
-          "reuniones_mensual": 19.0,
-          "reuniones_exec": 19.0,
+          "reuniones_mensual": 19.17,
+          "reuniones_exec": 19.17,
           "clientes_exec": 31.0,
           "total_clientes": 31,
           "usuarios_total": 542.0,
@@ -264,7 +264,7 @@
               "nombre": "Darling Allendes",
               "correo": "dallendes@dcanje.com",
               "tickets_mensual": 5.85,
-              "reuniones_mensual": 19.0,
+              "reuniones_mensual": 19.17,
               "total_clientes": 29.0,
               "usuarios_total": 500.0
             }
@@ -456,8 +456,8 @@
         "México": {
           "flag": "🇲🇽",
           "ejecutivos": 2,
-          "tickets_mensual": 58.23,
-          "tickets_exec": 29.11,
+          "tickets_mensual": 58.31,
+          "tickets_exec": 29.16,
           "reuniones_monthly": [
             29,
             35,
@@ -485,7 +485,7 @@
             {
               "nombre": "Giovanny Olvera",
               "correo": "golvera@dcanje.com",
-              "tickets_mensual": 19.85,
+              "tickets_mensual": 19.92,
               "reuniones_mensual": 12.71,
               "total_clientes": 61.5,
               "usuarios_total": 2481.5
