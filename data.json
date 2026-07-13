@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T09:37:49.363533+00:00",
+  "generated_at": "2026-07-13T14:46:47.045106+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 566.85,
-          "tickets_exec": 113.37,
+          "tickets_mensual": 567.23,
+          "tickets_exec": 113.45,
           "reuniones_monthly": [
             31,
             26,
@@ -51,7 +51,7 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 118.65,
+              "tickets_mensual": 118.8,
               "reuniones_mensual": 5.14,
               "total_clientes": 89.4,
               "usuarios_total": 17124.6
@@ -59,7 +59,7 @@
             {
               "nombre": "Benjamin Castro",
               "correo": "bcastro@apprecio.com",
-              "tickets_mensual": 117.49,
+              "tickets_mensual": 117.65,
               "reuniones_mensual": 6.29,
               "total_clientes": 95.4,
               "usuarios_total": 58762.6
@@ -75,7 +75,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 72.49,
+              "tickets_mensual": 72.57,
               "reuniones_mensual": 0.0,
               "total_clientes": 174.4,
               "usuarios_total": 10368.6
@@ -201,10 +201,10 @@
             19,
             14,
             28,
-            6
+            7
           ],
-          "reuniones_mensual": 14.29,
-          "reuniones_exec": 7.14,
+          "reuniones_mensual": 14.43,
+          "reuniones_exec": 7.21,
           "clientes_exec": 73.0,
           "total_clientes": 146,
           "usuarios_total": 31671.0,
@@ -214,7 +214,7 @@
               "nombre": "Diana Duran",
               "correo": "dduran@apprecio.com",
               "tickets_mensual": 58.35,
-              "reuniones_mensual": 9.14,
+              "reuniones_mensual": 9.29,
               "total_clientes": 102.5,
               "usuarios_total": 10630.0
             },
