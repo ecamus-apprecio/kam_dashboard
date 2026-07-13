@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T17:18:00.055440+00:00",
+  "generated_at": "2026-07-13T19:36:03.053202+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 568.08,
-          "tickets_exec": 113.62,
+          "tickets_mensual": 568.23,
+          "tickets_exec": 113.65,
           "reuniones_monthly": [
             31,
             26,
@@ -43,7 +43,7 @@
             {
               "nombre": "Lorenzo Jamasmie",
               "correo": "ljamasmie@apprecio.com",
-              "tickets_mensual": 175.95,
+              "tickets_mensual": 176.03,
               "reuniones_mensual": 6.71,
               "total_clientes": 107.4,
               "usuarios_total": 38995.6
@@ -59,7 +59,7 @@
             {
               "nombre": "Benjamin Castro",
               "correo": "bcastro@apprecio.com",
-              "tickets_mensual": 117.88,
+              "tickets_mensual": 117.95,
               "reuniones_mensual": 6.43,
               "total_clientes": 95.4,
               "usuarios_total": 58762.6
@@ -192,8 +192,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 153.08,
-          "tickets_exec": 76.54,
+          "tickets_mensual": 153.15,
+          "tickets_exec": 76.58,
           "reuniones_monthly": [
             8,
             15,
@@ -465,10 +465,10 @@
             16,
             26,
             40,
-            15
+            16
           ],
-          "reuniones_mensual": 25.0,
-          "reuniones_exec": 12.5,
+          "reuniones_mensual": 25.14,
+          "reuniones_exec": 12.57,
           "clientes_exec": 73.0,
           "total_clientes": 146,
           "usuarios_total": 17402.0,
@@ -478,7 +478,7 @@
               "nombre": "Colombina Trujillo",
               "correo": "ctrujillo@dcanje.com",
               "tickets_mensual": 38.38,
-              "reuniones_mensual": 12.29,
+              "reuniones_mensual": 12.43,
               "total_clientes": 84.5,
               "usuarios_total": 14920.5
             },
@@ -495,8 +495,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 1,
-          "tickets_mensual": 49.85,
-          "tickets_exec": 49.85,
+          "tickets_mensual": 50.15,
+          "tickets_exec": 50.15,
           "reuniones_monthly": [
             0,
             0,
