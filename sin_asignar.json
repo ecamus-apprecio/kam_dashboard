@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T10:51:46.703243+00:00",
+  "generated_at": "2026-07-14T13:56:58.871991+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 72
+      "count": 73
     },
     {
       "empresa_id": "114",
