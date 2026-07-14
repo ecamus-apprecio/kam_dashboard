@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T19:26:59.126089+00:00",
+  "generated_at": "2026-07-14T22:03:11.691259+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1294,7 +1294,7 @@
     {
       "empresa_id": "864",
       "nombre_empresa": "GRUPO BESCA",
-      "rut": "20601420458",
+      "rut": "20.601.420.458",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1304,7 +1304,7 @@
     {
       "empresa_id": "866",
       "nombre_empresa": "Inticash.",
-      "rut": "20.603.568.223",
+      "rut": "20603568223",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1575,6 +1575,16 @@
       "empresa_id": "1539",
       "nombre_empresa": "TEXMUNDO COLOMBIA SAS",
       "rut": "830146669",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1545",
+      "nombre_empresa": "NIDDO HOLDING SAS.",
+      "rut": "902039096",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
