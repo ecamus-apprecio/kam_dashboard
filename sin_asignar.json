@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T13:56:58.871991+00:00",
+  "generated_at": "2026-07-14T16:19:51.318742+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -272,6 +272,16 @@
       "count": 8
     },
     {
+      "empresa_id": "1748",
+      "nombre_empresa": "RICOH CHILE S.A",
+      "rut": "96513980-k",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 7
+    },
+    {
       "empresa_id": "1035",
       "nombre_empresa": "Polar",
       "rut": "76333370-1",
@@ -322,9 +332,9 @@
       "count": 7
     },
     {
-      "empresa_id": "1748",
-      "nombre_empresa": "RICOH CHILE S.A",
-      "rut": "96513980-k",
+      "empresa_id": "1744",
+      "nombre_empresa": "COMERCIAL SEKIP KAYA LIMITADA",
+      "rut": "76630803-1",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -360,16 +370,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 6
-    },
-    {
-      "empresa_id": "1744",
-      "nombre_empresa": "COMERCIAL SEKIP KAYA LIMITADA",
-      "rut": "76630803-1",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
     },
     {
       "empresa_id": "1368",
@@ -440,6 +440,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 5
+    },
+    {
+      "empresa_id": "1736",
+      "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
+      "rut": "77776240-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
     },
     {
       "empresa_id": "1074",
@@ -585,16 +595,6 @@
       "empresa_id": "1735",
       "nombre_empresa": "LA LAUNA SPA",
       "rut": "77561664-4",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1736",
-      "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
-      "rut": "77776240-0",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -778,6 +778,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1943",
+      "nombre_empresa": "NILO ARROYO",
+      "rut": "76.345.095-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -1115,16 +1125,6 @@
       "empresa_id": "194",
       "nombre_empresa": "ECR Group",
       "rut": "76321607-1",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1943",
-      "nombre_empresa": "NILO ARROYO",
-      "rut": "76.345.095-3",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
