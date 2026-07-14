@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T22:00:53.924779+00:00",
+  "generated_at": "2026-07-14T02:53:16.346052+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1711,7 +1711,17 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3058.0
+      "usuarios_incentivados": 3086.0
+    },
+    {
+      "empresa_id": "343",
+      "nombre_empresa": "ENTEL CHILE - CALL CENTER",
+      "rut": "92580000 - 7",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2144.0
     },
     {
       "empresa_id": "3",
@@ -1722,16 +1732,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
       "usuarios_incentivados": 2117.0
-    },
-    {
-      "empresa_id": "343",
-      "nombre_empresa": "ENTEL CHILE - CALL CENTER",
-      "rut": "92580000 - 7",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2115.0
     },
     {
       "empresa_id": "620",
@@ -1771,7 +1771,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 839.0
+      "usuarios_incentivados": 840.0
     },
     {
       "empresa_id": "1846",
@@ -1821,7 +1821,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 455.0
+      "usuarios_incentivados": 457.0
     },
     {
       "empresa_id": "347",
