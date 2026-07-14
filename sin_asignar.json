@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T16:19:51.318742+00:00",
+  "generated_at": "2026-07-14T19:26:59.126089+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -442,6 +442,16 @@
       "count": 5
     },
     {
+      "empresa_id": "229",
+      "nombre_empresa": "Atlas Desarrollos",
+      "rut": "EGH03012742A",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 5
+    },
+    {
       "empresa_id": "1736",
       "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
       "rut": "77776240-0",
@@ -465,6 +475,16 @@
       "empresa_id": "1889",
       "nombre_empresa": "Ingeneria y Proyectos JR Telecomunicaciones Ltda",
       "rut": "76061491-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
+      "empresa_id": "1975",
+      "nombre_empresa": "Augustar Seguros de Vida",
+      "rut": "76632384-7",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -572,16 +592,6 @@
       "count": 4
     },
     {
-      "empresa_id": "229",
-      "nombre_empresa": "Atlas Desarrollos",
-      "rut": "EGH03012742A",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
-      "count": 4
-    },
-    {
       "empresa_id": "1746",
       "nombre_empresa": "GARCIA MARCHANT Y COMPANIA LIMITADA",
       "rut": "76560536-9",
@@ -595,16 +605,6 @@
       "empresa_id": "1735",
       "nombre_empresa": "LA LAUNA SPA",
       "rut": "77561664-4",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1975",
-      "nombre_empresa": "Augustar Seguros de Vida",
-      "rut": "76632384-7",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -1304,7 +1304,7 @@
     {
       "empresa_id": "866",
       "nombre_empresa": "Inticash.",
-      "rut": "20603568223",
+      "rut": "20.603.568.223",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
