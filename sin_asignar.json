@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:03:11.691259+00:00",
+  "generated_at": "2026-07-15T02:51:50.617692+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 242
+      "count": 240
     },
     {
       "empresa_id": "1802",
@@ -39,7 +39,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 39
+      "count": 37
     },
     {
       "empresa_id": "343",
@@ -682,6 +682,16 @@
       "count": 3
     },
     {
+      "empresa_id": "855",
+      "nombre_empresa": "JSMD MANAGEMENT S.A.S",
+      "rut": "9014062521",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "1452",
       "nombre_empresa": "Bulkmatic de Colombia SAS",
       "rut": "9009704395",
@@ -948,16 +958,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "855",
-      "nombre_empresa": "JSMD MANAGEMENT S.A.S",
-      "rut": "9014062521",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -1294,7 +1294,7 @@
     {
       "empresa_id": "864",
       "nombre_empresa": "GRUPO BESCA",
-      "rut": "20.601.420.458",
+      "rut": "20601420458",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1338,6 +1338,16 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "893",
+      "nombre_empresa": "CAJA TRUJILLO",
+      "rut": "20132243230",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -1731,7 +1741,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2144.0
+      "usuarios_incentivados": 2148.0
     },
     {
       "empresa_id": "3",
@@ -1761,7 +1771,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1405.0
+      "usuarios_incentivados": 1412.0
     },
     {
       "empresa_id": "1802",
@@ -1811,7 +1821,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 513.0
+      "usuarios_incentivados": 522.0
     },
     {
       "empresa_id": "938",
@@ -1921,7 +1931,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 227.0
+      "usuarios_incentivados": 225.0
     },
     {
       "empresa_id": "104",
@@ -1954,6 +1964,16 @@
       "usuarios_incentivados": 183.0
     },
     {
+      "empresa_id": "1495",
+      "nombre_empresa": "CORPORACION INTERACTUAR",
+      "rut": "8909848433",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
+      "usuarios_incentivados": 182.0
+    },
+    {
       "empresa_id": "788",
       "nombre_empresa": "SALESLAND CHILE",
       "rut": "555555555",
@@ -1974,16 +1994,6 @@
       "usuarios_incentivados": 146.0
     },
     {
-      "empresa_id": "1495",
-      "nombre_empresa": "CORPORACION INTERACTUAR",
-      "rut": "8909848433",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "BDM",
-      "usuarios_incentivados": 139.0
-    },
-    {
       "empresa_id": "1202",
       "nombre_empresa": "CRISTAR TABLETOP S.A.S",
       "rut": "9014954528",
@@ -1991,7 +2001,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 130.0
+      "usuarios_incentivados": 135.0
     },
     {
       "empresa_id": "1954",
@@ -2194,16 +2204,6 @@
       "usuarios_incentivados": 37.0
     },
     {
-      "empresa_id": "15",
-      "nombre_empresa": "SIIGO",
-      "rut": "992560754001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 37.0
-    },
-    {
       "empresa_id": "1343",
       "nombre_empresa": "E-DENTAL COLOMBIA SAS",
       "rut": "9010525270",
@@ -2224,6 +2224,16 @@
       "usuarios_incentivados": 36.0
     },
     {
+      "empresa_id": "15",
+      "nombre_empresa": "SIIGO",
+      "rut": "992560754001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "usuarios_incentivados": 36.0
+    },
+    {
       "empresa_id": "210",
       "nombre_empresa": "Be Exponential",
       "rut": "DSW220805EJ6",
@@ -2241,7 +2251,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 32.0
+      "usuarios_incentivados": 33.0
     },
     {
       "empresa_id": "1052",
@@ -2264,16 +2274,6 @@
       "usuarios_incentivados": 29.0
     },
     {
-      "empresa_id": "72",
-      "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
-      "rut": "1793197944001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 29.0
-    },
-    {
       "empresa_id": "855",
       "nombre_empresa": "JSMD MANAGEMENT S.A.S",
       "rut": "9014062521",
@@ -2281,6 +2281,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
+      "usuarios_incentivados": 28.0
+    },
+    {
+      "empresa_id": "72",
+      "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
+      "rut": "1793197944001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "usuarios_incentivados": 28.0
     },
     {
@@ -2324,6 +2334,16 @@
       "usuarios_incentivados": 21.0
     },
     {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 21.0
+    },
+    {
       "empresa_id": "63",
       "nombre_empresa": "HUBTEK ECUADOR S.A.S.",
       "rut": "0993375303001",
@@ -2362,16 +2382,6 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 19.0
-    },
-    {
-      "empresa_id": "1368",
-      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
-      "rut": "9009797448",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 18.0
     },
     {
       "empresa_id": "1748",
@@ -2824,6 +2834,16 @@
       "usuarios_incentivados": 3.0
     },
     {
+      "empresa_id": "1975",
+      "nombre_empresa": "Augustar Seguros de Vida",
+      "rut": "76632384-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 3.0
+    },
+    {
       "empresa_id": "882",
       "nombre_empresa": "RUTACA PERU",
       "rut": "20601432472",
@@ -2877,16 +2897,6 @@
       "empresa_id": "1953",
       "nombre_empresa": "COMERCIAL BRAVO Y MARTINEZ",
       "rut": "76849210-7",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "1975",
-      "nombre_empresa": "Augustar Seguros de Vida",
-      "rut": "76632384-7",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
