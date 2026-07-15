@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T19:19:31.182766+00:00",
+  "generated_at": "2026-07-15T22:06:42.363808+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -79,7 +79,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 23
+      "count": 24
     },
     {
       "empresa_id": "165",
@@ -514,7 +514,7 @@
     {
       "empresa_id": "881",
       "nombre_empresa": "TIME INKJET",
-      "rut": "20.614.676.770",
+      "rut": "20614676770",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -919,6 +919,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
+      "count": 2
+    },
+    {
+      "empresa_id": "221",
+      "nombre_empresa": "DANIEL INDABURU",
+      "rut": "1020771905",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 2
     },
     {
@@ -1362,16 +1372,6 @@
       "count": 1
     },
     {
-      "empresa_id": "221",
-      "nombre_empresa": "DANIEL INDABURU",
-      "rut": "1020771905",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "1140",
       "nombre_empresa": "MPI PHARMACEUTICA COLOMBIA SAS",
       "rut": "9009080612",
@@ -1608,6 +1608,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1546",
+      "nombre_empresa": "LIBGOT COLOMBIA SAS",
+      "rut": "901442736",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
