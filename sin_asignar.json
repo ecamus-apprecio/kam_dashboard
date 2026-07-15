@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T16:27:20.701974+00:00",
+  "generated_at": "2026-07-15T19:19:31.182766+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -49,7 +49,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 36
+      "count": 37
     },
     {
       "empresa_id": "686",
@@ -102,6 +102,16 @@
       "count": 18
     },
     {
+      "empresa_id": "89",
+      "nombre_empresa": "CALBAQ S.A.",
+      "rut": "990135630001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 15
+    },
+    {
       "empresa_id": "15",
       "nombre_empresa": "SIIGO",
       "rut": "992560754001",
@@ -119,16 +129,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 14
-    },
-    {
-      "empresa_id": "89",
-      "nombre_empresa": "CALBAQ S.A.",
-      "rut": "990135630001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "count": 14
     },
     {
@@ -514,7 +514,7 @@
     {
       "empresa_id": "881",
       "nombre_empresa": "TIME INKJET",
-      "rut": "20614676770",
+      "rut": "20.614.676.770",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1598,6 +1598,16 @@
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1503",
+      "nombre_empresa": "HARTUNG Y COMPAÑIA SAS",
+      "rut": "8600078735",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
