@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T13:53:17.168322+00:00",
+  "generated_at": "2026-07-15T16:27:20.701974+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -112,6 +112,16 @@
       "count": 15
     },
     {
+      "empresa_id": "58",
+      "nombre_empresa": "AUTOSECURITY",
+      "rut": "760380342",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 14
+    },
+    {
       "empresa_id": "89",
       "nombre_empresa": "CALBAQ S.A.",
       "rut": "990135630001",
@@ -130,16 +140,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 14
-    },
-    {
-      "empresa_id": "58",
-      "nombre_empresa": "AUTOSECURITY",
-      "rut": "760380342",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 13
     },
     {
       "empresa_id": "533",
