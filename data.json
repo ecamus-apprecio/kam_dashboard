@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T19:20:31.806250+00:00",
+  "generated_at": "2026-07-16T22:07:03.800753+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -85,8 +85,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 323.77,
-          "tickets_exec": 64.75,
+          "tickets_mensual": 324.23,
+          "tickets_exec": 64.85,
           "reuniones_monthly": [
             100,
             87,
@@ -106,7 +106,7 @@
             {
               "nombre": "Santiago Cuellar",
               "correo": "scuellar@apprecio.com",
-              "tickets_mensual": 90.18,
+              "tickets_mensual": 90.57,
               "reuniones_mensual": 13.43,
               "total_clientes": 84.8,
               "usuarios_total": 30605.6
@@ -122,7 +122,7 @@
             {
               "nombre": "Roberto Molina",
               "correo": "rmolina@apprecio.com",
-              "tickets_mensual": 82.49,
+              "tickets_mensual": 82.57,
               "reuniones_mensual": 8.86,
               "total_clientes": 74.8,
               "usuarios_total": 26769.6
@@ -192,8 +192,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 152.54,
-          "tickets_exec": 76.27,
+          "tickets_mensual": 152.62,
+          "tickets_exec": 76.31,
           "reuniones_monthly": [
             8,
             15,
