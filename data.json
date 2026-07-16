@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T16:21:05.389635+00:00",
+  "generated_at": "2026-07-16T19:20:31.806250+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -85,8 +85,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 323.54,
-          "tickets_exec": 64.71,
+          "tickets_mensual": 323.77,
+          "tickets_exec": 64.75,
           "reuniones_monthly": [
             100,
             87,
@@ -106,7 +106,7 @@
             {
               "nombre": "Santiago Cuellar",
               "correo": "scuellar@apprecio.com",
-              "tickets_mensual": 90.03,
+              "tickets_mensual": 90.18,
               "reuniones_mensual": 13.43,
               "total_clientes": 84.8,
               "usuarios_total": 30605.6
@@ -122,7 +122,7 @@
             {
               "nombre": "Roberto Molina",
               "correo": "rmolina@apprecio.com",
-              "tickets_mensual": 82.42,
+              "tickets_mensual": 82.49,
               "reuniones_mensual": 8.86,
               "total_clientes": 74.8,
               "usuarios_total": 26769.6
@@ -403,8 +403,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 1,
-          "tickets_mensual": 79.77,
-          "tickets_exec": 79.77,
+          "tickets_mensual": 79.85,
+          "tickets_exec": 79.85,
           "reuniones_monthly": [
             0,
             0,
@@ -424,7 +424,7 @@
             {
               "nombre": "Paula Montoya",
               "correo": "pmontoya@apprecio.com",
-              "tickets_mensual": 79.77,
+              "tickets_mensual": 79.85,
               "reuniones_mensual": 9.75,
               "total_clientes": 128.0,
               "usuarios_total": 11541.0
