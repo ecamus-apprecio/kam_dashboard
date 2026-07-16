@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T14:05:45.486529+00:00",
+  "generated_at": "2026-07-16T16:21:05.389635+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -89,7 +89,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 22
+      "count": 23
     },
     {
       "empresa_id": "1754",
