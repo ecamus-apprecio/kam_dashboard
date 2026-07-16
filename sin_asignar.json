@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T22:06:42.363808+00:00",
+  "generated_at": "2026-07-16T03:12:54.846209+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 240
+      "count": 239
     },
     {
       "empresa_id": "1802",
@@ -172,16 +172,6 @@
       "count": 12
     },
     {
-      "empresa_id": "754",
-      "nombre_empresa": "FORD - FUERZA",
-      "rut": "20555903546",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 10
-    },
-    {
       "empresa_id": "79",
       "nombre_empresa": "NTT-DATA ECUADOR S.A.",
       "rut": "1793207896001",
@@ -255,6 +245,16 @@
       "empresa_id": "434",
       "nombre_empresa": "Entel Call Center Outbound",
       "rut": "96806980-2",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 8
+    },
+    {
+      "empresa_id": "754",
+      "nombre_empresa": "FORD - FUERZA",
+      "rut": "20555903546",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -572,6 +572,16 @@
       "count": 4
     },
     {
+      "empresa_id": "1334",
+      "nombre_empresa": "NISUM COLOMBIA SAS",
+      "rut": "9015511261",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "22",
       "nombre_empresa": "KASKEY ECUADOR",
       "rut": "1793045901001",
@@ -648,16 +658,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1334",
-      "nombre_empresa": "NISUM COLOMBIA SAS",
-      "rut": "9015511261",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 3
     },
@@ -1761,7 +1761,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2148.0
+      "usuarios_incentivados": 2152.0
     },
     {
       "empresa_id": "3",
@@ -1781,7 +1781,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1440.0
+      "usuarios_incentivados": 1438.0
     },
     {
       "empresa_id": "1",
@@ -1901,7 +1901,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 356.0
+      "usuarios_incentivados": 359.0
     },
     {
       "empresa_id": "1528",
@@ -2284,6 +2284,16 @@
       "usuarios_incentivados": 30.0
     },
     {
+      "empresa_id": "855",
+      "nombre_empresa": "JSMD MANAGEMENT S.A.S",
+      "rut": "9014062521",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 29.0
+    },
+    {
       "empresa_id": "86",
       "nombre_empresa": "ASPENPHARMA S.A.",
       "rut": "1792453712001",
@@ -2292,16 +2302,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 29.0
-    },
-    {
-      "empresa_id": "855",
-      "nombre_empresa": "JSMD MANAGEMENT S.A.S",
-      "rut": "9014062521",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 28.0
     },
     {
       "empresa_id": "72",
@@ -2364,16 +2364,6 @@
       "usuarios_incentivados": 21.0
     },
     {
-      "empresa_id": "63",
-      "nombre_empresa": "HUBTEK ECUADOR S.A.S.",
-      "rut": "0993375303001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 21.0
-    },
-    {
       "empresa_id": "550",
       "nombre_empresa": "Alborada",
       "rut": "76969581-8",
@@ -2391,6 +2381,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
+      "usuarios_incentivados": 20.0
+    },
+    {
+      "empresa_id": "63",
+      "nombre_empresa": "HUBTEK ECUADOR S.A.S.",
+      "rut": "0993375303001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "usuarios_incentivados": 20.0
     },
     {
@@ -2594,6 +2594,16 @@
       "usuarios_incentivados": 10.0
     },
     {
+      "empresa_id": "1466",
+      "nombre_empresa": "EMPRESA COLOMBIANA DE CLAVOS EMCOCLAVOS S.A.S.",
+      "rut": "8600294151",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 10.0
+    },
+    {
       "empresa_id": "1500",
       "nombre_empresa": "PARDENTALES LTDA",
       "rut": "8000004391",
@@ -2684,16 +2694,6 @@
       "usuarios_incentivados": 7.0
     },
     {
-      "empresa_id": "1466",
-      "nombre_empresa": "EMPRESA COLOMBIANA DE CLAVOS EMCOCLAVOS S.A.S.",
-      "rut": "8600294151",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 7.0
-    },
-    {
       "empresa_id": "1501",
       "nombre_empresa": "SYMPLIFICA SAS",
       "rut": "9008628317",
@@ -2774,6 +2774,16 @@
       "usuarios_incentivados": 5.0
     },
     {
+      "empresa_id": "1955",
+      "nombre_empresa": "TUAUTO SPA",
+      "rut": "76982452-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
       "empresa_id": "2006",
       "nombre_empresa": "MDL AUTOS",
       "rut": "77704290-4",
@@ -2844,9 +2854,9 @@
       "usuarios_incentivados": 3.0
     },
     {
-      "empresa_id": "1955",
-      "nombre_empresa": "TUAUTO SPA",
-      "rut": "76982452-9",
+      "empresa_id": "1975",
+      "nombre_empresa": "Augustar Seguros de Vida",
+      "rut": "76632384-7",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -2854,9 +2864,9 @@
       "usuarios_incentivados": 3.0
     },
     {
-      "empresa_id": "1975",
-      "nombre_empresa": "Augustar Seguros de Vida",
-      "rut": "76632384-7",
+      "empresa_id": "1560",
+      "nombre_empresa": "Demo1 CL",
+      "rut": "99999999-9",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -2930,16 +2940,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "1560",
-      "nombre_empresa": "Demo1 CL",
-      "rut": "99999999-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
