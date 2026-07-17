@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T16:19:33.457244+00:00",
+  "generated_at": "2026-07-17T19:18:15.513273+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -109,7 +109,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 15
+      "count": 16
     },
     {
       "empresa_id": "15",
@@ -179,7 +179,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 10
+      "count": 11
     },
     {
       "empresa_id": "72",
@@ -702,6 +702,16 @@
       "count": 3
     },
     {
+      "empresa_id": "1495",
+      "nombre_empresa": "CORPORACION INTERACTUAR",
+      "rut": "8909848433",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
+      "count": 3
+    },
+    {
       "empresa_id": "75",
       "nombre_empresa": "PRECISION ECUADOR",
       "rut": "993016578001",
@@ -969,16 +979,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1495",
-      "nombre_empresa": "CORPORACION INTERACTUAR",
-      "rut": "8909848433",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "BDM",
       "count": 2
     },
     {
