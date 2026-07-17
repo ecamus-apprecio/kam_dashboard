@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T22:07:03.800753+00:00",
+  "generated_at": "2026-07-17T03:16:09.616960+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -372,6 +372,16 @@
       "count": 6
     },
     {
+      "empresa_id": "398",
+      "nombre_empresa": "PROYECTO E SAS",
+      "rut": "900110407",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "1368",
       "nombre_empresa": "INDIGO SEGUROS LIMITADA",
       "rut": "9009797448",
@@ -518,16 +528,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "398",
-      "nombre_empresa": "PROYECTO E SAS",
-      "rut": "900110407",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 4
     },
@@ -1751,7 +1751,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3086.0
+      "usuarios_incentivados": 3087.0
     },
     {
       "empresa_id": "343",
@@ -1781,7 +1781,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1438.0
+      "usuarios_incentivados": 1431.0
     },
     {
       "empresa_id": "1",
@@ -1921,7 +1921,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 335.0
+      "usuarios_incentivados": 337.0
     },
     {
       "empresa_id": "1035",
@@ -3147,6 +3147,16 @@
       "empresa_id": "221",
       "nombre_empresa": "DANIEL INDABURU",
       "rut": "1020771905",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "998",
+      "nombre_empresa": "Fuerza Demo",
+      "rut": "999999999",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
