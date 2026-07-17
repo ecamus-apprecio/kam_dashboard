@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T13:50:03.567578+00:00",
+  "generated_at": "2026-07-17T16:19:33.457244+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 570.08,
-          "tickets_exec": 114.02,
+          "tickets_mensual": 571.23,
+          "tickets_exec": 114.25,
           "reuniones_monthly": [
             31,
             26,
@@ -43,7 +43,7 @@
             {
               "nombre": "Lorenzo Jamasmie",
               "correo": "ljamasmie@apprecio.com",
-              "tickets_mensual": 176.63,
+              "tickets_mensual": 176.94,
               "reuniones_mensual": 6.71,
               "total_clientes": 107.4,
               "usuarios_total": 38988.4
@@ -51,7 +51,7 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 119.4,
+              "tickets_mensual": 119.55,
               "reuniones_mensual": 5.29,
               "total_clientes": 88.4,
               "usuarios_total": 17225.4
@@ -59,7 +59,7 @@
             {
               "nombre": "Benjamin Castro",
               "correo": "bcastro@apprecio.com",
-              "tickets_mensual": 117.78,
+              "tickets_mensual": 117.94,
               "reuniones_mensual": 6.43,
               "total_clientes": 95.4,
               "usuarios_total": 59298.4
@@ -67,7 +67,7 @@
             {
               "nombre": "Benjamin Gonzalez",
               "correo": "bgonzalez@apprecio.com",
-              "tickets_mensual": 83.09,
+              "tickets_mensual": 83.25,
               "reuniones_mensual": 5.86,
               "total_clientes": 107.4,
               "usuarios_total": 39867.4
@@ -75,7 +75,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 73.17,
+              "tickets_mensual": 73.55,
               "reuniones_mensual": 0.14,
               "total_clientes": 174.4,
               "usuarios_total": 10382.4
@@ -85,8 +85,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 323.69,
-          "tickets_exec": 64.74,
+          "tickets_mensual": 324.08,
+          "tickets_exec": 64.82,
           "reuniones_monthly": [
             100,
             87,
@@ -106,7 +106,7 @@
             {
               "nombre": "Santiago Cuellar",
               "correo": "scuellar@apprecio.com",
-              "tickets_mensual": 90.51,
+              "tickets_mensual": 90.58,
               "reuniones_mensual": 13.43,
               "total_clientes": 84.8,
               "usuarios_total": 30811.2
@@ -130,7 +130,7 @@
             {
               "nombre": "Felipe Ospina",
               "correo": "fospina@apprecio.com",
-              "tickets_mensual": 36.74,
+              "tickets_mensual": 36.82,
               "reuniones_mensual": 0.0,
               "total_clientes": 76.8,
               "usuarios_total": 3817.2
@@ -138,7 +138,7 @@
             {
               "nombre": "Andersson Leon",
               "correo": "aleon@apprecio.com",
-              "tickets_mensual": 27.51,
+              "tickets_mensual": 27.74,
               "reuniones_mensual": 39.29,
               "total_clientes": 68.8,
               "usuarios_total": 5256.2
@@ -192,8 +192,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 152.15,
-          "tickets_exec": 76.08,
+          "tickets_mensual": 152.23,
+          "tickets_exec": 76.11,
           "reuniones_monthly": [
             8,
             15,
@@ -213,7 +213,7 @@
             {
               "nombre": "Diana Duran",
               "correo": "dduran@apprecio.com",
-              "tickets_mensual": 57.69,
+              "tickets_mensual": 57.77,
               "reuniones_mensual": 9.29,
               "total_clientes": 103.0,
               "usuarios_total": 10650.0
@@ -242,8 +242,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 1,
-          "tickets_mensual": 6.46,
-          "tickets_exec": 6.46,
+          "tickets_mensual": 6.54,
+          "tickets_exec": 6.54,
           "reuniones_monthly": [
             59,
             25,
@@ -263,7 +263,7 @@
             {
               "nombre": "Darling Allendes",
               "correo": "dallendes@dcanje.com",
-              "tickets_mensual": 6.08,
+              "tickets_mensual": 6.15,
               "reuniones_mensual": 19.33,
               "total_clientes": 29.0,
               "usuarios_total": 526.0
