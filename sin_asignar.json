@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:27:43.859189+00:00",
+  "generated_at": "2026-07-20T19:49:08.671310+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -59,7 +59,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 35
+      "count": 36
     },
     {
       "empresa_id": "505",
@@ -872,6 +872,16 @@
       "count": 2
     },
     {
+      "empresa_id": "888",
+      "nombre_empresa": "UPC CAMPAÑAS POST GRADO",
+      "rut": "20211614545",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "841",
       "nombre_empresa": "Digital itouch",
       "rut": "20606282851",
@@ -1198,16 +1208,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "888",
-      "nombre_empresa": "UPC CAMPAÑAS POST GRADO",
-      "rut": "20211614545",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
