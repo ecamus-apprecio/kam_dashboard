@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T19:38:52.051631+00:00",
+  "generated_at": "2026-07-21T22:07:20.057349+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -624,7 +624,7 @@
     {
       "empresa_id": "882",
       "nombre_empresa": "RUTACA PERU",
-      "rut": "20601432472",
+      "rut": "20.601.432.472",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
