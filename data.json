@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T11:12:22.896972+00:00",
+  "generated_at": "2026-07-21T14:05:26.402219+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 570.62,
-          "tickets_exec": 114.12,
+          "tickets_mensual": 570.77,
+          "tickets_exec": 114.15,
           "reuniones_monthly": [
             31,
             26,
@@ -59,7 +59,7 @@
             {
               "nombre": "Benjamin Castro",
               "correo": "bcastro@apprecio.com",
-              "tickets_mensual": 116.95,
+              "tickets_mensual": 117.11,
               "reuniones_mensual": 6.43,
               "total_clientes": 95.4,
               "usuarios_total": 59419.0
