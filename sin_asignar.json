@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T11:12:57.291154+00:00",
+  "generated_at": "2026-07-22T14:08:31.676307+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1205,6 +1205,16 @@
       "empresa_id": "1176",
       "nombre_empresa": "CLM SOFTWARE",
       "rut": "77.542.467-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1957",
+      "nombre_empresa": "B&F",
+      "rut": "78200745-9",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
