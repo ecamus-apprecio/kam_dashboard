@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:23:04.507354+00:00",
+  "generated_at": "2026-07-22T19:27:38.577877+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -264,7 +264,7 @@
     {
       "empresa_id": "598",
       "nombre_empresa": "Versilia Colombia",
-      "rut": "902.018.021",
+      "rut": "902018021",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
@@ -862,6 +862,16 @@
       "count": 2
     },
     {
+      "empresa_id": "2006",
+      "nombre_empresa": "MDL AUTOS",
+      "rut": "77704290-4",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "2005",
       "nombre_empresa": "SOCIAS INMOBILIARIAS",
       "rut": "78095861-8",
@@ -1185,16 +1195,6 @@
       "empresa_id": "2003",
       "nombre_empresa": "COMERCIAL CENTRAL CHILE",
       "rut": "76026619-1",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "2006",
-      "nombre_empresa": "MDL AUTOS",
-      "rut": "77704290-4",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
