@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T14:14:32.916613+00:00",
+  "generated_at": "2026-07-23T16:39:41.851240+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1122,6 +1122,16 @@
       "count": 1
     },
     {
+      "empresa_id": "978",
+      "nombre_empresa": "Madison Performance Group",
+      "rut": "555555555",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "1814",
       "nombre_empresa": "BUSINESS AGENCY SAS",
       "rut": "55555555-5",
@@ -1218,6 +1228,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "862",
+      "nombre_empresa": "Madison Performance - EC",
+      "rut": "134141712",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -1629,6 +1649,16 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "92",
+      "nombre_empresa": "Madison Performance Group",
+      "rut": "134141712",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "mgutierrez@dcanje.com",
+      "redistribuido_a": null,
       "count": 1
     },
     {
