@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:39:41.851240+00:00",
+  "generated_at": "2026-07-23T19:25:54.497592+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -99,7 +99,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 19
+      "count": 20
     },
     {
       "empresa_id": "1754",
@@ -182,6 +182,16 @@
       "count": 10
     },
     {
+      "empresa_id": "1057",
+      "nombre_empresa": "NEXOS SOFTWARE",
+      "rut": "8110237291",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 10
+    },
+    {
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
@@ -208,16 +218,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 9
-    },
-    {
-      "empresa_id": "1057",
-      "nombre_empresa": "NEXOS SOFTWARE",
-      "rut": "8110237291",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 9
     },
@@ -602,6 +602,16 @@
       "count": 4
     },
     {
+      "empresa_id": "2009",
+      "nombre_empresa": "DERCOMAQ",
+      "rut": "76141853-K",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "1746",
       "nombre_empresa": "GARCIA MARCHANT Y COMPANIA LIMITADA",
       "rut": "76560536-9",
@@ -765,16 +775,6 @@
       "empresa_id": "2002",
       "nombre_empresa": "INMOBILIARIA BUSTAMANTE",
       "rut": "76522417-9",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "2009",
-      "nombre_empresa": "DERCOMAQ",
-      "rut": "76141853-K",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
