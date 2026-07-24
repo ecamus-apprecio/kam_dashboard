@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T19:37:07.163597+00:00",
+  "generated_at": "2026-07-24T22:10:03.616796+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1228,6 +1228,56 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2014",
+      "nombre_empresa": "Inmobiliaria Celia Solar",
+      "rut": "77067005-5",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2011",
+      "nombre_empresa": "Inmobiliaria Macul - Exequiel Fernández",
+      "rut": "77099336-9",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2013",
+      "nombre_empresa": "Inmobiliaria Monseñor Eyzaguirre II",
+      "rut": "76754566-5",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2015",
+      "nombre_empresa": "Inmobiliaria Rodrigo de Araya",
+      "rut": "77078271-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2012",
+      "nombre_empresa": "Inmobiliaria Pedro de Oña",
+      "rut": "76834869-3",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
