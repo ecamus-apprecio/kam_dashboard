@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T13:55:53.913425+00:00",
+  "generated_at": "2026-07-24T16:46:35.611211+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -372,6 +372,16 @@
       "count": 6
     },
     {
+      "empresa_id": "1975",
+      "nombre_empresa": "Augustar Seguros de Vida",
+      "rut": "76632384-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "398",
       "nombre_empresa": "PROYECTO E SAS",
       "rut": "900110407",
@@ -485,16 +495,6 @@
       "empresa_id": "1889",
       "nombre_empresa": "Ingeneria y Proyectos JR Telecomunicaciones Ltda",
       "rut": "76061491-2",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "1975",
-      "nombre_empresa": "Augustar Seguros de Vida",
-      "rut": "76632384-7",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -1645,6 +1645,16 @@
       "empresa_id": "1546",
       "nombre_empresa": "LIBGOT COLOMBIA SAS",
       "rut": "901442736",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1558",
+      "nombre_empresa": "UNIVERSIDAD INTERNACIONAL DE LA RIOJA",
+      "rut": "26430439",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
