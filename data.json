@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:06:05.027019+00:00",
+  "generated_at": "2026-07-24T13:55:53.913425+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -251,10 +251,10 @@
             0,
             2,
             15,
-            20
+            21
           ],
-          "reuniones_mensual": 20.33,
-          "reuniones_exec": 20.33,
+          "reuniones_mensual": 20.5,
+          "reuniones_exec": 20.5,
           "clientes_exec": 31.0,
           "total_clientes": 31,
           "usuarios_total": 572.0,
@@ -264,7 +264,7 @@
               "nombre": "Darling Allendes",
               "correo": "dallendes@dcanje.com",
               "tickets_mensual": 6.58,
-              "reuniones_mensual": 20.33,
+              "reuniones_mensual": 20.5,
               "total_clientes": 29.0,
               "usuarios_total": 530.0
             }
