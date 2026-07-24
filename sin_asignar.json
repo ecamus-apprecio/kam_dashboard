@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T22:08:55.584400+00:00",
+  "generated_at": "2026-07-24T03:18:14.943252+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1791,7 +1791,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3102.0
+      "usuarios_incentivados": 3103.0
     },
     {
       "empresa_id": "3",
@@ -1811,7 +1811,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2092.0
+      "usuarios_incentivados": 2089.0
     },
     {
       "empresa_id": "620",
@@ -1831,7 +1831,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1418.0
+      "usuarios_incentivados": 1419.0
     },
     {
       "empresa_id": "1802",
@@ -1841,7 +1841,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1185.0
+      "usuarios_incentivados": 1187.0
     },
     {
       "empresa_id": "234",
@@ -1931,17 +1931,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 377.0
-    },
-    {
-      "empresa_id": "114",
-      "nombre_empresa": "CONGRUPO",
-      "rut": "800146643",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 345.0
+      "usuarios_incentivados": 375.0
     },
     {
       "empresa_id": "1528",
@@ -1964,6 +1954,16 @@
       "usuarios_incentivados": 338.0
     },
     {
+      "empresa_id": "114",
+      "nombre_empresa": "CONGRUPO",
+      "rut": "800146643",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 336.0
+    },
+    {
       "empresa_id": "1035",
       "nombre_empresa": "Polar",
       "rut": "76333370-1",
@@ -1981,7 +1981,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 246.0
+      "usuarios_incentivados": 242.0
     },
     {
       "empresa_id": "359",
@@ -2061,7 +2061,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 135.0
+      "usuarios_incentivados": 136.0
     },
     {
       "empresa_id": "1954",
@@ -2324,16 +2324,6 @@
       "usuarios_incentivados": 31.0
     },
     {
-      "empresa_id": "855",
-      "nombre_empresa": "JSMD MANAGEMENT S.A.S",
-      "rut": "9014062521",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 29.0
-    },
-    {
       "empresa_id": "86",
       "nombre_empresa": "ASPENPHARMA S.A.",
       "rut": "1792453712001",
@@ -2341,6 +2331,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
+      "usuarios_incentivados": 30.0
+    },
+    {
+      "empresa_id": "855",
+      "nombre_empresa": "JSMD MANAGEMENT S.A.S",
+      "rut": "9014062521",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 29.0
     },
     {
@@ -2352,6 +2352,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 28.0
+    },
+    {
+      "empresa_id": "2009",
+      "nombre_empresa": "DERCOMAQ",
+      "rut": "76141853-K",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 27.0
     },
     {
       "empresa_id": "861",
@@ -2490,6 +2500,16 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 14.0
+    },
+    {
+      "empresa_id": "1447",
+      "nombre_empresa": "EMPRESA COLOMBIANA DE PRODUCTOS VETERINARIOS S.A.",
+      "rut": "8999990024",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 14.0
     },
@@ -2707,16 +2727,6 @@
       "empresa_id": "2003",
       "nombre_empresa": "COMERCIAL CENTRAL CHILE",
       "rut": "76026619-1",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 7.0
-    },
-    {
-      "empresa_id": "2009",
-      "nombre_empresa": "DERCOMAQ",
-      "rut": "76141853-K",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3104,6 +3114,16 @@
       "usuarios_incentivados": 2.0
     },
     {
+      "empresa_id": "1443",
+      "nombre_empresa": "Sada Logistics SAS",
+      "rut": "9015440479",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
       "empresa_id": "609",
       "nombre_empresa": "QROOM 360 LLC",
       "rut": "22000155335",
@@ -3247,16 +3267,6 @@
       "empresa_id": "1416",
       "nombre_empresa": "OMEGA TECHNOLOGIES SAS",
       "rut": "9008930733",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "1443",
-      "nombre_empresa": "Sada Logistics SAS",
-      "rut": "9015440479",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
