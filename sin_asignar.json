@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T22:10:03.616796+00:00",
+  "generated_at": "2026-07-25T03:16:14.327824+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -39,7 +39,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 37
+      "count": 36
     },
     {
       "empresa_id": "686",
@@ -1851,7 +1851,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3103.0
+      "usuarios_incentivados": 3100.0
     },
     {
       "empresa_id": "3",
@@ -2404,6 +2404,16 @@
       "usuarios_incentivados": 29.0
     },
     {
+      "empresa_id": "2009",
+      "nombre_empresa": "DERCOMAQ",
+      "rut": "76141853-K",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 28.0
+    },
+    {
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
@@ -2414,16 +2424,6 @@
       "usuarios_incentivados": 28.0
     },
     {
-      "empresa_id": "2009",
-      "nombre_empresa": "DERCOMAQ",
-      "rut": "76141853-K",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 27.0
-    },
-    {
       "empresa_id": "861",
       "nombre_empresa": "Habla Latam",
       "rut": "20610759069",
@@ -2431,7 +2431,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 23.0
+      "usuarios_incentivados": 24.0
     },
     {
       "empresa_id": "226",
