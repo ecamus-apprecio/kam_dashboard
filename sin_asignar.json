@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:00:11.799885+00:00",
+  "generated_at": "2026-07-26T03:30:23.564533+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 239
+      "count": 233
     },
     {
       "empresa_id": "1802",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 73
+      "count": 70
     },
     {
       "empresa_id": "114",
@@ -502,16 +502,6 @@
       "count": 4
     },
     {
-      "empresa_id": "690",
-      "nombre_empresa": "TM Gestion inmobiliaria",
-      "rut": "20549790373",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
       "empresa_id": "758",
       "nombre_empresa": "Medifarma  - Comercial",
       "rut": "20100018625",
@@ -626,6 +616,16 @@
       "nombre_empresa": "LA LAUNA SPA",
       "rut": "77561664-4",
       "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "690",
+      "nombre_empresa": "TM Gestion inmobiliaria",
+      "rut": "20549790373",
+      "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
@@ -1871,7 +1871,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2089.0
+      "usuarios_incentivados": 2065.0
     },
     {
       "empresa_id": "620",
@@ -1881,7 +1881,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1431.0
+      "usuarios_incentivados": 1426.0
     },
     {
       "empresa_id": "1",
@@ -2574,16 +2574,6 @@
       "usuarios_incentivados": 14.0
     },
     {
-      "empresa_id": "824",
-      "nombre_empresa": "beClassmates",
-      "rut": "764297687",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 14.0
-    },
-    {
       "empresa_id": "1444",
       "nombre_empresa": "GRASASBIO SAS",
       "rut": "9011100720",
@@ -2612,6 +2602,16 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 14.0
+    },
+    {
+      "empresa_id": "824",
+      "nombre_empresa": "beClassmates",
+      "rut": "764297687",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 13.0
     },
     {
       "empresa_id": "1056",
