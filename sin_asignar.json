@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:42:22.234391+00:00",
+  "generated_at": "2026-07-27T22:11:51.948314+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -32,22 +32,22 @@
       "count": 45
     },
     {
-      "empresa_id": "343",
-      "nombre_empresa": "ENTEL CHILE - CALL CENTER",
-      "rut": "92580000 - 7",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 36
-    },
-    {
       "empresa_id": "686",
       "nombre_empresa": "Versilia",
       "rut": "20609117339",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 37
+    },
+    {
+      "empresa_id": "343",
+      "nombre_empresa": "ENTEL CHILE - CALL CENTER",
+      "rut": "92580000 - 7",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 36
     },
@@ -1708,6 +1708,16 @@
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1493",
+      "nombre_empresa": "COMPAÑIA ASEGURADORA DE FIANZAS S A",
+      "rut": "8600703749",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
