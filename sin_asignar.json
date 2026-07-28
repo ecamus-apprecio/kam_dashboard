@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T19:39:51.701585+00:00",
+  "generated_at": "2026-07-28T22:10:18.924087+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -152,6 +152,16 @@
       "count": 13
     },
     {
+      "empresa_id": "79",
+      "nombre_empresa": "NTT-DATA ECUADOR S.A.",
+      "rut": "1793207896001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 13
+    },
+    {
       "empresa_id": "68",
       "nombre_empresa": "SATRACK SA",
       "rut": "1792337321001",
@@ -160,16 +170,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 13
-    },
-    {
-      "empresa_id": "79",
-      "nombre_empresa": "NTT-DATA ECUADOR S.A.",
-      "rut": "1793207896001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 12
     },
     {
       "empresa_id": "1",
