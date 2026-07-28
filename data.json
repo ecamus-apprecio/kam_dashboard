@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T11:23:02.657826+00:00",
+  "generated_at": "2026-07-28T14:22:33.358247+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 571.38,
-          "tickets_exec": 114.28,
+          "tickets_mensual": 571.46,
+          "tickets_exec": 114.29,
           "reuniones_monthly": [
             31,
             26,
@@ -67,7 +67,7 @@
             {
               "nombre": "Benjamin Gonzalez",
               "correo": "bgonzalez@apprecio.com",
-              "tickets_mensual": 82.48,
+              "tickets_mensual": 82.55,
               "reuniones_mensual": 6.29,
               "total_clientes": 108.6,
               "usuarios_total": 39316.0
@@ -85,8 +85,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 326.38,
-          "tickets_exec": 65.28,
+          "tickets_mensual": 326.46,
+          "tickets_exec": 65.29,
           "reuniones_monthly": [
             100,
             87,
@@ -130,7 +130,7 @@
             {
               "nombre": "Felipe Ospina",
               "correo": "fospina@apprecio.com",
-              "tickets_mensual": 36.77,
+              "tickets_mensual": 36.85,
               "reuniones_mensual": 0.0,
               "total_clientes": 77.2,
               "usuarios_total": 3756.0
