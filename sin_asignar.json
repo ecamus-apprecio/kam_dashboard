@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:44:31.824928+00:00",
+  "generated_at": "2026-07-28T19:39:51.701585+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -169,7 +169,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 11
+      "count": 12
     },
     {
       "empresa_id": "1",
@@ -622,6 +622,16 @@
       "count": 3
     },
     {
+      "empresa_id": "1581",
+      "nombre_empresa": "FR Group Corredores de Seguros",
+      "rut": "79.619.240-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "690",
       "nombre_empresa": "TM Gestion inmobiliaria",
       "rut": "20549790373",
@@ -815,16 +825,6 @@
       "empresa_id": "1943",
       "nombre_empresa": "NILO ARROYO",
       "rut": "76.345.095-3",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1581",
-      "nombre_empresa": "FR Group Corredores de Seguros",
-      "rut": "79.619.240-2",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
