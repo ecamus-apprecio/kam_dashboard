@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T16:25:29.824396+00:00",
+  "generated_at": "2026-07-29T19:24:50.572205+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -119,7 +119,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 15
+      "count": 17
     },
     {
       "empresa_id": "58",
@@ -1818,6 +1818,16 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 1
+    },
+    {
+      "empresa_id": "80",
+      "nombre_empresa": "Cy Send",
+      "rut": "55555555-5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "count": 1
     },
