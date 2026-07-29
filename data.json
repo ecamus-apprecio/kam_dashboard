@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:29:36.061705+00:00",
+  "generated_at": "2026-07-29T14:22:07.054831+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 570.38,
-          "tickets_exec": 114.08,
+          "tickets_mensual": 570.54,
+          "tickets_exec": 114.11,
           "reuniones_monthly": [
             31,
             26,
@@ -51,7 +51,7 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 118.95,
+              "tickets_mensual": 119.11,
               "reuniones_mensual": 5.43,
               "total_clientes": 90.6,
               "usuarios_total": 17314.4
