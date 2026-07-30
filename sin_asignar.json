@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T14:15:08.221227+00:00",
+  "generated_at": "2026-07-30T16:39:43.130147+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -69,7 +69,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 31
+      "count": 32
     },
     {
       "empresa_id": "3",
@@ -1728,6 +1728,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1561",
+      "nombre_empresa": "SERTRANSCO S.A.S.",
+      "rut": "9014046779",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
