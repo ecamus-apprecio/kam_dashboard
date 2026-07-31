@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:42:00.429727+00:00",
+  "generated_at": "2026-07-31T22:09:32.078598+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -292,6 +292,16 @@
       "count": 7
     },
     {
+      "empresa_id": "821",
+      "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
+      "rut": "20614426692",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dduran@app",
+      "redistribuido_a": "KAM",
+      "count": 7
+    },
+    {
       "empresa_id": "938",
       "nombre_empresa": "SALESLAND CHILE",
       "rut": "5555",
@@ -328,16 +338,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
-      "empresa_id": "821",
-      "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
-      "rut": "20614426692",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dduran@app",
       "redistribuido_a": "KAM",
       "count": 6
     },
@@ -1052,6 +1052,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1546",
+      "nombre_empresa": "LIBGOT COLOMBIA SAS",
+      "rut": "901442736",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "82",
       "nombre_empresa": "SMARTSTORES S.A.",
       "rut": "190495825001",
@@ -1708,16 +1718,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1546",
-      "nombre_empresa": "LIBGOT COLOMBIA SAS",
-      "rut": "901442736",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
