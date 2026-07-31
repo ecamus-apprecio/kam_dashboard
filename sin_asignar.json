@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T11:33:08.548440+00:00",
+  "generated_at": "2026-07-31T14:21:22.900198+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -904,7 +904,7 @@
     {
       "empresa_id": "843",
       "nombre_empresa": "Talana",
-      "rut": "2.060.764.059",
+      "rut": "2060764059",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",

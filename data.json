@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T11:33:08.548440+00:00",
+  "generated_at": "2026-07-31T14:21:22.900198+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -22,8 +22,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 567.08,
-          "tickets_exec": 113.42,
+          "tickets_mensual": 567.38,
+          "tickets_exec": 113.48,
           "reuniones_monthly": [
             31,
             26,
@@ -51,7 +51,7 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 118.4,
+              "tickets_mensual": 118.71,
               "reuniones_mensual": 5.43,
               "total_clientes": 89.8,
               "usuarios_total": 17324.6
@@ -85,8 +85,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 327.15,
-          "tickets_exec": 65.43,
+          "tickets_mensual": 327.23,
+          "tickets_exec": 65.45,
           "reuniones_monthly": [
             100,
             87,
@@ -114,7 +114,7 @@
             {
               "nombre": "Sharon Hernandez",
               "correo": "shernandez@apprecio.com",
-              "tickets_mensual": 86.45,
+              "tickets_mensual": 86.52,
               "reuniones_mensual": 9.0,
               "total_clientes": 62.4,
               "usuarios_total": 19295.4
