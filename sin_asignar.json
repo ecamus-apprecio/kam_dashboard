@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T16:48:32.507321+00:00",
+  "generated_at": "2026-07-31T19:42:00.429727+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 70
+      "count": 71
     },
     {
       "empresa_id": "114",
@@ -39,7 +39,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 37
+      "count": 38
     },
     {
       "empresa_id": "343",
@@ -612,6 +612,16 @@
       "count": 3
     },
     {
+      "empresa_id": "1501",
+      "nombre_empresa": "DEMO SL",
+      "rut": "999999999",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "1581",
       "nombre_empresa": "FR Group Corredores de Seguros",
       "rut": "79.619.240-2",
@@ -798,16 +808,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1501",
-      "nombre_empresa": "DEMO SL",
-      "rut": "999999999",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 2
     },
