@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T17:12:15.493779+00:00",
+  "generated_at": "2026-08-03T22:12:03.456722+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -222,6 +222,16 @@
       "count": 9
     },
     {
+      "empresa_id": "1035",
+      "nombre_empresa": "Polar",
+      "rut": "76333370-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 8
+    },
+    {
       "empresa_id": "1955",
       "nombre_empresa": "TUAUTO SPA",
       "rut": "76982452-9",
@@ -260,16 +270,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 8
-    },
-    {
-      "empresa_id": "1035",
-      "nombre_empresa": "Polar",
-      "rut": "76333370-1",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 7
     },
     {
       "empresa_id": "1",
@@ -352,6 +352,16 @@
       "count": 6
     },
     {
+      "empresa_id": "1255",
+      "nombre_empresa": "XCB DE COLOMBIA LIMITED SUCURSAL COLOMBIANA",
+      "rut": "8300683180",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
       "empresa_id": "1748",
       "nombre_empresa": "RICOH CHILE S.A",
       "rut": "96513980-k",
@@ -419,16 +429,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 5
-    },
-    {
-      "empresa_id": "1255",
-      "nombre_empresa": "XCB DE COLOMBIA LIMITED SUCURSAL COLOMBIANA",
-      "rut": "8300683180",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
       "count": 5
     },
     {
@@ -628,6 +628,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "2005",
+      "nombre_empresa": "SOCIAS INMOBILIARIAS",
+      "rut": "78095861-8",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 3
     },
@@ -855,16 +865,6 @@
       "empresa_id": "2006",
       "nombre_empresa": "MDL AUTOS",
       "rut": "77704290-4",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "2005",
-      "nombre_empresa": "SOCIAS INMOBILIARIAS",
-      "rut": "78095861-8",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
