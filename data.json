@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:56:00.313436+00:00",
+  "generated_at": "2026-08-03T14:50:50.382078+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -7,7 +7,8 @@
     "Abr 26",
     "May 26",
     "Jun 26",
-    "Jul 26"
+    "Jul 26",
+    "Ago 26"
   ],
   "country_order": [
     "Chile",
@@ -22,8 +23,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 612.92,
-          "tickets_exec": 122.58,
+          "tickets_mensual": 566.23,
+          "tickets_exec": 113.25,
           "reuniones_monthly": [
             31,
             26,
@@ -31,7 +32,8 @@
             46,
             14,
             22,
-            36
+            36,
+            0
           ],
           "reuniones_mensual": 27.0,
           "reuniones_exec": 5.4,
@@ -43,7 +45,7 @@
             {
               "nombre": "Lorenzo Jamasmie",
               "correo": "ljamasmie@apprecio.com",
-              "tickets_mensual": 191.6,
+              "tickets_mensual": 176.94,
               "reuniones_mensual": 7.43,
               "total_clientes": 109.0,
               "usuarios_total": 39513.0
@@ -51,7 +53,7 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 128.27,
+              "tickets_mensual": 118.63,
               "reuniones_mensual": 5.43,
               "total_clientes": 90.0,
               "usuarios_total": 17331.0
@@ -59,7 +61,7 @@
             {
               "nombre": "Benjamin Castro",
               "correo": "bcastro@apprecio.com",
-              "tickets_mensual": 125.6,
+              "tickets_mensual": 115.94,
               "reuniones_mensual": 7.14,
               "total_clientes": 96.0,
               "usuarios_total": 60352.0
@@ -67,7 +69,7 @@
             {
               "nombre": "Benjamin Gonzalez",
               "correo": "bgonzalez@apprecio.com",
-              "tickets_mensual": 88.68,
+              "tickets_mensual": 81.86,
               "reuniones_mensual": 6.29,
               "total_clientes": 109.0,
               "usuarios_total": 39259.0
@@ -75,7 +77,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 78.77,
+              "tickets_mensual": 72.86,
               "reuniones_mensual": 0.71,
               "total_clientes": 174.0,
               "usuarios_total": 10343.0
@@ -85,8 +87,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 354.08,
-          "tickets_exec": 70.82,
+          "tickets_mensual": 326.92,
+          "tickets_exec": 65.38,
           "reuniones_monthly": [
             100,
             87,
@@ -94,7 +96,8 @@
             88,
             69,
             51,
-            29
+            29,
+            0
           ],
           "reuniones_mensual": 71.71,
           "reuniones_exec": 14.34,
@@ -106,7 +109,7 @@
             {
               "nombre": "Santiago Cuellar",
               "correo": "scuellar@apprecio.com",
-              "tickets_mensual": 99.52,
+              "tickets_mensual": 91.86,
               "reuniones_mensual": 14.0,
               "total_clientes": 85.4,
               "usuarios_total": 31499.2
@@ -114,7 +117,7 @@
             {
               "nombre": "Sharon Hernandez",
               "correo": "shernandez@apprecio.com",
-              "tickets_mensual": 93.77,
+              "tickets_mensual": 86.63,
               "reuniones_mensual": 9.0,
               "total_clientes": 62.4,
               "usuarios_total": 19493.2
@@ -122,7 +125,7 @@
             {
               "nombre": "Roberto Molina",
               "correo": "rmolina@apprecio.com",
-              "tickets_mensual": 89.93,
+              "tickets_mensual": 83.02,
               "reuniones_mensual": 8.86,
               "total_clientes": 75.4,
               "usuarios_total": 26650.2
@@ -130,7 +133,7 @@
             {
               "nombre": "Felipe Ospina",
               "correo": "fospina@apprecio.com",
-              "tickets_mensual": 39.52,
+              "tickets_mensual": 36.48,
               "reuniones_mensual": 0.0,
               "total_clientes": 77.4,
               "usuarios_total": 3772.2
@@ -138,7 +141,7 @@
             {
               "nombre": "Andersson Leon",
               "correo": "aleon@apprecio.com",
-              "tickets_mensual": 31.35,
+              "tickets_mensual": 28.94,
               "reuniones_mensual": 39.86,
               "total_clientes": 70.4,
               "usuarios_total": 5469.2
@@ -151,6 +154,7 @@
           "tickets_mensual": 0,
           "tickets_exec": 0,
           "reuniones_monthly": [
+            0,
             0,
             0,
             0,
@@ -179,6 +183,7 @@
             0,
             0,
             0,
+            0,
             0
           ],
           "reuniones_mensual": 0,
@@ -201,7 +206,8 @@
             19,
             14,
             28,
-            8
+            8,
+            0
           ],
           "reuniones_mensual": 14.57,
           "reuniones_exec": 7.29,
@@ -251,10 +257,11 @@
             0,
             2,
             15,
-            34
+            34,
+            1
           ],
-          "reuniones_mensual": 22.67,
-          "reuniones_exec": 22.67,
+          "reuniones_mensual": 19.57,
+          "reuniones_exec": 19.57,
           "clientes_exec": 32.0,
           "total_clientes": 32,
           "usuarios_total": 580.0,
@@ -264,7 +271,7 @@
               "nombre": "Darling Allendes",
               "correo": "dallendes@dcanje.com",
               "tickets_mensual": 6.67,
-              "reuniones_mensual": 22.67,
+              "reuniones_mensual": 19.57,
               "total_clientes": 30.0,
               "usuarios_total": 538.0
             }
@@ -282,7 +289,8 @@
             0,
             0,
             15,
-            39
+            39,
+            0
           ],
           "reuniones_mensual": 18.75,
           "reuniones_exec": 18.75,
@@ -313,6 +321,7 @@
             0,
             0,
             0,
+            0,
             0
           ],
           "reuniones_mensual": 0,
@@ -335,6 +344,7 @@
             0,
             0,
             0,
+            0,
             0
           ],
           "reuniones_mensual": 0,
@@ -351,6 +361,7 @@
           "tickets_mensual": 0,
           "tickets_exec": 0,
           "reuniones_monthly": [
+            0,
             0,
             0,
             0,
@@ -390,6 +401,7 @@
             0,
             0,
             0,
+            0,
             0
           ],
           "reuniones_mensual": 0,
@@ -412,7 +424,8 @@
             7,
             12,
             15,
-            11
+            11,
+            0
           ],
           "reuniones_mensual": 11.25,
           "reuniones_exec": 11.25,
@@ -443,6 +456,7 @@
             0,
             0,
             0,
+            0,
             0
           ],
           "reuniones_mensual": 0,
@@ -465,7 +479,8 @@
             16,
             26,
             40,
-            37
+            37,
+            0
           ],
           "reuniones_mensual": 28.14,
           "reuniones_exec": 14.07,
@@ -504,7 +519,8 @@
             7,
             5,
             12,
-            3
+            3,
+            0
           ],
           "reuniones_mensual": 6.4,
           "reuniones_exec": 6.4,
@@ -535,9 +551,9 @@
   },
   "meta": {
     "reuniones_sin_match": 25,
-    "tickets_sin_asignar": 1097,
+    "tickets_sin_asignar": 1098,
     "tickets_redistribuidos": 949,
-    "tickets_excluidos": 148,
+    "tickets_excluidos": 149,
     "usuarios_sin_asignar": 161,
     "usuarios_redistribuidos": 141,
     "usuarios_excluidos": 20

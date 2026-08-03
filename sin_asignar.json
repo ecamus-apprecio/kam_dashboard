@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:56:00.313436+00:00",
+  "generated_at": "2026-08-03T14:50:50.382078+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -172,16 +172,6 @@
       "count": 12
     },
     {
-      "empresa_id": "1057",
-      "nombre_empresa": "NEXOS SOFTWARE",
-      "rut": "8110237291",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 10
-    },
-    {
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
@@ -189,6 +179,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
+      "count": 11
+    },
+    {
+      "empresa_id": "1057",
+      "nombre_empresa": "NEXOS SOFTWARE",
+      "rut": "8110237291",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 10
     },
     {
