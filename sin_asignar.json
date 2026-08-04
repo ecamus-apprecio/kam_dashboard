@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T19:43:38.823768+00:00",
+  "generated_at": "2026-08-04T22:17:35.479810+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -342,6 +342,16 @@
       "count": 6
     },
     {
+      "empresa_id": "895",
+      "nombre_empresa": "Administrador - AUNA FUERZA",
+      "rut": "20550028515",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
       "empresa_id": "999",
       "nombre_empresa": "Jikkosoft SAS",
       "rut": "9007653786",
@@ -398,16 +408,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "895",
-      "nombre_empresa": "Administrador - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 5
     },
