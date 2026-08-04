@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:12:03.456722+00:00",
+  "generated_at": "2026-08-04T03:13:00.958557+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1772,6 +1772,16 @@
       "count": 1
     },
     {
+      "empresa_id": "1531",
+      "nombre_empresa": "CORPOEDUCACION",
+      "rut": "8300161450",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "92",
       "nombre_empresa": "Madison Performance Group",
       "rut": "134141712",
@@ -1931,7 +1941,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3134.0
+      "usuarios_incentivados": 3143.0
     },
     {
       "empresa_id": "3",
@@ -1941,7 +1951,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2114.0
+      "usuarios_incentivados": 2128.0
     },
     {
       "empresa_id": "343",
@@ -2041,7 +2051,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 458.0
+      "usuarios_incentivados": 459.0
     },
     {
       "empresa_id": "347",
@@ -2154,6 +2164,16 @@
       "usuarios_incentivados": 208.0
     },
     {
+      "empresa_id": "821",
+      "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
+      "rut": "20614426692",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dduran@app",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 203.0
+    },
+    {
       "empresa_id": "1817",
       "nombre_empresa": "Equilibrium",
       "rut": "55555555-5",
@@ -2162,16 +2182,6 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 195.0
-    },
-    {
-      "empresa_id": "821",
-      "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
-      "rut": "20614426692",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dduran@app",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 183.0
     },
     {
       "empresa_id": "788",
@@ -2344,6 +2354,16 @@
       "usuarios_incentivados": 52.0
     },
     {
+      "empresa_id": "746",
+      "nombre_empresa": "Sky Airline",
+      "rut": "20603446543",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 50.0
+    },
+    {
       "empresa_id": "1153",
       "nombre_empresa": "MUMU COLOMBIA SAS",
       "rut": "9016576244",
@@ -2494,16 +2514,6 @@
       "usuarios_incentivados": 29.0
     },
     {
-      "empresa_id": "2009",
-      "nombre_empresa": "DERCOMAQ",
-      "rut": "76141853-K",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 28.0
-    },
-    {
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
@@ -2511,6 +2521,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
+      "usuarios_incentivados": 29.0
+    },
+    {
+      "empresa_id": "2009",
+      "nombre_empresa": "DERCOMAQ",
+      "rut": "76141853-K",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 28.0
     },
     {
@@ -2534,6 +2554,16 @@
       "usuarios_incentivados": 23.0
     },
     {
+      "empresa_id": "1255",
+      "nombre_empresa": "XCB DE COLOMBIA LIMITED SUCURSAL COLOMBIANA",
+      "rut": "8300683180",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 22.0
+    },
+    {
       "empresa_id": "1453",
       "nombre_empresa": "MAINSOFT CONSULTING SAS",
       "rut": "9004878523",
@@ -2542,16 +2572,6 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 22.0
-    },
-    {
-      "empresa_id": "1255",
-      "nombre_empresa": "XCB DE COLOMBIA LIMITED SUCURSAL COLOMBIANA",
-      "rut": "8300683180",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 21.0
     },
     {
       "empresa_id": "1368",
@@ -3437,6 +3457,16 @@
       "empresa_id": "1416",
       "nombre_empresa": "OMEGA TECHNOLOGIES SAS",
       "rut": "9008930733",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "1493",
+      "nombre_empresa": "COMPAÑIA ASEGURADORA DE FIANZAS S A",
+      "rut": "8600703749",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
