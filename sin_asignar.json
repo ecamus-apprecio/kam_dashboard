@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T11:29:43.779496+00:00",
+  "generated_at": "2026-08-04T14:28:24.664404+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1495,6 +1495,16 @@
       "empresa_id": "893",
       "nombre_empresa": "CAJA TRUJILLO",
       "rut": "20132243230",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "896",
+      "nombre_empresa": "ANDEANVET S.A.C",
+      "rut": "20510282362",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
