@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T14:28:24.664404+00:00",
+  "generated_at": "2026-08-04T16:57:01.498826+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -654,7 +654,7 @@
     {
       "empresa_id": "882",
       "nombre_empresa": "RUTACA PERU",
-      "rut": "20601432472",
+      "rut": "20.601.432.472",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1785,6 +1785,26 @@
       "empresa_id": "1531",
       "nombre_empresa": "CORPOEDUCACION",
       "rut": "8300161450",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1550",
+      "nombre_empresa": "SOLVO S.A.S",
+      "rut": "901180401",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1547",
+      "nombre_empresa": "COMERCIALIZADORA DISFRUVER S.A.S.",
+      "rut": "900135976",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
