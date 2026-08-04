@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:57:01.498826+00:00",
+  "generated_at": "2026-08-04T19:43:38.823768+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -79,7 +79,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 23
+      "count": 24
     },
     {
       "empresa_id": "165",
@@ -362,6 +362,16 @@
       "count": 6
     },
     {
+      "empresa_id": "1343",
+      "nombre_empresa": "E-DENTAL COLOMBIA SAS",
+      "rut": "9010525270",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
       "empresa_id": "1748",
       "nombre_empresa": "RICOH CHILE S.A",
       "rut": "96513980-k",
@@ -429,16 +439,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 5
-    },
-    {
-      "empresa_id": "1343",
-      "nombre_empresa": "E-DENTAL COLOMBIA SAS",
-      "rut": "9010525270",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
       "count": 5
     },
     {
@@ -654,7 +654,7 @@
     {
       "empresa_id": "882",
       "nombre_empresa": "RUTACA PERU",
-      "rut": "20.601.432.472",
+      "rut": "20601432472",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
