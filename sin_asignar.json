@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T16:44:59.211890+00:00",
+  "generated_at": "2026-08-05T19:42:47.911478+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -692,6 +692,16 @@
       "count": 3
     },
     {
+      "empresa_id": "1141",
+      "nombre_empresa": "EDUCA EDTECH COLOMBIA SAS",
+      "rut": "9016655540",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
+      "count": 3
+    },
+    {
       "empresa_id": "1444",
       "nombre_empresa": "GRASASBIO SAS",
       "rut": "9011100720",
@@ -965,16 +975,6 @@
       "empresa_id": "1135",
       "nombre_empresa": "ORIGAMI MERCADEO SOCIAL",
       "rut": "9003202344",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1141",
-      "nombre_empresa": "EDUCA EDTECH COLOMBIA SAS",
-      "rut": "9016655540",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
