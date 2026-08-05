@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T11:24:12.032424+00:00",
+  "generated_at": "2026-08-05T14:21:18.749536+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -382,6 +382,16 @@
       "count": 6
     },
     {
+      "empresa_id": "2009",
+      "nombre_empresa": "DERCOMAQ",
+      "rut": "76141853-K",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "1748",
       "nombre_empresa": "RICOH CHILE S.A",
       "rut": "96513980-k",
@@ -590,16 +600,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 4
-    },
-    {
-      "empresa_id": "2009",
-      "nombre_empresa": "DERCOMAQ",
-      "rut": "76141853-K",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
     },
     {
       "empresa_id": "1736",
