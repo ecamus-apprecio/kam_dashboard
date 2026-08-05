@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T19:42:47.911478+00:00",
+  "generated_at": "2026-08-05T22:15:45.984159+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -222,6 +222,16 @@
       "count": 9
     },
     {
+      "empresa_id": "598",
+      "nombre_empresa": "Versilia Colombia",
+      "rut": "902018021",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
       "empresa_id": "1035",
       "nombre_empresa": "Polar",
       "rut": "76333370-1",
@@ -248,16 +258,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "598",
-      "nombre_empresa": "Versilia Colombia",
-      "rut": "902018021",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 8
     },
