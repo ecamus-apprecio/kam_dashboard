@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T11:28:10.766658+00:00",
+  "generated_at": "2026-08-06T14:24:33.680264+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -23,8 +23,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 565.31,
-          "tickets_exec": 113.06,
+          "tickets_mensual": 565.92,
+          "tickets_exec": 113.18,
           "reuniones_monthly": [
             31,
             26,
@@ -69,7 +69,7 @@
             {
               "nombre": "Benjamin Gonzalez",
               "correo": "bgonzalez@apprecio.com",
-              "tickets_mensual": 82.29,
+              "tickets_mensual": 82.68,
               "reuniones_mensual": 5.62,
               "total_clientes": 109.0,
               "usuarios_total": 39256.2
@@ -77,7 +77,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 72.75,
+              "tickets_mensual": 72.98,
               "reuniones_mensual": 1.0,
               "total_clientes": 174.0,
               "usuarios_total": 10362.2
@@ -87,8 +87,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 329.92,
-          "tickets_exec": 65.98,
+          "tickets_mensual": 330.38,
+          "tickets_exec": 66.08,
           "reuniones_monthly": [
             100,
             87,
@@ -109,7 +109,7 @@
             {
               "nombre": "Santiago Cuellar",
               "correo": "scuellar@apprecio.com",
-              "tickets_mensual": 92.26,
+              "tickets_mensual": 92.58,
               "reuniones_mensual": 12.62,
               "total_clientes": 86.4,
               "usuarios_total": 31890.2
@@ -117,7 +117,7 @@
             {
               "nombre": "Sharon Hernandez",
               "correo": "shernandez@apprecio.com",
-              "tickets_mensual": 87.03,
+              "tickets_mensual": 87.05,
               "reuniones_mensual": 8.12,
               "total_clientes": 63.4,
               "usuarios_total": 19819.2
@@ -125,7 +125,7 @@
             {
               "nombre": "Roberto Molina",
               "correo": "rmolina@apprecio.com",
-              "tickets_mensual": 84.03,
+              "tickets_mensual": 84.05,
               "reuniones_mensual": 8.5,
               "total_clientes": 76.4,
               "usuarios_total": 26797.2
@@ -133,7 +133,7 @@
             {
               "nombre": "Felipe Ospina",
               "correo": "fospina@apprecio.com",
-              "tickets_mensual": 36.8,
+              "tickets_mensual": 36.82,
               "reuniones_mensual": 0.0,
               "total_clientes": 78.4,
               "usuarios_total": 3764.2
@@ -141,7 +141,7 @@
             {
               "nombre": "Andersson Leon",
               "correo": "aleon@apprecio.com",
-              "tickets_mensual": 29.8,
+              "tickets_mensual": 29.89,
               "reuniones_mensual": 35.5,
               "total_clientes": 71.4,
               "usuarios_total": 5493.2
@@ -248,8 +248,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 1,
-          "tickets_mensual": 6.69,
-          "tickets_exec": 6.69,
+          "tickets_mensual": 6.77,
+          "tickets_exec": 6.77,
           "reuniones_monthly": [
             59,
             25,
@@ -270,7 +270,7 @@
             {
               "nombre": "Darling Allendes",
               "correo": "dallendes@dcanje.com",
-              "tickets_mensual": 6.31,
+              "tickets_mensual": 6.38,
               "reuniones_mensual": 20.0,
               "total_clientes": 30.0,
               "usuarios_total": 546.0
@@ -551,9 +551,9 @@
   },
   "meta": {
     "reuniones_sin_match": 25,
-    "tickets_sin_asignar": 1095,
-    "tickets_redistribuidos": 948,
-    "tickets_excluidos": 147,
+    "tickets_sin_asignar": 1097,
+    "tickets_redistribuidos": 949,
+    "tickets_excluidos": 148,
     "usuarios_sin_asignar": 165,
     "usuarios_redistribuidos": 145,
     "usuarios_excluidos": 20
