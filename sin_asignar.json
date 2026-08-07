@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T19:04:04.029225+00:00",
+  "generated_at": "2026-08-07T21:44:18.075489+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -212,6 +212,16 @@
       "count": 9
     },
     {
+      "empresa_id": "1955",
+      "nombre_empresa": "TUAUTO SPA",
+      "rut": "76982452-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
       "empresa_id": "598",
       "nombre_empresa": "Versilia Colombia",
       "rut": "902018021",
@@ -225,16 +235,6 @@
       "empresa_id": "1035",
       "nombre_empresa": "Polar",
       "rut": "76333370-1",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "1955",
-      "nombre_empresa": "TUAUTO SPA",
-      "rut": "76982452-9",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
