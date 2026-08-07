@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T14:24:33.680264+00:00",
+  "generated_at": "2026-08-07T00:06:49.727230+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -274,7 +274,7 @@
     {
       "empresa_id": "821",
       "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
-      "rut": "20.614.426.692",
+      "rut": "20614426692",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
@@ -320,6 +320,16 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "count": 7
+    },
+    {
+      "empresa_id": "2009",
+      "nombre_empresa": "DERCOMAQ",
+      "rut": "76141853-K",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 6
     },
     {
       "empresa_id": "1",
@@ -380,16 +390,6 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 6
-    },
-    {
-      "empresa_id": "2009",
-      "nombre_empresa": "DERCOMAQ",
-      "rut": "76141853-K",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 5
     },
     {
       "empresa_id": "1748",
@@ -602,6 +602,16 @@
       "count": 4
     },
     {
+      "empresa_id": "235",
+      "nombre_empresa": "H+Patrimonial",
+      "rut": "HSE080218RK5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 4
+    },
+    {
       "empresa_id": "1736",
       "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
       "rut": "77776240-0",
@@ -772,16 +782,6 @@
       "count": 3
     },
     {
-      "empresa_id": "235",
-      "nombre_empresa": "H+Patrimonial",
-      "rut": "HSE080218RK5",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
-      "count": 3
-    },
-    {
       "empresa_id": "1515",
       "nombre_empresa": "Topach",
       "rut": "76090951-3",
@@ -934,7 +934,7 @@
     {
       "empresa_id": "883",
       "nombre_empresa": "DROGUERIA IMOFAR",
-      "rut": "20601396123",
+      "rut": "20.601.396.123",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1062,6 +1062,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1535",
+      "nombre_empresa": "KNOWLEDGE AT PROCESSES AND TRAINING ALLIES SAS",
+      "rut": "900231103",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "1469",
       "nombre_empresa": "CREATIVA PRODUCCIONES S.A",
       "rut": "8300953526",
@@ -1075,6 +1085,16 @@
       "empresa_id": "1546",
       "nombre_empresa": "LIBGOT COLOMBIA SAS",
       "rut": "901442736",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1571",
+      "nombre_empresa": "Profesionales del Helado SAS",
+      "rut": "9004389070",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1682,16 +1702,6 @@
       "count": 1
     },
     {
-      "empresa_id": "1535",
-      "nombre_empresa": "KNOWLEDGE AT PROCESSES AND TRAINING ALLIES SAS",
-      "rut": "900231103",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "1539",
       "nombre_empresa": "TEXMUNDO COLOMBIA SAS",
       "rut": "830146669",
@@ -1752,16 +1762,6 @@
       "count": 1
     },
     {
-      "empresa_id": "1571",
-      "nombre_empresa": "Profesionales del Helado SAS",
-      "rut": "9004389070",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "1572",
       "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
       "rut": "800230187",
@@ -1798,6 +1798,16 @@
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1326",
+      "nombre_empresa": "UT OUTSOURCING TECNOLOGICO 2026",
+      "rut": "9020144314",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -1945,6 +1955,16 @@
       "empresa_id": "254",
       "nombre_empresa": "LATINREP",
       "rut": "LME010709815",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 1
+    },
+    {
+      "empresa_id": "252",
+      "nombre_empresa": "ACSI RESEARCH",
+      "rut": "ARE150319Q48",
       "pais": "México",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
