@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T16:00:18.986778+00:00",
+  "generated_at": "2026-08-07T19:04:04.029225+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -112,6 +112,16 @@
       "count": 18
     },
     {
+      "empresa_id": "63",
+      "nombre_empresa": "HUBTEK ECUADOR S.A.S.",
+      "rut": "993375303001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 16
+    },
+    {
       "empresa_id": "15",
       "nombre_empresa": "SIIGO",
       "rut": "992560754001",
@@ -129,16 +139,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 14
-    },
-    {
-      "empresa_id": "63",
-      "nombre_empresa": "HUBTEK ECUADOR S.A.S.",
-      "rut": "993375303001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "count": 14
     },
     {
