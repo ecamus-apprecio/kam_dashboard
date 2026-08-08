@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:44:18.075489+00:00",
+  "generated_at": "2026-08-08T01:58:11.182926+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -122,16 +122,6 @@
       "count": 16
     },
     {
-      "empresa_id": "15",
-      "nombre_empresa": "SIIGO",
-      "rut": "992560754001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 15
-    },
-    {
       "empresa_id": "58",
       "nombre_empresa": "AUTOSECURITY",
       "rut": "760380342",
@@ -139,6 +129,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
+      "count": 14
+    },
+    {
+      "empresa_id": "15",
+      "nombre_empresa": "SIIGO",
+      "rut": "992560754001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "count": 14
     },
     {
@@ -2001,7 +2001,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2031.0
+      "usuarios_incentivados": 2023.0
     },
     {
       "empresa_id": "1",
@@ -2011,7 +2011,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1448.0
+      "usuarios_incentivados": 1467.0
     },
     {
       "empresa_id": "620",
@@ -2031,7 +2031,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1188.0
+      "usuarios_incentivados": 1189.0
     },
     {
       "empresa_id": "234",
@@ -2071,7 +2071,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 519.0
+      "usuarios_incentivados": 530.0
     },
     {
       "empresa_id": "938",
@@ -2141,7 +2141,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 333.0
+      "usuarios_incentivados": 328.0
     },
     {
       "empresa_id": "114",
@@ -2161,7 +2161,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 265.0
+      "usuarios_incentivados": 271.0
     },
     {
       "empresa_id": "598",
@@ -2391,7 +2391,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 52.0
+      "usuarios_incentivados": 54.0
     },
     {
       "empresa_id": "746",
@@ -2551,7 +2551,7 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 30.0
+      "usuarios_incentivados": 31.0
     },
     {
       "empresa_id": "855",
@@ -3264,6 +3264,16 @@
       "usuarios_incentivados": 2.0
     },
     {
+      "empresa_id": "64",
+      "nombre_empresa": "Fuerza Demo 2",
+      "rut": "20603016034",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
       "empresa_id": "690",
       "nombre_empresa": "TM Gestion inmobiliaria",
       "rut": "20549790373",
@@ -3407,16 +3417,6 @@
       "empresa_id": "45",
       "nombre_empresa": "ALADIAH",
       "rut": "20605043471",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "64",
-      "nombre_empresa": "Fuerza Demo 2",
-      "rut": "20603016034",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
