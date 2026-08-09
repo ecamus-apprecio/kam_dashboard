@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:34:49.463695+00:00",
+  "generated_at": "2026-08-09T02:06:01.644471+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 229
+      "count": 228
     },
     {
       "empresa_id": "1802",
@@ -79,7 +79,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 22
+      "count": 21
     },
     {
       "empresa_id": "10",
@@ -89,7 +89,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 21
+      "count": 20
     },
     {
       "empresa_id": "89",
@@ -142,16 +142,6 @@
       "count": 14
     },
     {
-      "empresa_id": "79",
-      "nombre_empresa": "NTT-DATA ECUADOR S.A.",
-      "rut": "1793207896001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 13
-    },
-    {
       "empresa_id": "68",
       "nombre_empresa": "SATRACK SA",
       "rut": "1792337321001",
@@ -169,6 +159,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
+      "count": 12
+    },
+    {
+      "empresa_id": "79",
+      "nombre_empresa": "NTT-DATA ECUADOR S.A.",
+      "rut": "1793207896001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "count": 12
     },
     {
@@ -1152,16 +1152,6 @@
       "count": 2
     },
     {
-      "empresa_id": "493",
-      "nombre_empresa": "HENKEL",
-      "rut": "788034903",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "1624",
       "nombre_empresa": "Cy Send",
       "rut": "55555555-5",
@@ -1981,7 +1971,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3175.0
+      "usuarios_incentivados": 3174.0
     },
     {
       "empresa_id": "3",
@@ -2031,7 +2021,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1189.0
+      "usuarios_incentivados": 1191.0
     },
     {
       "empresa_id": "234",
@@ -2151,7 +2141,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 287.0
+      "usuarios_incentivados": 288.0
     },
     {
       "empresa_id": "1035",
@@ -2212,16 +2202,6 @@
       "email_kam_en_empresas": "dduran@app",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 203.0
-    },
-    {
-      "empresa_id": "1817",
-      "nombre_empresa": "Equilibrium",
-      "rut": "55555555-5",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 195.0
     },
     {
       "empresa_id": "788",
@@ -2461,7 +2441,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 43.0
+      "usuarios_incentivados": 42.0
     },
     {
       "empresa_id": "23",
@@ -2817,6 +2797,16 @@
       "empresa_id": "58",
       "nombre_empresa": "AUTOSECURITY",
       "rut": "76038034-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 11.0
+    },
+    {
+      "empresa_id": "1817",
+      "nombre_empresa": "Equilibrium",
+      "rut": "55555555-5",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -3394,9 +3384,9 @@
       "usuarios_incentivados": 2.0
     },
     {
-      "empresa_id": "493",
-      "nombre_empresa": "HENKEL",
-      "rut": "78803490-3",
+      "empresa_id": "1746",
+      "nombre_empresa": "GARCIA MARCHANT Y COMPANIA LIMITADA",
+      "rut": "76560536-9",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -3404,9 +3394,9 @@
       "usuarios_incentivados": 1.0
     },
     {
-      "empresa_id": "1746",
-      "nombre_empresa": "GARCIA MARCHANT Y COMPANIA LIMITADA",
-      "rut": "76560536-9",
+      "empresa_id": "493",
+      "nombre_empresa": "HENKEL",
+      "rut": "78803490-3",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
