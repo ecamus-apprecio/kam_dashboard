@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:21:50.327628+00:00",
+  "generated_at": "2026-08-10T13:20:03.729764+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -23,8 +23,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 565.23,
-          "tickets_exec": 113.05,
+          "tickets_mensual": 565.54,
+          "tickets_exec": 113.11,
           "reuniones_monthly": [
             31,
             26,
@@ -45,7 +45,7 @@
             {
               "nombre": "Lorenzo Jamasmie",
               "correo": "ljamasmie@apprecio.com",
-              "tickets_mensual": 177.03,
+              "tickets_mensual": 177.26,
               "reuniones_mensual": 6.62,
               "total_clientes": 108.8,
               "usuarios_total": 39496.0
@@ -77,7 +77,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 72.57,
+              "tickets_mensual": 72.65,
               "reuniones_mensual": 1.0,
               "total_clientes": 170.8,
               "usuarios_total": 10289.0
@@ -258,10 +258,10 @@
             2,
             15,
             34,
-            7
+            8
           ],
-          "reuniones_mensual": 20.43,
-          "reuniones_exec": 20.43,
+          "reuniones_mensual": 20.57,
+          "reuniones_exec": 20.57,
           "clientes_exec": 32.0,
           "total_clientes": 32,
           "usuarios_total": 592.0,
@@ -271,7 +271,7 @@
               "nombre": "Darling Allendes",
               "correo": "dallendes@dcanje.com",
               "tickets_mensual": 6.38,
-              "reuniones_mensual": 20.43,
+              "reuniones_mensual": 20.57,
               "total_clientes": 30.0,
               "usuarios_total": 550.0
             }
