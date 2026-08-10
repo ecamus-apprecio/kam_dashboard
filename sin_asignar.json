@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:37:53.663975+00:00",
+  "generated_at": "2026-08-10T02:10:23.905382+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -3521,16 +3521,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "375",
-      "nombre_empresa": "INDUSTRIAS INCA SAS",
-      "rut": "860001777",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
       "usuarios_incentivados": 1.0
     },
     {
