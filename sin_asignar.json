@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:47:48.469576+00:00",
+  "generated_at": "2026-08-11T02:05:14.308738+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -514,7 +514,7 @@
     {
       "empresa_id": "758",
       "nombre_empresa": "Medifarma  - Comercial",
-      "rut": "20100018625",
+      "rut": "20.100.018.625",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1082,6 +1082,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1561",
+      "nombre_empresa": "SERTRANSCO S.A.S.",
+      "rut": "9014046779",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "1571",
       "nombre_empresa": "Profesionales del Helado SAS",
       "rut": "9004389070",
@@ -1514,7 +1524,7 @@
     {
       "empresa_id": "893",
       "nombre_empresa": "CAJA TRUJILLO",
-      "rut": "20132243230",
+      "rut": "20.132.243.230",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1738,16 +1748,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1561",
-      "nombre_empresa": "SERTRANSCO S.A.S.",
-      "rut": "9014046779",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -1991,7 +1991,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2023.0
+      "usuarios_incentivados": 2025.0
     },
     {
       "empresa_id": "1",
@@ -2081,7 +2081,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 456.0
+      "usuarios_incentivados": 460.0
     },
     {
       "empresa_id": "347",
@@ -2301,7 +2301,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 85.0
+      "usuarios_incentivados": 86.0
     },
     {
       "empresa_id": "1634",
@@ -2544,6 +2544,16 @@
       "usuarios_incentivados": 29.0
     },
     {
+      "empresa_id": "1550",
+      "nombre_empresa": "SOLVO S.A.S",
+      "rut": "901180401",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 29.0
+    },
+    {
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
@@ -2662,6 +2672,16 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 17.0
+    },
+    {
+      "empresa_id": "888",
+      "nombre_empresa": "UPC CAMPAÑAS POST GRADO",
+      "rut": "20211614545",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 16.0
     },
     {
       "empresa_id": "1407",
@@ -2794,6 +2814,16 @@
       "usuarios_incentivados": 12.0
     },
     {
+      "empresa_id": "235",
+      "nombre_empresa": "H+Patrimonial",
+      "rut": "HSE080218RK5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 12.0
+    },
+    {
       "empresa_id": "58",
       "nombre_empresa": "AUTOSECURITY",
       "rut": "76038034-2",
@@ -2841,16 +2871,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 11.0
-    },
-    {
-      "empresa_id": "235",
-      "nombre_empresa": "H+Patrimonial",
-      "rut": "HSE080218RK5",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 11.0
     },
     {
@@ -3204,6 +3224,16 @@
       "usuarios_incentivados": 3.0
     },
     {
+      "empresa_id": "893",
+      "nombre_empresa": "CAJA TRUJILLO",
+      "rut": "20132243230",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 3.0
+    },
+    {
       "empresa_id": "1545",
       "nombre_empresa": "NIDDO HOLDING SAS.",
       "rut": "902039096",
@@ -3500,6 +3530,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "1572",
+      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
+      "rut": "800230187",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
