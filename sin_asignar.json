@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T19:08:51.464917+00:00",
+  "generated_at": "2026-08-11T21:54:09.565535+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -262,6 +262,16 @@
       "count": 8
     },
     {
+      "empresa_id": "86",
+      "nombre_empresa": "ASPENPHARMA S.A.",
+      "rut": "1792453712001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 8
+    },
+    {
       "empresa_id": "210",
       "nombre_empresa": "Be Exponential",
       "rut": "DSW220805EJ6",
@@ -305,16 +315,6 @@
       "empresa_id": "88",
       "nombre_empresa": "KUSHKI SA",
       "rut": "1792574218001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 7
-    },
-    {
-      "empresa_id": "86",
-      "nombre_empresa": "ASPENPHARMA S.A.",
-      "rut": "1792453712001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1345,6 +1345,16 @@
       "empresa_id": "2017",
       "nombre_empresa": "Loopon",
       "rut": "78095526-0",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2018",
+      "nombre_empresa": "Fika Express Rancagua",
+      "rut": "78228769-9",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
