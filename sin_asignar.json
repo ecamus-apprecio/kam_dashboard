@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T13:16:37.467018+00:00",
+  "generated_at": "2026-08-11T16:03:48.494354+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -222,6 +222,16 @@
       "count": 9
     },
     {
+      "empresa_id": "434",
+      "nombre_empresa": "Entel Call Center Outbound",
+      "rut": "96806980-2",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
       "empresa_id": "598",
       "nombre_empresa": "Versilia Colombia",
       "rut": "902018021",
@@ -245,16 +255,6 @@
       "empresa_id": "754",
       "nombre_empresa": "FORD - FUERZA",
       "rut": "20555903546",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "434",
-      "nombre_empresa": "Entel Call Center Outbound",
-      "rut": "96806980-2",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -514,7 +514,7 @@
     {
       "empresa_id": "758",
       "nombre_empresa": "Medifarma  - Comercial",
-      "rut": "20.100.018.625",
+      "rut": "20100018625",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1524,7 +1524,7 @@
     {
       "empresa_id": "893",
       "nombre_empresa": "CAJA TRUJILLO",
-      "rut": "20.132.243.230",
+      "rut": "20132243230",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1798,6 +1798,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1583",
+      "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
+      "rut": "900557006",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
