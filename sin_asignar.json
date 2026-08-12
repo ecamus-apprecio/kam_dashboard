@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T04:51:25.351294+00:00",
+  "generated_at": "2026-08-12T07:40:07.080532+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -294,7 +294,7 @@
     {
       "empresa_id": "821",
       "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
-      "rut": "20614426692",
+      "rut": "20.614.426.692",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",

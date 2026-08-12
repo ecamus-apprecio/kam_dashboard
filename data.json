@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T04:51:25.351294+00:00",
+  "generated_at": "2026-08-12T07:40:07.080532+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -197,8 +197,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 148.54,
-          "tickets_exec": 74.27,
+          "tickets_mensual": 148.69,
+          "tickets_exec": 74.34,
           "reuniones_monthly": [
             8,
             15,
