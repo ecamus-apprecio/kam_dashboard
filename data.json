@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:20:43.409724+00:00",
+  "generated_at": "2026-08-12T16:02:00.135302+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -23,8 +23,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 567.69,
-          "tickets_exec": 113.54,
+          "tickets_mensual": 568.08,
+          "tickets_exec": 113.62,
           "reuniones_monthly": [
             31,
             26,
@@ -33,10 +33,10 @@
             14,
             22,
             36,
-            11
+            12
           ],
-          "reuniones_mensual": 25.0,
-          "reuniones_exec": 5.0,
+          "reuniones_mensual": 25.12,
+          "reuniones_exec": 5.02,
           "clientes_exec": 114.4,
           "total_clientes": 572,
           "usuarios_total": 165457.0,
@@ -45,7 +45,7 @@
             {
               "nombre": "Lorenzo Jamasmie",
               "correo": "ljamasmie@apprecio.com",
-              "tickets_mensual": 177.8,
+              "tickets_mensual": 177.95,
               "reuniones_mensual": 6.75,
               "total_clientes": 109.0,
               "usuarios_total": 39629.0
@@ -53,8 +53,8 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 118.42,
-              "reuniones_mensual": 5.0,
+              "tickets_mensual": 118.49,
+              "reuniones_mensual": 5.12,
               "total_clientes": 90.0,
               "usuarios_total": 17005.0
             },
@@ -69,7 +69,7 @@
             {
               "nombre": "Benjamin Gonzalez",
               "correo": "bgonzalez@apprecio.com",
-              "tickets_mensual": 82.57,
+              "tickets_mensual": 82.65,
               "reuniones_mensual": 5.62,
               "total_clientes": 109.0,
               "usuarios_total": 39550.0
@@ -77,7 +77,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 72.88,
+              "tickets_mensual": 72.95,
               "reuniones_mensual": 1.0,
               "total_clientes": 170.0,
               "usuarios_total": 10271.0
@@ -87,8 +87,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 332.23,
-          "tickets_exec": 66.45,
+          "tickets_mensual": 332.31,
+          "tickets_exec": 66.46,
           "reuniones_monthly": [
             100,
             87,
@@ -141,7 +141,7 @@
             {
               "nombre": "Andersson Leon",
               "correo": "aleon@apprecio.com",
-              "tickets_mensual": 30.42,
+              "tickets_mensual": 30.49,
               "reuniones_mensual": 36.12,
               "total_clientes": 71.8,
               "usuarios_total": 5534.4
@@ -197,8 +197,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 148.69,
-          "tickets_exec": 74.34,
+          "tickets_mensual": 148.92,
+          "tickets_exec": 74.46,
           "reuniones_monthly": [
             8,
             15,
@@ -290,10 +290,10 @@
             0,
             15,
             39,
-            15
+            17
           ],
-          "reuniones_mensual": 18.0,
-          "reuniones_exec": 18.0,
+          "reuniones_mensual": 18.4,
+          "reuniones_exec": 18.4,
           "clientes_exec": 19.0,
           "total_clientes": 19,
           "usuarios_total": 2816.0,
@@ -303,7 +303,7 @@
               "nombre": "Laura Galindo",
               "correo": "lgalindo@apprecio.com",
               "tickets_mensual": 5.83,
-              "reuniones_mensual": 18.0,
+              "reuniones_mensual": 18.4,
               "total_clientes": 19.0,
               "usuarios_total": 2816.0
             }
