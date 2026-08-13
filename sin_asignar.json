@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T19:08:53.229669+00:00",
+  "generated_at": "2026-08-13T21:52:21.080872+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1995,6 +1995,16 @@
       "empresa_id": "254",
       "nombre_empresa": "LATINREP",
       "rut": "LME010709815",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 1
+    },
+    {
+      "empresa_id": "257",
+      "nombre_empresa": "TRAMONTINA DE MEXICO",
+      "rut": "TME970627UF5",
       "pais": "México",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
