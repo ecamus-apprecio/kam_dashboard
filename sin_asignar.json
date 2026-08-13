@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T02:24:22.423866+00:00",
+  "generated_at": "2026-08-13T04:55:52.098725+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -322,6 +322,16 @@
       "count": 7
     },
     {
+      "empresa_id": "1255",
+      "nombre_empresa": "XCB DE COLOMBIA LIMITED SUCURSAL COLOMBIANA",
+      "rut": "8300683180",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 7
+    },
+    {
       "empresa_id": "88",
       "nombre_empresa": "KUSHKI SA",
       "rut": "1792574218001",
@@ -365,16 +375,6 @@
       "empresa_id": "999",
       "nombre_empresa": "Jikkosoft SAS",
       "rut": "9007653786",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
-      "empresa_id": "1255",
-      "nombre_empresa": "XCB DE COLOMBIA LIMITED SUCURSAL COLOMBIANA",
-      "rut": "8300683180",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
