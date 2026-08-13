@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T21:52:27.481573+00:00",
+  "generated_at": "2026-08-13T02:24:22.423866+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -39,7 +39,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 39
+      "count": 37
     },
     {
       "empresa_id": "343",
@@ -59,7 +59,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 31
+      "count": 29
     },
     {
       "empresa_id": "165",
@@ -122,16 +122,6 @@
       "count": 16
     },
     {
-      "empresa_id": "58",
-      "nombre_empresa": "AUTOSECURITY",
-      "rut": "760380342",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 14
-    },
-    {
       "empresa_id": "15",
       "nombre_empresa": "SIIGO",
       "rut": "992560754001",
@@ -140,6 +130,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 14
+    },
+    {
+      "empresa_id": "58",
+      "nombre_empresa": "UIO BTL",
+      "rut": "1792184037001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 13
     },
     {
       "empresa_id": "68",
@@ -268,6 +268,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 8
+    },
+    {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 8
     },
@@ -428,16 +438,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "1368",
-      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
-      "rut": "9009797448",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 5
     },
@@ -1095,6 +1095,16 @@
       "empresa_id": "1571",
       "nombre_empresa": "Profesionales del Helado SAS",
       "rut": "9004389070",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1567",
+      "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
+      "rut": "9017772911",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1822,6 +1832,16 @@
       "count": 1
     },
     {
+      "empresa_id": "1573",
+      "nombre_empresa": "CEIP-CENTRO DE ESTUDIOS EN INFECTOLOGIA PEDIATRICA",
+      "rut": "9005785433",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "92",
       "nombre_empresa": "Madison Performance Group",
       "rut": "134141712",
@@ -2001,7 +2021,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2126.0
+      "usuarios_incentivados": 2132.0
     },
     {
       "empresa_id": "343",
@@ -2011,7 +2031,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2016.0
+      "usuarios_incentivados": 2017.0
     },
     {
       "empresa_id": "1",
@@ -2021,7 +2041,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1472.0
+      "usuarios_incentivados": 1473.0
     },
     {
       "empresa_id": "620",
@@ -2114,6 +2134,16 @@
       "usuarios_incentivados": 406.0
     },
     {
+      "empresa_id": "1528",
+      "nombre_empresa": "FONDO DE EMPLEADOS DE RECAMIER",
+      "rut": "8001679271",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 402.0
+    },
+    {
       "empresa_id": "60",
       "nombre_empresa": "MEGONETWORKS",
       "rut": "1793065457001",
@@ -2132,16 +2162,6 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 368.0
-    },
-    {
-      "empresa_id": "1528",
-      "nombre_empresa": "FONDO DE EMPLEADOS DE RECAMIER",
-      "rut": "8001679271",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 344.0
     },
     {
       "empresa_id": "165",
@@ -2174,6 +2194,16 @@
       "usuarios_incentivados": 271.0
     },
     {
+      "empresa_id": "1495",
+      "nombre_empresa": "CORPORACION INTERACTUAR",
+      "rut": "8909848433",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
+      "usuarios_incentivados": 251.0
+    },
+    {
       "empresa_id": "598",
       "nombre_empresa": "Versilia Colombia",
       "rut": "902018021",
@@ -2202,16 +2232,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 216.0
-    },
-    {
-      "empresa_id": "1495",
-      "nombre_empresa": "CORPORACION INTERACTUAR",
-      "rut": "8909848433",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "BDM",
-      "usuarios_incentivados": 208.0
     },
     {
       "empresa_id": "821",
@@ -2361,7 +2381,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 59.0
+      "usuarios_incentivados": 60.0
     },
     {
       "empresa_id": "1364",
@@ -2447,6 +2467,16 @@
       "empresa_id": "1334",
       "nombre_empresa": "NISUM COLOMBIA SAS",
       "rut": "9015511261",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 44.0
+    },
+    {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
@@ -2622,16 +2652,6 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 22.0
-    },
-    {
-      "empresa_id": "1368",
-      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
-      "rut": "9009797448",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 21.0
     },
     {
       "empresa_id": "430",
@@ -3284,6 +3304,16 @@
       "usuarios_incentivados": 2.0
     },
     {
+      "empresa_id": "2018",
+      "nombre_empresa": "Fika Express Rancagua",
+      "rut": "78228769-9",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
       "empresa_id": "1772",
       "nombre_empresa": "Óptica Santa Lucía",
       "rut": "80941300-4",
@@ -3427,16 +3457,6 @@
       "empresa_id": "1746",
       "nombre_empresa": "GARCIA MARCHANT Y COMPANIA LIMITADA",
       "rut": "76560536-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "493",
-      "nombre_empresa": "HENKEL",
-      "rut": "78803490-3",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
