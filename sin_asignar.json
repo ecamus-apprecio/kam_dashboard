@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:56:42.118778+00:00",
+  "generated_at": "2026-08-14T19:00:37.821311+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1865,6 +1865,36 @@
       "empresa_id": "1589",
       "nombre_empresa": "HOYA LENS COLOMBIA S.A.S.",
       "rut": "901538753",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1591",
+      "nombre_empresa": "PINEAPP COLOMBIA S.A.S.",
+      "rut": "900917993",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1568",
+      "nombre_empresa": "INGENIERIA Y SEGURIDAD VIAL S A S",
+      "rut": "9007869477",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1562",
+      "nombre_empresa": "TRAMITPASS S.A.S",
+      "rut": "9018279485",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
