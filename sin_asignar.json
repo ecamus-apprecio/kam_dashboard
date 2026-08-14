@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T19:00:37.821311+00:00",
+  "generated_at": "2026-08-14T21:29:39.153861+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -122,6 +122,16 @@
       "count": 16
     },
     {
+      "empresa_id": "58",
+      "nombre_empresa": "UIO BTL",
+      "rut": "1792184037001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 15
+    },
+    {
       "empresa_id": "15",
       "nombre_empresa": "SIIGO",
       "rut": "992560754001",
@@ -130,16 +140,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 14
-    },
-    {
-      "empresa_id": "58",
-      "nombre_empresa": "UIO BTL",
-      "rut": "1792184037001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 13
     },
     {
       "empresa_id": "68",
@@ -772,6 +772,16 @@
       "count": 3
     },
     {
+      "empresa_id": "252",
+      "nombre_empresa": "ACSI RESEARCH",
+      "rut": "ARE150319Q48",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 3
+    },
+    {
       "empresa_id": "1515",
       "nombre_empresa": "Topach",
       "rut": "76090951-3",
@@ -1158,16 +1168,6 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
-      "count": 2
-    },
-    {
-      "empresa_id": "252",
-      "nombre_empresa": "ACSI RESEARCH",
-      "rut": "ARE150319Q48",
-      "pais": "México",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "Full Cycle",
       "count": 2
     },
