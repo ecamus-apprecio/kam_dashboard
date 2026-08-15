@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:29:39.153861+00:00",
+  "generated_at": "2026-08-15T03:44:20.121803+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 219
+      "count": 218
     },
     {
       "empresa_id": "1802",
@@ -92,16 +92,6 @@
       "count": 19
     },
     {
-      "empresa_id": "3",
-      "nombre_empresa": "Apprecio",
-      "rut": "90141619",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
-      "count": 19
-    },
-    {
       "empresa_id": "1754",
       "nombre_empresa": "Americar",
       "rut": "76414568-2",
@@ -109,6 +99,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
+      "count": 18
+    },
+    {
+      "empresa_id": "3",
+      "nombre_empresa": "Apprecio",
+      "rut": "90141619",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 18
     },
     {
@@ -142,16 +142,6 @@
       "count": 14
     },
     {
-      "empresa_id": "68",
-      "nombre_empresa": "SATRACK SA",
-      "rut": "1792337321001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 13
-    },
-    {
       "empresa_id": "79",
       "nombre_empresa": "NTT-DATA ECUADOR S.A.",
       "rut": "1793207896001",
@@ -165,6 +155,16 @@
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 12
+    },
+    {
+      "empresa_id": "68",
+      "nombre_empresa": "SATRACK SA",
+      "rut": "1792337321001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -190,16 +190,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 10
-    },
-    {
-      "empresa_id": "550",
-      "nombre_empresa": "Alborada",
-      "rut": "769695818",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 9
     },
     {
       "empresa_id": "1846",
@@ -302,6 +292,16 @@
       "count": 7
     },
     {
+      "empresa_id": "550",
+      "nombre_empresa": "Alborada",
+      "rut": "769695818",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 7
+    },
+    {
       "empresa_id": "661",
       "nombre_empresa": "Bonda",
       "rut": "20609428253",
@@ -318,16 +318,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
-      "redistribuido_a": "KAM",
-      "count": 7
-    },
-    {
-      "empresa_id": "938",
-      "nombre_empresa": "SALESLAND CHILE",
-      "rut": "5555",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 7
     },
@@ -352,22 +342,22 @@
       "count": 7
     },
     {
-      "empresa_id": "788",
-      "nombre_empresa": "SALESLAND CHILE",
-      "rut": "555555555",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
       "empresa_id": "895",
       "nombre_empresa": "Administrador - AUNA FUERZA",
       "rut": "20550028515",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
+      "empresa_id": "938",
+      "nombre_empresa": "SALESLAND CHILE",
+      "rut": "5555",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 6
     },
@@ -379,6 +369,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
+      "empresa_id": "1052",
+      "nombre_empresa": "SOFTCARIBBEAN S.A.S",
+      "rut": "9002300040",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 6
     },
     {
@@ -432,6 +432,16 @@
       "count": 5
     },
     {
+      "empresa_id": "788",
+      "nombre_empresa": "SALESLAND CHILE",
+      "rut": "555555555",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "398",
       "nombre_empresa": "PROYECTO E SAS",
       "rut": "900110407",
@@ -439,16 +449,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "1052",
-      "nombre_empresa": "SOFTCARIBBEAN S.A.S",
-      "rut": "9002300040",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
       "count": 5
     },
     {
@@ -2101,7 +2101,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2070.0
+      "usuarios_incentivados": 2071.0
     },
     {
       "empresa_id": "1",
@@ -2121,7 +2121,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1396.0
+      "usuarios_incentivados": 1385.0
     },
     {
       "empresa_id": "1802",
@@ -2191,7 +2191,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 451.0
+      "usuarios_incentivados": 447.0
     },
     {
       "empresa_id": "347",
@@ -2214,6 +2214,16 @@
       "usuarios_incentivados": 402.0
     },
     {
+      "empresa_id": "165",
+      "nombre_empresa": "ENTEL-CHILE S.A.",
+      "rut": "92580000",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 398.0
+    },
+    {
       "empresa_id": "60",
       "nombre_empresa": "MEGONETWORKS",
       "rut": "1793065457001",
@@ -2222,16 +2232,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 391.0
-    },
-    {
-      "empresa_id": "165",
-      "nombre_empresa": "ENTEL-CHILE S.A.",
-      "rut": "92580000",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 390.0
     },
     {
       "empresa_id": "686",
@@ -2461,7 +2461,27 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 60.0
+      "usuarios_incentivados": 61.0
+    },
+    {
+      "empresa_id": "1493",
+      "nombre_empresa": "COMPAÑIA ASEGURADORA DE FIANZAS S A",
+      "rut": "8600703749",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 59.0
+    },
+    {
+      "empresa_id": "2009",
+      "nombre_empresa": "DERCOMAQ",
+      "rut": "76141853-K",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 57.0
     },
     {
       "empresa_id": "1364",
@@ -2642,16 +2662,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 32.0
-    },
-    {
-      "empresa_id": "2009",
-      "nombre_empresa": "DERCOMAQ",
-      "rut": "76141853-K",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 31.0
     },
     {
       "empresa_id": "855",
@@ -3264,6 +3274,16 @@
       "usuarios_incentivados": 4.0
     },
     {
+      "empresa_id": "1573",
+      "nombre_empresa": "CEIP-CENTRO DE ESTUDIOS EN INFECTOLOGIA PEDIATRICA",
+      "rut": "9005785433",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
       "empresa_id": "75",
       "nombre_empresa": "PRECISION ECUADOR",
       "rut": "0993016578001",
@@ -3494,6 +3514,16 @@
       "usuarios_incentivados": 2.0
     },
     {
+      "empresa_id": "1572",
+      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
+      "rut": "800230187",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
       "empresa_id": "609",
       "nombre_empresa": "QROOM 360 LLC",
       "rut": "22000155335",
@@ -3520,6 +3550,16 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "252",
+      "nombre_empresa": "ACSI RESEARCH",
+      "rut": "ARE150319Q48",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 2.0
     },
@@ -3624,19 +3664,9 @@
       "usuarios_incentivados": 1.0
     },
     {
-      "empresa_id": "1493",
-      "nombre_empresa": "COMPAÑIA ASEGURADORA DE FIANZAS S A",
-      "rut": "8600703749",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "1572",
-      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
-      "rut": "800230187",
+      "empresa_id": "1561",
+      "nombre_empresa": "SERTRANSCO S.A.S.",
+      "rut": "9014046779",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3644,12 +3674,22 @@
       "usuarios_incentivados": 1.0
     },
     {
-      "empresa_id": "146",
-      "nombre_empresa": "CFG PARTNERS COLOMBIA S.A.S.",
-      "rut": "901499962",
+      "empresa_id": "1568",
+      "nombre_empresa": "INGENIERIA Y SEGURIDAD VIAL S A S",
+      "rut": "9007869477",
       "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "1583",
+      "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
+      "rut": "900557006",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
@@ -3680,16 +3720,6 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "252",
-      "nombre_empresa": "ACSI RESEARCH",
-      "rut": "ARE150319Q48",
-      "pais": "México",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 1.0
     },
