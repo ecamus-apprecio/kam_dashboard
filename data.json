@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:25:18.990078+00:00",
+  "generated_at": "2026-08-17T01:38:50.074125+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -39,8 +39,8 @@
           "reuniones_exec": 5.12,
           "clientes_exec": 114.4,
           "total_clientes": 572,
-          "usuarios_total": 165478.0,
-          "usuarios_exec": 33095.6,
+          "usuarios_total": 165464.0,
+          "usuarios_exec": 33092.8,
           "ejecutivos_detalle": [
             {
               "nombre": "Lorenzo Jamasmie",
@@ -48,7 +48,7 @@
               "tickets_mensual": 177.68,
               "reuniones_mensual": 6.88,
               "total_clientes": 108.8,
-              "usuarios_total": 39531.2
+              "usuarios_total": 39532.2
             },
             {
               "nombre": "Camilo Figueroa",
@@ -72,7 +72,7 @@
               "tickets_mensual": 82.06,
               "reuniones_mensual": 5.62,
               "total_clientes": 108.8,
-              "usuarios_total": 39505.2
+              "usuarios_total": 39490.2
             },
             {
               "nombre": "Johanna Calzada",
@@ -103,8 +103,8 @@
           "reuniones_exec": 13.38,
           "clientes_exec": 76.8,
           "total_clientes": 384,
-          "usuarios_total": 89723.0,
-          "usuarios_exec": 17944.6,
+          "usuarios_total": 89721.0,
+          "usuarios_exec": 17944.2,
           "ejecutivos_detalle": [
             {
               "nombre": "Santiago Cuellar",
@@ -128,7 +128,7 @@
               "tickets_mensual": 83.25,
               "reuniones_mensual": 9.0,
               "total_clientes": 79.0,
-              "usuarios_total": 28049.4
+              "usuarios_total": 28047.4
             },
             {
               "nombre": "Felipe Ospina",
@@ -213,8 +213,8 @@
           "reuniones_exec": 6.62,
           "clientes_exec": 75.0,
           "total_clientes": 150,
-          "usuarios_total": 31632.0,
-          "usuarios_exec": 15816.0,
+          "usuarios_total": 31631.0,
+          "usuarios_exec": 15815.5,
           "ejecutivos_detalle": [
             {
               "nombre": "Diana Duran",
