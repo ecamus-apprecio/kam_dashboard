@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T18:46:24.066291+00:00",
+  "generated_at": "2026-08-17T21:30:24.918303+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -342,6 +342,16 @@
       "count": 7
     },
     {
+      "empresa_id": "1975",
+      "nombre_empresa": "Augustar Seguros de Vida",
+      "rut": "76632384-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
       "empresa_id": "895",
       "nombre_empresa": "Administrador - AUNA FUERZA",
       "rut": "20550028515",
@@ -405,16 +415,6 @@
       "empresa_id": "1744",
       "nombre_empresa": "COMERCIAL SEKIP KAYA LIMITADA",
       "rut": "76630803-1",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "1975",
-      "nombre_empresa": "Augustar Seguros de Vida",
-      "rut": "76632384-7",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
