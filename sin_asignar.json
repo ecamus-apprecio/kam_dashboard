@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T18:44:47.763075+00:00",
+  "generated_at": "2026-08-18T21:29:00.369195+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -142,6 +142,16 @@
       "count": 14
     },
     {
+      "empresa_id": "68",
+      "nombre_empresa": "SATRACK SA",
+      "rut": "1792337321001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 13
+    },
+    {
       "empresa_id": "79",
       "nombre_empresa": "NTT-DATA ECUADOR S.A.",
       "rut": "1793207896001",
@@ -155,16 +165,6 @@
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 12
-    },
-    {
-      "empresa_id": "68",
-      "nombre_empresa": "SATRACK SA",
-      "rut": "1792337321001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1895,6 +1895,16 @@
       "empresa_id": "1562",
       "nombre_empresa": "TRAMITPASS S.A.S",
       "rut": "9018279485",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1598",
+      "nombre_empresa": "SERVICIOS ESPECIALIZADOS DE TECNOLOGIA E INFORMATI",
+      "rut": "830047444",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
