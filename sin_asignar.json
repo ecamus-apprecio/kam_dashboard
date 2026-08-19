@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:41:43.779046+00:00",
+  "generated_at": "2026-08-19T21:29:53.293490+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1388,6 +1388,16 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1683",
+      "nombre_empresa": "Cafetería Le Blanc",
+      "rut": "77883341-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "ecamus@apprecio.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
