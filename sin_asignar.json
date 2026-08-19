@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:56:02.288150+00:00",
+  "generated_at": "2026-08-19T15:36:21.866880+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1375,6 +1375,16 @@
       "empresa_id": "2018",
       "nombre_empresa": "Fika Express Rancagua",
       "rut": "78228769-9",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2020",
+      "nombre_empresa": "MALLORCAUTOS",
+      "rut": "77271121-2",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
