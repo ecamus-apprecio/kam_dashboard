@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:29:53.293490+00:00",
+  "generated_at": "2026-08-20T01:35:06.638977+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 218
+      "count": 215
     },
     {
       "empresa_id": "1802",
@@ -29,7 +29,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 43
+      "count": 42
     },
     {
       "empresa_id": "686",
@@ -252,16 +252,6 @@
       "count": 9
     },
     {
-      "empresa_id": "1035",
-      "nombre_empresa": "Polar",
-      "rut": "76333370-1",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
       "empresa_id": "1368",
       "nombre_empresa": "INDIGO SEGUROS LIMITADA",
       "rut": "9009797448",
@@ -288,6 +278,16 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 7
+    },
+    {
+      "empresa_id": "1035",
+      "nombre_empresa": "Polar",
+      "rut": "76333370-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 7
     },
@@ -1132,16 +1132,6 @@
       "count": 2
     },
     {
-      "empresa_id": "82",
-      "nombre_empresa": "SMARTSTORES S.A.",
-      "rut": "190495825001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 2
-    },
-    {
       "empresa_id": "81",
       "nombre_empresa": "Intcomex (EPSON)",
       "rut": "1791743148001",
@@ -1982,6 +1972,16 @@
       "count": 1
     },
     {
+      "empresa_id": "82",
+      "nombre_empresa": "SMARTSTORES S.A.",
+      "rut": "190495825001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 1
+    },
+    {
       "empresa_id": "100",
       "nombre_empresa": "DKT Ecuador",
       "rut": "1792748321001",
@@ -2121,7 +2121,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2055.0
+      "usuarios_incentivados": 2053.0
     },
     {
       "empresa_id": "1",
@@ -2131,7 +2131,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1541.0
+      "usuarios_incentivados": 1540.0
     },
     {
       "empresa_id": "620",
@@ -2241,7 +2241,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 398.0
+      "usuarios_incentivados": 396.0
     },
     {
       "empresa_id": "60",
@@ -2271,7 +2271,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 288.0
+      "usuarios_incentivados": 287.0
     },
     {
       "empresa_id": "1035",
@@ -2611,7 +2611,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 42.0
+      "usuarios_incentivados": 40.0
     },
     {
       "empresa_id": "23",
@@ -2654,6 +2654,16 @@
       "usuarios_incentivados": 36.0
     },
     {
+      "empresa_id": "1052",
+      "nombre_empresa": "SOFTCARIBBEAN S.A.S",
+      "rut": "9002300040",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
+      "usuarios_incentivados": 33.0
+    },
+    {
       "empresa_id": "121",
       "nombre_empresa": "FUNDACION UNIVERSITARIA INTERNACIONAL DE LA RIOJA",
       "rut": "90109661",
@@ -2662,16 +2672,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 33.0
-    },
-    {
-      "empresa_id": "1052",
-      "nombre_empresa": "SOFTCARIBBEAN S.A.S",
-      "rut": "9002300040",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
-      "usuarios_incentivados": 32.0
     },
     {
       "empresa_id": "86",
@@ -2744,6 +2744,16 @@
       "usuarios_incentivados": 22.0
     },
     {
+      "empresa_id": "1436",
+      "nombre_empresa": "ESPICA S A S",
+      "rut": "8600770121",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "aavila@apprecio.com",
+      "redistribuido_a": "BDM",
+      "usuarios_incentivados": 22.0
+    },
+    {
       "empresa_id": "1453",
       "nombre_empresa": "MAINSOFT CONSULTING SAS",
       "rut": "9004878523",
@@ -2751,6 +2761,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
+      "usuarios_incentivados": 22.0
+    },
+    {
+      "empresa_id": "63",
+      "nombre_empresa": "HUBTEK ECUADOR S.A.S.",
+      "rut": "0993375303001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "usuarios_incentivados": 22.0
     },
     {
@@ -2764,16 +2784,6 @@
       "usuarios_incentivados": 20.0
     },
     {
-      "empresa_id": "63",
-      "nombre_empresa": "HUBTEK ECUADOR S.A.S.",
-      "rut": "0993375303001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 20.0
-    },
-    {
       "empresa_id": "1958",
       "nombre_empresa": "Sincex",
       "rut": "78040780-8",
@@ -2782,16 +2792,6 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 19.0
-    },
-    {
-      "empresa_id": "550",
-      "nombre_empresa": "Alborada",
-      "rut": "76969581-8",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 17.0
     },
     {
       "empresa_id": "850",
@@ -2812,6 +2812,16 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 17.0
+    },
+    {
+      "empresa_id": "550",
+      "nombre_empresa": "Alborada",
+      "rut": "76969581-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 16.0
     },
     {
       "empresa_id": "888",
@@ -2911,16 +2921,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 13.0
-    },
-    {
-      "empresa_id": "1436",
-      "nombre_empresa": "ESPICA S A S",
-      "rut": "8600770121",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "aavila@apprecio.com",
-      "redistribuido_a": "BDM",
       "usuarios_incentivados": 13.0
     },
     {
@@ -3384,6 +3384,16 @@
       "usuarios_incentivados": 3.0
     },
     {
+      "empresa_id": "1572",
+      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
+      "rut": "800230187",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 3.0
+    },
+    {
       "empresa_id": "1713",
       "nombre_empresa": "ODOOTECHNOLOGIES",
       "rut": "55555555-5",
@@ -3524,9 +3534,9 @@
       "usuarios_incentivados": 2.0
     },
     {
-      "empresa_id": "1572",
-      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
-      "rut": "800230187",
+      "empresa_id": "1561",
+      "nombre_empresa": "SERTRANSCO S.A.S.",
+      "rut": "9014046779",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3574,6 +3584,16 @@
       "usuarios_incentivados": 1.0
     },
     {
+      "empresa_id": "2020",
+      "nombre_empresa": "MALLORCAUTOS",
+      "rut": "77271121-2",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
       "empresa_id": "45",
       "nombre_empresa": "ALADIAH",
       "rut": "20605043471",
@@ -3607,6 +3627,16 @@
       "empresa_id": "896",
       "nombre_empresa": "ANDEANVET S.A.C",
       "rut": "20510282362",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "902",
+      "nombre_empresa": "CHOCOLATES DE PERU SA",
+      "rut": "20514584789",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3660,16 +3690,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "1561",
-      "nombre_empresa": "SERTRANSCO S.A.S.",
-      "rut": "9014046779",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
