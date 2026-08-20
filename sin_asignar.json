@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T12:58:24.786159+00:00",
+  "generated_at": "2026-08-20T15:38:13.396896+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -462,6 +462,16 @@
       "count": 5
     },
     {
+      "empresa_id": "22",
+      "nombre_empresa": "KASKEY ECUADOR",
+      "rut": "1793045901001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "cbocanegra@dcanje.com",
+      "redistribuido_a": null,
+      "count": 5
+    },
+    {
       "empresa_id": "104",
       "nombre_empresa": "Blenastor",
       "rut": "1790378489001",
@@ -559,16 +569,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "22",
-      "nombre_empresa": "KASKEY ECUADOR",
-      "rut": "1793045901001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "cbocanegra@dcanje.com",
-      "redistribuido_a": null,
       "count": 4
     },
     {
@@ -1392,6 +1392,16 @@
       "count": 1
     },
     {
+      "empresa_id": "2019",
+      "nombre_empresa": "CURADEN CHILE",
+      "rut": "76415174-7",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "862",
       "nombre_empresa": "Madison Performance - EC",
       "rut": "134141712",
@@ -1544,7 +1554,7 @@
     {
       "empresa_id": "886",
       "nombre_empresa": "JLI METROLOGY",
-      "rut": "20510675097",
+      "rut": "20.510.675.097",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
