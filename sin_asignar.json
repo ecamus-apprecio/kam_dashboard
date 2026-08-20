@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:47:29.826997+00:00",
+  "generated_at": "2026-08-20T21:32:32.731841+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -884,7 +884,7 @@
     {
       "empresa_id": "1957",
       "nombre_empresa": "B&F",
-      "rut": "78200745-9",
+      "rut": "78.200.745-9",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -1395,6 +1395,16 @@
       "empresa_id": "2019",
       "nombre_empresa": "CURADEN CHILE",
       "rut": "76415174-7",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2004",
+      "nombre_empresa": "Banco BCI",
+      "rut": "97006000-6",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1938,6 +1948,16 @@
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "mgutierrez@dcanje.com",
+      "redistribuido_a": null,
+      "count": 1
+    },
+    {
+      "empresa_id": "98",
+      "nombre_empresa": "Bonda Peru",
+      "rut": "20609428253",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 1
     },
