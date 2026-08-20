@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:38:13.396896+00:00",
+  "generated_at": "2026-08-20T18:47:29.826997+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -402,6 +402,16 @@
       "count": 6
     },
     {
+      "empresa_id": "22",
+      "nombre_empresa": "KASKEY ECUADOR",
+      "rut": "1793045901001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "cbocanegra@dcanje.com",
+      "redistribuido_a": null,
+      "count": 6
+    },
+    {
       "empresa_id": "1748",
       "nombre_empresa": "RICOH CHILE S.A",
       "rut": "96513980-k",
@@ -459,16 +469,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 5
-    },
-    {
-      "empresa_id": "22",
-      "nombre_empresa": "KASKEY ECUADOR",
-      "rut": "1793045901001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "cbocanegra@dcanje.com",
-      "redistribuido_a": null,
       "count": 5
     },
     {
@@ -878,6 +878,16 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1957",
+      "nombre_empresa": "B&F",
+      "rut": "78200745-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -1292,16 +1302,6 @@
       "count": 1
     },
     {
-      "empresa_id": "1957",
-      "nombre_empresa": "B&F",
-      "rut": "78200745-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "2014",
       "nombre_empresa": "Inmobiliaria Celia Solar",
       "rut": "77067005-5",
@@ -1554,7 +1554,7 @@
     {
       "empresa_id": "886",
       "nombre_empresa": "JLI METROLOGY",
-      "rut": "20.510.675.097",
+      "rut": "20510675097",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
