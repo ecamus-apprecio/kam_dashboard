@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:42:42.468807+00:00",
+  "generated_at": "2026-08-21T21:29:22.250596+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1102,6 +1102,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1536",
+      "nombre_empresa": "SIGNOS STUDIO SAS",
+      "rut": "832004603",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "1535",
       "nombre_empresa": "KNOWLEDGE AT PROCESSES AND TRAINING ALLIES SAS",
       "rut": "900231103",
@@ -1758,16 +1768,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1536",
-      "nombre_empresa": "SIGNOS STUDIO SAS",
-      "rut": "832004603",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
