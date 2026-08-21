@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T12:56:55.125367+00:00",
+  "generated_at": "2026-08-21T15:38:32.530885+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1564,7 +1564,7 @@
     {
       "empresa_id": "886",
       "nombre_empresa": "JLI METROLOGY",
-      "rut": "20510675097",
+      "rut": "20.510.675.097",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
