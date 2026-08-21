@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:42:10.013251+00:00",
+  "generated_at": "2026-08-21T12:56:55.125367+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -87,8 +87,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 330.92,
-          "tickets_exec": 66.18,
+          "tickets_mensual": 331.0,
+          "tickets_exec": 66.2,
           "reuniones_monthly": [
             100,
             87,
@@ -133,7 +133,7 @@
             {
               "nombre": "Felipe Ospina",
               "correo": "fospina@apprecio.com",
-              "tickets_mensual": 36.43,
+              "tickets_mensual": 36.51,
               "reuniones_mensual": 0.0,
               "total_clientes": 80.2,
               "usuarios_total": 3790.8
