@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:38:32.530885+00:00",
+  "generated_at": "2026-08-21T18:42:42.468807+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -902,6 +902,16 @@
       "count": 2
     },
     {
+      "empresa_id": "2019",
+      "nombre_empresa": "CURADEN CHILE",
+      "rut": "76415174-7",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "768",
       "nombre_empresa": "LMS",
       "rut": "20607971448",
@@ -1402,16 +1412,6 @@
       "count": 1
     },
     {
-      "empresa_id": "2019",
-      "nombre_empresa": "CURADEN CHILE",
-      "rut": "76415174-7",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "862",
       "nombre_empresa": "Madison Performance - EC",
       "rut": "134141712",
@@ -1564,7 +1564,7 @@
     {
       "empresa_id": "886",
       "nombre_empresa": "JLI METROLOGY",
-      "rut": "20.510.675.097",
+      "rut": "20510675097",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
