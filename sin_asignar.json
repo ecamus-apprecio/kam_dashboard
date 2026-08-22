@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:29:22.250596+00:00",
+  "generated_at": "2026-08-22T03:46:14.521419+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 214
+      "count": 199
     },
     {
       "empresa_id": "1802",
@@ -912,16 +912,6 @@
       "count": 2
     },
     {
-      "empresa_id": "768",
-      "nombre_empresa": "LMS",
-      "rut": "20607971448",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
       "empresa_id": "888",
       "nombre_empresa": "UPC CAMPAÑAS POST GRADO",
       "rut": "20211614545",
@@ -1418,6 +1408,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "ecamus@apprecio.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "768",
+      "nombre_empresa": "LMS",
+      "rut": "20607971448",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -2131,7 +2131,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3200.0
+      "usuarios_incentivados": 2749.0
     },
     {
       "empresa_id": "3",
@@ -2141,7 +2141,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2132.0
+      "usuarios_incentivados": 2131.0
     },
     {
       "empresa_id": "343",
@@ -2151,7 +2151,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2079.0
+      "usuarios_incentivados": 2077.0
     },
     {
       "empresa_id": "1",
@@ -2161,7 +2161,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1540.0
+      "usuarios_incentivados": 1541.0
     },
     {
       "empresa_id": "620",
@@ -2171,7 +2171,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1381.0
+      "usuarios_incentivados": 1364.0
     },
     {
       "empresa_id": "1802",
@@ -2301,7 +2301,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 287.0
+      "usuarios_incentivados": 283.0
     },
     {
       "empresa_id": "1035",
@@ -2494,6 +2494,16 @@
       "usuarios_incentivados": 74.0
     },
     {
+      "empresa_id": "1057",
+      "nombre_empresa": "NEXOS SOFTWARE",
+      "rut": "8110237291",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 63.0
+    },
+    {
       "empresa_id": "82",
       "nombre_empresa": "SMARTSTORES S.A.",
       "rut": "0190495825001",
@@ -2502,16 +2512,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 63.0
-    },
-    {
-      "empresa_id": "1057",
-      "nombre_empresa": "NEXOS SOFTWARE",
-      "rut": "8110237291",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 61.0
     },
     {
       "empresa_id": "1493",
@@ -2894,6 +2894,16 @@
       "usuarios_incentivados": 15.0
     },
     {
+      "empresa_id": "1469",
+      "nombre_empresa": "CREATIVA PRODUCCIONES S.A",
+      "rut": "8300953526",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 15.0
+    },
+    {
       "empresa_id": "841",
       "nombre_empresa": "Digital itouch",
       "rut": "20606282851",
@@ -2992,6 +3002,16 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 12.0
+    },
+    {
+      "empresa_id": "2019",
+      "nombre_empresa": "CURADEN CHILE",
+      "rut": "76415174-7",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 11.0
     },
     {
       "empresa_id": "58",
@@ -3314,9 +3334,9 @@
       "usuarios_incentivados": 4.0
     },
     {
-      "empresa_id": "1539",
-      "nombre_empresa": "TEXMUNDO COLOMBIA SAS",
-      "rut": "830146669",
+      "empresa_id": "1573",
+      "nombre_empresa": "CEIP-CENTRO DE ESTUDIOS EN INFECTOLOGIA PEDIATRICA",
+      "rut": "9005785433",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3324,9 +3344,9 @@
       "usuarios_incentivados": 4.0
     },
     {
-      "empresa_id": "1573",
-      "nombre_empresa": "CEIP-CENTRO DE ESTUDIOS EN INFECTOLOGIA PEDIATRICA",
-      "rut": "9005785433",
+      "empresa_id": "1539",
+      "nombre_empresa": "TEXMUNDO COLOMBIA SAS",
+      "rut": "830146669",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3737,6 +3757,16 @@
       "empresa_id": "1583",
       "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
       "rut": "900557006",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "1591",
+      "nombre_empresa": "PINEAPP COLOMBIA S.A.S.",
+      "rut": "900917993",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
