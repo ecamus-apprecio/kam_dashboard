@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:26:31.203671+00:00",
+  "generated_at": "2026-08-23T01:43:27.392175+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 199
+      "count": 195
     },
     {
       "empresa_id": "1802",
@@ -332,16 +332,6 @@
       "count": 7
     },
     {
-      "empresa_id": "550",
-      "nombre_empresa": "Alborada",
-      "rut": "769695818",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
       "empresa_id": "1975",
       "nombre_empresa": "Augustar Seguros de Vida",
       "rut": "76632384-7",
@@ -412,6 +402,16 @@
       "count": 6
     },
     {
+      "empresa_id": "550",
+      "nombre_empresa": "Alborada",
+      "rut": "769695818",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "1748",
       "nombre_empresa": "RICOH CHILE S.A",
       "rut": "96513980-k",
@@ -428,16 +428,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "1",
-      "nombre_empresa": "Apprecio",
-      "rut": "",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 5
     },
@@ -508,6 +498,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
+      "empresa_id": "1",
+      "nombre_empresa": "Apprecio",
+      "rut": "",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 4
     },
@@ -2844,16 +2844,6 @@
       "usuarios_incentivados": 17.0
     },
     {
-      "empresa_id": "550",
-      "nombre_empresa": "Alborada",
-      "rut": "76969581-8",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 16.0
-    },
-    {
       "empresa_id": "888",
       "nombre_empresa": "UPC CAMPAÑAS POST GRADO",
       "rut": "20211614545",
@@ -2882,6 +2872,16 @@
       "email_kam_en_empresas": "cbocanegra@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 16.0
+    },
+    {
+      "empresa_id": "550",
+      "nombre_empresa": "Alborada",
+      "rut": "76969581-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 15.0
     },
     {
       "empresa_id": "1748",
@@ -3470,6 +3470,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "2004",
+      "nombre_empresa": "Banco BCI",
+      "rut": "97006000-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
