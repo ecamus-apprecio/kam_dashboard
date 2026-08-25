@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:46:05.396997+00:00",
+  "generated_at": "2026-08-25T21:33:26.236072+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -942,6 +942,16 @@
       "count": 2
     },
     {
+      "empresa_id": "864",
+      "nombre_empresa": "GRUPO BESCA",
+      "rut": "20601420458",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "861",
       "nombre_empresa": "Habla Latam",
       "rut": "20610759069",
@@ -1442,6 +1452,16 @@
       "count": 1
     },
     {
+      "empresa_id": "901",
+      "nombre_empresa": "UPN CAMPAÑAS POSGRADO",
+      "rut": "20215276024",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "790",
       "nombre_empresa": "OXXO",
       "rut": "20602743960",
@@ -1535,16 +1555,6 @@
       "empresa_id": "859",
       "nombre_empresa": "TuCambista SAC",
       "rut": "20602160557",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "864",
-      "nombre_empresa": "GRUPO BESCA",
-      "rut": "20601420458",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
