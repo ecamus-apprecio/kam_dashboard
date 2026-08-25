@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:49:12.138607+00:00",
+  "generated_at": "2026-08-25T18:46:05.396997+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -42,6 +42,16 @@
       "count": 37
     },
     {
+      "empresa_id": "505",
+      "nombre_empresa": "TresMontes lucchetti",
+      "rut": "995505800",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 33
+    },
+    {
       "empresa_id": "343",
       "nombre_empresa": "ENTEL CHILE - CALL CENTER",
       "rut": "92580000 - 7",
@@ -50,16 +60,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 30
-    },
-    {
-      "empresa_id": "505",
-      "nombre_empresa": "TresMontes lucchetti",
-      "rut": "995505800",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 29
     },
     {
       "empresa_id": "165",
