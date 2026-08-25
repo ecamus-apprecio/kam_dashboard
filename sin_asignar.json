@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:56:14.356850+00:00",
+  "generated_at": "2026-08-25T15:49:12.138607+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -312,6 +312,16 @@
       "count": 7
     },
     {
+      "empresa_id": "895",
+      "nombre_empresa": "Administrador - AUNA FUERZA",
+      "rut": "20550028515",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 7
+    },
+    {
       "empresa_id": "1255",
       "nombre_empresa": "XCB DE COLOMBIA LIMITED SUCURSAL COLOMBIANA",
       "rut": "8300683180",
@@ -338,16 +348,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
-      "empresa_id": "895",
-      "nombre_empresa": "Administrador - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 6
     },
@@ -1604,7 +1604,7 @@
     {
       "empresa_id": "896",
       "nombre_empresa": "ANDEANVET S.A.C",
-      "rut": "20.510.282.362",
+      "rut": "20510282362",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
