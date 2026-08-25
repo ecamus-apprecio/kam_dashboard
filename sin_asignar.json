@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T21:34:28.881644+00:00",
+  "generated_at": "2026-08-25T01:36:29.061116+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1604,7 +1604,7 @@
     {
       "empresa_id": "896",
       "nombre_empresa": "ANDEANVET S.A.C",
-      "rut": "20510282362",
+      "rut": "20.510.282.362",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2131,7 +2131,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2749.0
+      "usuarios_incentivados": 2774.0
     },
     {
       "empresa_id": "3",
@@ -2141,7 +2141,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2131.0
+      "usuarios_incentivados": 2133.0
     },
     {
       "empresa_id": "343",
@@ -2151,7 +2151,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2077.0
+      "usuarios_incentivados": 2094.0
     },
     {
       "empresa_id": "1",
@@ -2181,7 +2181,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1190.0
+      "usuarios_incentivados": 1191.0
     },
     {
       "empresa_id": "234",
@@ -2271,7 +2271,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 396.0
+      "usuarios_incentivados": 397.0
     },
     {
       "empresa_id": "60",
@@ -2301,7 +2301,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 283.0
+      "usuarios_incentivados": 302.0
     },
     {
       "empresa_id": "1035",
@@ -2441,7 +2441,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 96.0
+      "usuarios_incentivados": 101.0
     },
     {
       "empresa_id": "822",
@@ -2501,7 +2501,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 63.0
+      "usuarios_incentivados": 64.0
     },
     {
       "empresa_id": "82",
@@ -3054,6 +3054,16 @@
       "usuarios_incentivados": 11.0
     },
     {
+      "empresa_id": "1572",
+      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
+      "rut": "800230187",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 11.0
+    },
+    {
       "empresa_id": "68",
       "nombre_empresa": "SATRACK SA",
       "rut": "1792337321001",
@@ -3097,6 +3107,16 @@
       "empresa_id": "1956",
       "nombre_empresa": "Casas Latam",
       "rut": "78071599-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 8.0
+    },
+    {
+      "empresa_id": "1957",
+      "nombre_empresa": "B&F",
+      "rut": "78200745-9",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -3264,16 +3284,6 @@
       "usuarios_incentivados": 6.0
     },
     {
-      "empresa_id": "1957",
-      "nombre_empresa": "B&F",
-      "rut": "78200745-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 5.0
-    },
-    {
       "empresa_id": "1411",
       "nombre_empresa": "ICONICO STUDIO SAS",
       "rut": "9013626150",
@@ -3394,6 +3404,16 @@
       "usuarios_incentivados": 3.0
     },
     {
+      "empresa_id": "842",
+      "nombre_empresa": "BUK CHILE",
+      "rut": "20606476338",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 3.0
+    },
+    {
       "empresa_id": "882",
       "nombre_empresa": "RUTACA PERU",
       "rut": "20601432472",
@@ -3424,19 +3444,19 @@
       "usuarios_incentivados": 3.0
     },
     {
-      "empresa_id": "1545",
-      "nombre_empresa": "NIDDO HOLDING SAS.",
-      "rut": "902039096",
+      "empresa_id": "1203",
+      "nombre_empresa": "BUK CHILE",
+      "rut": "901380344",
       "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
     {
-      "empresa_id": "1572",
-      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
-      "rut": "800230187",
+      "empresa_id": "1545",
+      "nombre_empresa": "NIDDO HOLDING SAS.",
+      "rut": "902039096",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3520,16 +3540,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "842",
-      "nombre_empresa": "BUK CHILE",
-      "rut": "20606476338",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
@@ -3707,16 +3717,6 @@
       "empresa_id": "221",
       "nombre_empresa": "DANIEL INDABURU",
       "rut": "1020771905",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "1203",
-      "nombre_empresa": "BUK CHILE",
-      "rut": "901380344",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
