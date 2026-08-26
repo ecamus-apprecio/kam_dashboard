@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:01:50.583485+00:00",
+  "generated_at": "2026-08-26T16:22:16.020338+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -482,6 +482,16 @@
       "count": 5
     },
     {
+      "empresa_id": "2004",
+      "nombre_empresa": "Banco BCI",
+      "rut": "97006000-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "1074",
       "nombre_empresa": "Logis Fashion",
       "rut": "96.653.770-1",
@@ -600,16 +610,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "count": 4
-    },
-    {
-      "empresa_id": "2004",
-      "nombre_empresa": "Banco BCI",
-      "rut": "97006000-6",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
     },
     {
       "empresa_id": "1736",
