@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T01:40:56.639019+00:00",
+  "generated_at": "2026-08-26T03:56:31.131879+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1554,7 +1554,7 @@
     {
       "empresa_id": "840",
       "nombre_empresa": "APACHETA COMUNICACIONES S.A.C.",
-      "rut": "20.606.927.542",
+      "rut": "20606927542",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
