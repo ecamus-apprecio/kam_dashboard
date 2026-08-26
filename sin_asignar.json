@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T21:33:26.236072+00:00",
+  "generated_at": "2026-08-26T01:40:56.639019+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -72,16 +72,6 @@
       "count": 20
     },
     {
-      "empresa_id": "89",
-      "nombre_empresa": "CALBAQ S.A.",
-      "rut": "990135630001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 20
-    },
-    {
       "empresa_id": "10",
       "nombre_empresa": "Apprecio",
       "rut": "76.339.081-0",
@@ -89,6 +79,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
+      "count": 19
+    },
+    {
+      "empresa_id": "89",
+      "nombre_empresa": "CALBAQ S.A.",
+      "rut": "990135630001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "count": 19
     },
     {
@@ -212,16 +212,6 @@
       "count": 9
     },
     {
-      "empresa_id": "754",
-      "nombre_empresa": "FORD - FUERZA",
-      "rut": "20555903546",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 9
-    },
-    {
       "empresa_id": "434",
       "nombre_empresa": "Entel Call Center Outbound",
       "rut": "96806980-2",
@@ -250,6 +240,26 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 9
+    },
+    {
+      "empresa_id": "754",
+      "nombre_empresa": "FORD - FUERZA",
+      "rut": "20555903546",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 8
+    },
+    {
+      "empresa_id": "895",
+      "nombre_empresa": "Administrador - AUNA FUERZA",
+      "rut": "20550028515",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 8
     },
     {
       "empresa_id": "1368",
@@ -308,16 +318,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
-      "redistribuido_a": "KAM",
-      "count": 7
-    },
-    {
-      "empresa_id": "895",
-      "nombre_empresa": "Administrador - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 7
     },
@@ -1162,6 +1162,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1531",
+      "nombre_empresa": "CORPOEDUCACION",
+      "rut": "8300161450",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "1567",
       "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
       "rut": "9017772911",
@@ -1544,7 +1554,7 @@
     {
       "empresa_id": "840",
       "nombre_empresa": "APACHETA COMUNICACIONES S.A.C.",
-      "rut": "20606927542",
+      "rut": "20.606.927.542",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
@@ -1835,16 +1845,6 @@
       "empresa_id": "1572",
       "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
       "rut": "800230187",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1531",
-      "nombre_empresa": "CORPOEDUCACION",
-      "rut": "8300161450",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2161,7 +2161,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2094.0
+      "usuarios_incentivados": 2092.0
     },
     {
       "empresa_id": "1",
@@ -2191,7 +2191,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1191.0
+      "usuarios_incentivados": 1193.0
     },
     {
       "empresa_id": "234",
@@ -2281,7 +2281,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 397.0
+      "usuarios_incentivados": 396.0
     },
     {
       "empresa_id": "60",
@@ -2311,7 +2311,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 302.0
+      "usuarios_incentivados": 320.0
     },
     {
       "empresa_id": "1035",
@@ -2331,7 +2331,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 256.0
+      "usuarios_incentivados": 260.0
     },
     {
       "empresa_id": "598",
@@ -2341,7 +2341,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 252.0
+      "usuarios_incentivados": 247.0
     },
     {
       "empresa_id": "359",
@@ -2351,7 +2351,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 225.0
+      "usuarios_incentivados": 223.0
     },
     {
       "empresa_id": "104",
@@ -2674,6 +2674,16 @@
       "usuarios_incentivados": 37.0
     },
     {
+      "empresa_id": "1052",
+      "nombre_empresa": "SOFTCARIBBEAN S.A.S",
+      "rut": "9002300040",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
+      "usuarios_incentivados": 36.0
+    },
+    {
       "empresa_id": "1343",
       "nombre_empresa": "E-DENTAL COLOMBIA SAS",
       "rut": "9010525270",
@@ -2692,16 +2702,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
       "usuarios_incentivados": 36.0
-    },
-    {
-      "empresa_id": "1052",
-      "nombre_empresa": "SOFTCARIBBEAN S.A.S",
-      "rut": "9002300040",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
-      "usuarios_incentivados": 33.0
     },
     {
       "empresa_id": "121",
@@ -2834,6 +2834,16 @@
       "usuarios_incentivados": 19.0
     },
     {
+      "empresa_id": "1407",
+      "nombre_empresa": "INNOVACURE SAS",
+      "rut": "9008728262",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 18.0
+    },
+    {
       "empresa_id": "850",
       "nombre_empresa": "RENZO COSTA SAC",
       "rut": "20138998780",
@@ -2860,16 +2870,6 @@
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 16.0
-    },
-    {
-      "empresa_id": "1407",
-      "nombre_empresa": "INNOVACURE SAS",
-      "rut": "9008728262",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 16.0
     },
@@ -3054,6 +3054,16 @@
       "usuarios_incentivados": 11.0
     },
     {
+      "empresa_id": "1500",
+      "nombre_empresa": "PARDENTALES LTDA",
+      "rut": "8000004391",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 11.0
+    },
+    {
       "empresa_id": "1535",
       "nombre_empresa": "KNOWLEDGE AT PROCESSES AND TRAINING ALLIES SAS",
       "rut": "900231103",
@@ -3104,14 +3114,14 @@
       "usuarios_incentivados": 10.0
     },
     {
-      "empresa_id": "1500",
-      "nombre_empresa": "PARDENTALES LTDA",
-      "rut": "8000004391",
+      "empresa_id": "1547",
+      "nombre_empresa": "COMERCIALIZADORA DISFRUVER S.A.S.",
+      "rut": "900135976",
       "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 10.0
+      "usuarios_incentivados": 9.0
     },
     {
       "empresa_id": "1956",
@@ -3151,16 +3161,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 8.0
-    },
-    {
-      "empresa_id": "1547",
-      "nombre_empresa": "COMERCIALIZADORA DISFRUVER S.A.S.",
-      "rut": "900135976",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
       "usuarios_incentivados": 8.0
     },
     {
@@ -3274,6 +3274,16 @@
       "usuarios_incentivados": 6.0
     },
     {
+      "empresa_id": "1409",
+      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
+      "rut": "9010904869",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 6.0
+    },
+    {
       "empresa_id": "1536",
       "nombre_empresa": "SIGNOS STUDIO SAS",
       "rut": "832004603",
@@ -3320,6 +3330,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
+      "empresa_id": "2004",
+      "nombre_empresa": "Banco BCI",
+      "rut": "97006000-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 4.0
     },
@@ -3504,16 +3524,6 @@
       "usuarios_incentivados": 2.0
     },
     {
-      "empresa_id": "2004",
-      "nombre_empresa": "Banco BCI",
-      "rut": "97006000-6",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
       "empresa_id": "2018",
       "nombre_empresa": "Fika Express Rancagua",
       "rut": "78228769-9",
@@ -3604,6 +3614,16 @@
       "usuarios_incentivados": 2.0
     },
     {
+      "empresa_id": "1408",
+      "nombre_empresa": "SIMPLE TECH",
+      "rut": "9015448206",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
       "empresa_id": "1443",
       "nombre_empresa": "Sada Logistics SAS",
       "rut": "9015440479",
@@ -3627,6 +3647,16 @@
       "empresa_id": "1561",
       "nombre_empresa": "SERTRANSCO S.A.S.",
       "rut": "9014046779",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "1583",
+      "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
+      "rut": "900557006",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3734,26 +3764,6 @@
       "usuarios_incentivados": 1.0
     },
     {
-      "empresa_id": "1408",
-      "nombre_empresa": "SIMPLE TECH",
-      "rut": "9015448206",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "1409",
-      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
-      "rut": "9010904869",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
       "empresa_id": "1416",
       "nombre_empresa": "OMEGA TECHNOLOGIES SAS",
       "rut": "9008930733",
@@ -3764,9 +3774,9 @@
       "usuarios_incentivados": 1.0
     },
     {
-      "empresa_id": "1568",
-      "nombre_empresa": "INGENIERIA Y SEGURIDAD VIAL S A S",
-      "rut": "9007869477",
+      "empresa_id": "1567",
+      "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
+      "rut": "9017772911",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3774,9 +3784,9 @@
       "usuarios_incentivados": 1.0
     },
     {
-      "empresa_id": "1583",
-      "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
-      "rut": "900557006",
+      "empresa_id": "1568",
+      "nombre_empresa": "INGENIERIA Y SEGURIDAD VIAL S A S",
+      "rut": "9007869477",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
