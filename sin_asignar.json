@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:22:16.020338+00:00",
+  "generated_at": "2026-08-26T19:52:42.232101+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1212,6 +1212,16 @@
       "count": 2
     },
     {
+      "empresa_id": "80",
+      "nombre_empresa": "Cy Send",
+      "rut": "55555555-5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 2
+    },
+    {
       "empresa_id": "230",
       "nombre_empresa": "Creatblue",
       "rut": "POM030403GG2",
@@ -2058,16 +2068,6 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
-      "count": 1
-    },
-    {
-      "empresa_id": "80",
-      "nombre_empresa": "Cy Send",
-      "rut": "55555555-5",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "count": 1
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:22:16.020338+00:00",
+  "generated_at": "2026-08-26T19:52:42.232101+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -23,8 +23,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 566.92,
-          "tickets_exec": 113.38,
+          "tickets_mensual": 567.23,
+          "tickets_exec": 113.45,
           "reuniones_monthly": [
             31,
             26,
@@ -53,7 +53,7 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 118.15,
+              "tickets_mensual": 118.38,
               "reuniones_mensual": 5.38,
               "total_clientes": 90.6,
               "usuarios_total": 16890.6
@@ -77,7 +77,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 72.85,
+              "tickets_mensual": 72.92,
               "reuniones_mensual": 1.0,
               "total_clientes": 171.6,
               "usuarios_total": 10126.6
@@ -87,8 +87,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 333.31,
-          "tickets_exec": 66.66,
+          "tickets_mensual": 333.54,
+          "tickets_exec": 66.71,
           "reuniones_monthly": [
             100,
             87,
@@ -109,7 +109,7 @@
             {
               "nombre": "Santiago Cuellar",
               "correo": "scuellar@apprecio.com",
-              "tickets_mensual": 94.88,
+              "tickets_mensual": 94.95,
               "reuniones_mensual": 13.12,
               "total_clientes": 87.2,
               "usuarios_total": 32870.2
@@ -125,7 +125,7 @@
             {
               "nombre": "Roberto Molina",
               "correo": "rmolina@apprecio.com",
-              "tickets_mensual": 83.95,
+              "tickets_mensual": 84.03,
               "reuniones_mensual": 9.0,
               "total_clientes": 79.2,
               "usuarios_total": 28259.2
@@ -141,7 +141,7 @@
             {
               "nombre": "Andersson Leon",
               "correo": "aleon@apprecio.com",
-              "tickets_mensual": 31.34,
+              "tickets_mensual": 31.42,
               "reuniones_mensual": 36.62,
               "total_clientes": 74.2,
               "usuarios_total": 5854.2
@@ -197,8 +197,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 148.15,
-          "tickets_exec": 74.08,
+          "tickets_mensual": 148.23,
+          "tickets_exec": 74.11,
           "reuniones_monthly": [
             8,
             15,
@@ -470,8 +470,8 @@
         "México": {
           "flag": "🇲🇽",
           "ejecutivos": 2,
-          "tickets_mensual": 60.23,
-          "tickets_exec": 30.11,
+          "tickets_mensual": 60.38,
+          "tickets_exec": 30.19,
           "reuniones_monthly": [
             29,
             35,
@@ -484,15 +484,15 @@
           ],
           "reuniones_mensual": 26.88,
           "reuniones_exec": 13.44,
-          "clientes_exec": 74.0,
-          "total_clientes": 148,
+          "clientes_exec": 74.5,
+          "total_clientes": 149,
           "usuarios_total": 17931.0,
           "usuarios_exec": 8965.5,
           "ejecutivos_detalle": [
             {
               "nombre": "Colombina Trujillo",
               "correo": "ctrujillo@dcanje.com",
-              "tickets_mensual": 40.04,
+              "tickets_mensual": 40.08,
               "reuniones_mensual": 13.25,
               "total_clientes": 86.5,
               "usuarios_total": 15651.0
@@ -500,9 +500,9 @@
             {
               "nombre": "Giovanny Olvera",
               "correo": "golvera@dcanje.com",
-              "tickets_mensual": 20.19,
+              "tickets_mensual": 20.31,
               "reuniones_mensual": 13.62,
-              "total_clientes": 61.5,
+              "total_clientes": 62.5,
               "usuarios_total": 2280.0
             }
           ]
@@ -551,8 +551,8 @@
   },
   "meta": {
     "reuniones_sin_match": 25,
-    "tickets_sin_asignar": 1078,
-    "tickets_redistribuidos": 930,
+    "tickets_sin_asignar": 1079,
+    "tickets_redistribuidos": 931,
     "tickets_excluidos": 148,
     "usuarios_sin_asignar": 178,
     "usuarios_redistribuidos": 159,
