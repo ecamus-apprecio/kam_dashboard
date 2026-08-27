@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:52:42.232101+00:00",
+  "generated_at": "2026-08-27T00:35:28.179613+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -972,6 +972,16 @@
       "count": 2
     },
     {
+      "empresa_id": "45",
+      "nombre_empresa": "ALADIAH",
+      "rut": "20605043471",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "347",
       "nombre_empresa": "SERVICIOS INTEGRALES TOUCH COLOMBIA S.A.S.",
       "rut": "901495015",
@@ -1605,16 +1615,6 @@
       "empresa_id": "886",
       "nombre_empresa": "JLI METROLOGY",
       "rut": "20510675097",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "45",
-      "nombre_empresa": "ALADIAH",
-      "rut": "20605043471",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
