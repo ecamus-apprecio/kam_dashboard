@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T00:19:07.080751+00:00",
+  "generated_at": "2026-08-28T15:11:10.641493+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1462,6 +1462,16 @@
       "count": 1
     },
     {
+      "empresa_id": "2030",
+      "nombre_empresa": "PACIFIC NUTRITION",
+      "rut": "76290153-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "768",
       "nombre_empresa": "LMS",
       "rut": "20607971448",
@@ -2141,7 +2151,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2760.0
+      "usuarios_incentivados": 2756.0
     },
     {
       "empresa_id": "3",
@@ -2151,7 +2161,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2133.0
+      "usuarios_incentivados": 2134.0
     },
     {
       "empresa_id": "343",
@@ -2171,7 +2181,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1542.0
+      "usuarios_incentivados": 1544.0
     },
     {
       "empresa_id": "620",
@@ -2181,7 +2191,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1349.0
+      "usuarios_incentivados": 1332.0
     },
     {
       "empresa_id": "1802",
@@ -2234,16 +2244,6 @@
       "usuarios_incentivados": 530.0
     },
     {
-      "empresa_id": "938",
-      "nombre_empresa": "SALESLAND CHILE",
-      "rut": "5555",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 463.0
-    },
-    {
       "empresa_id": "505",
       "nombre_empresa": "TresMontes lucchetti",
       "rut": "99550580-0",
@@ -2252,6 +2252,16 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 447.0
+    },
+    {
+      "empresa_id": "938",
+      "nombre_empresa": "SALESLAND CHILE",
+      "rut": "5555",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 440.0
     },
     {
       "empresa_id": "347",
@@ -2301,7 +2311,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 377.0
+      "usuarios_incentivados": 368.0
     },
     {
       "empresa_id": "114",
@@ -2374,16 +2384,6 @@
       "usuarios_incentivados": 203.0
     },
     {
-      "empresa_id": "788",
-      "nombre_empresa": "SALESLAND CHILE",
-      "rut": "555555555",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 166.0
-    },
-    {
       "empresa_id": "1202",
       "nombre_empresa": "CRISTAR TABLETOP S.A.S",
       "rut": "9014954528",
@@ -2392,6 +2392,16 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 158.0
+    },
+    {
+      "empresa_id": "788",
+      "nombre_empresa": "SALESLAND CHILE",
+      "rut": "555555555",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 145.0
     },
     {
       "empresa_id": "79",
@@ -2491,7 +2501,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 77.0
+      "usuarios_incentivados": 76.0
     },
     {
       "empresa_id": "1758",
@@ -2554,22 +2564,22 @@
       "usuarios_incentivados": 56.0
     },
     {
-      "empresa_id": "1754",
-      "nombre_empresa": "Americar",
-      "rut": "76414568-2",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 54.0
-    },
-    {
       "empresa_id": "758",
       "nombre_empresa": "Medifarma  - Comercial",
       "rut": "20100018625",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 55.0
+    },
+    {
+      "empresa_id": "1754",
+      "nombre_empresa": "Americar",
+      "rut": "76414568-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 54.0
     },
@@ -2604,6 +2614,16 @@
       "usuarios_incentivados": 47.0
     },
     {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 46.0
+    },
+    {
       "empresa_id": "1452",
       "nombre_empresa": "Bulkmatic de Colombia SAS",
       "rut": "9009704395",
@@ -2627,16 +2647,6 @@
       "empresa_id": "1334",
       "nombre_empresa": "NISUM COLOMBIA SAS",
       "rut": "9015511261",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 44.0
-    },
-    {
-      "empresa_id": "1368",
-      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
-      "rut": "9009797448",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
@@ -2814,6 +2824,16 @@
       "usuarios_incentivados": 22.0
     },
     {
+      "empresa_id": "1572",
+      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
+      "rut": "800230187",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 21.0
+    },
+    {
       "empresa_id": "430",
       "nombre_empresa": "Grasas S.A.",
       "rut": "8913005294",
@@ -2868,16 +2888,6 @@
       "nombre_empresa": "UPC CAMPAÑAS POST GRADO",
       "rut": "20211614545",
       "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 16.0
-    },
-    {
-      "empresa_id": "1572",
-      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
-      "rut": "800230187",
-      "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
@@ -3194,6 +3204,16 @@
       "usuarios_incentivados": 7.0
     },
     {
+      "empresa_id": "2004",
+      "nombre_empresa": "Banco BCI",
+      "rut": "97006000-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 7.0
+    },
+    {
       "empresa_id": "801",
       "nombre_empresa": "DAYVO SISTEMAS COLOMBIA SAS",
       "rut": "9011939174",
@@ -3230,16 +3250,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 6.0
-    },
-    {
-      "empresa_id": "2004",
-      "nombre_empresa": "Banco BCI",
-      "rut": "97006000-6",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
     },
@@ -3312,6 +3322,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 6.0
+    },
+    {
+      "empresa_id": "45",
+      "nombre_empresa": "ALADIAH",
+      "rut": "20605043471",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 5.0
     },
     {
       "empresa_id": "1411",
@@ -3700,16 +3720,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "45",
-      "nombre_empresa": "ALADIAH",
-      "rut": "20605043471",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
