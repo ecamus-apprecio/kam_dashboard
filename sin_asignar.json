@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T13:59:41.150279+00:00",
+  "generated_at": "2026-08-28T00:19:07.080751+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 195
+      "count": 193
     },
     {
       "empresa_id": "1802",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 64
+      "count": 62
     },
     {
       "empresa_id": "114",
@@ -29,7 +29,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 44
+      "count": 45
     },
     {
       "empresa_id": "686",
@@ -49,7 +49,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 33
+      "count": 31
     },
     {
       "empresa_id": "343",
@@ -109,7 +109,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 18
+      "count": 17
     },
     {
       "empresa_id": "58",
@@ -162,16 +162,6 @@
       "count": 12
     },
     {
-      "empresa_id": "533",
-      "nombre_empresa": "Fidetech",
-      "rut": "9015865580",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 11
-    },
-    {
       "empresa_id": "79",
       "nombre_empresa": "NTT-DATA ECUADOR S.A.",
       "rut": "1793207896001",
@@ -180,6 +170,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 11
+    },
+    {
+      "empresa_id": "533",
+      "nombre_empresa": "Fidetech",
+      "rut": "9015865580",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 10
     },
     {
       "empresa_id": "1057",
@@ -252,6 +252,16 @@
       "count": 8
     },
     {
+      "empresa_id": "821",
+      "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
+      "rut": "20614426692",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dduran@app",
+      "redistribuido_a": "KAM",
+      "count": 8
+    },
+    {
       "empresa_id": "895",
       "nombre_empresa": "Administrador - AUNA FUERZA",
       "rut": "20550028515",
@@ -308,16 +318,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 7
-    },
-    {
-      "empresa_id": "821",
-      "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
-      "rut": "20614426692",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dduran@app",
       "redistribuido_a": "KAM",
       "count": 7
     },
@@ -452,6 +452,16 @@
       "count": 5
     },
     {
+      "empresa_id": "1334",
+      "nombre_empresa": "NISUM COLOMBIA SAS",
+      "rut": "9015511261",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "1364",
       "nombre_empresa": "CORPORACIÓN EDUCATIVA COLEGIO SAGRADO CORAZON MONT",
       "rut": "8110027879",
@@ -558,16 +568,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "1334",
-      "nombre_empresa": "NISUM COLOMBIA SAS",
-      "rut": "9015511261",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 4
     },
@@ -1498,16 +1498,6 @@
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "790",
-      "nombre_empresa": "OXXO",
-      "rut": "20602743960",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
