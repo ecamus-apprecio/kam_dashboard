@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T04:51:47.669469+00:00",
+  "generated_at": "2026-08-31T13:14:52.963654+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -23,8 +23,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 608.67,
-          "tickets_exec": 121.73,
+          "tickets_mensual": 608.75,
+          "tickets_exec": 121.75,
           "reuniones_monthly": [
             31,
             26,
@@ -77,7 +77,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 78.82,
+              "tickets_mensual": 78.9,
               "reuniones_mensual": 1.0,
               "total_clientes": 172.0,
               "usuarios_total": 10145.0
