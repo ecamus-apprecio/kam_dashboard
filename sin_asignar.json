@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T23:19:00.068864+00:00",
+  "generated_at": "2026-08-31T04:51:47.669469+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -3714,16 +3714,6 @@
       "usuarios_incentivados": 2.0
     },
     {
-      "empresa_id": "609",
-      "nombre_empresa": "QROOM 360 LLC",
-      "rut": "22000155335",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
       "empresa_id": "27",
       "nombre_empresa": "SEIDORANALYTICS ECUADOR S.A.",
       "rut": "1793198849001",
@@ -3857,6 +3847,16 @@
       "empresa_id": "427",
       "nombre_empresa": "TCL Colombia",
       "rut": "770739578",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "609",
+      "nombre_empresa": "QROOM 360 LLC",
+      "rut": "22000155335",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
