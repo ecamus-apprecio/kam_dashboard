@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:02:56.023510+00:00",
+  "generated_at": "2026-09-01T18:17:10.571306+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -242,6 +242,16 @@
       "count": 9
     },
     {
+      "empresa_id": "210",
+      "nombre_empresa": "Be Exponential",
+      "rut": "DSW220805EJ6",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 9
+    },
+    {
       "empresa_id": "754",
       "nombre_empresa": "FORD - FUERZA",
       "rut": "20555903546",
@@ -279,16 +289,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "210",
-      "nombre_empresa": "Be Exponential",
-      "rut": "DSW220805EJ6",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
       "count": 8
     },
     {
@@ -1465,6 +1465,16 @@
       "empresa_id": "2030",
       "nombre_empresa": "PACIFIC NUTRITION",
       "rut": "76290153-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2021",
+      "nombre_empresa": "NUAM",
+      "rut": "77726203-3",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
