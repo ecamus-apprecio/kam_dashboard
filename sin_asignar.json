@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T08:29:18.059792+00:00",
+  "generated_at": "2026-09-01T14:02:56.023510+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 61
+      "count": 62
     },
     {
       "empresa_id": "114",
@@ -912,6 +912,16 @@
       "count": 2
     },
     {
+      "empresa_id": "2029",
+      "nombre_empresa": "DUMMY",
+      "rut": "76932696-0",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "888",
       "nombre_empresa": "UPC CAMPAÑAS POST GRADO",
       "rut": "20211614545",
@@ -1452,16 +1462,6 @@
       "count": 1
     },
     {
-      "empresa_id": "2029",
-      "nombre_empresa": "DUMMY",
-      "rut": "76932696-0",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "2030",
       "nombre_empresa": "PACIFIC NUTRITION",
       "rut": "76290153-6",
@@ -1664,7 +1664,7 @@
     {
       "empresa_id": "894",
       "nombre_empresa": "CODELPA PERU S.A.C.",
-      "rut": "20.548.977.585",
+      "rut": "20548977585",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
