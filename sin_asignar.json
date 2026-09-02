@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T16:20:00.351640+00:00",
+  "generated_at": "2026-09-02T20:51:16.362667+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1985,6 +1985,16 @@
       "empresa_id": "1598",
       "nombre_empresa": "SERVICIOS ESPECIALIZADOS DE TECNOLOGIA E INFORMATI",
       "rut": "830047444",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1637",
+      "nombre_empresa": "ASOCIACIÓN DEL SECTOR MOTRÍZ Y SUS PARTES",
+      "rut": "890309069",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
