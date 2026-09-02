@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:51:16.362667+00:00",
+  "generated_at": "2026-09-02T23:11:05.965941+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -482,6 +482,16 @@
       "count": 5
     },
     {
+      "empresa_id": "235",
+      "nombre_empresa": "H+Patrimonial",
+      "rut": "HSE080218RK5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 5
+    },
+    {
       "empresa_id": "252",
       "nombre_empresa": "ACSI RESEARCH",
       "rut": "ARE150319Q48",
@@ -609,16 +619,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 4
-    },
-    {
-      "empresa_id": "235",
-      "nombre_empresa": "H+Patrimonial",
-      "rut": "HSE080218RK5",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
       "count": 4
     },
     {
@@ -1185,6 +1185,16 @@
       "empresa_id": "1531",
       "nombre_empresa": "CORPOEDUCACION",
       "rut": "8300161450",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1583",
+      "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
+      "rut": "900557006",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1918,16 +1928,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1583",
-      "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
-      "rut": "900557006",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
