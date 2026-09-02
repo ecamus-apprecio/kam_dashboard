@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:11:13.983898+00:00",
+  "generated_at": "2026-09-02T03:54:01.726878+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -92,16 +92,6 @@
       "count": 19
     },
     {
-      "empresa_id": "1754",
-      "nombre_empresa": "Americar",
-      "rut": "76414568-2",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 18
-    },
-    {
       "empresa_id": "3",
       "nombre_empresa": "Apprecio",
       "rut": "90141619",
@@ -109,7 +99,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 16
+      "count": 15
     },
     {
       "empresa_id": "58",
@@ -130,6 +120,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 15
+    },
+    {
+      "empresa_id": "1754",
+      "nombre_empresa": "Americar",
+      "rut": "76414568-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 14
     },
     {
       "empresa_id": "15",
@@ -782,6 +782,16 @@
       "count": 3
     },
     {
+      "empresa_id": "1528",
+      "nombre_empresa": "FONDO DE EMPLEADOS DE RECAMIER",
+      "rut": "8001679271",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "71",
       "nombre_empresa": "EVALUAR",
       "rut": "1792213495001",
@@ -1108,16 +1118,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1528",
-      "nombre_empresa": "FONDO DE EMPLEADOS DE RECAMIER",
-      "rut": "8001679271",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -1684,7 +1684,7 @@
     {
       "empresa_id": "902",
       "nombre_empresa": "CHOCOLATES DE PERU SA",
-      "rut": "20514584789",
+      "rut": "20.514.584.789",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2221,7 +2221,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1177.0
+      "usuarios_incentivados": 1174.0
     },
     {
       "empresa_id": "234",
@@ -2331,7 +2331,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 368.0
+      "usuarios_incentivados": 362.0
     },
     {
       "empresa_id": "114",
@@ -2431,7 +2431,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 141.0
+      "usuarios_incentivados": 136.0
     },
     {
       "empresa_id": "1954",
@@ -2521,7 +2521,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 76.0
+      "usuarios_incentivados": 75.0
     },
     {
       "empresa_id": "1758",
@@ -2924,16 +2924,6 @@
       "usuarios_incentivados": 16.0
     },
     {
-      "empresa_id": "550",
-      "nombre_empresa": "Alborada",
-      "rut": "76969581-8",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 15.0
-    },
-    {
       "empresa_id": "1748",
       "nombre_empresa": "RICOH CHILE S.A",
       "rut": "96513980-k",
@@ -2952,6 +2942,16 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 15.0
+    },
+    {
+      "empresa_id": "550",
+      "nombre_empresa": "Alborada",
+      "rut": "76969581-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 14.0
     },
     {
       "empresa_id": "841",
@@ -3161,7 +3161,7 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 9.0
+      "usuarios_incentivados": 10.0
     },
     {
       "empresa_id": "1956",
@@ -3342,6 +3342,26 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
+    },
+    {
+      "empresa_id": "2029",
+      "nombre_empresa": "DUMMY",
+      "rut": "76932696-0",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 5.0
+    },
+    {
+      "empresa_id": "2030",
+      "nombre_empresa": "PACIFIC NUTRITION",
+      "rut": "76290153-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 5.0
     },
     {
       "empresa_id": "45",
@@ -3554,6 +3574,16 @@
       "usuarios_incentivados": 3.0
     },
     {
+      "empresa_id": "1583",
+      "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
+      "rut": "900557006",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 3.0
+    },
+    {
       "empresa_id": "1713",
       "nombre_empresa": "ODOOTECHNOLOGIES",
       "rut": "55555555-5",
@@ -3587,16 +3617,6 @@
       "empresa_id": "2018",
       "nombre_empresa": "Fika Express Rancagua",
       "rut": "78228769-9",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "2029",
-      "nombre_empresa": "DUMMY",
-      "rut": "76932696-0",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3707,16 +3727,6 @@
       "empresa_id": "1561",
       "nombre_empresa": "SERTRANSCO S.A.S.",
       "rut": "9014046779",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "1583",
-      "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
-      "rut": "900557006",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
