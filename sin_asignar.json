@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:48:13.801660+00:00",
+  "generated_at": "2026-09-03T23:07:42.464108+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -72,6 +72,16 @@
       "count": 20
     },
     {
+      "empresa_id": "10",
+      "nombre_empresa": "Apprecio",
+      "rut": "76.339.081-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 19
+    },
+    {
       "empresa_id": "89",
       "nombre_empresa": "CALBAQ S.A.",
       "rut": "990135630001",
@@ -80,16 +90,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 19
-    },
-    {
-      "empresa_id": "10",
-      "nombre_empresa": "Apprecio",
-      "rut": "76.339.081-0",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "sgajardo@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 18
     },
     {
       "empresa_id": "3",
@@ -172,6 +172,16 @@
       "count": 11
     },
     {
+      "empresa_id": "533",
+      "nombre_empresa": "Fidetech",
+      "rut": "9015865580",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 10
+    },
+    {
       "empresa_id": "79",
       "nombre_empresa": "NTT-DATA ECUADOR S.A.",
       "rut": "1793207896001",
@@ -208,16 +218,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 9
-    },
-    {
-      "empresa_id": "533",
-      "nombre_empresa": "Fidetech",
-      "rut": "9015865580",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 9
     },
@@ -612,6 +612,16 @@
       "count": 4
     },
     {
+      "empresa_id": "1495",
+      "nombre_empresa": "CORPORACION INTERACTUAR",
+      "rut": "8909848433",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
+      "count": 4
+    },
+    {
       "empresa_id": "23",
       "nombre_empresa": "Siemens S.A",
       "rut": "1790219526001",
@@ -668,6 +678,16 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "861",
+      "nombre_empresa": "Habla Latam",
+      "rut": "20610759069",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 3
     },
@@ -769,16 +789,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1495",
-      "nombre_empresa": "CORPORACION INTERACTUAR",
-      "rut": "8909848433",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "BDM",
       "count": 3
     },
     {
@@ -975,16 +985,6 @@
       "empresa_id": "864",
       "nombre_empresa": "GRUPO BESCA",
       "rut": "20601420458",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "861",
-      "nombre_empresa": "Habla Latam",
-      "rut": "20610759069",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
