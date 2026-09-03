@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:57:57.317814+00:00",
+  "generated_at": "2026-09-03T16:10:29.116933+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1192,6 +1192,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1550",
+      "nombre_empresa": "SOLVO S.A.S",
+      "rut": "901180401",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "1583",
       "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
       "rut": "900557006",
@@ -1895,16 +1905,6 @@
       "empresa_id": "1572",
       "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
       "rut": "800230187",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1550",
-      "nombre_empresa": "SOLVO S.A.S",
-      "rut": "901180401",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
