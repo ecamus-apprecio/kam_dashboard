@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:58:09.480863+00:00",
+  "generated_at": "2026-09-04T16:05:15.935596+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1495,6 +1495,16 @@
       "empresa_id": "2021",
       "nombre_empresa": "NUAM",
       "rut": "77726203-3",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2031",
+      "nombre_empresa": "SINDICATO DE ESTABLECIMIENTO DE TRABAJADORES PROFE",
+      "rut": "65237789-0",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
