@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:55:00.651140+00:00",
+  "generated_at": "2026-09-05T03:52:24.433432+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -29,7 +29,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 45
+      "count": 44
     },
     {
       "empresa_id": "686",
@@ -782,6 +782,16 @@
       "count": 3
     },
     {
+      "empresa_id": "1409",
+      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
+      "rut": "9010904869",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "1452",
       "nombre_empresa": "Bulkmatic de Colombia SAS",
       "rut": "9009704395",
@@ -1085,16 +1095,6 @@
       "empresa_id": "1408",
       "nombre_empresa": "SIMPLE TECH",
       "rut": "9015448206",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1409",
-      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
-      "rut": "9010904869",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
@@ -2201,7 +2201,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2786.0
+      "usuarios_incentivados": 2784.0
     },
     {
       "empresa_id": "3",
@@ -2221,7 +2221,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2074.0
+      "usuarios_incentivados": 2090.0
     },
     {
       "empresa_id": "1",
@@ -2251,7 +2251,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1160.0
+      "usuarios_incentivados": 1158.0
     },
     {
       "empresa_id": "234",
@@ -2381,7 +2381,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 278.0
+      "usuarios_incentivados": 279.0
     },
     {
       "empresa_id": "1495",
@@ -2501,7 +2501,7 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 109.0
+      "usuarios_incentivados": 110.0
     },
     {
       "empresa_id": "754",
@@ -2821,7 +2821,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 24.0
+      "usuarios_incentivados": 27.0
     },
     {
       "empresa_id": "1255",
@@ -2934,6 +2934,16 @@
       "usuarios_incentivados": 17.0
     },
     {
+      "empresa_id": "1748",
+      "nombre_empresa": "RICOH CHILE S.A",
+      "rut": "96513980-k",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 16.0
+    },
+    {
       "empresa_id": "888",
       "nombre_empresa": "UPC CAMPAÑAS POST GRADO",
       "rut": "20211614545",
@@ -2952,16 +2962,6 @@
       "email_kam_en_empresas": "cbocanegra@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 16.0
-    },
-    {
-      "empresa_id": "1748",
-      "nombre_empresa": "RICOH CHILE S.A",
-      "rut": "96513980-k",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 15.0
     },
     {
       "empresa_id": "1469",
@@ -3054,6 +3054,16 @@
       "usuarios_incentivados": 13.0
     },
     {
+      "empresa_id": "1141",
+      "nombre_empresa": "EDUCA EDTECH COLOMBIA SAS",
+      "rut": "9016655540",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
+      "usuarios_incentivados": 13.0
+    },
+    {
       "empresa_id": "232",
       "nombre_empresa": "Sinergy Solutions",
       "rut": "SSO001124AT2",
@@ -3062,16 +3072,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 13.0
-    },
-    {
-      "empresa_id": "1141",
-      "nombre_empresa": "EDUCA EDTECH COLOMBIA SAS",
-      "rut": "9016655540",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
-      "usuarios_incentivados": 12.0
     },
     {
       "empresa_id": "663",
@@ -3144,16 +3144,6 @@
       "usuarios_incentivados": 11.0
     },
     {
-      "empresa_id": "1547",
-      "nombre_empresa": "COMERCIALIZADORA DISFRUVER S.A.S.",
-      "rut": "900135976",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 11.0
-    },
-    {
       "empresa_id": "68",
       "nombre_empresa": "SATRACK SA",
       "rut": "1792337321001",
@@ -3190,6 +3180,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 10.0
+    },
+    {
+      "empresa_id": "1547",
+      "nombre_empresa": "COMERCIALIZADORA DISFRUVER S.A.S.",
+      "rut": "900135976",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 10.0
     },
@@ -3237,6 +3237,16 @@
       "empresa_id": "1536",
       "nombre_empresa": "SIGNOS STUDIO SAS",
       "rut": "832004603",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 8.0
+    },
+    {
+      "empresa_id": "1637",
+      "nombre_empresa": "ASOCIACIÓN DEL SECTOR MOTRÍZ Y SUS PARTES",
+      "rut": "890309069",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3434,16 +3444,6 @@
       "usuarios_incentivados": 5.0
     },
     {
-      "empresa_id": "1943",
-      "nombre_empresa": "NILO ARROYO",
-      "rut": "76345095-3",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 4.0
-    },
-    {
       "empresa_id": "1955",
       "nombre_empresa": "TUAUTO SPA",
       "rut": "76982452-9",
@@ -3512,6 +3512,16 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 4.0
+    },
+    {
+      "empresa_id": "1943",
+      "nombre_empresa": "NILO ARROYO",
+      "rut": "76345095-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 3.0
     },
     {
       "empresa_id": "1975",
