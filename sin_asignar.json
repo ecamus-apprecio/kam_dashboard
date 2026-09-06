@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T22:43:49.134662+00:00",
+  "generated_at": "2026-09-06T03:57:04.124543+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -274,7 +274,7 @@
     {
       "empresa_id": "895",
       "nombre_empresa": "Administrador - AUNA FUERZA",
-      "rut": "20550028515",
+      "rut": "20.550.028.515",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2201,7 +2201,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2784.0
+      "usuarios_incentivados": 2782.0
     },
     {
       "empresa_id": "3",
@@ -2221,7 +2221,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2090.0
+      "usuarios_incentivados": 2086.0
     },
     {
       "empresa_id": "1",
@@ -2261,7 +2261,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 840.0
+      "usuarios_incentivados": 841.0
     },
     {
       "empresa_id": "1846",
@@ -3114,16 +3114,6 @@
       "usuarios_incentivados": 11.0
     },
     {
-      "empresa_id": "824",
-      "nombre_empresa": "beClassmates",
-      "rut": "764297687",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 11.0
-    },
-    {
       "empresa_id": "1500",
       "nombre_empresa": "PARDENTALES LTDA",
       "rut": "8000004391",
@@ -3164,12 +3154,12 @@
       "usuarios_incentivados": 10.0
     },
     {
-      "empresa_id": "58",
-      "nombre_empresa": "AUTOSECURITY",
-      "rut": "76038034-2",
-      "pais": "Chile",
+      "empresa_id": "824",
+      "nombre_empresa": "beClassmates",
+      "rut": "764297687",
+      "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 10.0
     },
@@ -3192,6 +3182,16 @@
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 10.0
+    },
+    {
+      "empresa_id": "58",
+      "nombre_empresa": "UIO BTL",
+      "rut": "1792184037001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "usuarios_incentivados": 9.0
     },
     {
       "empresa_id": "1956",
