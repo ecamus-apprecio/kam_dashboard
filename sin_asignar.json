@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T19:03:32.223108+00:00",
+  "generated_at": "2026-09-07T23:21:57.250292+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -802,9 +802,29 @@
       "count": 3
     },
     {
+      "empresa_id": "1411",
+      "nombre_empresa": "ICONICO STUDIO SAS",
+      "rut": "9013626150",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "1528",
       "nombre_empresa": "FONDO DE EMPLEADOS DE RECAMIER",
       "rut": "8001679271",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "1531",
+      "nombre_empresa": "CORPOEDUCACION",
+      "rut": "8300161450",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1112,16 +1132,6 @@
       "count": 2
     },
     {
-      "empresa_id": "1411",
-      "nombre_empresa": "ICONICO STUDIO SAS",
-      "rut": "9013626150",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
       "empresa_id": "1536",
       "nombre_empresa": "SIGNOS STUDIO SAS",
       "rut": "832004603",
@@ -1175,16 +1185,6 @@
       "empresa_id": "1571",
       "nombre_empresa": "Profesionales del Helado SAS",
       "rut": "9004389070",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1531",
-      "nombre_empresa": "CORPOEDUCACION",
-      "rut": "8300161450",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
