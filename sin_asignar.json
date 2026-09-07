@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T22:49:19.034395+00:00",
+  "generated_at": "2026-09-07T12:05:22.099051+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -274,7 +274,7 @@
     {
       "empresa_id": "895",
       "nombre_empresa": "Administrador - AUNA FUERZA",
-      "rut": "20.550.028.515",
+      "rut": "20550028515",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
