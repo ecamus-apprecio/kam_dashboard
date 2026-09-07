@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:05:22.099051+00:00",
+  "generated_at": "2026-09-07T19:03:32.223108+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -2022,6 +2022,16 @@
       "count": 1
     },
     {
+      "empresa_id": "1315",
+      "nombre_empresa": "FUNDACION UNIVERSITARIA COLOMBO GERMANA",
+      "rut": "9004072221",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "92",
       "nombre_empresa": "Madison Performance Group",
       "rut": "134141712",
@@ -2185,6 +2195,16 @@
       "empresa_id": "257",
       "nombre_empresa": "TRAMONTINA DE MEXICO",
       "rut": "TME970627UF5",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 1
+    },
+    {
+      "empresa_id": "259",
+      "nombre_empresa": "BIOSA MOTION",
+      "rut": "BMT121126G44",
       "pais": "México",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
