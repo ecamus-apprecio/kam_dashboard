@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T20:57:59.568416+00:00",
+  "generated_at": "2026-09-08T23:19:03.315300+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -23,8 +23,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 566.54,
-          "tickets_exec": 113.31,
+          "tickets_mensual": 566.77,
+          "tickets_exec": 113.35,
           "reuniones_monthly": [
             31,
             26,
@@ -53,7 +53,7 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 118.45,
+              "tickets_mensual": 118.52,
               "reuniones_mensual": 5.38,
               "total_clientes": 90.6,
               "usuarios_total": 16894.4
@@ -61,7 +61,7 @@
             {
               "nombre": "Benjamin Castro",
               "correo": "bcastro@apprecio.com",
-              "tickets_mensual": 115.75,
+              "tickets_mensual": 115.83,
               "reuniones_mensual": 6.88,
               "total_clientes": 97.6,
               "usuarios_total": 60634.4
@@ -77,7 +77,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 73.68,
+              "tickets_mensual": 73.75,
               "reuniones_mensual": 1.0,
               "total_clientes": 171.6,
               "usuarios_total": 10275.4
@@ -87,8 +87,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 340.15,
-          "tickets_exec": 68.03,
+          "tickets_mensual": 340.31,
+          "tickets_exec": 68.06,
           "reuniones_monthly": [
             100,
             87,
@@ -109,7 +109,7 @@
             {
               "nombre": "Santiago Cuellar",
               "correo": "scuellar@apprecio.com",
-              "tickets_mensual": 95.35,
+              "tickets_mensual": 95.43,
               "reuniones_mensual": 13.12,
               "total_clientes": 87.0,
               "usuarios_total": 33397.0
@@ -125,7 +125,7 @@
             {
               "nombre": "Roberto Molina",
               "correo": "rmolina@apprecio.com",
-              "tickets_mensual": 85.82,
+              "tickets_mensual": 85.89,
               "reuniones_mensual": 9.0,
               "total_clientes": 79.0,
               "usuarios_total": 28554.0
@@ -197,8 +197,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 146.46,
-          "tickets_exec": 73.23,
+          "tickets_mensual": 146.85,
+          "tickets_exec": 73.42,
           "reuniones_monthly": [
             8,
             15,
@@ -219,7 +219,7 @@
             {
               "nombre": "Diana Duran",
               "correo": "dduran@apprecio.com",
-              "tickets_mensual": 53.58,
+              "tickets_mensual": 53.65,
               "reuniones_mensual": 8.38,
               "total_clientes": 104.5,
               "usuarios_total": 10034.0
