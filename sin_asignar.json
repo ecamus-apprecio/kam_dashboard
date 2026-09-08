@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:23:18.211582+00:00",
+  "generated_at": "2026-09-08T20:57:59.568416+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1232,6 +1232,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1562",
+      "nombre_empresa": "TRAMITPASS S.A.S",
+      "rut": "9018279485",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "81",
       "nombre_empresa": "Intcomex (EPSON)",
       "rut": "1791743148001",
@@ -1512,6 +1522,16 @@
       "count": 1
     },
     {
+      "empresa_id": "2034",
+      "nombre_empresa": "Central Fibra",
+      "rut": "78077264-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "768",
       "nombre_empresa": "LMS",
       "rut": "20607971448",
@@ -1715,6 +1735,16 @@
       "empresa_id": "902",
       "nombre_empresa": "CHOCOLATES DE PERU SA",
       "rut": "20514584789",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "907",
+      "nombre_empresa": "NUAM - CAVALI",
+      "rut": "20346669625",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1982,16 +2012,6 @@
       "count": 1
     },
     {
-      "empresa_id": "1562",
-      "nombre_empresa": "TRAMITPASS S.A.S",
-      "rut": "9018279485",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "1598",
       "nombre_empresa": "SERVICIOS ESPECIALIZADOS DE TECNOLOGIA E INFORMATI",
       "rut": "830047444",
@@ -2028,6 +2048,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1625",
+      "nombre_empresa": "GRUPO DIMEO S A S",
+      "rut": "9010255330",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
