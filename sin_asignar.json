@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T23:21:57.250292+00:00",
+  "generated_at": "2026-09-08T03:59:01.941609+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -2461,7 +2461,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 158.0
+      "usuarios_incentivados": 171.0
     },
     {
       "empresa_id": "788",
@@ -2931,6 +2931,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
+      "usuarios_incentivados": 19.0
+    },
+    {
+      "empresa_id": "1469",
+      "nombre_empresa": "CREATIVA PRODUCCIONES S.A",
+      "rut": "8300953526",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 18.0
     },
     {
@@ -2984,9 +2994,9 @@
       "usuarios_incentivados": 16.0
     },
     {
-      "empresa_id": "1469",
-      "nombre_empresa": "CREATIVA PRODUCCIONES S.A",
-      "rut": "8300953526",
+      "empresa_id": "1444",
+      "nombre_empresa": "GRASASBIO SAS",
+      "rut": "9011100720",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
@@ -3017,16 +3027,6 @@
       "empresa_id": "1447",
       "nombre_empresa": "EMPRESA COLOMBIANA DE PRODUCTOS VETERINARIOS S.A.",
       "rut": "8999990024",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 14.0
-    },
-    {
-      "empresa_id": "1444",
-      "nombre_empresa": "GRASASBIO SAS",
-      "rut": "9011100720",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
@@ -3184,6 +3184,16 @@
       "usuarios_incentivados": 10.0
     },
     {
+      "empresa_id": "1409",
+      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
+      "rut": "9010904869",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 10.0
+    },
+    {
       "empresa_id": "1466",
       "nombre_empresa": "EMPRESA COLOMBIANA DE CLAVOS EMCOCLAVOS S.A.S.",
       "rut": "8600294151",
@@ -3230,6 +3240,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 8.0
+    },
+    {
+      "empresa_id": "2004",
+      "nombre_empresa": "Banco BCI",
+      "rut": "97006000-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 8.0
     },
@@ -3297,16 +3317,6 @@
       "empresa_id": "2003",
       "nombre_empresa": "COMERCIAL CENTRAL CHILE",
       "rut": "76026619-1",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 7.0
-    },
-    {
-      "empresa_id": "2004",
-      "nombre_empresa": "Banco BCI",
-      "rut": "97006000-6",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3390,16 +3400,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 6.0
-    },
-    {
-      "empresa_id": "1409",
-      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
-      "rut": "9010904869",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
     },
@@ -3500,6 +3500,16 @@
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
+      "empresa_id": "1443",
+      "nombre_empresa": "Sada Logistics SAS",
+      "rut": "9015440479",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 4.0
     },
@@ -3767,16 +3777,6 @@
       "empresa_id": "1408",
       "nombre_empresa": "SIMPLE TECH",
       "rut": "9015448206",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "1443",
-      "nombre_empresa": "Sada Logistics SAS",
-      "rut": "9015440479",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
