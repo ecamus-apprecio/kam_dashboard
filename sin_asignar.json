@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:18:49.689427+00:00",
+  "generated_at": "2026-09-09T20:45:54.240807+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -282,6 +282,16 @@
       "count": 8
     },
     {
+      "empresa_id": "252",
+      "nombre_empresa": "ACSI RESEARCH",
+      "rut": "ARE150319Q48",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 8
+    },
+    {
       "empresa_id": "2009",
       "nombre_empresa": "DERCOMAQ",
       "rut": "76141853-K",
@@ -329,16 +339,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 7
-    },
-    {
-      "empresa_id": "252",
-      "nombre_empresa": "ACSI RESEARCH",
-      "rut": "ARE150319Q48",
-      "pais": "México",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "Full Cycle",
       "count": 7
     },
     {
@@ -428,6 +428,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
+      "empresa_id": "2005",
+      "nombre_empresa": "SOCIAS INMOBILIARIAS",
+      "rut": "78095861-8",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 5
     },
@@ -658,16 +668,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "2005",
-      "nombre_empresa": "SOCIAS INMOBILIARIAS",
-      "rut": "78095861-8",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 3
     },
