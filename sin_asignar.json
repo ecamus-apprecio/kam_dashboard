@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T23:02:01.267427+00:00",
+  "generated_at": "2026-09-11T03:59:56.713125+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -532,16 +532,6 @@
       "count": 4
     },
     {
-      "empresa_id": "1074",
-      "nombre_empresa": "Logis Fashion",
-      "rut": "96.653.770-1",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
       "empresa_id": "550",
       "nombre_empresa": "Alborada",
       "rut": "769695818",
@@ -902,6 +892,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1074",
+      "nombre_empresa": "Logis Fashion",
+      "rut": "96.653.770-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "1943",
       "nombre_empresa": "NILO ARROYO",
       "rut": "76.345.095-3",
@@ -1239,16 +1239,6 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "81",
-      "nombre_empresa": "Intcomex (EPSON)",
-      "rut": "1791743148001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "count": 2
     },
     {
@@ -2092,6 +2082,16 @@
       "count": 1
     },
     {
+      "empresa_id": "81",
+      "nombre_empresa": "Intcomex (EPSON)",
+      "rut": "1791743148001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 1
+    },
+    {
       "empresa_id": "75",
       "nombre_empresa": "PRECISION ECUADOR",
       "rut": "993016578001",
@@ -2251,7 +2251,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2796.0
+      "usuarios_incentivados": 2792.0
     },
     {
       "empresa_id": "3",
@@ -2271,7 +2271,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2062.0
+      "usuarios_incentivados": 2057.0
     },
     {
       "empresa_id": "1",
@@ -2301,7 +2301,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1158.0
+      "usuarios_incentivados": 1147.0
     },
     {
       "empresa_id": "234",
@@ -2351,7 +2351,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 454.0
+      "usuarios_incentivados": 450.0
     },
     {
       "empresa_id": "938",
@@ -2431,7 +2431,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 270.0
+      "usuarios_incentivados": 272.0
     },
     {
       "empresa_id": "1495",
@@ -2634,6 +2634,16 @@
       "usuarios_incentivados": 66.0
     },
     {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 65.0
+    },
+    {
       "empresa_id": "82",
       "nombre_empresa": "SMARTSTORES S.A.",
       "rut": "0190495825001",
@@ -2724,16 +2734,6 @@
       "usuarios_incentivados": 47.0
     },
     {
-      "empresa_id": "1368",
-      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
-      "rut": "9009797448",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 46.0
-    },
-    {
       "empresa_id": "1452",
       "nombre_empresa": "Bulkmatic de Colombia SAS",
       "rut": "9009704395",
@@ -2771,7 +2771,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "cbocanegra@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 39.0
+      "usuarios_incentivados": 40.0
     },
     {
       "empresa_id": "1343",
@@ -2781,7 +2781,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 37.0
+      "usuarios_incentivados": 38.0
     },
     {
       "empresa_id": "210",
@@ -2791,7 +2791,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 37.0
+      "usuarios_incentivados": 38.0
     },
     {
       "empresa_id": "1052",
@@ -3144,6 +3144,16 @@
       "usuarios_incentivados": 13.0
     },
     {
+      "empresa_id": "1547",
+      "nombre_empresa": "COMERCIALIZADORA DISFRUVER S.A.S.",
+      "rut": "900135976",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 13.0
+    },
+    {
       "empresa_id": "232",
       "nombre_empresa": "Sinergy Solutions",
       "rut": "SSO001124AT2",
@@ -3274,16 +3284,6 @@
       "usuarios_incentivados": 10.0
     },
     {
-      "empresa_id": "1547",
-      "nombre_empresa": "COMERCIALIZADORA DISFRUVER S.A.S.",
-      "rut": "900135976",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 10.0
-    },
-    {
       "empresa_id": "58",
       "nombre_empresa": "UIO BTL",
       "rut": "1792184037001",
@@ -3384,6 +3384,16 @@
       "usuarios_incentivados": 7.0
     },
     {
+      "empresa_id": "2006",
+      "nombre_empresa": "MDL AUTOS",
+      "rut": "77704290-4",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 7.0
+    },
+    {
       "empresa_id": "801",
       "nombre_empresa": "DAYVO SISTEMAS COLOMBIA SAS",
       "rut": "9011939174",
@@ -3424,9 +3434,9 @@
       "usuarios_incentivados": 6.0
     },
     {
-      "empresa_id": "2006",
-      "nombre_empresa": "MDL AUTOS",
-      "rut": "77704290-4",
+      "empresa_id": "2005",
+      "nombre_empresa": "SOCIAS INMOBILIARIAS",
+      "rut": "78095861-8",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3530,16 +3540,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 4.0
-    },
-    {
-      "empresa_id": "2005",
-      "nombre_empresa": "SOCIAS INMOBILIARIAS",
-      "rut": "78095861-8",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 4.0
     },
