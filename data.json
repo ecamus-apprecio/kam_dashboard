@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:46:07.005615+00:00",
+  "generated_at": "2026-09-11T23:06:39.938983+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -89,8 +89,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 340.23,
-          "tickets_exec": 68.05,
+          "tickets_mensual": 340.54,
+          "tickets_exec": 68.11,
           "reuniones_monthly": [
             100,
             87,
@@ -128,7 +128,7 @@
             {
               "nombre": "Roberto Molina",
               "correo": "rmolina@apprecio.com",
-              "tickets_mensual": 85.34,
+              "tickets_mensual": 85.49,
               "reuniones_mensual": 8.22,
               "total_clientes": 79.0,
               "usuarios_total": 28420.0
@@ -136,7 +136,7 @@
             {
               "nombre": "Felipe Ospina",
               "correo": "fospina@apprecio.com",
-              "tickets_mensual": 36.34,
+              "tickets_mensual": 36.49,
               "reuniones_mensual": 0.0,
               "total_clientes": 82.0,
               "usuarios_total": 3802.0
@@ -202,8 +202,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 146.08,
-          "tickets_exec": 73.04,
+          "tickets_mensual": 146.23,
+          "tickets_exec": 73.11,
           "reuniones_monthly": [
             8,
             15,
@@ -225,7 +225,7 @@
             {
               "nombre": "Diana Duran",
               "correo": "dduran@apprecio.com",
-              "tickets_mensual": 53.19,
+              "tickets_mensual": 53.27,
               "reuniones_mensual": 7.56,
               "total_clientes": 104.5,
               "usuarios_total": 10005.0
@@ -265,10 +265,10 @@
             15,
             34,
             17,
-            8
+            9
           ],
-          "reuniones_mensual": 20.12,
-          "reuniones_exec": 20.12,
+          "reuniones_mensual": 20.25,
+          "reuniones_exec": 20.25,
           "clientes_exec": 32.0,
           "total_clientes": 32,
           "usuarios_total": 670.0,
@@ -278,7 +278,7 @@
               "nombre": "Darling Allendes",
               "correo": "dallendes@dcanje.com",
               "tickets_mensual": 7.85,
-              "reuniones_mensual": 20.12,
+              "reuniones_mensual": 20.25,
               "total_clientes": 30.0,
               "usuarios_total": 628.0
             }
