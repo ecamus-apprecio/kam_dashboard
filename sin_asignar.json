@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:54:54.915652+00:00",
+  "generated_at": "2026-09-13T11:28:32.923044+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -29,7 +29,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 43
+      "count": 42
     },
     {
       "empresa_id": "686",
@@ -562,16 +562,6 @@
       "count": 4
     },
     {
-      "empresa_id": "1",
-      "nombre_empresa": "Apprecio",
-      "rut": "",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
       "empresa_id": "758",
       "nombre_empresa": "Medifarma  - Comercial",
       "rut": "20100018625",
@@ -668,6 +658,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "1",
+      "nombre_empresa": "Apprecio",
+      "rut": "",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 3
     },
@@ -1058,16 +1058,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "347",
-      "nombre_empresa": "SERVICIOS INTEGRALES TOUCH COLOMBIA S.A.S.",
-      "rut": "901495015",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -1762,6 +1752,16 @@
       "count": 1
     },
     {
+      "empresa_id": "347",
+      "nombre_empresa": "SERVICIOS INTEGRALES TOUCH COLOMBIA S.A.S.",
+      "rut": "901495015",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "998",
       "nombre_empresa": "Fuerza Demo",
       "rut": "999999999",
@@ -2261,7 +2261,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2792.0
+      "usuarios_incentivados": 2786.0
     },
     {
       "empresa_id": "3",
@@ -2271,7 +2271,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2133.0
+      "usuarios_incentivados": 2132.0
     },
     {
       "empresa_id": "343",
@@ -2291,7 +2291,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1549.0
+      "usuarios_incentivados": 1547.0
     },
     {
       "empresa_id": "620",
@@ -2311,7 +2311,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1147.0
+      "usuarios_incentivados": 1146.0
     },
     {
       "empresa_id": "234",
@@ -2341,7 +2341,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 600.0
+      "usuarios_incentivados": 555.0
     },
     {
       "empresa_id": "434",
@@ -2394,16 +2394,6 @@
       "usuarios_incentivados": 402.0
     },
     {
-      "empresa_id": "165",
-      "nombre_empresa": "ENTEL-CHILE S.A.",
-      "rut": "92580000",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 393.0
-    },
-    {
       "empresa_id": "60",
       "nombre_empresa": "MEGONETWORKS",
       "rut": "1793065457001",
@@ -2412,6 +2402,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 391.0
+    },
+    {
+      "empresa_id": "165",
+      "nombre_empresa": "ENTEL-CHILE S.A.",
+      "rut": "92580000",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 385.0
     },
     {
       "empresa_id": "686",
@@ -2431,7 +2431,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 308.0
+      "usuarios_incentivados": 306.0
     },
     {
       "empresa_id": "1035",
@@ -2441,7 +2441,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 278.0
+      "usuarios_incentivados": 277.0
     },
     {
       "empresa_id": "1495",
@@ -2834,16 +2834,6 @@
       "usuarios_incentivados": 35.0
     },
     {
-      "empresa_id": "15",
-      "nombre_empresa": "SIIGO",
-      "rut": "992560754001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 33.0
-    },
-    {
       "empresa_id": "1550",
       "nombre_empresa": "SOLVO S.A.S",
       "rut": "901180401",
@@ -2851,6 +2841,16 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
+      "usuarios_incentivados": 32.0
+    },
+    {
+      "empresa_id": "15",
+      "nombre_empresa": "SIIGO",
+      "rut": "992560754001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "usuarios_incentivados": 32.0
     },
     {
