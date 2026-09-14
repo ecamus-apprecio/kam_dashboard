@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:21:50.387216+00:00",
+  "generated_at": "2026-09-14T19:46:46.448645+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -29,7 +29,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 42
+      "count": 43
     },
     {
       "empresa_id": "686",
@@ -62,16 +62,6 @@
       "count": 24
     },
     {
-      "empresa_id": "10",
-      "nombre_empresa": "Apprecio",
-      "rut": "76.339.081-0",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "sgajardo@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 19
-    },
-    {
       "empresa_id": "89",
       "nombre_empresa": "CALBAQ S.A.",
       "rut": "990135630001",
@@ -79,6 +69,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
+      "count": 20
+    },
+    {
+      "empresa_id": "10",
+      "nombre_empresa": "Apprecio",
+      "rut": "76.339.081-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "redistribuido_a": "KAM",
       "count": 19
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "empresa_id": "63",
-      "nombre_empresa": "HUBTEK ECUADOR S.A.S.",
+      "nombre_empresa": "LEAN SOLUTIONS GROUP S.A.S.",
       "rut": "993375303001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
@@ -472,6 +472,16 @@
       "count": 5
     },
     {
+      "empresa_id": "1202",
+      "nombre_empresa": "CRISTAR TABLETOP S.A.S",
+      "rut": "9014954528",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "1334",
       "nombre_empresa": "NISUM COLOMBIA SAS",
       "rut": "9015511261",
@@ -589,16 +599,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 4
-    },
-    {
-      "empresa_id": "1202",
-      "nombre_empresa": "CRISTAR TABLETOP S.A.S",
-      "rut": "9014954528",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
       "count": 4
     },
     {
@@ -1542,6 +1542,16 @@
       "count": 1
     },
     {
+      "empresa_id": "2043",
+      "nombre_empresa": "CONSTRUCTORA VALKO",
+      "rut": "83145600-0",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "862",
       "nombre_empresa": "Madison Performance - EC",
       "rut": "134141712",
@@ -2055,6 +2065,16 @@
       "empresa_id": "1625",
       "nombre_empresa": "GRUPO DIMEO S A S",
       "rut": "9010255330",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1653",
+      "nombre_empresa": "JN PUBLICIDAD Y MONTAJES S.A.S",
+      "rut": "9017013864",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
