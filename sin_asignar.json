@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:27:30.859816+00:00",
+  "generated_at": "2026-09-15T16:40:18.085047+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 61
+      "count": 62
     },
     {
       "empresa_id": "114",
@@ -89,7 +89,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 18
+      "count": 19
     },
     {
       "empresa_id": "165",
@@ -129,6 +129,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
+      "count": 15
+    },
+    {
+      "empresa_id": "68",
+      "nombre_empresa": "SATRACK SA",
+      "rut": "1792337321001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "count": 14
     },
     {
@@ -139,16 +149,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 13
-    },
-    {
-      "empresa_id": "68",
-      "nombre_empresa": "SATRACK SA",
-      "rut": "1792337321001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "count": 13
     },
     {
@@ -170,6 +170,16 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 11
+    },
+    {
+      "empresa_id": "1955",
+      "nombre_empresa": "TUAUTO SPA",
+      "rut": "76982452-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 10
     },
     {
       "empresa_id": "533",
@@ -205,16 +215,6 @@
       "empresa_id": "1846",
       "nombre_empresa": "VIVO TECH",
       "rut": "55.555.555-5",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 9
-    },
-    {
-      "empresa_id": "1955",
-      "nombre_empresa": "TUAUTO SPA",
-      "rut": "76982452-9",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -1555,6 +1555,16 @@
       "empresa_id": "2043",
       "nombre_empresa": "CONSTRUCTORA VALKO",
       "rut": "83145600-0",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2042",
+      "nombre_empresa": "Seguros Alianza",
+      "rut": "76.226.070-0",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
