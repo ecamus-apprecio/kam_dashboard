@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:15:38.757119+00:00",
+  "generated_at": "2026-09-16T11:13:28.686018+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -24,8 +24,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 555.15,
-          "tickets_exec": 111.03,
+          "tickets_mensual": 555.77,
+          "tickets_exec": 111.15,
           "reuniones_monthly": [
             31,
             26,
@@ -47,7 +47,7 @@
             {
               "nombre": "Lorenzo Jamasmie",
               "correo": "ljamasmie@apprecio.com",
-              "tickets_mensual": 169.23,
+              "tickets_mensual": 169.69,
               "reuniones_mensual": 6.22,
               "total_clientes": 108.4,
               "usuarios_total": 40513.8
@@ -71,7 +71,7 @@
             {
               "nombre": "Benjamin Gonzalez",
               "correo": "bgonzalez@apprecio.com",
-              "tickets_mensual": 82.85,
+              "tickets_mensual": 82.92,
               "reuniones_mensual": 5.0,
               "total_clientes": 112.4,
               "usuarios_total": 40541.8
@@ -79,7 +79,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 71.92,
+              "tickets_mensual": 72.0,
               "reuniones_mensual": 1.0,
               "total_clientes": 170.4,
               "usuarios_total": 10370.8
@@ -254,8 +254,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 1,
-          "tickets_mensual": 8.31,
-          "tickets_exec": 8.31,
+          "tickets_mensual": 8.38,
+          "tickets_exec": 8.38,
           "reuniones_monthly": [
             59,
             25,
@@ -277,7 +277,7 @@
             {
               "nombre": "Darling Allendes",
               "correo": "dallendes@dcanje.com",
-              "tickets_mensual": 7.92,
+              "tickets_mensual": 8.0,
               "reuniones_mensual": 20.62,
               "total_clientes": 31.0,
               "usuarios_total": 640.0
