@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T21:05:07.788132+00:00",
+  "generated_at": "2026-09-16T04:15:38.757119+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 62
+      "count": 55
     },
     {
       "empresa_id": "114",
@@ -39,7 +39,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 37
+      "count": 35
     },
     {
       "empresa_id": "505",
@@ -122,19 +122,19 @@
       "count": 15
     },
     {
-      "empresa_id": "15",
-      "nombre_empresa": "SIIGO",
-      "rut": "992560754001",
+      "empresa_id": "68",
+      "nombre_empresa": "SATRACK SA",
+      "rut": "1792337321001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 15
+      "count": 14
     },
     {
-      "empresa_id": "68",
-      "nombre_empresa": "SATRACK SA",
-      "rut": "1792337321001",
+      "empresa_id": "15",
+      "nombre_empresa": "SIIGO",
+      "rut": "992560754001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -198,6 +198,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 10
+    },
+    {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 10
     },
@@ -268,16 +278,6 @@
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "1368",
-      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
-      "rut": "9009797448",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 8
     },
@@ -1612,16 +1612,6 @@
       "count": 1
     },
     {
-      "empresa_id": "64",
-      "nombre_empresa": "Fuerza Demo 2",
-      "rut": "20603016034",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "822",
       "nombre_empresa": "PERIFERIA IT CORP PERU S.A.C.",
       "rut": "20563741679",
@@ -1785,16 +1775,6 @@
       "empresa_id": "347",
       "nombre_empresa": "SERVICIOS INTEGRALES TOUCH COLOMBIA S.A.S.",
       "rut": "901495015",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "998",
-      "nombre_empresa": "Fuerza Demo",
-      "rut": "999999999",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
@@ -2122,16 +2102,6 @@
       "count": 1
     },
     {
-      "empresa_id": "103",
-      "nombre_empresa": "Fuerza Demo",
-      "rut": "763390810",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 1
-    },
-    {
       "empresa_id": "81",
       "nombre_empresa": "Intcomex (EPSON)",
       "rut": "1791743148001",
@@ -2301,7 +2271,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2811.0
+      "usuarios_incentivados": 2805.0
     },
     {
       "empresa_id": "3",
@@ -2351,7 +2321,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1146.0
+      "usuarios_incentivados": 1145.0
     },
     {
       "empresa_id": "234",
@@ -2371,7 +2341,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 703.0
+      "usuarios_incentivados": 702.0
     },
     {
       "empresa_id": "1846",
@@ -2464,16 +2434,6 @@
       "usuarios_incentivados": 354.0
     },
     {
-      "empresa_id": "114",
-      "nombre_empresa": "CONGRUPO",
-      "rut": "800146643",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 306.0
-    },
-    {
       "empresa_id": "1495",
       "nombre_empresa": "CORPORACION INTERACTUAR",
       "rut": "8909848433",
@@ -2481,7 +2441,17 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 282.0
+      "usuarios_incentivados": 307.0
+    },
+    {
+      "empresa_id": "114",
+      "nombre_empresa": "CONGRUPO",
+      "rut": "800146643",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 305.0
     },
     {
       "empresa_id": "1035",
@@ -2530,6 +2500,16 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 209.0
+    },
+    {
+      "empresa_id": "1493",
+      "nombre_empresa": "COMPAÑIA ASEGURADORA DE FIANZAS S A",
+      "rut": "8600703749",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 209.0
     },
@@ -2651,7 +2631,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 83.0
+      "usuarios_incentivados": 81.0
     },
     {
       "empresa_id": "398",
@@ -2702,16 +2682,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 63.0
-    },
-    {
-      "empresa_id": "1493",
-      "nombre_empresa": "COMPAÑIA ASEGURADORA DE FIANZAS S A",
-      "rut": "8600703749",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 58.0
     },
     {
       "empresa_id": "2009",
@@ -2864,6 +2834,16 @@
       "usuarios_incentivados": 36.0
     },
     {
+      "empresa_id": "2004",
+      "nombre_empresa": "Banco BCI",
+      "rut": "97006000-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 35.0
+    },
+    {
       "empresa_id": "121",
       "nombre_empresa": "FUNDACION UNIVERSITARIA INTERNACIONAL DE LA RIOJA",
       "rut": "90109661",
@@ -2904,16 +2884,6 @@
       "usuarios_incentivados": 32.0
     },
     {
-      "empresa_id": "2004",
-      "nombre_empresa": "Banco BCI",
-      "rut": "97006000-6",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 31.0
-    },
-    {
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
@@ -2921,7 +2891,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 29.0
+      "usuarios_incentivados": 30.0
     },
     {
       "empresa_id": "861",
@@ -3364,6 +3334,16 @@
       "usuarios_incentivados": 8.0
     },
     {
+      "empresa_id": "2018",
+      "nombre_empresa": "Fika Express Rancagua",
+      "rut": "78228769-9",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 8.0
+    },
+    {
       "empresa_id": "830",
       "nombre_empresa": "MARKETING FUTURO LAB",
       "rut": "20609755246",
@@ -3434,6 +3414,16 @@
       "usuarios_incentivados": 7.0
     },
     {
+      "empresa_id": "2005",
+      "nombre_empresa": "SOCIAS INMOBILIARIAS",
+      "rut": "78095861-8",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 7.0
+    },
+    {
       "empresa_id": "2006",
       "nombre_empresa": "MDL AUTOS",
       "rut": "77704290-4",
@@ -3484,32 +3474,12 @@
       "usuarios_incentivados": 6.0
     },
     {
-      "empresa_id": "2005",
-      "nombre_empresa": "SOCIAS INMOBILIARIAS",
-      "rut": "78095861-8",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 6.0
-    },
-    {
       "empresa_id": "836",
       "nombre_empresa": "Sociedad Gestora de Fondos de Inversión Salkantay",
       "rut": "20553519617",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 6.0
-    },
-    {
-      "empresa_id": "998",
-      "nombre_empresa": "Fuerza Demo",
-      "rut": "999999999",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
     },
@@ -3532,6 +3502,26 @@
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
+    },
+    {
+      "empresa_id": "998",
+      "nombre_empresa": "Fuerza Demo",
+      "rut": "999999999",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 6.0
+    },
+    {
+      "empresa_id": "2039",
+      "nombre_empresa": "Sinovac Chile",
+      "rut": "77447449-8",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 5.0
     },
     {
       "empresa_id": "2029",
@@ -3607,6 +3597,16 @@
       "empresa_id": "2040",
       "nombre_empresa": "SPV Educamos Chile SPA",
       "rut": "78083565-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
+      "empresa_id": "2042",
+      "nombre_empresa": "Seguros Alianza",
+      "rut": "76226070-0",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3814,32 +3814,12 @@
       "usuarios_incentivados": 2.0
     },
     {
-      "empresa_id": "2018",
-      "nombre_empresa": "Fika Express Rancagua",
-      "rut": "78228769-9",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
       "empresa_id": "1772",
       "nombre_empresa": "Óptica Santa Lucía",
       "rut": "80941300-4",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "ecamus@apprecio.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "64",
-      "nombre_empresa": "Fuerza Demo 2",
-      "rut": "20603016034",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
@@ -3880,6 +3860,26 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "64",
+      "nombre_empresa": "Fuerza Demo 2",
+      "rut": "20603016034",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "1315",
+      "nombre_empresa": "FUNDACION UNIVERSITARIA COLOMBO GERMANA",
+      "rut": "9004072221",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
