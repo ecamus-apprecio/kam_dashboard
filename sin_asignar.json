@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:33:33.137996+00:00",
+  "generated_at": "2026-09-16T21:07:01.089169+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -222,6 +222,16 @@
       "count": 10
     },
     {
+      "empresa_id": "86",
+      "nombre_empresa": "ASPENPHARMA S.A.",
+      "rut": "1792453712001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 10
+    },
+    {
       "empresa_id": "1846",
       "nombre_empresa": "VIVO TECH",
       "rut": "55.555.555-5",
@@ -239,16 +249,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 9
-    },
-    {
-      "empresa_id": "86",
-      "nombre_empresa": "ASPENPHARMA S.A.",
-      "rut": "1792453712001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "count": 9
     },
     {
@@ -1232,6 +1232,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1573",
+      "nombre_empresa": "CEIP-CENTRO DE ESTUDIOS EN INFECTOLOGIA PEDIATRICA",
+      "rut": "9005785433",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "1562",
       "nombre_empresa": "TRAMITPASS S.A.S",
       "rut": "9018279485",
@@ -1988,16 +1998,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1573",
-      "nombre_empresa": "CEIP-CENTRO DE ESTUDIOS EN INFECTOLOGIA PEDIATRICA",
-      "rut": "9005785433",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
