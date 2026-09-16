@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:13:28.686018+00:00",
+  "generated_at": "2026-09-16T16:33:33.137996+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1565,6 +1565,16 @@
       "empresa_id": "2042",
       "nombre_empresa": "Seguros Alianza",
       "rut": "76.226.070-0",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2047",
+      "nombre_empresa": "Servinformación",
+      "rut": "59245020-8",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
