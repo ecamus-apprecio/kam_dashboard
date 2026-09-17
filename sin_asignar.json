@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:22:38.075277+00:00",
+  "generated_at": "2026-09-17T16:38:50.161065+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -262,6 +262,16 @@
       "count": 9
     },
     {
+      "empresa_id": "1975",
+      "nombre_empresa": "Augustar Seguros de Vida",
+      "rut": "76632384-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 8
+    },
+    {
       "empresa_id": "821",
       "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
       "rut": "20614426692",
@@ -298,16 +308,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 7
-    },
-    {
-      "empresa_id": "1975",
-      "nombre_empresa": "Augustar Seguros de Vida",
-      "rut": "76632384-7",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 7
     },
@@ -702,6 +702,16 @@
       "count": 3
     },
     {
+      "empresa_id": "1571",
+      "nombre_empresa": "Profesionales del Helado SAS",
+      "rut": "9004389070",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "1056",
       "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
       "rut": "9003602789",
@@ -972,6 +982,16 @@
       "count": 2
     },
     {
+      "empresa_id": "2020",
+      "nombre_empresa": "MALLORCAUTOS",
+      "rut": "77271121-2",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "2019",
       "nombre_empresa": "CURADEN CHILE",
       "rut": "76415174-7",
@@ -1185,16 +1205,6 @@
       "empresa_id": "1561",
       "nombre_empresa": "SERTRANSCO S.A.S.",
       "rut": "9014046779",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1571",
-      "nombre_empresa": "Profesionales del Helado SAS",
-      "rut": "9004389070",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1475,16 +1485,6 @@
       "empresa_id": "2017",
       "nombre_empresa": "Loopon",
       "rut": "78095526-0",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "2020",
-      "nombre_empresa": "MALLORCAUTOS",
-      "rut": "77271121-2",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2095,6 +2095,16 @@
       "empresa_id": "1663",
       "nombre_empresa": "ARTES CULINARIAS S.A.S.",
       "rut": "9009887731",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1658",
+      "nombre_empresa": "GRUPO BABEL COLOMBIA SAS",
+      "rut": "9014433233",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
