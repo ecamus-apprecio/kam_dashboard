@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T04:06:00.642326+00:00",
+  "generated_at": "2026-09-18T10:55:39.938505+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -89,8 +89,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 341.0,
-          "tickets_exec": 68.2,
+          "tickets_mensual": 341.08,
+          "tickets_exec": 68.22,
           "reuniones_monthly": [
             100,
             87,
@@ -144,7 +144,7 @@
             {
               "nombre": "Andersson Leon",
               "correo": "aleon@apprecio.com",
-              "tickets_mensual": 32.94,
+              "tickets_mensual": 33.02,
               "reuniones_mensual": 34.56,
               "total_clientes": 77.6,
               "usuarios_total": 6089.8
@@ -427,8 +427,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 1,
-          "tickets_mensual": 76.85,
-          "tickets_exec": 76.85,
+          "tickets_mensual": 76.92,
+          "tickets_exec": 76.92,
           "reuniones_monthly": [
             0,
             0,
@@ -450,7 +450,7 @@
             {
               "nombre": "Paula Montoya",
               "correo": "pmontoya@apprecio.com",
-              "tickets_mensual": 76.85,
+              "tickets_mensual": 76.92,
               "reuniones_mensual": 9.67,
               "total_clientes": 122.0,
               "usuarios_total": 11153.0
