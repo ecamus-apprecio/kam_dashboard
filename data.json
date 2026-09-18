@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:55:39.938505+00:00",
+  "generated_at": "2026-09-18T16:10:05.820176+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -89,8 +89,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 341.08,
-          "tickets_exec": 68.22,
+          "tickets_mensual": 341.46,
+          "tickets_exec": 68.29,
           "reuniones_monthly": [
             100,
             87,
@@ -100,10 +100,10 @@
             51,
             29,
             33,
-            31
+            32
           ],
-          "reuniones_mensual": 62.89,
-          "reuniones_exec": 12.58,
+          "reuniones_mensual": 63.0,
+          "reuniones_exec": 12.6,
           "clientes_exec": 78.0,
           "total_clientes": 390,
           "usuarios_total": 92658.0,
@@ -112,15 +112,15 @@
             {
               "nombre": "Santiago Cuellar",
               "correo": "scuellar@apprecio.com",
-              "tickets_mensual": 97.02,
-              "reuniones_mensual": 12.11,
+              "tickets_mensual": 97.25,
+              "reuniones_mensual": 12.22,
               "total_clientes": 87.6,
               "usuarios_total": 34137.8
             },
             {
               "nombre": "Sharon Hernandez",
               "correo": "shernandez@apprecio.com",
-              "tickets_mensual": 89.09,
+              "tickets_mensual": 89.25,
               "reuniones_mensual": 7.33,
               "total_clientes": 66.6,
               "usuarios_total": 20123.8
@@ -202,8 +202,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 144.92,
-          "tickets_exec": 72.46,
+          "tickets_mensual": 145.15,
+          "tickets_exec": 72.58,
           "reuniones_monthly": [
             8,
             15,
