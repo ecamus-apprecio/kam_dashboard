@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T22:48:16.248215+00:00",
+  "generated_at": "2026-09-20T04:22:03.879506+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 189
+      "count": 188
     },
     {
       "empresa_id": "1802",
@@ -29,7 +29,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 43
+      "count": 42
     },
     {
       "empresa_id": "686",
@@ -1054,7 +1054,7 @@
     {
       "empresa_id": "864",
       "nombre_empresa": "GRUPO BESCA",
-      "rut": "20601420458",
+      "rut": "20.601.420.458",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1084,7 +1084,7 @@
     {
       "empresa_id": "430",
       "nombre_empresa": "Grasas S.A.",
-      "rut": "8.913.005.294",
+      "rut": "8913005294",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
@@ -2361,7 +2361,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1311.0
+      "usuarios_incentivados": 1301.0
     },
     {
       "empresa_id": "1802",
@@ -2371,7 +2371,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1126.0
+      "usuarios_incentivados": 1123.0
     },
     {
       "empresa_id": "234",
