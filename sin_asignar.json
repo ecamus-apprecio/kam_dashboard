@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T19:55:16.531403+00:00",
+  "generated_at": "2026-09-21T23:58:21.921718+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -352,6 +352,16 @@
       "count": 7
     },
     {
+      "empresa_id": "88",
+      "nombre_empresa": "KUSHKI SA",
+      "rut": "1792574218001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 7
+    },
+    {
       "empresa_id": "1035",
       "nombre_empresa": "Polar",
       "rut": "76333370-1",
@@ -399,16 +409,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
-      "empresa_id": "88",
-      "nombre_empresa": "KUSHKI SA",
-      "rut": "1792574218001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "count": 6
     },
     {
@@ -1372,6 +1372,16 @@
       "count": 1
     },
     {
+      "empresa_id": "2049",
+      "nombre_empresa": "FRONERI SPA",
+      "rut": "78450685-1",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "1730",
       "nombre_empresa": "FOCHITEK",
       "rut": "76210425-3",
@@ -1704,7 +1714,7 @@
     {
       "empresa_id": "840",
       "nombre_empresa": "APACHETA COMUNICACIONES S.A.C.",
-      "rut": "20606927542",
+      "rut": "20.606.927.542",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
