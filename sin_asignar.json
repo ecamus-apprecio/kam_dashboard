@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:29:01.709666+00:00",
+  "generated_at": "2026-09-21T19:55:16.531403+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -152,6 +152,16 @@
       "count": 13
     },
     {
+      "empresa_id": "1057",
+      "nombre_empresa": "NEXOS SOFTWARE",
+      "rut": "8110237291",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 12
+    },
+    {
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
@@ -160,16 +170,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 12
-    },
-    {
-      "empresa_id": "1057",
-      "nombre_empresa": "NEXOS SOFTWARE",
-      "rut": "8110237291",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 11
     },
     {
       "empresa_id": "1955",
@@ -842,6 +842,16 @@
       "count": 3
     },
     {
+      "empresa_id": "1567",
+      "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
+      "rut": "9017772911",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "71",
       "nombre_empresa": "EVALUAR",
       "rut": "1792213495001",
@@ -1054,7 +1064,7 @@
     {
       "empresa_id": "864",
       "nombre_empresa": "GRUPO BESCA",
-      "rut": "20.601.420.458",
+      "rut": "20601420458",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1225,16 +1235,6 @@
       "empresa_id": "1583",
       "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
       "rut": "900557006",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1567",
-      "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
-      "rut": "9017772911",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
