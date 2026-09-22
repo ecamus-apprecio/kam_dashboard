@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:18:02.065867+00:00",
+  "generated_at": "2026-09-22T16:40:04.997627+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -69,7 +69,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 21
+      "count": 23
     },
     {
       "empresa_id": "10",
@@ -872,9 +872,29 @@
       "count": 3
     },
     {
+      "empresa_id": "80",
+      "nombre_empresa": "Cy Send",
+      "rut": "55555555-5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 3
+    },
+    {
       "empresa_id": "1515",
       "nombre_empresa": "Topach",
       "rut": "76090951-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1624",
+      "nombre_empresa": "Cy Send",
+      "rut": "55555555-5",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -1312,16 +1332,6 @@
       "count": 2
     },
     {
-      "empresa_id": "80",
-      "nombre_empresa": "Cy Send",
-      "rut": "55555555-5",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "Full Cycle",
-      "count": 2
-    },
-    {
       "empresa_id": "230",
       "nombre_empresa": "Creatblue",
       "rut": "POM030403GG2",
@@ -1330,16 +1340,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "count": 2
-    },
-    {
-      "empresa_id": "1624",
-      "nombre_empresa": "Cy Send",
-      "rut": "55555555-5",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
     },
     {
       "empresa_id": "1839",
@@ -1622,6 +1622,26 @@
       "count": 1
     },
     {
+      "empresa_id": "2033",
+      "nombre_empresa": "Envista",
+      "rut": "85025400-1",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2050",
+      "nombre_empresa": "APIS",
+      "rut": "77715125-8",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "862",
       "nombre_empresa": "Madison Performance - EC",
       "rut": "134141712",
@@ -1819,6 +1839,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "666",
+      "nombre_empresa": "Cy Send",
+      "rut": "555555555",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 1
     },
     {
@@ -2132,6 +2162,16 @@
       "count": 1
     },
     {
+      "empresa_id": "1673",
+      "nombre_empresa": "NEXTBUSINESS COLOMBIA SAS",
+      "rut": "9013567312",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "92",
       "nombre_empresa": "Madison Performance Group",
       "rut": "134141712",
@@ -2145,6 +2185,16 @@
       "empresa_id": "98",
       "nombre_empresa": "Bonda Peru",
       "rut": "20609428253",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 1
+    },
+    {
+      "empresa_id": "83",
+      "nombre_empresa": "Cy Send",
+      "rut": "555555555",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
