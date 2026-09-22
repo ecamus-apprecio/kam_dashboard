@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T23:58:21.921718+00:00",
+  "generated_at": "2026-09-22T04:41:02.588140+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -2351,7 +2351,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1996.0
+      "usuarios_incentivados": 2002.0
     },
     {
       "empresa_id": "1",
@@ -2491,7 +2491,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 307.0
+      "usuarios_incentivados": 309.0
     },
     {
       "empresa_id": "1495",
@@ -2794,6 +2794,16 @@
       "usuarios_incentivados": 50.0
     },
     {
+      "empresa_id": "861",
+      "nombre_empresa": "Habla Latam",
+      "rut": "20610759069",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 48.0
+    },
+    {
       "empresa_id": "1153",
       "nombre_empresa": "MUMU COLOMBIA SAS",
       "rut": "9016576244",
@@ -2810,16 +2820,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 47.0
-    },
-    {
-      "empresa_id": "861",
-      "nombre_empresa": "Habla Latam",
-      "rut": "20610759069",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 47.0
     },
@@ -2874,6 +2874,16 @@
       "usuarios_incentivados": 40.0
     },
     {
+      "empresa_id": "1052",
+      "nombre_empresa": "SOFTCARIBBEAN S.A.S",
+      "rut": "9002300040",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
+      "usuarios_incentivados": 39.0
+    },
+    {
       "empresa_id": "1343",
       "nombre_empresa": "E-DENTAL COLOMBIA SAS",
       "rut": "9010525270",
@@ -2882,16 +2892,6 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 39.0
-    },
-    {
-      "empresa_id": "1052",
-      "nombre_empresa": "SOFTCARIBBEAN S.A.S",
-      "rut": "9002300040",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
-      "usuarios_incentivados": 38.0
     },
     {
       "empresa_id": "210",
@@ -3022,6 +3022,16 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 23.0
+    },
+    {
+      "empresa_id": "901",
+      "nombre_empresa": "UPN CAMPAÑAS POSGRADO",
+      "rut": "20215276024",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 22.0
     },
     {
       "empresa_id": "1436",
@@ -3184,6 +3194,16 @@
       "usuarios_incentivados": 16.0
     },
     {
+      "empresa_id": "1663",
+      "nombre_empresa": "ARTES CULINARIAS S.A.S.",
+      "rut": "9009887731",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 15.0
+    },
+    {
       "empresa_id": "235",
       "nombre_empresa": "H+Patrimonial",
       "rut": "HSE080218RK5",
@@ -3340,16 +3360,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 11.0
-    },
-    {
-      "empresa_id": "901",
-      "nombre_empresa": "UPN CAMPAÑAS POSGRADO",
-      "rut": "20215276024",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 11.0
     },
@@ -3564,6 +3574,16 @@
       "usuarios_incentivados": 7.0
     },
     {
+      "empresa_id": "1411",
+      "nombre_empresa": "ICONICO STUDIO SAS",
+      "rut": "9013626150",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 7.0
+    },
+    {
       "empresa_id": "1736",
       "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
       "rut": "77776240-0",
@@ -3690,16 +3710,6 @@
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 5.0
-    },
-    {
-      "empresa_id": "1411",
-      "nombre_empresa": "ICONICO STUDIO SAS",
-      "rut": "9013626150",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 5.0
     },
@@ -4147,16 +4157,6 @@
       "empresa_id": "1568",
       "nombre_empresa": "INGENIERIA Y SEGURIDAD VIAL S A S",
       "rut": "9007869477",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "1663",
-      "nombre_empresa": "ARTES CULINARIAS S.A.S.",
-      "rut": "9009887731",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
