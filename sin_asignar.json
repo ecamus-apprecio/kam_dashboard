@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:11:36.123999+00:00",
+  "generated_at": "2026-09-23T16:33:20.539874+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1714,7 +1714,7 @@
     {
       "empresa_id": "842",
       "nombre_empresa": "BUK CHILE",
-      "rut": "20606476338",
+      "rut": "20.606.476.338",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1859,6 +1859,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1662",
+      "nombre_empresa": "Hablax, Inc.",
+      "rut": "833688881",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
