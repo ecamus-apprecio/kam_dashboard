@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:20:19.197354+00:00",
+  "generated_at": "2026-09-24T04:08:03.795385+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 180
+      "count": 178
     },
     {
       "empresa_id": "1802",
@@ -192,16 +192,6 @@
       "count": 10
     },
     {
-      "empresa_id": "598",
-      "nombre_empresa": "Versilia Colombia",
-      "rut": "902018021",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 10
-    },
-    {
       "empresa_id": "1368",
       "nombre_empresa": "INDIGO SEGUROS LIMITADA",
       "rut": "9009797448",
@@ -248,6 +238,16 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
+      "empresa_id": "598",
+      "nombre_empresa": "Versilia Colombia",
+      "rut": "902018021",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 9
     },
@@ -2431,7 +2431,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2811.0
+      "usuarios_incentivados": 2810.0
     },
     {
       "empresa_id": "3",
@@ -2451,7 +2451,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2002.0
+      "usuarios_incentivados": 1969.0
     },
     {
       "empresa_id": "1",
@@ -2481,7 +2481,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1123.0
+      "usuarios_incentivados": 1122.0
     },
     {
       "empresa_id": "234",
@@ -2531,7 +2531,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 444.0
+      "usuarios_incentivados": 450.0
     },
     {
       "empresa_id": "938",
@@ -2754,16 +2754,6 @@
       "usuarios_incentivados": 110.0
     },
     {
-      "empresa_id": "754",
-      "nombre_empresa": "FORD - FUERZA",
-      "rut": "20555903546",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 99.0
-    },
-    {
       "empresa_id": "822",
       "nombre_empresa": "PERIFERIA IT CORP PERU S.A.C.",
       "rut": "20563741679",
@@ -2772,6 +2762,26 @@
       "email_kam_en_empresas": "dduran@app",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 94.0
+    },
+    {
+      "empresa_id": "754",
+      "nombre_empresa": "FORD - FUERZA",
+      "rut": "20555903546",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 93.0
+    },
+    {
+      "empresa_id": "2021",
+      "nombre_empresa": "NUAM",
+      "rut": "77726203-3",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 92.0
     },
     {
       "empresa_id": "1634",
@@ -2924,6 +2934,16 @@
       "usuarios_incentivados": 47.0
     },
     {
+      "empresa_id": "907",
+      "nombre_empresa": "NUAM - CAVALI",
+      "rut": "20346669625",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 45.0
+    },
+    {
       "empresa_id": "1452",
       "nombre_empresa": "Bulkmatic de Colombia SAS",
       "rut": "9009704395",
@@ -3014,6 +3034,16 @@
       "usuarios_incentivados": 37.0
     },
     {
+      "empresa_id": "121",
+      "nombre_empresa": "FUNDACION UNIVERSITARIA INTERNACIONAL DE LA RIOJA",
+      "rut": "90109661",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 36.0
+    },
+    {
       "empresa_id": "1012",
       "nombre_empresa": "LICAVIR SAS",
       "rut": "8300722812",
@@ -3032,16 +3062,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 36.0
-    },
-    {
-      "empresa_id": "121",
-      "nombre_empresa": "FUNDACION UNIVERSITARIA INTERNACIONAL DE LA RIOJA",
-      "rut": "90109661",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 35.0
     },
     {
       "empresa_id": "1567",
@@ -3164,6 +3184,16 @@
       "usuarios_incentivados": 22.0
     },
     {
+      "empresa_id": "1572",
+      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
+      "rut": "800230187",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 22.0
+    },
+    {
       "empresa_id": "63",
       "nombre_empresa": "LEAN SOLUTIONS GROUP S.A.S.",
       "rut": "0993375303001",
@@ -3172,16 +3202,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 22.0
-    },
-    {
-      "empresa_id": "1572",
-      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
-      "rut": "800230187",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 21.0
     },
     {
       "empresa_id": "2043",
@@ -3234,22 +3254,22 @@
       "usuarios_incentivados": 19.0
     },
     {
-      "empresa_id": "850",
-      "nombre_empresa": "RENZO COSTA SAC",
-      "rut": "20138998780",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "msernaque@",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 17.0
-    },
-    {
       "empresa_id": "1663",
       "nombre_empresa": "ARTES CULINARIAS S.A.S.",
       "rut": "9009887731",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 18.0
+    },
+    {
+      "empresa_id": "850",
+      "nombre_empresa": "RENZO COSTA SAC",
+      "rut": "20138998780",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "msernaque@",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 17.0
     },
@@ -3311,7 +3331,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "cbocanegra@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 16.0
+      "usuarios_incentivados": 15.0
     },
     {
       "empresa_id": "235",
@@ -3467,6 +3487,16 @@
       "empresa_id": "1535",
       "nombre_empresa": "KNOWLEDGE AT PROCESSES AND TRAINING ALLIES SAS",
       "rut": "900231103",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 11.0
+    },
+    {
+      "empresa_id": "1583",
+      "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
+      "rut": "900557006",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3730,16 +3760,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 6.0
-    },
-    {
-      "empresa_id": "1583",
-      "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
-      "rut": "900557006",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
     },
