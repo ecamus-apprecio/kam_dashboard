@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:52:49.491260+00:00",
+  "generated_at": "2026-09-24T21:21:45.426912+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -865,6 +865,16 @@
       "empresa_id": "1567",
       "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
       "rut": "9017772911",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "1638",
+      "nombre_empresa": "BOLSA DE VALORES DE COLOMBIA S A",
+      "rut": "830085426",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2195,16 +2205,6 @@
       "empresa_id": "1552",
       "nombre_empresa": "FUNDACION UNIVERSITARIA MONSERRATE",
       "rut": "860513077",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1638",
-      "nombre_empresa": "BOLSA DE VALORES DE COLOMBIA S A",
-      "rut": "830085426",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
