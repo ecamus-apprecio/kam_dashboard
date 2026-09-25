@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T04:21:41.578312+00:00",
+  "generated_at": "2026-09-25T11:32:53.157998+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -572,6 +572,16 @@
       "count": 4
     },
     {
+      "empresa_id": "1581",
+      "nombre_empresa": "FR Group Corredores de Seguros",
+      "rut": "79.619.240-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "788",
       "nombre_empresa": "SALESLAND CHILE",
       "rut": "555555555",
@@ -665,16 +675,6 @@
       "empresa_id": "1713",
       "nombre_empresa": "ODOOTECHNOLOGIES",
       "rut": "55555555-5",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1581",
-      "nombre_empresa": "FR Group Corredores de Seguros",
-      "rut": "79.619.240-2",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
