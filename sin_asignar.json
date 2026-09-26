@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:21:17.411524+00:00",
+  "generated_at": "2026-09-26T04:25:47.788701+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 177
+      "count": 174
     },
     {
       "empresa_id": "1802",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 55
+      "count": 53
     },
     {
       "empresa_id": "114",
@@ -29,7 +29,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 43
+      "count": 42
     },
     {
       "empresa_id": "686",
@@ -2252,16 +2252,6 @@
       "count": 1
     },
     {
-      "empresa_id": "81",
-      "nombre_empresa": "Intcomex (EPSON)",
-      "rut": "1791743148001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 1
-    },
-    {
       "empresa_id": "75",
       "nombre_empresa": "PRECISION ECUADOR",
       "rut": "993016578001",
@@ -2481,7 +2471,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1289.0
+      "usuarios_incentivados": 1256.0
     },
     {
       "empresa_id": "1802",
@@ -2491,7 +2481,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1121.0
+      "usuarios_incentivados": 1111.0
     },
     {
       "empresa_id": "234",
@@ -2531,7 +2521,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 504.0
+      "usuarios_incentivados": 518.0
     },
     {
       "empresa_id": "505",
@@ -2594,16 +2584,6 @@
       "usuarios_incentivados": 356.0
     },
     {
-      "empresa_id": "114",
-      "nombre_empresa": "CONGRUPO",
-      "rut": "800146643",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 309.0
-    },
-    {
       "empresa_id": "1495",
       "nombre_empresa": "CORPORACION INTERACTUAR",
       "rut": "8909848433",
@@ -2612,6 +2592,16 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "BDM",
       "usuarios_incentivados": 307.0
+    },
+    {
+      "empresa_id": "114",
+      "nombre_empresa": "CONGRUPO",
+      "rut": "800146643",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 300.0
     },
     {
       "empresa_id": "1035",
@@ -2701,7 +2691,7 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 168.0
+      "usuarios_incentivados": 172.0
     },
     {
       "empresa_id": "788",
@@ -2914,6 +2904,16 @@
       "usuarios_incentivados": 54.0
     },
     {
+      "empresa_id": "861",
+      "nombre_empresa": "Habla Latam",
+      "rut": "20610759069",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 51.0
+    },
+    {
       "empresa_id": "1334",
       "nombre_empresa": "NISUM COLOMBIA SAS",
       "rut": "9015511261",
@@ -2932,16 +2932,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 50.0
-    },
-    {
-      "empresa_id": "861",
-      "nombre_empresa": "Habla Latam",
-      "rut": "20610759069",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 48.0
     },
     {
       "empresa_id": "1153",
@@ -3151,7 +3141,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 26.0
+      "usuarios_incentivados": 27.0
     },
     {
       "empresa_id": "1255",
@@ -3281,7 +3271,7 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 18.0
+      "usuarios_incentivados": 19.0
     },
     {
       "empresa_id": "850",
@@ -3320,6 +3310,16 @@
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 16.0
+    },
+    {
+      "empresa_id": "1325",
+      "nombre_empresa": "GLOBAL TALENT GT SAS",
+      "rut": "9017487361",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 16.0
     },
@@ -3534,6 +3534,16 @@
       "usuarios_incentivados": 11.0
     },
     {
+      "empresa_id": "1581",
+      "nombre_empresa": "FR Group Corredores de Seguros",
+      "rut": "79619240-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 10.0
+    },
+    {
       "empresa_id": "1839",
       "nombre_empresa": "ZURICH CHILE ASSET",
       "rut": "77750920 -9",
@@ -3674,16 +3684,6 @@
       "usuarios_incentivados": 7.0
     },
     {
-      "empresa_id": "1581",
-      "nombre_empresa": "FR Group Corredores de Seguros",
-      "rut": "79619240-2",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 7.0
-    },
-    {
       "empresa_id": "2003",
       "nombre_empresa": "COMERCIAL CENTRAL CHILE",
       "rut": "76026619-1",
@@ -3710,6 +3710,16 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 7.0
+    },
+    {
+      "empresa_id": "320",
+      "nombre_empresa": "ENTEL - INNOVACIÓN",
+      "rut": "20106897914",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 7.0
     },
@@ -4144,6 +4154,16 @@
       "usuarios_incentivados": 2.0
     },
     {
+      "empresa_id": "902",
+      "nombre_empresa": "CHOCOLATES DE PERU SA",
+      "rut": "20514584789",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
       "empresa_id": "64",
       "nombre_empresa": "Fuerza Demo 2",
       "rut": "20603016034",
@@ -4287,16 +4307,6 @@
       "empresa_id": "896",
       "nombre_empresa": "ANDEANVET S.A.C",
       "rut": "20510282362",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "902",
-      "nombre_empresa": "CHOCOLATES DE PERU SA",
-      "rut": "20514584789",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
