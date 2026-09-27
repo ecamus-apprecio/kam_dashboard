@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:27:10.983104+00:00",
+  "generated_at": "2026-09-27T04:43:38.493099+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 174
+      "count": 171
     },
     {
       "empresa_id": "1802",
@@ -1852,16 +1852,6 @@
       "count": 1
     },
     {
-      "empresa_id": "347",
-      "nombre_empresa": "SERVICIOS INTEGRALES TOUCH COLOMBIA S.A.S.",
-      "rut": "901495015",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "666",
       "nombre_empresa": "Cy Send",
       "rut": "555555555",
@@ -2441,7 +2431,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2165.0
+      "usuarios_incentivados": 2164.0
     },
     {
       "empresa_id": "343",
@@ -2451,7 +2441,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1973.0
+      "usuarios_incentivados": 1970.0
     },
     {
       "empresa_id": "1",
@@ -2622,16 +2612,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 259.0
-    },
-    {
-      "empresa_id": "347",
-      "nombre_empresa": "SERVICIOS INTEGRALES TOUCH COLOMBIA S.A.S.",
-      "rut": "901495015",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 248.0
     },
     {
       "empresa_id": "359",
