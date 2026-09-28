@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:09:49.646174+00:00",
+  "generated_at": "2026-09-28T04:45:39.722146+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -2202,6 +2202,16 @@
       "count": 1
     },
     {
+      "empresa_id": "1668",
+      "nombre_empresa": "ACCURO SAS",
+      "rut": "8300231349",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "92",
       "nombre_empresa": "Madison Performance Group",
       "rut": "134141712",
@@ -3004,6 +3014,16 @@
       "usuarios_incentivados": 39.0
     },
     {
+      "empresa_id": "2004",
+      "nombre_empresa": "Banco BCI",
+      "rut": "97006000-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 38.0
+    },
+    {
       "empresa_id": "210",
       "nombre_empresa": "Be Exponential",
       "rut": "DSW220805EJ6",
@@ -3012,16 +3032,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 38.0
-    },
-    {
-      "empresa_id": "2004",
-      "nombre_empresa": "Banco BCI",
-      "rut": "97006000-6",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 37.0
     },
     {
       "empresa_id": "121",
@@ -3790,6 +3800,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 6.0
+    },
+    {
+      "empresa_id": "1503",
+      "nombre_empresa": "HARTUNG Y COMPAÑIA SAS",
+      "rut": "8600078735",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
     },
