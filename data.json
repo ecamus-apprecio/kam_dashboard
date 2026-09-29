@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T05:11:30.540004+00:00",
+  "generated_at": "2026-09-29T12:30:21.078232+00:00",
   "month_labels": [
     "Ene 26",
     "Feb 26",
@@ -24,8 +24,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 559.69,
-          "tickets_exec": 111.94,
+          "tickets_mensual": 560.08,
+          "tickets_exec": 112.02,
           "reuniones_monthly": [
             31,
             26,
@@ -47,7 +47,7 @@
             {
               "nombre": "Lorenzo Jamasmie",
               "correo": "ljamasmie@apprecio.com",
-              "tickets_mensual": 171.48,
+              "tickets_mensual": 171.63,
               "reuniones_mensual": 6.33,
               "total_clientes": 108.4,
               "usuarios_total": 40900.0
@@ -55,7 +55,7 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 117.02,
+              "tickets_mensual": 117.17,
               "reuniones_mensual": 5.44,
               "total_clientes": 90.4,
               "usuarios_total": 16879.0
@@ -71,7 +71,7 @@
             {
               "nombre": "Benjamin Gonzalez",
               "correo": "bgonzalez@apprecio.com",
-              "tickets_mensual": 84.55,
+              "tickets_mensual": 84.63,
               "reuniones_mensual": 5.44,
               "total_clientes": 110.4,
               "usuarios_total": 41028.0
