@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:30:21.078232+00:00",
+  "generated_at": "2026-09-29T19:53:33.380381+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -252,6 +252,16 @@
       "count": 9
     },
     {
+      "empresa_id": "895",
+      "nombre_empresa": "Administrador - AUNA FUERZA",
+      "rut": "20550028515",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
       "empresa_id": "598",
       "nombre_empresa": "Versilia Colombia",
       "rut": "902018021",
@@ -278,16 +288,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "895",
-      "nombre_empresa": "Administrador - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 8
     },
