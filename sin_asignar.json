@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:29:55.962317+00:00",
+  "generated_at": "2026-09-30T17:51:18.931012+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -412,6 +412,16 @@
       "count": 6
     },
     {
+      "empresa_id": "235",
+      "nombre_empresa": "H+Patrimonial",
+      "rut": "HSE080218RK5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 6
+    },
+    {
       "empresa_id": "2004",
       "nombre_empresa": "Banco BCI",
       "rut": "97006000-6",
@@ -542,16 +552,6 @@
       "count": 5
     },
     {
-      "empresa_id": "235",
-      "nombre_empresa": "H+Patrimonial",
-      "rut": "HSE080218RK5",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
-      "count": 5
-    },
-    {
       "empresa_id": "550",
       "nombre_empresa": "Alborada",
       "rut": "769695818",
@@ -628,6 +628,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
+      "empresa_id": "1567",
+      "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
+      "rut": "9017772911",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 4
     },
@@ -865,16 +875,6 @@
       "empresa_id": "1531",
       "nombre_empresa": "CORPOEDUCACION",
       "rut": "8300161450",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1567",
-      "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
-      "rut": "9017772911",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1692,6 +1692,16 @@
       "count": 1
     },
     {
+      "empresa_id": "2044",
+      "nombre_empresa": "Sbpay",
+      "rut": "96623540-3",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "862",
       "nombre_empresa": "Madison Performance - EC",
       "rut": "134141712",
@@ -2308,6 +2318,16 @@
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 1
+    },
+    {
+      "empresa_id": "117",
+      "nombre_empresa": "Seguros Kcer",
+      "rut": "691716333001",
+      "pais": "Ecuador",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": null,
       "count": 1
     },
