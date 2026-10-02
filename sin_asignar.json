@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:14:29.013068+00:00",
+  "generated_at": "2026-10-02T00:36:51.076355+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -29,7 +29,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 44
+      "count": 47
     },
     {
       "empresa_id": "686",
@@ -392,6 +392,16 @@
       "count": 6
     },
     {
+      "empresa_id": "398",
+      "nombre_empresa": "PROYECTO E SAS",
+      "rut": "900110407",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
       "empresa_id": "1052",
       "nombre_empresa": "SOFTCARIBBEAN S.A.S",
       "rut": "9002300040",
@@ -458,16 +468,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "398",
-      "nombre_empresa": "PROYECTO E SAS",
-      "rut": "900110407",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 5
     },
@@ -1124,7 +1124,7 @@
     {
       "empresa_id": "864",
       "nombre_empresa": "GRUPO BESCA",
-      "rut": "20.601.420.458",
+      "rut": "20601420458",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -2239,6 +2239,16 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1681",
+      "nombre_empresa": "CENTURY SPORTS SAS",
+      "rut": "9001586859",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "BDM",
       "count": 1
     },
     {
