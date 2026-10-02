@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:36:51.076355+00:00",
+  "generated_at": "2026-10-02T09:33:23.510539+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -112,16 +112,6 @@
       "count": 15
     },
     {
-      "empresa_id": "63",
-      "nombre_empresa": "LEAN SOLUTIONS GROUP S.A.S.",
-      "rut": "993375303001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 14
-    },
-    {
       "empresa_id": "68",
       "nombre_empresa": "SATRACK SA",
       "rut": "1792337321001",
@@ -159,6 +149,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
+      "count": 13
+    },
+    {
+      "empresa_id": "63",
+      "nombre_empresa": "LEAN SOLUTIONS GROUP S.A.S.",
+      "rut": "993375303001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "count": 13
     },
     {
@@ -352,16 +352,6 @@
       "count": 7
     },
     {
-      "empresa_id": "88",
-      "nombre_empresa": "KUSHKI SA",
-      "rut": "1792574218001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 7
-    },
-    {
       "empresa_id": "1035",
       "nombre_empresa": "Polar",
       "rut": "76333370-1",
@@ -419,6 +409,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
+      "empresa_id": "88",
+      "nombre_empresa": "KUSHKI SA",
+      "rut": "1792574218001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "count": 6
     },
     {
@@ -2501,7 +2501,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2190.0
+      "usuarios_incentivados": 2191.0
     },
     {
       "empresa_id": "343",
@@ -2511,7 +2511,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1970.0
+      "usuarios_incentivados": 1975.0
     },
     {
       "empresa_id": "1",
@@ -2521,7 +2521,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1580.0
+      "usuarios_incentivados": 1576.0
     },
     {
       "empresa_id": "620",
@@ -2681,7 +2681,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 259.0
+      "usuarios_incentivados": 249.0
     },
     {
       "empresa_id": "359",
@@ -2854,16 +2854,6 @@
       "usuarios_incentivados": 83.0
     },
     {
-      "empresa_id": "89",
-      "nombre_empresa": "CALBAQ S.A.",
-      "rut": "0990135630001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 79.0
-    },
-    {
       "empresa_id": "1368",
       "nombre_empresa": "INDIGO SEGUROS LIMITADA",
       "rut": "9009797448",
@@ -2871,6 +2861,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
+      "usuarios_incentivados": 78.0
+    },
+    {
+      "empresa_id": "89",
+      "nombre_empresa": "CALBAQ S.A.",
+      "rut": "0990135630001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "usuarios_incentivados": 78.0
     },
     {
@@ -2954,6 +2954,16 @@
       "usuarios_incentivados": 54.0
     },
     {
+      "empresa_id": "1679",
+      "nombre_empresa": "PERPLEX GROUP COLOMBIA S.A.S",
+      "rut": "9013903829",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 54.0
+    },
+    {
       "empresa_id": "861",
       "nombre_empresa": "Habla Latam",
       "rut": "20610759069",
@@ -2992,16 +3002,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 50.0
-    },
-    {
-      "empresa_id": "1679",
-      "nombre_empresa": "PERPLEX GROUP COLOMBIA S.A.S",
-      "rut": "9013903829",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 49.0
     },
     {
       "empresa_id": "1153",
@@ -3114,16 +3114,6 @@
       "usuarios_incentivados": 39.0
     },
     {
-      "empresa_id": "210",
-      "nombre_empresa": "Be Exponential",
-      "rut": "DSW220805EJ6",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 38.0
-    },
-    {
       "empresa_id": "121",
       "nombre_empresa": "FUNDACION UNIVERSITARIA INTERNACIONAL DE LA RIOJA",
       "rut": "90109661",
@@ -3174,6 +3164,26 @@
       "usuarios_incentivados": 32.0
     },
     {
+      "empresa_id": "210",
+      "nombre_empresa": "Be Exponential",
+      "rut": "DSW220805EJ6",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 32.0
+    },
+    {
+      "empresa_id": "262",
+      "nombre_empresa": "T2ó",
+      "rut": "MME100831CU8",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 32.0
+    },
+    {
       "empresa_id": "1669",
       "nombre_empresa": "HIDRAULICOS J R S.A.S.",
       "rut": "9005210801",
@@ -3220,6 +3230,16 @@
       "pais": "México",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 23.0
+    },
+    {
+      "empresa_id": "261",
+      "nombre_empresa": "COFLEX",
+      "rut": "COF980508MD4",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 23.0
     },
@@ -3484,16 +3504,6 @@
       "usuarios_incentivados": 14.0
     },
     {
-      "empresa_id": "261",
-      "nombre_empresa": "COFLEX",
-      "rut": "COF980508MD4",
-      "pais": "México",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 14.0
-    },
-    {
       "empresa_id": "1056",
       "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
       "rut": "9003602789",
@@ -3664,6 +3674,16 @@
       "usuarios_incentivados": 10.0
     },
     {
+      "empresa_id": "320",
+      "nombre_empresa": "ENTEL - INNOVACIÓN",
+      "rut": "20106897914",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 9.0
+    },
+    {
       "empresa_id": "1956",
       "nombre_empresa": "Casas Latam",
       "rut": "78071599-5",
@@ -3680,16 +3700,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 8.0
-    },
-    {
-      "empresa_id": "320",
-      "nombre_empresa": "ENTEL - INNOVACIÓN",
-      "rut": "20106897914",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 8.0
     },
