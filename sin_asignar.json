@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:01:11.122266+00:00",
+  "generated_at": "2026-10-03T04:44:33.041407+00:00",
   "tickets_sin_asignar": [],
   "usuarios_sin_asignar": [
     {
@@ -10,7 +10,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2830.0
+      "usuarios_incentivados": 2824.0
     },
     {
       "empresa_id": "3",
@@ -20,7 +20,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2191.0
+      "usuarios_incentivados": 2190.0
     },
     {
       "empresa_id": "343",
@@ -30,7 +30,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1975.0
+      "usuarios_incentivados": 1979.0
     },
     {
       "empresa_id": "1",
@@ -40,7 +40,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1576.0
+      "usuarios_incentivados": 1574.0
     },
     {
       "empresa_id": "620",
@@ -130,7 +130,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 440.0
+      "usuarios_incentivados": 394.0
     },
     {
       "empresa_id": "60",
@@ -270,7 +270,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 145.0
+      "usuarios_incentivados": 138.0
     },
     {
       "empresa_id": "895",
@@ -420,7 +420,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 69.0
+      "usuarios_incentivados": 70.0
     },
     {
       "empresa_id": "82",
@@ -543,6 +543,16 @@
       "usuarios_incentivados": 47.0
     },
     {
+      "empresa_id": "88",
+      "nombre_empresa": "KUSHKI SA",
+      "rut": "1792574218001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "usuarios_incentivados": 47.0
+    },
+    {
       "empresa_id": "907",
       "nombre_empresa": "NUAM - CAVALI",
       "rut": "20346669625",
@@ -561,16 +571,6 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 45.0
-    },
-    {
-      "empresa_id": "88",
-      "nombre_empresa": "KUSHKI SA",
-      "rut": "1792574218001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 44.0
     },
     {
       "empresa_id": "2004",
@@ -723,6 +723,16 @@
       "usuarios_incentivados": 30.0
     },
     {
+      "empresa_id": "261",
+      "nombre_empresa": "COFLEX",
+      "rut": "COF980508MD4",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 29.0
+    },
+    {
       "empresa_id": "855",
       "nombre_empresa": "JSMD MANAGEMENT S.A.S",
       "rut": "9014062521",
@@ -743,6 +753,16 @@
       "usuarios_incentivados": 24.0
     },
     {
+      "empresa_id": "901",
+      "nombre_empresa": "UPN CAMPAÑAS POSGRADO",
+      "rut": "20215276024",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 23.0
+    },
+    {
       "empresa_id": "226",
       "nombre_empresa": "TEAMCORE",
       "rut": "BIP080219AN1",
@@ -751,26 +771,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 23.0
-    },
-    {
-      "empresa_id": "261",
-      "nombre_empresa": "COFLEX",
-      "rut": "COF980508MD4",
-      "pais": "México",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 23.0
-    },
-    {
-      "empresa_id": "901",
-      "nombre_empresa": "UPN CAMPAÑAS POSGRADO",
-      "rut": "20215276024",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 22.0
     },
     {
       "empresa_id": "1436",
@@ -963,6 +963,16 @@
       "usuarios_incentivados": 15.0
     },
     {
+      "empresa_id": "1681",
+      "nombre_empresa": "CENTURY SPORTS SAS",
+      "rut": "9001586859",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "BDM",
+      "usuarios_incentivados": 15.0
+    },
+    {
       "empresa_id": "22",
       "nombre_empresa": "KASKEY ECUADOR",
       "rut": "1793045901001",
@@ -1021,6 +1031,16 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 14.0
+    },
+    {
+      "empresa_id": "320",
+      "nombre_empresa": "ENTEL - INNOVACIÓN",
+      "rut": "20106897914",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 13.0
     },
     {
       "empresa_id": "1056",
@@ -1191,16 +1211,6 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 10.0
-    },
-    {
-      "empresa_id": "320",
-      "nombre_empresa": "ENTEL - INNOVACIÓN",
-      "rut": "20106897914",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 9.0
     },
     {
       "empresa_id": "1956",
@@ -1553,6 +1563,16 @@
       "usuarios_incentivados": 4.0
     },
     {
+      "empresa_id": "912",
+      "nombre_empresa": "Call Center Zaz Colombia",
+      "rut": "9 0 1 8 2 5 8 2",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
       "empresa_id": "1443",
       "nombre_empresa": "Sada Logistics SAS",
       "rut": "9015440479",
@@ -1879,16 +1899,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "1772",
-      "nombre_empresa": "Óptica Santa Lucía",
-      "rut": "80941300-4",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "ecamus@apprecio.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
