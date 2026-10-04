@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:40:39.911174+00:00",
+  "generated_at": "2026-10-04T05:16:11.281794+00:00",
   "tickets_sin_asignar": [],
   "usuarios_sin_asignar": [
     {
@@ -10,7 +10,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2824.0
+      "usuarios_incentivados": 2822.0
     },
     {
       "empresa_id": "3",
@@ -50,7 +50,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1239.0
+      "usuarios_incentivados": 1231.0
     },
     {
       "empresa_id": "1802",
@@ -503,16 +503,6 @@
       "usuarios_incentivados": 51.0
     },
     {
-      "empresa_id": "23",
-      "nombre_empresa": "Siemens S.A",
-      "rut": "1790219526001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "cbocanegra@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 51.0
-    },
-    {
       "empresa_id": "746",
       "nombre_empresa": "Sky Airline",
       "rut": "20603446543",
@@ -521,6 +511,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 50.0
+    },
+    {
+      "empresa_id": "23",
+      "nombre_empresa": "Siemens S.A",
+      "rut": "1790219526001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "cbocanegra@dcanje.com",
+      "redistribuido_a": null,
+      "usuarios_incentivados": 49.0
     },
     {
       "empresa_id": "1153",
@@ -1283,16 +1283,6 @@
       "usuarios_incentivados": 8.0
     },
     {
-      "empresa_id": "1515",
-      "nombre_empresa": "Topach",
-      "rut": "76090951-3",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 7.0
-    },
-    {
       "empresa_id": "2003",
       "nombre_empresa": "COMERCIAL CENTRAL CHILE",
       "rut": "76026619-1",
@@ -1351,6 +1341,16 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 7.0
+    },
+    {
+      "empresa_id": "1515",
+      "nombre_empresa": "Topach",
+      "rut": "76090951-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 6.0
     },
     {
       "empresa_id": "1736",
