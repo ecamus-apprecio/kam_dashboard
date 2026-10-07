@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:30:53.174793+00:00",
+  "generated_at": "2026-10-07T10:02:52.646143+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -692,16 +692,6 @@
       "count": 4
     },
     {
-      "empresa_id": "234",
-      "nombre_empresa": "GRUPO MORSA",
-      "rut": "ECL1906253I5",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
-      "count": 4
-    },
-    {
       "empresa_id": "1736",
       "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
       "rut": "77776240-0",
@@ -949,6 +939,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
+      "count": 3
+    },
+    {
+      "empresa_id": "234",
+      "nombre_empresa": "GRUPO MORSA",
+      "rut": "ECL1906253I5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
       "count": 3
     },
     {
@@ -2551,7 +2551,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2822.0
+      "usuarios_incentivados": 2825.0
     },
     {
       "empresa_id": "3",
@@ -2581,7 +2581,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1575.0
+      "usuarios_incentivados": 1576.0
     },
     {
       "empresa_id": "620",
@@ -2601,7 +2601,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1100.0
+      "usuarios_incentivados": 1095.0
     },
     {
       "empresa_id": "234",
@@ -2694,6 +2694,16 @@
       "usuarios_incentivados": 368.0
     },
     {
+      "empresa_id": "1495",
+      "nombre_empresa": "CORPORACION INTERACTUAR",
+      "rut": "8909848433",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
+      "usuarios_incentivados": 367.0
+    },
+    {
       "empresa_id": "686",
       "nombre_empresa": "Versilia",
       "rut": "20609117339",
@@ -2704,16 +2714,6 @@
       "usuarios_incentivados": 356.0
     },
     {
-      "empresa_id": "1495",
-      "nombre_empresa": "CORPORACION INTERACTUAR",
-      "rut": "8909848433",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "BDM",
-      "usuarios_incentivados": 354.0
-    },
-    {
       "empresa_id": "114",
       "nombre_empresa": "CONGRUPO",
       "rut": "800146643",
@@ -2721,7 +2721,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 314.0
+      "usuarios_incentivados": 315.0
     },
     {
       "empresa_id": "1035",
@@ -3284,6 +3284,16 @@
       "usuarios_incentivados": 27.0
     },
     {
+      "empresa_id": "2051",
+      "nombre_empresa": "Ventus",
+      "rut": "99522260-4",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 26.0
+    },
+    {
       "empresa_id": "1255",
       "nombre_empresa": "XCB DE COLOMBIA LIMITED SUCURSAL COLOMBIANA",
       "rut": "8300683180",
@@ -3312,6 +3322,16 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 23.0
+    },
+    {
+      "empresa_id": "1407",
+      "nombre_empresa": "INNOVACURE SAS",
+      "rut": "9008728262",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 22.0
     },
     {
       "empresa_id": "1436",
@@ -3390,16 +3410,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 19.0
-    },
-    {
-      "empresa_id": "1407",
-      "nombre_empresa": "INNOVACURE SAS",
-      "rut": "9008728262",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 19.0
     },
@@ -3584,6 +3594,16 @@
       "usuarios_incentivados": 14.0
     },
     {
+      "empresa_id": "881",
+      "nombre_empresa": "TIME INKJET",
+      "rut": "20614676770",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 13.0
+    },
+    {
       "empresa_id": "1056",
       "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
       "rut": "9003602789",
@@ -3624,12 +3644,12 @@
       "usuarios_incentivados": 13.0
     },
     {
-      "empresa_id": "881",
-      "nombre_empresa": "TIME INKJET",
-      "rut": "20614676770",
-      "pais": "Perú",
+      "empresa_id": "1409",
+      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
+      "rut": "9010904869",
+      "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 12.0
     },
@@ -3734,16 +3754,6 @@
       "usuarios_incentivados": 10.0
     },
     {
-      "empresa_id": "1409",
-      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
-      "rut": "9010904869",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 10.0
-    },
-    {
       "empresa_id": "1466",
       "nombre_empresa": "EMPRESA COLOMBIANA DE CLAVOS EMCOCLAVOS S.A.S.",
       "rut": "8600294151",
@@ -3752,6 +3762,16 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 10.0
+    },
+    {
+      "empresa_id": "1411",
+      "nombre_empresa": "ICONICO STUDIO SAS",
+      "rut": "9013626150",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 9.0
     },
     {
       "empresa_id": "117",
@@ -3780,6 +3800,16 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 8.0
+    },
+    {
+      "empresa_id": "45",
+      "nombre_empresa": "ALADIAH",
+      "rut": "20605043471",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 8.0
     },
@@ -3877,16 +3907,6 @@
       "empresa_id": "1303",
       "nombre_empresa": "OPTIPLANT CONSULTORES S.A.S.",
       "rut": "9003480049",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 7.0
-    },
-    {
-      "empresa_id": "1411",
-      "nombre_empresa": "ICONICO STUDIO SAS",
-      "rut": "9013626150",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
@@ -4020,16 +4040,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 5.0
-    },
-    {
-      "empresa_id": "45",
-      "nombre_empresa": "ALADIAH",
-      "rut": "20605043471",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 5.0
     },
@@ -4324,6 +4334,16 @@
       "usuarios_incentivados": 2.0
     },
     {
+      "empresa_id": "885",
+      "nombre_empresa": "DROGUERIA CADILLO",
+      "rut": "20392764373",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
       "empresa_id": "886",
       "nombre_empresa": "JLI METROLOGY",
       "rut": "20510675097",
@@ -4335,7 +4355,7 @@
     },
     {
       "empresa_id": "902",
-      "nombre_empresa": "CHOCOLATES DE PERU SA",
+      "nombre_empresa": "Prueba CHOCOLATES DE PERU",
       "rut": "20514584789",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
@@ -4470,16 +4490,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "885",
-      "nombre_empresa": "DROGUERIA CADILLO",
-      "rut": "20392764373",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 1.0
     },
