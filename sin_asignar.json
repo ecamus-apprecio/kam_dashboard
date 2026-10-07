@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T20:06:20.155964+00:00",
+  "generated_at": "2026-10-07T00:30:53.174793+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -652,6 +652,16 @@
       "count": 4
     },
     {
+      "empresa_id": "1528",
+      "nombre_empresa": "FONDO DE EMPLEADOS DE RECAMIER",
+      "rut": "8001679271",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "1567",
       "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
       "rut": "9017772911",
@@ -679,6 +689,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
+      "count": 4
+    },
+    {
+      "empresa_id": "234",
+      "nombre_empresa": "GRUPO MORSA",
+      "rut": "ECL1906253I5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
       "count": 4
     },
     {
@@ -745,6 +765,16 @@
       "empresa_id": "882",
       "nombre_empresa": "RUTACA PERU",
       "rut": "20601432472",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "45",
+      "nombre_empresa": "ALADIAH",
+      "rut": "20605043471",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -852,16 +882,6 @@
       "count": 3
     },
     {
-      "empresa_id": "1528",
-      "nombre_empresa": "FONDO DE EMPLEADOS DE RECAMIER",
-      "rut": "8001679271",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
       "empresa_id": "1546",
       "nombre_empresa": "LIBGOT COLOMBIA SAS",
       "rut": "901442736",
@@ -932,16 +952,6 @@
       "count": 3
     },
     {
-      "empresa_id": "234",
-      "nombre_empresa": "GRUPO MORSA",
-      "rut": "ECL1906253I5",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
-      "count": 3
-    },
-    {
       "empresa_id": "80",
       "nombre_empresa": "Cy Send",
       "rut": "55555555-5",
@@ -955,6 +965,16 @@
       "empresa_id": "1624",
       "nombre_empresa": "Cy Send",
       "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1515",
+      "nombre_empresa": "Topach",
+      "rut": "76090951-3",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -1165,16 +1185,6 @@
       "empresa_id": "885",
       "nombre_empresa": "DROGUERIA CADILLO",
       "rut": "20392764373",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "45",
-      "nombre_empresa": "ALADIAH",
-      "rut": "20605043471",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -1420,16 +1430,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "count": 2
-    },
-    {
-      "empresa_id": "1515",
-      "nombre_empresa": "Topach",
-      "rut": "76090951-3",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
     },
     {
       "empresa_id": "1839",
@@ -2525,6 +2525,16 @@
       "empresa_id": "260",
       "nombre_empresa": "OMNICOM / MULTISPONSOR",
       "rut": "XEXX010101000",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 1
+    },
+    {
+      "empresa_id": "263",
+      "nombre_empresa": "REHAU INDUSTRIAL SOLUTIONS MEXICO",
+      "rut": "RIS2507072Q3",
       "pais": "México",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
