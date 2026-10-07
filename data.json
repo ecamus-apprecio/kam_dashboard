@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T10:02:52.646143+00:00",
+  "generated_at": "2026-10-07T18:43:20.565899+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -14,20 +14,20 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 556.77,
-          "tickets_exec": 111.35,
+          "tickets_mensual": 557.38,
+          "tickets_exec": 111.48,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
-          "clientes_exec": 114.8,
-          "total_clientes": 574,
+          "clientes_exec": 115.0,
+          "total_clientes": 575,
           "usuarios_total": 173981.0,
           "usuarios_exec": 34796.2,
           "ejecutivos_detalle": [
             {
               "nombre": "Lorenzo Jamasmie",
               "correo": "ljamasmie@apprecio.com",
-              "tickets_mensual": 169.88,
+              "tickets_mensual": 170.11,
               "reuniones_mensual": 0,
               "total_clientes": 108.8,
               "usuarios_total": 41266.8
@@ -35,15 +35,15 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 116.34,
+              "tickets_mensual": 116.49,
               "reuniones_mensual": 0,
-              "total_clientes": 89.8,
+              "total_clientes": 90.8,
               "usuarios_total": 16834.8
             },
             {
               "nombre": "Benjamin Castro",
               "correo": "bcastro@apprecio.com",
-              "tickets_mensual": 114.42,
+              "tickets_mensual": 114.49,
               "reuniones_mensual": 0,
               "total_clientes": 99.8,
               "usuarios_total": 61842.8
@@ -59,7 +59,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 70.65,
+              "tickets_mensual": 70.8,
               "reuniones_mensual": 0,
               "total_clientes": 167.8,
               "usuarios_total": 10191.8
@@ -69,8 +69,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 345.92,
-          "tickets_exec": 69.18,
+          "tickets_mensual": 346.15,
+          "tickets_exec": 69.23,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -82,7 +82,7 @@
             {
               "nombre": "Santiago Cuellar",
               "correo": "scuellar@apprecio.com",
-              "tickets_mensual": 98.85,
+              "tickets_mensual": 98.92,
               "reuniones_mensual": 0,
               "total_clientes": 88.4,
               "usuarios_total": 35532.0
@@ -98,7 +98,7 @@
             {
               "nombre": "Roberto Molina",
               "correo": "rmolina@apprecio.com",
-              "tickets_mensual": 86.85,
+              "tickets_mensual": 87.0,
               "reuniones_mensual": 0,
               "total_clientes": 80.4,
               "usuarios_total": 29804.0
@@ -152,8 +152,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 2,
-          "tickets_mensual": 144.23,
-          "tickets_exec": 72.11,
+          "tickets_mensual": 144.38,
+          "tickets_exec": 72.19,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -375,8 +375,8 @@
         "Perú": {
           "flag": "🇵🇪",
           "ejecutivos": 1,
-          "tickets_mensual": 56.77,
-          "tickets_exec": 56.77,
+          "tickets_mensual": 56.92,
+          "tickets_exec": 56.92,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -407,9 +407,9 @@
   },
   "meta": {
     "reuniones_sin_match": 1,
-    "tickets_sin_asignar": 1131,
+    "tickets_sin_asignar": 1132,
     "tickets_redistribuidos": 982,
-    "tickets_excluidos": 149,
+    "tickets_excluidos": 150,
     "usuarios_sin_asignar": 213,
     "usuarios_redistribuidos": 193,
     "usuarios_excluidos": 20
