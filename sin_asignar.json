@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:43:20.565899+00:00",
+  "generated_at": "2026-10-08T00:51:58.535769+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 54
+      "count": 53
     },
     {
       "empresa_id": "114",
@@ -82,16 +82,6 @@
       "count": 19
     },
     {
-      "empresa_id": "165",
-      "nombre_empresa": "ENTEL-CHILE S.A.",
-      "rut": "92580000",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 17
-    },
-    {
       "empresa_id": "58",
       "nombre_empresa": "UIO BTL",
       "rut": "1792184037001",
@@ -138,6 +128,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 13
+    },
+    {
+      "empresa_id": "165",
+      "nombre_empresa": "ENTEL-CHILE S.A.",
+      "rut": "92580000",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 13
     },
@@ -662,6 +662,16 @@
       "count": 4
     },
     {
+      "empresa_id": "1531",
+      "nombre_empresa": "CORPOEDUCACION",
+      "rut": "8300161450",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "1567",
       "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
       "rut": "9017772911",
@@ -885,16 +895,6 @@
       "empresa_id": "1561",
       "nombre_empresa": "SERTRANSCO S.A.S.",
       "rut": "9014046779",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1531",
-      "nombre_empresa": "CORPOEDUCACION",
-      "rut": "8300161450",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
