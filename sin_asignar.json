@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:16:10.343023+00:00",
+  "generated_at": "2026-10-08T18:41:44.330727+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 53
+      "count": 54
     },
     {
       "empresa_id": "114",
@@ -262,6 +262,16 @@
       "count": 9
     },
     {
+      "empresa_id": "252",
+      "nombre_empresa": "ACSI RESEARCH",
+      "rut": "ARE150319Q48",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 9
+    },
+    {
       "empresa_id": "1846",
       "nombre_empresa": "VIVO TECH",
       "rut": "55.555.555-5",
@@ -309,16 +319,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "252",
-      "nombre_empresa": "ACSI RESEARCH",
-      "rut": "ARE150319Q48",
-      "pais": "México",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "Full Cycle",
       "count": 8
     },
     {
@@ -732,6 +732,16 @@
       "count": 3
     },
     {
+      "empresa_id": "1956",
+      "nombre_empresa": "Casas Latam",
+      "rut": "78071599-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "1957",
       "nombre_empresa": "B&F",
       "rut": "78.200.745-9",
@@ -1022,16 +1032,6 @@
       "count": 2
     },
     {
-      "empresa_id": "1956",
-      "nombre_empresa": "Casas Latam",
-      "rut": "78071599-5",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
       "empresa_id": "1954",
       "nombre_empresa": "Sind. Komatsu Chile S.A Establecimi",
       "rut": "65042972-9",
@@ -1085,6 +1085,16 @@
       "empresa_id": "2019",
       "nombre_empresa": "CURADEN CHILE",
       "rut": "76415174-7",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "2030",
+      "nombre_empresa": "PACIFIC NUTRITION",
+      "rut": "76290153-6",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1618,16 +1628,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "ecamus@apprecio.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "2030",
-      "nombre_empresa": "PACIFIC NUTRITION",
-      "rut": "76290153-6",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
