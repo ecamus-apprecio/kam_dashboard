@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:17:07.588591+00:00",
+  "generated_at": "2026-10-09T18:12:21.805523+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -242,6 +242,16 @@
       "count": 10
     },
     {
+      "empresa_id": "1975",
+      "nombre_empresa": "Augustar Seguros de Vida",
+      "rut": "76632384-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
       "empresa_id": "821",
       "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
       "rut": "20614426692",
@@ -275,16 +285,6 @@
       "empresa_id": "1846",
       "nombre_empresa": "VIVO TECH",
       "rut": "55.555.555-5",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "1975",
-      "nombre_empresa": "Augustar Seguros de Vida",
-      "rut": "76632384-7",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -332,6 +332,16 @@
       "count": 7
     },
     {
+      "empresa_id": "1035",
+      "nombre_empresa": "Polar",
+      "rut": "76333370-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 7
+    },
+    {
       "empresa_id": "661",
       "nombre_empresa": "Bonda",
       "rut": "20609428253",
@@ -362,9 +372,19 @@
       "count": 7
     },
     {
-      "empresa_id": "1035",
-      "nombre_empresa": "Polar",
-      "rut": "76333370-1",
+      "empresa_id": "1748",
+      "nombre_empresa": "RICOH CHILE S.A",
+      "rut": "96513980-k",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
+      "empresa_id": "1744",
+      "nombre_empresa": "COMERCIAL SEKIP KAYA LIMITADA",
+      "rut": "76630803-1",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -448,26 +468,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "1748",
-      "nombre_empresa": "RICOH CHILE S.A",
-      "rut": "96513980-k",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "1744",
-      "nombre_empresa": "COMERCIAL SEKIP KAYA LIMITADA",
-      "rut": "76630803-1",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 5
     },
@@ -702,6 +702,16 @@
       "count": 4
     },
     {
+      "empresa_id": "234",
+      "nombre_empresa": "GRUPO MORSA",
+      "rut": "ECL1906253I5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 4
+    },
+    {
       "empresa_id": "1736",
       "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
       "rut": "77776240-0",
@@ -725,6 +735,16 @@
       "empresa_id": "1713",
       "nombre_empresa": "ODOOTECHNOLOGIES",
       "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "1943",
+      "nombre_empresa": "NILO ARROYO",
+      "rut": "76.345.095-3",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -952,16 +972,6 @@
       "count": 3
     },
     {
-      "empresa_id": "234",
-      "nombre_empresa": "GRUPO MORSA",
-      "rut": "ECL1906253I5",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
-      "count": 3
-    },
-    {
       "empresa_id": "80",
       "nombre_empresa": "Cy Send",
       "rut": "55555555-5",
@@ -1015,16 +1025,6 @@
       "empresa_id": "1735",
       "nombre_empresa": "LA LAUNA SPA",
       "rut": "77561664-4",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1943",
-      "nombre_empresa": "NILO ARROYO",
-      "rut": "76.345.095-3",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -1442,6 +1442,16 @@
       "count": 2
     },
     {
+      "empresa_id": "263",
+      "nombre_empresa": "REHAU INDUSTRIAL SOLUTIONS MEXICO",
+      "rut": "RIS2507072Q3",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 2
+    },
+    {
       "empresa_id": "1839",
       "nombre_empresa": "ZURICH CHILE ASSET",
       "rut": "77750920 -9",
@@ -1735,6 +1745,26 @@
       "empresa_id": "2045",
       "nombre_empresa": "GLC COMERCIAL",
       "rut": "78739210-5",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2055",
+      "nombre_empresa": "SK COMERCIAL SPA",
+      "rut": "999999999",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2056",
+      "nombre_empresa": "GEOCOM S.A",
+      "rut": "999999999",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2535,16 +2565,6 @@
       "empresa_id": "260",
       "nombre_empresa": "OMNICOM / MULTISPONSOR",
       "rut": "XEXX010101000",
-      "pais": "México",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "Full Cycle",
-      "count": 1
-    },
-    {
-      "empresa_id": "263",
-      "nombre_empresa": "REHAU INDUSTRIAL SOLUTIONS MEXICO",
-      "rut": "RIS2507072Q3",
       "pais": "México",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
