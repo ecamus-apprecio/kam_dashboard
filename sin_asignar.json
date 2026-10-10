@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:12:21.805523+00:00",
+  "generated_at": "2026-10-10T00:38:17.714149+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 55
+      "count": 53
     },
     {
       "empresa_id": "114",
@@ -29,7 +29,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 47
+      "count": 48
     },
     {
       "empresa_id": "686",
@@ -102,16 +102,6 @@
       "count": 15
     },
     {
-      "empresa_id": "15",
-      "nombre_empresa": "SIIGO",
-      "rut": "992560754001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 14
-    },
-    {
       "empresa_id": "1754",
       "nombre_empresa": "Americar",
       "rut": "76414568-2",
@@ -165,6 +155,16 @@
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 12
+    },
+    {
+      "empresa_id": "15",
+      "nombre_empresa": "SIIGO",
+      "rut": "992560754001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -272,6 +272,16 @@
       "count": 9
     },
     {
+      "empresa_id": "1343",
+      "nombre_empresa": "E-DENTAL COLOMBIA SAS",
+      "rut": "9010525270",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
       "empresa_id": "252",
       "nombre_empresa": "ACSI RESEARCH",
       "rut": "ARE150319Q48",
@@ -308,16 +318,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "1343",
-      "nombre_empresa": "E-DENTAL COLOMBIA SAS",
-      "rut": "9010525270",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 8
     },
@@ -812,6 +812,16 @@
       "count": 3
     },
     {
+      "empresa_id": "889",
+      "nombre_empresa": "CHOCOLATES DE PERU S.A.",
+      "rut": "20514584789",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "1571",
       "nombre_empresa": "Profesionales del Helado SAS",
       "rut": "9004389070",
@@ -1204,16 +1214,6 @@
     {
       "empresa_id": "902",
       "nombre_empresa": "Prueba CHOCOLATES DE PERU",
-      "rut": "20514584789",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "889",
-      "nombre_empresa": "CHOCOLATES DE PERU S.A.",
       "rut": "20514584789",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
