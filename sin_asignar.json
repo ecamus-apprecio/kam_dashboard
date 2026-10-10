@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:38:17.714149+00:00",
+  "generated_at": "2026-10-10T09:37:22.677344+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -2581,7 +2581,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2822.0
+      "usuarios_incentivados": 2823.0
     },
     {
       "empresa_id": "3",
@@ -2611,7 +2611,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1577.0
+      "usuarios_incentivados": 1581.0
     },
     {
       "empresa_id": "620",
@@ -2621,7 +2621,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1231.0
+      "usuarios_incentivados": 1165.0
     },
     {
       "empresa_id": "1802",
@@ -2631,7 +2631,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1080.0
+      "usuarios_incentivados": 1078.0
     },
     {
       "empresa_id": "234",
@@ -2721,7 +2721,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 367.0
+      "usuarios_incentivados": 368.0
     },
     {
       "empresa_id": "1495",
@@ -2844,20 +2844,20 @@
       "usuarios_incentivados": 138.0
     },
     {
-      "empresa_id": "895",
-      "nombre_empresa": "Administrador - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 137.0
-    },
-    {
       "empresa_id": "1638",
       "nombre_empresa": "BOLSA DE VALORES DE COLOMBIA S A",
       "rut": "830085426",
       "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 138.0
+    },
+    {
+      "empresa_id": "895",
+      "nombre_empresa": "Administrador - AUNA FUERZA",
+      "rut": "20550028515",
+      "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
@@ -3174,19 +3174,19 @@
       "usuarios_incentivados": 44.0
     },
     {
-      "empresa_id": "1531",
-      "nombre_empresa": "CORPOEDUCACION",
-      "rut": "8300161450",
+      "empresa_id": "1567",
+      "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
+      "rut": "9017772911",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 43.0
+      "usuarios_incentivados": 44.0
     },
     {
-      "empresa_id": "1567",
-      "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
-      "rut": "9017772911",
+      "empresa_id": "1531",
+      "nombre_empresa": "CORPOEDUCACION",
+      "rut": "8300161450",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3344,6 +3344,16 @@
       "usuarios_incentivados": 23.0
     },
     {
+      "empresa_id": "1572",
+      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
+      "rut": "800230187",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 23.0
+    },
+    {
       "empresa_id": "226",
       "nombre_empresa": "TEAMCORE",
       "rut": "BIP080219AN1",
@@ -3380,16 +3390,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 22.0
-    },
-    {
-      "empresa_id": "1572",
-      "nombre_empresa": "OGC CONTADORES ASOCIADOS SAS",
-      "rut": "800230187",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 22.0
     },
@@ -4084,6 +4084,16 @@
       "usuarios_incentivados": 5.0
     },
     {
+      "empresa_id": "1560",
+      "nombre_empresa": "Demo1 CL",
+      "rut": "99999999-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 5.0
+    },
+    {
       "empresa_id": "866",
       "nombre_empresa": "Inticash.",
       "rut": "20603568223",
@@ -4150,16 +4160,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 4.0
-    },
-    {
-      "empresa_id": "1560",
-      "nombre_empresa": "Demo1 CL",
-      "rut": "99999999-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 4.0
     },
@@ -4267,6 +4267,16 @@
       "empresa_id": "883",
       "nombre_empresa": "DROGUERIA IMOFAR",
       "rut": "20601396123",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 3.0
+    },
+    {
+      "empresa_id": "64",
+      "nombre_empresa": "Fuerza Demo 2",
+      "rut": "20603016034",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -4400,16 +4410,6 @@
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "64",
-      "nombre_empresa": "Fuerza Demo 2",
-      "rut": "20603016034",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
