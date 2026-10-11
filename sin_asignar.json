@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T21:24:59.436339+00:00",
+  "generated_at": "2026-10-11T05:07:25.680348+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -2581,7 +2581,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2823.0
+      "usuarios_incentivados": 2820.0
     },
     {
       "empresa_id": "3",
@@ -2591,7 +2591,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2208.0
+      "usuarios_incentivados": 2205.0
     },
     {
       "empresa_id": "343",
@@ -2671,7 +2671,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 518.0
+      "usuarios_incentivados": 513.0
     },
     {
       "empresa_id": "505",
@@ -2774,16 +2774,6 @@
       "usuarios_incentivados": 249.0
     },
     {
-      "empresa_id": "359",
-      "nombre_empresa": "CyC Chile Importaciones, Exportaciones y Comercial",
-      "rut": "77182809",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 223.0
-    },
-    {
       "empresa_id": "104",
       "nombre_empresa": "Blenastor",
       "rut": "1790378489001",
@@ -2812,6 +2802,16 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 209.0
+    },
+    {
+      "empresa_id": "359",
+      "nombre_empresa": "CyC Chile Importaciones, Exportaciones y Comercial",
+      "rut": "77182809",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 200.0
     },
     {
       "empresa_id": "1202",
@@ -3034,16 +3034,6 @@
       "usuarios_incentivados": 55.0
     },
     {
-      "empresa_id": "1754",
-      "nombre_empresa": "Americar",
-      "rut": "76414568-2",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 54.0
-    },
-    {
       "empresa_id": "1679",
       "nombre_empresa": "PERPLEX GROUP COLOMBIA S.A.S",
       "rut": "9013903829",
@@ -3052,6 +3042,16 @@
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 54.0
+    },
+    {
+      "empresa_id": "1754",
+      "nombre_empresa": "Americar",
+      "rut": "76414568-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 53.0
     },
     {
       "empresa_id": "861",
@@ -4187,6 +4187,16 @@
       "empresa_id": "1539",
       "nombre_empresa": "TEXMUNDO COLOMBIA SAS",
       "rut": "830146669",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
+      "empresa_id": "1687",
+      "nombre_empresa": "ENCORE RECEIVABLE MANAGEMENT, INC.",
+      "rut": "9016752556",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
