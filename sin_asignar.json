@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:21:49.639533+00:00",
+  "generated_at": "2026-10-12T10:30:40.094039+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -4522,6 +4522,16 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 2.0
+    },
+    {
+      "empresa_id": "2045",
+      "nombre_empresa": "GLC COMERCIAL",
+      "rut": "78739210-5",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
     },
     {
       "empresa_id": "2049",
