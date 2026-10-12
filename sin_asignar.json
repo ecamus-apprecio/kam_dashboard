@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:30:40.094039+00:00",
+  "generated_at": "2026-10-12T21:07:48.265407+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -472,6 +472,16 @@
       "count": 5
     },
     {
+      "empresa_id": "758",
+      "nombre_empresa": "Medifarma  - Comercial",
+      "rut": "20100018625",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "881",
       "nombre_empresa": "TIME INKJET",
       "rut": "20614676770",
@@ -595,16 +605,6 @@
       "empresa_id": "788",
       "nombre_empresa": "SALESLAND CHILE",
       "rut": "555555555",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "758",
-      "nombre_empresa": "Medifarma  - Comercial",
-      "rut": "20100018625",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
