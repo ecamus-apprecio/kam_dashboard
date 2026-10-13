@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:07:48.265407+00:00",
+  "generated_at": "2026-10-13T06:19:25.325975+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -2641,7 +2641,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 841.0
+      "usuarios_incentivados": 842.0
     },
     {
       "empresa_id": "1074",
@@ -3584,6 +3584,16 @@
       "usuarios_incentivados": 14.0
     },
     {
+      "empresa_id": "2045",
+      "nombre_empresa": "GLC COMERCIAL",
+      "rut": "78739210-5",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 14.0
+    },
+    {
       "empresa_id": "320",
       "nombre_empresa": "ENTEL - INNOVACIÓN",
       "rut": "20106897914",
@@ -4264,6 +4274,16 @@
       "usuarios_incentivados": 3.0
     },
     {
+      "empresa_id": "859",
+      "nombre_empresa": "TuCambista SAC",
+      "rut": "20602160557",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 3.0
+    },
+    {
       "empresa_id": "882",
       "nombre_empresa": "RUTACA PERU",
       "rut": "20601432472",
@@ -4370,16 +4390,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "859",
-      "nombre_empresa": "TuCambista SAC",
-      "rut": "20602160557",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
@@ -4522,16 +4532,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "2045",
-      "nombre_empresa": "GLC COMERCIAL",
-      "rut": "78739210-5",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
     },
     {
       "empresa_id": "2049",
