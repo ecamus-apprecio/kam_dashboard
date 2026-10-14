@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:28:11.315970+00:00",
+  "generated_at": "2026-10-14T04:20:59.824646+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -39,7 +39,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 36
+      "count": 33
     },
     {
       "empresa_id": "505",
@@ -49,17 +49,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 27
-    },
-    {
-      "empresa_id": "343",
-      "nombre_empresa": "ENTEL CHILE - CALL CENTER",
-      "rut": "92580000 - 7",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 24
+      "count": 26
     },
     {
       "empresa_id": "89",
@@ -80,6 +70,16 @@
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 19
+    },
+    {
+      "empresa_id": "343",
+      "nombre_empresa": "ENTEL CHILE - CALL CENTER",
+      "rut": "92580000 - 7",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 18
     },
     {
       "empresa_id": "58",
@@ -202,16 +202,6 @@
       "count": 10
     },
     {
-      "empresa_id": "434",
-      "nombre_empresa": "Entel Call Center Outbound",
-      "rut": "96806980-2",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 10
-    },
-    {
       "empresa_id": "79",
       "nombre_empresa": "NTT-DATA ECUADOR S.A.",
       "rut": "1793207896001",
@@ -248,6 +238,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
+      "empresa_id": "434",
+      "nombre_empresa": "Entel Call Center Outbound",
+      "rut": "96806980-2",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 9
     },
@@ -1204,7 +1204,7 @@
     {
       "empresa_id": "883",
       "nombre_empresa": "DROGUERIA IMOFAR",
-      "rut": "20601396123",
+      "rut": "20.601.396.123",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
