@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T03:59:51.861438+00:00",
+  "generated_at": "2026-10-16T11:04:58.408247+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1244,7 +1244,7 @@
     {
       "empresa_id": "885",
       "nombre_empresa": "DROGUERIA CADILLO",
-      "rut": "20392764373",
+      "rut": "20.392.764.373",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
