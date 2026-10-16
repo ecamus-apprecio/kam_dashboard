@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:04:58.408247+00:00",
+  "generated_at": "2026-10-16T16:23:54.352697+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -49,7 +49,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 27
+      "count": 28
     },
     {
       "empresa_id": "89",
@@ -1244,10 +1244,20 @@
     {
       "empresa_id": "885",
       "nombre_empresa": "DROGUERIA CADILLO",
-      "rut": "20.392.764.373",
+      "rut": "20392764373",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "894",
+      "nombre_empresa": "CODELPA PERU S.A.C.",
+      "rut": "20548977585",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -1425,6 +1435,16 @@
       "empresa_id": "1679",
       "nombre_empresa": "PERPLEX GROUP COLOMBIA S.A.S",
       "rut": "9013903829",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1698",
+      "nombre_empresa": "BIEN RAIZ S.A.S",
+      "rut": "8909376555",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1935,16 +1955,6 @@
       "empresa_id": "896",
       "nombre_empresa": "ANDEANVET S.A.C",
       "rut": "20510282362",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "894",
-      "nombre_empresa": "CODELPA PERU S.A.C.",
-      "rut": "20548977585",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
