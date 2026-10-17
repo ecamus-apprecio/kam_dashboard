@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:22:13.380602+00:00",
+  "generated_at": "2026-10-17T03:50:18.214388+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -24,7 +24,7 @@
     {
       "empresa_id": "114",
       "nombre_empresa": "CONGRUPO",
-      "rut": "800.146.643",
+      "rut": "800146643",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
@@ -82,16 +82,6 @@
       "count": 19
     },
     {
-      "empresa_id": "3",
-      "nombre_empresa": "Apprecio",
-      "rut": "90141619",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
-      "count": 16
-    },
-    {
       "empresa_id": "58",
       "nombre_empresa": "UIO BTL",
       "rut": "1792184037001",
@@ -110,6 +100,16 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 15
+    },
+    {
+      "empresa_id": "3",
+      "nombre_empresa": "Apprecio",
+      "rut": "90141619",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
+      "count": 14
     },
     {
       "empresa_id": "63",
@@ -262,16 +262,6 @@
       "count": 9
     },
     {
-      "empresa_id": "598",
-      "nombre_empresa": "Versilia Colombia",
-      "rut": "902018021",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 9
-    },
-    {
       "empresa_id": "1343",
       "nombre_empresa": "E-DENTAL COLOMBIA SAS",
       "rut": "9010525270",
@@ -308,6 +298,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 8
+    },
+    {
+      "empresa_id": "598",
+      "nombre_empresa": "Versilia Colombia",
+      "rut": "902018021",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 8
     },
@@ -502,16 +502,6 @@
       "count": 5
     },
     {
-      "empresa_id": "938",
-      "nombre_empresa": "SALESLAND CHILE",
-      "rut": "5555",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
       "empresa_id": "1334",
       "nombre_empresa": "NISUM COLOMBIA SAS",
       "rut": "9015511261",
@@ -608,6 +598,16 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
+      "empresa_id": "938",
+      "nombre_empresa": "SALESLAND CHILE",
+      "rut": "5555",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 4
     },
@@ -2621,7 +2621,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2791.0
+      "usuarios_incentivados": 2765.0
     },
     {
       "empresa_id": "3",
@@ -2631,7 +2631,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2272.0
+      "usuarios_incentivados": 2192.0
     },
     {
       "empresa_id": "343",
@@ -2671,7 +2671,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1068.0
+      "usuarios_incentivados": 1069.0
     },
     {
       "empresa_id": "234",
@@ -2734,16 +2734,6 @@
       "usuarios_incentivados": 447.0
     },
     {
-      "empresa_id": "938",
-      "nombre_empresa": "SALESLAND CHILE",
-      "rut": "5555",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 394.0
-    },
-    {
       "empresa_id": "60",
       "nombre_empresa": "MEGONETWORKS",
       "rut": "1793065457001",
@@ -2782,6 +2772,16 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 364.0
+    },
+    {
+      "empresa_id": "938",
+      "nombre_empresa": "SALESLAND CHILE",
+      "rut": "5555",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 348.0
     },
     {
       "empresa_id": "114",
@@ -3051,7 +3051,7 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 58.0
+      "usuarios_incentivados": 62.0
     },
     {
       "empresa_id": "758",
@@ -3101,7 +3101,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 52.0
+      "usuarios_incentivados": 53.0
     },
     {
       "empresa_id": "1334",
@@ -3111,6 +3111,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
+      "usuarios_incentivados": 51.0
+    },
+    {
+      "empresa_id": "88",
+      "nombre_empresa": "KUSHKI SA",
+      "rut": "1792574218001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "usuarios_incentivados": 51.0
     },
     {
@@ -3171,16 +3181,6 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 46.0
-    },
-    {
-      "empresa_id": "88",
-      "nombre_empresa": "KUSHKI SA",
-      "rut": "1792574218001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "usuarios_incentivados": 46.0
     },
     {
@@ -4667,6 +4667,16 @@
       "empresa_id": "1568",
       "nombre_empresa": "INGENIERIA Y SEGURIDAD VIAL S A S",
       "rut": "9007869477",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "1684",
+      "nombre_empresa": "EFICIENCIA ENERGETICA DE COLOMBIA ENECO S.A.S.",
+      "rut": "9005582315",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
