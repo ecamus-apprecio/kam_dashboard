@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:58:40.261189+00:00",
+  "generated_at": "2026-10-18T03:56:59.242756+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -2621,7 +2621,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2765.0
+      "usuarios_incentivados": 2764.0
     },
     {
       "empresa_id": "3",
@@ -2631,7 +2631,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2192.0
+      "usuarios_incentivados": 2191.0
     },
     {
       "empresa_id": "343",
@@ -2671,7 +2671,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1069.0
+      "usuarios_incentivados": 1071.0
     },
     {
       "empresa_id": "234",
