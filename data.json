@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:54:39.908343+00:00",
+  "generated_at": "2026-10-19T04:05:44.400688+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -21,8 +21,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 114.6,
           "total_clientes": 573,
-          "usuarios_total": 173698.0,
-          "usuarios_exec": 34739.6,
+          "usuarios_total": 173694.0,
+          "usuarios_exec": 34738.8,
           "ejecutivos_detalle": [
             {
               "nombre": "Lorenzo Jamasmie",
@@ -30,7 +30,7 @@
               "tickets_mensual": 165.94,
               "reuniones_mensual": 0,
               "total_clientes": 108.2,
-              "usuarios_total": 40697.8
+              "usuarios_total": 40695.8
             },
             {
               "nombre": "Camilo Figueroa",
@@ -38,7 +38,7 @@
               "tickets_mensual": 115.63,
               "reuniones_mensual": 0,
               "total_clientes": 91.2,
-              "usuarios_total": 16743.8
+              "usuarios_total": 16742.8
             },
             {
               "nombre": "Benjamin Castro",
@@ -62,7 +62,7 @@
               "tickets_mensual": 71.32,
               "reuniones_mensual": 0,
               "total_clientes": 168.2,
-              "usuarios_total": 10159.8
+              "usuarios_total": 10158.8
             }
           ]
         },
@@ -76,8 +76,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 79.4,
           "total_clientes": 397,
-          "usuarios_total": 95986.0,
-          "usuarios_exec": 19197.2,
+          "usuarios_total": 95987.0,
+          "usuarios_exec": 19197.4,
           "ejecutivos_detalle": [
             {
               "nombre": "Santiago Cuellar",
@@ -93,7 +93,7 @@
               "tickets_mensual": 87.77,
               "reuniones_mensual": 0,
               "total_clientes": 68.8,
-              "usuarios_total": 20881.0
+              "usuarios_total": 20880.0
             },
             {
               "nombre": "Roberto Molina",
@@ -109,7 +109,7 @@
               "tickets_mensual": 35.92,
               "reuniones_mensual": 0,
               "total_clientes": 80.8,
-              "usuarios_total": 6615.0
+              "usuarios_total": 6617.0
             },
             {
               "nombre": "Felipe Ospina",
@@ -159,8 +159,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 73.0,
           "total_clientes": 146,
-          "usuarios_total": 30477.0,
-          "usuarios_exec": 15238.5,
+          "usuarios_total": 30471.0,
+          "usuarios_exec": 15235.5,
           "ejecutivos_detalle": [
             {
               "nombre": "Diana Duran",
