@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:12:35.112459+00:00",
+  "generated_at": "2026-10-20T19:05:01.796412+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -232,6 +232,16 @@
       "count": 10
     },
     {
+      "empresa_id": "252",
+      "nombre_empresa": "ACSI RESEARCH",
+      "rut": "ARE150319Q48",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 10
+    },
+    {
       "empresa_id": "2009",
       "nombre_empresa": "DERCOMAQ",
       "rut": "76141853-K",
@@ -272,16 +282,6 @@
       "count": 9
     },
     {
-      "empresa_id": "252",
-      "nombre_empresa": "ACSI RESEARCH",
-      "rut": "ARE150319Q48",
-      "pais": "México",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "Full Cycle",
-      "count": 9
-    },
-    {
       "empresa_id": "1846",
       "nombre_empresa": "VIVO TECH",
       "rut": "55.555.555-5",
@@ -304,7 +304,7 @@
     {
       "empresa_id": "598",
       "nombre_empresa": "Versilia Colombia",
-      "rut": "902.018.021",
+      "rut": "902018021",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
@@ -1815,6 +1815,16 @@
       "empresa_id": "2058",
       "nombre_empresa": "LOGISTICA INDUSTRIAL SPA SA",
       "rut": "96878980-5",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2060",
+      "nombre_empresa": "Inversiones 2masociados spa",
+      "rut": "77394665-5",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
