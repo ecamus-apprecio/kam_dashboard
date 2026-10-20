@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:05:01.796412+00:00",
+  "generated_at": "2026-10-20T23:42:14.554214+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -122,6 +122,16 @@
       "count": 14
     },
     {
+      "empresa_id": "68",
+      "nombre_empresa": "SATRACK SA",
+      "rut": "1792337321001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 14
+    },
+    {
       "empresa_id": "1754",
       "nombre_empresa": "Americar",
       "rut": "76414568-2",
@@ -139,16 +149,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 13
-    },
-    {
-      "empresa_id": "68",
-      "nombre_empresa": "SATRACK SA",
-      "rut": "1792337321001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "count": 13
     },
     {
@@ -272,6 +272,16 @@
       "count": 9
     },
     {
+      "empresa_id": "598",
+      "nombre_empresa": "Versilia Colombia",
+      "rut": "902018021",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
       "empresa_id": "1343",
       "nombre_empresa": "E-DENTAL COLOMBIA SAS",
       "rut": "9010525270",
@@ -279,6 +289,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
+      "empresa_id": "79",
+      "nombre_empresa": "NTT-DATA ECUADOR S.A.",
+      "rut": "1793207896001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "count": 9
     },
     {
@@ -302,16 +322,6 @@
       "count": 8
     },
     {
-      "empresa_id": "598",
-      "nombre_empresa": "Versilia Colombia",
-      "rut": "902018021",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
       "empresa_id": "1255",
       "nombre_empresa": "XCB DE COLOMBIA LIMITED SUCURSAL COLOMBIANA",
       "rut": "8300683180",
@@ -319,16 +329,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 8
-    },
-    {
-      "empresa_id": "79",
-      "nombre_empresa": "NTT-DATA ECUADOR S.A.",
-      "rut": "1793207896001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "count": 8
     },
     {
@@ -522,6 +522,16 @@
       "count": 5
     },
     {
+      "empresa_id": "1531",
+      "nombre_empresa": "CORPOEDUCACION",
+      "rut": "8300161450",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "104",
       "nombre_empresa": "Blenastor",
       "rut": "1790378489001",
@@ -665,16 +675,6 @@
       "empresa_id": "1528",
       "nombre_empresa": "FONDO DE EMPLEADOS DE RECAMIER",
       "rut": "8001679271",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "1531",
-      "nombre_empresa": "CORPOEDUCACION",
-      "rut": "8300161450",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2405,6 +2405,16 @@
       "empresa_id": "1701",
       "nombre_empresa": "ALLSNET SAC",
       "rut": "20609300087",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1708",
+      "nombre_empresa": "Obvious Business SAS",
+      "rut": "9005683941",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
