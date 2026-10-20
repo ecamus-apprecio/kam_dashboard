@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:20:22.313055+00:00",
+  "generated_at": "2026-10-20T14:12:35.112459+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -14,8 +14,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 553.54,
-          "tickets_exec": 110.71,
+          "tickets_mensual": 553.69,
+          "tickets_exec": 110.74,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -35,7 +35,7 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 116.57,
+              "tickets_mensual": 116.65,
               "reuniones_mensual": 0,
               "total_clientes": 91.2,
               "usuarios_total": 16756.6
@@ -59,7 +59,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 71.8,
+              "tickets_mensual": 71.88,
               "reuniones_mensual": 0,
               "total_clientes": 168.2,
               "usuarios_total": 10180.6
@@ -69,8 +69,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 348.23,
-          "tickets_exec": 69.65,
+          "tickets_mensual": 348.46,
+          "tickets_exec": 69.69,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -82,7 +82,7 @@
             {
               "nombre": "Santiago Cuellar",
               "correo": "scuellar@apprecio.com",
-              "tickets_mensual": 100.35,
+              "tickets_mensual": 100.58,
               "reuniones_mensual": 0,
               "total_clientes": 89.2,
               "usuarios_total": 34802.0
@@ -307,8 +307,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 1,
-          "tickets_mensual": 75.62,
-          "tickets_exec": 75.62,
+          "tickets_mensual": 75.69,
+          "tickets_exec": 75.69,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -320,7 +320,7 @@
             {
               "nombre": "Paula Montoya",
               "correo": "pmontoya@apprecio.com",
-              "tickets_mensual": 75.62,
+              "tickets_mensual": 75.69,
               "reuniones_mensual": 0,
               "total_clientes": 119.0,
               "usuarios_total": 10914.0

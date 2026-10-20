@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:20:22.313055+00:00",
+  "generated_at": "2026-10-20T14:12:35.112459+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -304,7 +304,7 @@
     {
       "empresa_id": "598",
       "nombre_empresa": "Versilia Colombia",
-      "rut": "902018021",
+      "rut": "902.018.021",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
