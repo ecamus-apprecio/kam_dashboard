@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:07:31.708048+00:00",
+  "generated_at": "2026-10-21T11:29:40.453899+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -14,8 +14,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 550.85,
-          "tickets_exec": 110.17,
+          "tickets_mensual": 550.92,
+          "tickets_exec": 110.18,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -27,7 +27,7 @@
             {
               "nombre": "Lorenzo Jamasmie",
               "correo": "ljamasmie@apprecio.com",
-              "tickets_mensual": 164.58,
+              "tickets_mensual": 164.66,
               "reuniones_mensual": 0,
               "total_clientes": 108.2,
               "usuarios_total": 40798.6
