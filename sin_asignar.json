@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:56:09.374916+00:00",
+  "generated_at": "2026-10-22T21:22:42.686573+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -252,6 +252,16 @@
       "count": 9
     },
     {
+      "empresa_id": "1846",
+      "nombre_empresa": "VIVO TECH",
+      "rut": "55.555.555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 9
+    },
+    {
       "empresa_id": "434",
       "nombre_empresa": "Entel Call Center Outbound",
       "rut": "96806980-2",
@@ -300,16 +310,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 9
-    },
-    {
-      "empresa_id": "1846",
-      "nombre_empresa": "VIVO TECH",
-      "rut": "55.555.555-5",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 8
     },
     {
       "empresa_id": "1255",
@@ -502,6 +502,16 @@
       "count": 5
     },
     {
+      "empresa_id": "861",
+      "nombre_empresa": "Habla Latam",
+      "rut": "20610759069",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "881",
       "nombre_empresa": "TIME INKJET",
       "rut": "20614676770",
@@ -595,16 +605,6 @@
       "empresa_id": "788",
       "nombre_empresa": "SALESLAND CHILE",
       "rut": "555555555",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "861",
-      "nombre_empresa": "Habla Latam",
-      "rut": "20610759069",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -824,7 +824,7 @@
     {
       "empresa_id": "889",
       "nombre_empresa": "CHOCOLATES DE PERU S.A.",
-      "rut": "20514584789",
+      "rut": "20.514.584.789",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1934,7 +1934,7 @@
     {
       "empresa_id": "866",
       "nombre_empresa": "Inticash.",
-      "rut": "20.603.568.223",
+      "rut": "20603568223",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
