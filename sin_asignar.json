@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:30:06.046410+00:00",
+  "generated_at": "2026-10-22T16:56:09.374916+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -422,6 +422,16 @@
       "count": 6
     },
     {
+      "empresa_id": "1334",
+      "nombre_empresa": "NISUM COLOMBIA SAS",
+      "rut": "9015511261",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
       "empresa_id": "1407",
       "nombre_empresa": "INNOVACURE SAS",
       "rut": "9008728262",
@@ -498,16 +508,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "1334",
-      "nombre_empresa": "NISUM COLOMBIA SAS",
-      "rut": "9015511261",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 5
     },
@@ -1934,7 +1934,7 @@
     {
       "empresa_id": "866",
       "nombre_empresa": "Inticash.",
-      "rut": "20603568223",
+      "rut": "20.603.568.223",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
