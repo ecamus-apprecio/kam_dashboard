@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:48:21.308463+00:00",
+  "generated_at": "2026-10-23T21:14:00.087754+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -344,7 +344,7 @@
     {
       "empresa_id": "398",
       "nombre_empresa": "PROYECTO E SAS",
-      "rut": "900.110.407",
+      "rut": "900110407",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
@@ -1402,6 +1402,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1589",
+      "nombre_empresa": "HOYA LENS COLOMBIA S.A.S.",
+      "rut": "901538753",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "1562",
       "nombre_empresa": "TRAMITPASS S.A.S",
       "rut": "9018279485",
@@ -2042,6 +2052,16 @@
       "count": 1
     },
     {
+      "empresa_id": "1603",
+      "nombre_empresa": "IMPORMEDICAL EQUIPOS Y SUMINISTROS MEDICOS S A",
+      "rut": "9002610899",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "BDM",
+      "count": 1
+    },
+    {
       "empresa_id": "1140",
       "nombre_empresa": "MPI PHARMACEUTICA COLOMBIA SAS",
       "rut": "9009080612",
@@ -2228,16 +2248,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1589",
-      "nombre_empresa": "HOYA LENS COLOMBIA S.A.S.",
-      "rut": "901538753",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
