@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:22:42.686573+00:00",
+  "generated_at": "2026-10-23T04:11:43.779807+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -172,6 +172,16 @@
       "count": 12
     },
     {
+      "empresa_id": "895",
+      "nombre_empresa": "Administrador - AUNA FUERZA",
+      "rut": "20550028515",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 11
+    },
+    {
       "empresa_id": "1368",
       "nombre_empresa": "INDIGO SEGUROS LIMITADA",
       "rut": "9009797448",
@@ -198,16 +208,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 10
-    },
-    {
-      "empresa_id": "895",
-      "nombre_empresa": "Administrador - AUNA FUERZA",
-      "rut": "20550028515",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 10
     },
@@ -824,7 +824,7 @@
     {
       "empresa_id": "889",
       "nombre_empresa": "CHOCOLATES DE PERU S.A.",
-      "rut": "20.514.584.789",
+      "rut": "20514584789",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -849,16 +849,6 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1012",
-      "nombre_empresa": "LICAVIR SAS",
-      "rut": "8300722812",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
       "count": 3
     },
     {
@@ -948,6 +938,16 @@
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "1493",
+      "nombre_empresa": "COMPAÑIA ASEGURADORA DE FIANZAS S A",
+      "rut": "8600703749",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 3
     },
@@ -1292,6 +1292,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1012",
+      "nombre_empresa": "LICAVIR SAS",
+      "rut": "8300722812",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
+      "count": 2
+    },
+    {
       "empresa_id": "1135",
       "nombre_empresa": "ORIGAMI MERCADEO SOCIAL",
       "rut": "9003202344",
@@ -1368,16 +1378,6 @@
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1493",
-      "nombre_empresa": "COMPAÑIA ASEGURADORA DE FIANZAS S A",
-      "rut": "8600703749",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -2681,7 +2681,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2075.0
+      "usuarios_incentivados": 2074.0
     },
     {
       "empresa_id": "343",
@@ -2691,7 +2691,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2022.0
+      "usuarios_incentivados": 2025.0
     },
     {
       "empresa_id": "1",
@@ -2721,7 +2721,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1070.0
+      "usuarios_incentivados": 1049.0
     },
     {
       "empresa_id": "234",
@@ -2731,7 +2731,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 842.0
+      "usuarios_incentivados": 841.0
     },
     {
       "empresa_id": "1074",
@@ -2821,7 +2821,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 366.0
+      "usuarios_incentivados": 365.0
     },
     {
       "empresa_id": "938",
@@ -2841,7 +2841,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 322.0
+      "usuarios_incentivados": 328.0
     },
     {
       "empresa_id": "598",
@@ -2851,7 +2851,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 262.0
+      "usuarios_incentivados": 254.0
     },
     {
       "empresa_id": "1035",
@@ -3954,6 +3954,16 @@
       "usuarios_incentivados": 9.0
     },
     {
+      "empresa_id": "1536",
+      "nombre_empresa": "SIGNOS STUDIO SAS",
+      "rut": "832004603",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 9.0
+    },
+    {
       "empresa_id": "117",
       "nombre_empresa": "Seguros Kcer",
       "rut": "0691716333001",
@@ -4021,16 +4031,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 8.0
-    },
-    {
-      "empresa_id": "1536",
-      "nombre_empresa": "SIGNOS STUDIO SAS",
-      "rut": "832004603",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
       "usuarios_incentivados": 8.0
     },
     {
@@ -4314,6 +4314,16 @@
       "usuarios_incentivados": 4.0
     },
     {
+      "empresa_id": "859",
+      "nombre_empresa": "TuCambista SAC",
+      "rut": "20602160557",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
       "empresa_id": "912",
       "nombre_empresa": "Call Center Zaz Colombia",
       "rut": "9 0 1 8 2 5 8 2",
@@ -4407,16 +4417,6 @@
       "empresa_id": "842",
       "nombre_empresa": "BUK CHILE",
       "rut": "20606476338",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3.0
-    },
-    {
-      "empresa_id": "859",
-      "nombre_empresa": "TuCambista SAC",
-      "rut": "20602160557",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
