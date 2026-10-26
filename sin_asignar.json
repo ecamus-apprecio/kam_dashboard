@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:36:21.464869+00:00",
+  "generated_at": "2026-10-26T20:22:19.462195+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 148
+      "count": 147
     },
     {
       "empresa_id": "1802",
@@ -992,16 +992,6 @@
       "count": 3
     },
     {
-      "empresa_id": "71",
-      "nombre_empresa": "EVALUAR",
-      "rut": "1792213495001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 3
-    },
-    {
       "empresa_id": "80",
       "nombre_empresa": "Cy Send",
       "rut": "55555555-5",
@@ -1145,6 +1135,16 @@
       "empresa_id": "2039",
       "nombre_empresa": "Sinovac Chile",
       "rut": "77447449-8",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "2033",
+      "nombre_empresa": "Envista",
+      "rut": "85025400-1",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1462,6 +1462,16 @@
       "count": 2
     },
     {
+      "empresa_id": "71",
+      "nombre_empresa": "EVALUAR",
+      "rut": "1792213495001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 2
+    },
+    {
       "empresa_id": "213",
       "nombre_empresa": "BELUGA DE MEXICO SA DE CV",
       "rut": "BME 001026 NF9",
@@ -1755,16 +1765,6 @@
       "empresa_id": "2047",
       "nombre_empresa": "Servinformación",
       "rut": "59245020-8",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "2033",
-      "nombre_empresa": "Envista",
-      "rut": "85025400-1",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2435,6 +2435,16 @@
       "empresa_id": "1717",
       "nombre_empresa": "INFRAESTRUCTURA ESTRATEGICA S.A.S. E.S.P.",
       "rut": "9017296348",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1671",
+      "nombre_empresa": "KEYBE SAS",
+      "rut": "9013560544",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
