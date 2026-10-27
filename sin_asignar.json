@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:14:10.657470+00:00",
+  "generated_at": "2026-10-27T21:59:29.816373+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -212,6 +212,16 @@
       "count": 10
     },
     {
+      "empresa_id": "821",
+      "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
+      "rut": "20614426692",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dduran@app",
+      "redistribuido_a": "KAM",
+      "count": 10
+    },
+    {
       "empresa_id": "86",
       "nombre_empresa": "ASPENPHARMA S.A.",
       "rut": "1792453712001",
@@ -268,16 +278,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 9
-    },
-    {
-      "empresa_id": "821",
-      "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
-      "rut": "20614426692",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dduran@app",
       "redistribuido_a": "KAM",
       "count": 9
     },
@@ -1842,6 +1842,16 @@
       "count": 1
     },
     {
+      "empresa_id": "2062",
+      "nombre_empresa": "Quinchero, von Tschirnhaus y Cía Ltda.",
+      "rut": "76140804-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "862",
       "nombre_empresa": "Madison Performance - EC",
       "rut": "134141712",
@@ -2455,6 +2465,26 @@
       "empresa_id": "1720",
       "nombre_empresa": "POTENCIA Y TECNOLOGIA S.A.S.",
       "rut": "9004741440",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1556",
+      "nombre_empresa": "Open Education LLC",
+      "rut": "274.450.263",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1727",
+      "nombre_empresa": "RED DESIGN SYSTEMS SOCIEDAD POR ACCIONES SIMPLIFIC",
+      "rut": "9001332826",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
