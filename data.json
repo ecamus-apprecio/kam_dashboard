@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:41:12.476780+00:00",
+  "generated_at": "2026-10-29T09:41:29.914713+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -21,8 +21,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 114.6,
           "total_clientes": 573,
-          "usuarios_total": 175725.0,
-          "usuarios_exec": 35145.0,
+          "usuarios_total": 175647.0,
+          "usuarios_exec": 35129.4,
           "ejecutivos_detalle": [
             {
               "nombre": "Lorenzo Jamasmie",
@@ -30,7 +30,7 @@
               "tickets_mensual": 165.08,
               "reuniones_mensual": 0,
               "total_clientes": 110.0,
-              "usuarios_total": 40897.0
+              "usuarios_total": 40757.8
             },
             {
               "nombre": "Camilo Figueroa",
@@ -38,7 +38,7 @@
               "tickets_mensual": 116.62,
               "reuniones_mensual": 0,
               "total_clientes": 92.0,
-              "usuarios_total": 16960.0
+              "usuarios_total": 16969.8
             },
             {
               "nombre": "Benjamin Castro",
@@ -46,7 +46,7 @@
               "tickets_mensual": 112.62,
               "reuniones_mensual": 0,
               "total_clientes": 99.0,
-              "usuarios_total": 61395.0
+              "usuarios_total": 61372.8
             },
             {
               "nombre": "Benjamin Gonzalez",
@@ -54,7 +54,7 @@
               "tickets_mensual": 85.62,
               "reuniones_mensual": 0,
               "total_clientes": 108.0,
-              "usuarios_total": 46306.0
+              "usuarios_total": 46380.8
             },
             {
               "nombre": "Johanna Calzada",
@@ -62,7 +62,7 @@
               "tickets_mensual": 71.23,
               "reuniones_mensual": 0,
               "total_clientes": 167.0,
-              "usuarios_total": 10167.0
+              "usuarios_total": 10165.8
             }
           ]
         },
@@ -76,8 +76,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 81.6,
           "total_clientes": 408,
-          "usuarios_total": 97159.0,
-          "usuarios_exec": 19431.8,
+          "usuarios_total": 97443.0,
+          "usuarios_exec": 19488.6,
           "ejecutivos_detalle": [
             {
               "nombre": "Santiago Cuellar",
@@ -85,7 +85,7 @@
               "tickets_mensual": 102.29,
               "reuniones_mensual": 0,
               "total_clientes": 91.6,
-              "usuarios_total": 35349.0
+              "usuarios_total": 35671.6
             },
             {
               "nombre": "Sharon Hernandez",
@@ -93,7 +93,7 @@
               "tickets_mensual": 91.91,
               "reuniones_mensual": 0,
               "total_clientes": 70.6,
-              "usuarios_total": 20511.0
+              "usuarios_total": 20521.6
             },
             {
               "nombre": "Roberto Molina",
@@ -101,7 +101,7 @@
               "tickets_mensual": 87.68,
               "reuniones_mensual": 0,
               "total_clientes": 82.6,
-              "usuarios_total": 30935.0
+              "usuarios_total": 30861.6
             },
             {
               "nombre": "Andersson Leon",
@@ -109,7 +109,7 @@
               "tickets_mensual": 36.68,
               "reuniones_mensual": 0,
               "total_clientes": 83.6,
-              "usuarios_total": 6692.0
+              "usuarios_total": 6712.6
             },
             {
               "nombre": "Felipe Ospina",
@@ -117,7 +117,7 @@
               "tickets_mensual": 35.98,
               "reuniones_mensual": 0,
               "total_clientes": 81.6,
-              "usuarios_total": 3672.0
+              "usuarios_total": 3675.6
             }
           ]
         },
@@ -159,8 +159,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 73.5,
           "total_clientes": 147,
-          "usuarios_total": 30549.0,
-          "usuarios_exec": 15274.5,
+          "usuarios_total": 30528.0,
+          "usuarios_exec": 15264.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Diana Duran",
@@ -168,7 +168,7 @@
               "tickets_mensual": 49.73,
               "reuniones_mensual": 0,
               "total_clientes": 101.5,
-              "usuarios_total": 9077.0
+              "usuarios_total": 9073.0
             },
             {
               "nombre": "Magda Sernaque",
@@ -176,7 +176,7 @@
               "tickets_mensual": 11.27,
               "reuniones_mensual": 0,
               "total_clientes": 20.5,
-              "usuarios_total": 3432.0
+              "usuarios_total": 3434.0
             }
           ]
         }
@@ -201,8 +201,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 33.0,
           "total_clientes": 33,
-          "usuarios_total": 726.0,
-          "usuarios_exec": 726.0,
+          "usuarios_total": 721.0,
+          "usuarios_exec": 721.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Darling Allendes",
@@ -210,7 +210,7 @@
               "tickets_mensual": 9.0,
               "reuniones_mensual": 0,
               "total_clientes": 31.0,
-              "usuarios_total": 684.0
+              "usuarios_total": 679.0
             }
           ]
         },
@@ -314,8 +314,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 117.0,
           "total_clientes": 117,
-          "usuarios_total": 11019.0,
-          "usuarios_exec": 11019.0,
+          "usuarios_total": 10998.0,
+          "usuarios_exec": 10998.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Paula Montoya",
@@ -323,7 +323,7 @@
               "tickets_mensual": 74.69,
               "reuniones_mensual": 0,
               "total_clientes": 117.0,
-              "usuarios_total": 11019.0
+              "usuarios_total": 10998.0
             }
           ]
         },
@@ -351,8 +351,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 74.5,
           "total_clientes": 149,
-          "usuarios_total": 18290.0,
-          "usuarios_exec": 9145.0,
+          "usuarios_total": 18263.0,
+          "usuarios_exec": 9131.5,
           "ejecutivos_detalle": [
             {
               "nombre": "Colombina Trujillo",
@@ -360,7 +360,7 @@
               "tickets_mensual": 41.81,
               "reuniones_mensual": 0,
               "total_clientes": 88.5,
-              "usuarios_total": 15870.0
+              "usuarios_total": 15841.0
             },
             {
               "nombre": "Giovanny Olvera",
@@ -368,7 +368,7 @@
               "tickets_mensual": 20.35,
               "reuniones_mensual": 0,
               "total_clientes": 61.5,
-              "usuarios_total": 2420.0
+              "usuarios_total": 2422.0
             }
           ]
         },
@@ -382,8 +382,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 45.0,
           "total_clientes": 45,
-          "usuarios_total": 7987.0,
-          "usuarios_exec": 7987.0,
+          "usuarios_total": 7956.0,
+          "usuarios_exec": 7956.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Joao Guerra",
@@ -410,8 +410,8 @@
     "tickets_sin_asignar": 1142,
     "tickets_redistribuidos": 995,
     "tickets_excluidos": 147,
-    "usuarios_sin_asignar": 227,
-    "usuarios_redistribuidos": 208,
+    "usuarios_sin_asignar": 228,
+    "usuarios_redistribuidos": 209,
     "usuarios_excluidos": 19
   }
 }
