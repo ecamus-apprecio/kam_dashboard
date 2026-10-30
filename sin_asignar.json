@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:47:05.790394+00:00",
+  "generated_at": "2026-10-30T17:53:12.885246+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 137
+      "count": 135
     },
     {
       "empresa_id": "1802",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 50
+      "count": 51
     },
     {
       "empresa_id": "114",
@@ -72,16 +72,6 @@
       "count": 19
     },
     {
-      "empresa_id": "10",
-      "nombre_empresa": "Apprecio",
-      "rut": "76.339.081-0",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "sgajardo@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 18
-    },
-    {
       "empresa_id": "58",
       "nombre_empresa": "UIO BTL",
       "rut": "1792184037001",
@@ -122,6 +112,16 @@
       "count": 14
     },
     {
+      "empresa_id": "10",
+      "nombre_empresa": "Apprecio",
+      "rut": "76.339.081-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "sgajardo@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 13
+    },
+    {
       "empresa_id": "1754",
       "nombre_empresa": "Americar",
       "rut": "76414568-2",
@@ -129,16 +129,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 13
-    },
-    {
-      "empresa_id": "3",
-      "nombre_empresa": "Apprecio",
-      "rut": "90141619",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
       "count": 13
     },
     {
@@ -189,6 +179,16 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
+      "count": 11
+    },
+    {
+      "empresa_id": "3",
+      "nombre_empresa": "Apprecio",
+      "rut": "90141619",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 11
     },
     {
@@ -682,6 +682,16 @@
       "count": 4
     },
     {
+      "empresa_id": "1561",
+      "nombre_empresa": "SERTRANSCO S.A.S.",
+      "rut": "9014046779",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "1567",
       "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
       "rut": "9017772911",
@@ -968,16 +978,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1561",
-      "nombre_empresa": "SERTRANSCO S.A.S.",
-      "rut": "9014046779",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 3
     },
@@ -1522,6 +1522,16 @@
       "count": 2
     },
     {
+      "empresa_id": "117",
+      "nombre_empresa": "Seguros Kcer",
+      "rut": "691716333001",
+      "pais": "Ecuador",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": null,
+      "count": 2
+    },
+    {
       "empresa_id": "213",
       "nombre_empresa": "BELUGA DE MEXICO SA DE CV",
       "rut": "BME 001026 NF9",
@@ -1895,6 +1905,16 @@
       "empresa_id": "2061",
       "nombre_empresa": "IMPORTADORA EXPORTADORA Y COMERCIALIZADORA SEARC S",
       "rut": "99585800-2",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "2064",
+      "nombre_empresa": "ASESORIAS JURIDICAS MOLLER Y ABADIE LTDA",
+      "rut": "77727144-k",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2532,6 +2552,16 @@
       "count": 1
     },
     {
+      "empresa_id": "1731",
+      "nombre_empresa": "FIX IT ASSISTANCE S.A.S",
+      "rut": "9012596064",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "92",
       "nombre_empresa": "Madison Performance Group",
       "rut": "134141712",
@@ -2608,16 +2638,6 @@
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 1
-    },
-    {
-      "empresa_id": "117",
-      "nombre_empresa": "Seguros Kcer",
-      "rut": "691716333001",
-      "pais": "Ecuador",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": null,
       "count": 1
     },
