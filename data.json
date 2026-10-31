@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:58:04.653312+00:00",
+  "generated_at": "2026-10-31T17:11:45.900564+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -69,8 +69,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 356.0,
-          "tickets_exec": 71.2,
+          "tickets_mensual": 356.08,
+          "tickets_exec": 71.22,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -98,7 +98,7 @@
             {
               "nombre": "Roberto Molina",
               "correo": "rmolina@apprecio.com",
-              "tickets_mensual": 87.68,
+              "tickets_mensual": 87.75,
               "reuniones_mensual": 0,
               "total_clientes": 82.8,
               "usuarios_total": 31106.6
