@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:15:16.896870+00:00",
+  "generated_at": "2026-11-01T05:25:20.774884+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -3191,7 +3191,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 79.0
+      "usuarios_incentivados": 78.0
     },
     {
       "empresa_id": "1758",
@@ -3351,17 +3351,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "cbocanegra@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 49.0
-    },
-    {
-      "empresa_id": "88",
-      "nombre_empresa": "KUSHKI SA",
-      "rut": "1792574218001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 49.0
+      "usuarios_incentivados": 48.0
     },
     {
       "empresa_id": "1889",
@@ -3422,6 +3412,16 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 45.0
+    },
+    {
+      "empresa_id": "88",
+      "nombre_empresa": "KUSHKI SA",
+      "rut": "1792574218001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "usuarios_incentivados": 44.0
     },
     {
       "empresa_id": "1531",
@@ -4704,6 +4704,16 @@
       "usuarios_incentivados": 2.0
     },
     {
+      "empresa_id": "2060",
+      "nombre_empresa": "Inversiones 2masociados spa",
+      "rut": "77394665-5",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
       "empresa_id": "690",
       "nombre_empresa": "TM Gestion inmobiliaria",
       "rut": "20549790373",
@@ -4887,16 +4897,6 @@
       "empresa_id": "2049",
       "nombre_empresa": "FRONERI SPA",
       "rut": "78450685-1",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1.0
-    },
-    {
-      "empresa_id": "2060",
-      "nombre_empresa": "Inversiones 2masociados spa",
-      "rut": "77394665-5",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
