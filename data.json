@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T00:27:36.892123+00:00",
+  "generated_at": "2026-11-02T10:46:30.756435+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -21,8 +21,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 114.6,
           "total_clientes": 573,
-          "usuarios_total": 175729.0,
-          "usuarios_exec": 35145.8,
+          "usuarios_total": 175728.0,
+          "usuarios_exec": 35145.6,
           "ejecutivos_detalle": [
             {
               "nombre": "Lorenzo Jamasmie",
@@ -38,7 +38,7 @@
               "tickets_mensual": 126.18,
               "reuniones_mensual": 0,
               "total_clientes": 92.2,
-              "usuarios_total": 17009.4
+              "usuarios_total": 17008.4
             },
             {
               "nombre": "Benjamin Castro",
@@ -76,8 +76,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 81.6,
           "total_clientes": 408,
-          "usuarios_total": 97830.0,
-          "usuarios_exec": 19566.0,
+          "usuarios_total": 97824.0,
+          "usuarios_exec": 19564.8,
           "ejecutivos_detalle": [
             {
               "nombre": "Santiago Cuellar",
@@ -93,7 +93,7 @@
               "tickets_mensual": 98.57,
               "reuniones_mensual": 0,
               "total_clientes": 69.8,
-              "usuarios_total": 20551.6
+              "usuarios_total": 20547.6
             },
             {
               "nombre": "Roberto Molina",
@@ -101,7 +101,7 @@
               "tickets_mensual": 94.65,
               "reuniones_mensual": 0,
               "total_clientes": 82.8,
-              "usuarios_total": 31039.6
+              "usuarios_total": 31038.6
             },
             {
               "nombre": "Andersson Leon",
@@ -117,7 +117,7 @@
               "tickets_mensual": 38.98,
               "reuniones_mensual": 0,
               "total_clientes": 81.8,
-              "usuarios_total": 3686.6
+              "usuarios_total": 3685.6
             }
           ]
         },
@@ -159,8 +159,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 71.5,
           "total_clientes": 143,
-          "usuarios_total": 30426.0,
-          "usuarios_exec": 15213.0,
+          "usuarios_total": 30460.0,
+          "usuarios_exec": 15230.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Diana Duran",
