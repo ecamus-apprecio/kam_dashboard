@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:35:28.842145+00:00",
+  "generated_at": "2026-11-03T06:03:28.408099+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -2841,7 +2841,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1034.0
+      "usuarios_incentivados": 1037.0
     },
     {
       "empresa_id": "234",
@@ -2981,7 +2981,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 239.0
+      "usuarios_incentivados": 244.0
     },
     {
       "empresa_id": "821",
@@ -3461,7 +3461,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "usuarios_incentivados": 38.0
+      "usuarios_incentivados": 39.0
     },
     {
       "empresa_id": "210",
@@ -4374,6 +4374,16 @@
       "usuarios_incentivados": 6.0
     },
     {
+      "empresa_id": "1975",
+      "nombre_empresa": "Augustar Seguros de Vida",
+      "rut": "76632384-7",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 5.0
+    },
+    {
       "empresa_id": "2020",
       "nombre_empresa": "MALLORCAUTOS",
       "rut": "77271121-2",
@@ -4387,6 +4397,16 @@
       "empresa_id": "2030",
       "nombre_empresa": "PACIFIC NUTRITION",
       "rut": "76290153-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 5.0
+    },
+    {
+      "empresa_id": "2063",
+      "nombre_empresa": "HASARD Y POLLACK SPA",
+      "rut": "77266614-4",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -4417,16 +4437,6 @@
       "empresa_id": "1955",
       "nombre_empresa": "TUAUTO SPA",
       "rut": "76982452-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 4.0
-    },
-    {
-      "empresa_id": "1975",
-      "nombre_empresa": "Augustar Seguros de Vida",
-      "rut": "76632384-7",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -4467,16 +4477,6 @@
       "empresa_id": "2062",
       "nombre_empresa": "Quinchero, von Tschirnhaus y Cía Ltda.",
       "rut": "76140804-6",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 4.0
-    },
-    {
-      "empresa_id": "2063",
-      "nombre_empresa": "HASARD Y POLLACK SPA",
-      "rut": "77266614-4",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
