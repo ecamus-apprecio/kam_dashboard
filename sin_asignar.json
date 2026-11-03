@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:03:28.408099+00:00",
+  "generated_at": "2026-11-03T16:54:55.031393+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -29,7 +29,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 50
+      "count": 51
     },
     {
       "empresa_id": "686",
@@ -2559,6 +2559,16 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1719",
+      "nombre_empresa": "LABYES DE COLOMBIA S.A.S",
+      "rut": "9017627116",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "BDM",
       "count": 1
     },
     {
