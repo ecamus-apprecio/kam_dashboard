@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:59:38.560650+00:00",
+  "generated_at": "2026-11-05T14:30:41.574890+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -14,8 +14,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 5,
-          "tickets_mensual": 547.46,
-          "tickets_exec": 109.49,
+          "tickets_mensual": 548.15,
+          "tickets_exec": 109.63,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -27,7 +27,7 @@
             {
               "nombre": "Lorenzo Jamasmie",
               "correo": "ljamasmie@apprecio.com",
-              "tickets_mensual": 162.65,
+              "tickets_mensual": 162.92,
               "reuniones_mensual": 0,
               "total_clientes": 110.2,
               "usuarios_total": 41018.6
@@ -35,7 +35,7 @@
             {
               "nombre": "Camilo Figueroa",
               "correo": "cfigueroa@apprecio.com",
-              "tickets_mensual": 116.95,
+              "tickets_mensual": 117.08,
               "reuniones_mensual": 0,
               "total_clientes": 92.2,
               "usuarios_total": 16992.6
@@ -43,7 +43,7 @@
             {
               "nombre": "Benjamin Castro",
               "correo": "bcastro@apprecio.com",
-              "tickets_mensual": 111.88,
+              "tickets_mensual": 111.92,
               "reuniones_mensual": 0,
               "total_clientes": 100.2,
               "usuarios_total": 61456.6
@@ -51,7 +51,7 @@
             {
               "nombre": "Benjamin Gonzalez",
               "correo": "bgonzalez@apprecio.com",
-              "tickets_mensual": 85.11,
+              "tickets_mensual": 85.23,
               "reuniones_mensual": 0,
               "total_clientes": 108.2,
               "usuarios_total": 46367.6
@@ -59,7 +59,7 @@
             {
               "nombre": "Johanna Calzada",
               "correo": "jcalzada@apprecio.com",
-              "tickets_mensual": 70.88,
+              "tickets_mensual": 71.0,
               "reuniones_mensual": 0,
               "total_clientes": 166.2,
               "usuarios_total": 10185.6
@@ -407,8 +407,8 @@
   },
   "meta": {
     "reuniones_sin_match": 1,
-    "tickets_sin_asignar": 1161,
-    "tickets_redistribuidos": 1015,
+    "tickets_sin_asignar": 1164,
+    "tickets_redistribuidos": 1018,
     "tickets_excluidos": 146,
     "usuarios_sin_asignar": 237,
     "usuarios_redistribuidos": 218,
