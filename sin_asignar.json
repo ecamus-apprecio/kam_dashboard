@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:30:41.574890+00:00",
+  "generated_at": "2026-11-05T21:24:21.634402+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -32,6 +32,16 @@
       "count": 51
     },
     {
+      "empresa_id": "505",
+      "nombre_empresa": "TresMontes lucchetti",
+      "rut": "995505800",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 31
+    },
+    {
       "empresa_id": "686",
       "nombre_empresa": "Versilia",
       "rut": "20609117339",
@@ -40,16 +50,6 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 31
-    },
-    {
-      "empresa_id": "505",
-      "nombre_empresa": "TresMontes lucchetti",
-      "rut": "995505800",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 30
     },
     {
       "empresa_id": "89",
@@ -392,6 +392,16 @@
       "count": 6
     },
     {
+      "empresa_id": "861",
+      "nombre_empresa": "Habla Latam",
+      "rut": "20610759069",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
       "empresa_id": "1052",
       "nombre_empresa": "SOFTCARIBBEAN S.A.S",
       "rut": "9002300040",
@@ -485,16 +495,6 @@
       "empresa_id": "758",
       "nombre_empresa": "Medifarma  - Comercial",
       "rut": "20100018625",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "861",
-      "nombre_empresa": "Habla Latam",
-      "rut": "20610759069",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -658,6 +658,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
+      "empresa_id": "1443",
+      "nombre_empresa": "Sada Logistics SAS",
+      "rut": "9015440479",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 4
     },
@@ -832,6 +842,16 @@
       "count": 3
     },
     {
+      "empresa_id": "2030",
+      "nombre_empresa": "PACIFIC NUTRITION",
+      "rut": "76290153-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "2045",
       "nombre_empresa": "GLC COMERCIAL",
       "rut": "78739210-5",
@@ -899,6 +919,16 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "430",
+      "nombre_empresa": "Grasas S.A.",
+      "rut": "8913005294",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 3
     },
     {
@@ -972,9 +1002,9 @@
       "count": 3
     },
     {
-      "empresa_id": "1443",
-      "nombre_empresa": "Sada Logistics SAS",
-      "rut": "9015440479",
+      "empresa_id": "1408",
+      "nombre_empresa": "SIMPLE TECH",
+      "rut": "9015448206",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
@@ -1162,16 +1192,6 @@
       "count": 2
     },
     {
-      "empresa_id": "2030",
-      "nombre_empresa": "PACIFIC NUTRITION",
-      "rut": "76290153-6",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
       "empresa_id": "2021",
       "nombre_empresa": "NUAM",
       "rut": "77726203-3",
@@ -1332,16 +1352,6 @@
       "count": 2
     },
     {
-      "empresa_id": "430",
-      "nombre_empresa": "Grasas S.A.",
-      "rut": "8913005294",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
-      "count": 2
-    },
-    {
       "empresa_id": "1135",
       "nombre_empresa": "ORIGAMI MERCADEO SOCIAL",
       "rut": "9003202344",
@@ -1385,16 +1395,6 @@
       "empresa_id": "1453",
       "nombre_empresa": "MAINSOFT CONSULTING SAS",
       "rut": "9004878523",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1408",
-      "nombre_empresa": "SIMPLE TECH",
-      "rut": "9015448206",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
