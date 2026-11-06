@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:06:32.171897+00:00",
+  "generated_at": "2026-11-06T20:45:59.923748+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -59,7 +59,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 23
+      "count": 26
     },
     {
       "empresa_id": "343",
@@ -212,6 +212,16 @@
       "count": 11
     },
     {
+      "empresa_id": "210",
+      "nombre_empresa": "Be Exponential",
+      "rut": "DSW220805EJ6",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "count": 11
+    },
+    {
       "empresa_id": "1955",
       "nombre_empresa": "TUAUTO SPA",
       "rut": "76982452-9",
@@ -239,16 +249,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 10
-    },
-    {
-      "empresa_id": "210",
-      "nombre_empresa": "Be Exponential",
-      "rut": "DSW220805EJ6",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
       "count": 10
     },
     {
@@ -622,6 +622,16 @@
       "count": 4
     },
     {
+      "empresa_id": "901",
+      "nombre_empresa": "UPN CAMPAÑAS POSGRADO",
+      "rut": "20215276024",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "938",
       "nombre_empresa": "SALESLAND CHILE",
       "rut": "5555",
@@ -866,16 +876,6 @@
       "nombre_empresa": "Space and Brand",
       "rut": "76145643-1",
       "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "901",
-      "nombre_empresa": "UPN CAMPAÑAS POSGRADO",
-      "rut": "20215276024",
-      "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
@@ -2129,6 +2129,16 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "BDM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1741",
+      "nombre_empresa": "ITALCOL ZONA FRANCA S.A.S",
+      "rut": "9014851656",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
       "count": 1
     },
     {
