@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T05:56:20.603640+00:00",
+  "generated_at": "2026-11-06T14:06:32.171897+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -69,8 +69,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 5,
-          "tickets_mensual": 356.85,
-          "tickets_exec": 71.37,
+          "tickets_mensual": 356.92,
+          "tickets_exec": 71.38,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -90,7 +90,7 @@
             {
               "nombre": "Sharon Hernandez",
               "correo": "shernandez@apprecio.com",
-              "tickets_mensual": 91.31,
+              "tickets_mensual": 91.38,
               "reuniones_mensual": 0,
               "total_clientes": 70.0,
               "usuarios_total": 20992.4
