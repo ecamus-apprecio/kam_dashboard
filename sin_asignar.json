@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:38:48.411015+00:00",
+  "generated_at": "2026-11-08T05:27:49.611136+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -49,7 +49,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 31
+      "count": 29
     },
     {
       "empresa_id": "89",
@@ -59,7 +59,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 26
+      "count": 25
     },
     {
       "empresa_id": "343",
@@ -382,16 +382,6 @@
       "count": 6
     },
     {
-      "empresa_id": "398",
-      "nombre_empresa": "PROYECTO E SAS",
-      "rut": "900110407",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
       "empresa_id": "1052",
       "nombre_empresa": "SOFTCARIBBEAN S.A.S",
       "rut": "9002300040",
@@ -522,6 +512,16 @@
       "count": 5
     },
     {
+      "empresa_id": "398",
+      "nombre_empresa": "PROYECTO E SAS",
+      "rut": "900110407",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "1364",
       "nombre_empresa": "CORPORACIÓN EDUCATIVA COLEGIO SAGRADO CORAZON MONT",
       "rut": "8110027879",
@@ -580,16 +580,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "count": 5
-    },
-    {
-      "empresa_id": "550",
-      "nombre_empresa": "Alborada",
-      "rut": "769695818",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
     },
     {
       "empresa_id": "1889",
@@ -812,6 +802,16 @@
       "count": 3
     },
     {
+      "empresa_id": "550",
+      "nombre_empresa": "Alborada",
+      "rut": "769695818",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "1943",
       "nombre_empresa": "NILO ARROYO",
       "rut": "76.345.095-3",
@@ -938,16 +938,6 @@
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1056",
-      "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
-      "rut": "9003602789",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 3
     },
@@ -1348,6 +1338,16 @@
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1056",
+      "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
+      "rut": "9003602789",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -2871,17 +2871,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2805.0
-    },
-    {
-      "empresa_id": "3",
-      "nombre_empresa": "Apprecio",
-      "rut": "90141619",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2024.0
+      "usuarios_incentivados": 2767.0
     },
     {
       "empresa_id": "343",
@@ -2891,6 +2881,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2023.0
+    },
+    {
+      "empresa_id": "3",
+      "nombre_empresa": "Apprecio",
+      "rut": "90141619",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "usuarios_incentivados": 2023.0
     },
     {
@@ -2941,7 +2941,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 702.0
+      "usuarios_incentivados": 700.0
     },
     {
       "empresa_id": "1846",
@@ -3061,7 +3061,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 244.0
+      "usuarios_incentivados": 243.0
     },
     {
       "empresa_id": "821",
@@ -3254,16 +3254,6 @@
       "usuarios_incentivados": 83.0
     },
     {
-      "empresa_id": "398",
-      "nombre_empresa": "PROYECTO E SAS",
-      "rut": "900110407",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 83.0
-    },
-    {
       "empresa_id": "89",
       "nombre_empresa": "CALBAQ S.A.",
       "rut": "0990135630001",
@@ -3272,6 +3262,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 78.0
+    },
+    {
+      "empresa_id": "398",
+      "nombre_empresa": "PROYECTO E SAS",
+      "rut": "900110407",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 77.0
     },
     {
       "empresa_id": "894",
@@ -3534,22 +3534,22 @@
       "usuarios_incentivados": 43.0
     },
     {
-      "empresa_id": "1943",
-      "nombre_empresa": "NILO ARROYO",
-      "rut": "76345095-3",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 40.0
-    },
-    {
       "empresa_id": "1343",
       "nombre_empresa": "E-DENTAL COLOMBIA SAS",
       "rut": "9010525270",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 42.0
+    },
+    {
+      "empresa_id": "1943",
+      "nombre_empresa": "NILO ARROYO",
+      "rut": "76345095-3",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 40.0
     },
@@ -3562,6 +3562,16 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 38.0
+    },
+    {
+      "empresa_id": "2033",
+      "nombre_empresa": "Envista",
+      "rut": "85025400-1",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 37.0
     },
     {
       "empresa_id": "121",
@@ -3712,16 +3722,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 24.0
-    },
-    {
-      "empresa_id": "1012",
-      "nombre_empresa": "LICAVIR SAS",
-      "rut": "8300722812",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
-      "usuarios_incentivados": 23.0
     },
     {
       "empresa_id": "226",
@@ -3964,16 +3964,6 @@
       "usuarios_incentivados": 15.0
     },
     {
-      "empresa_id": "550",
-      "nombre_empresa": "Alborada",
-      "rut": "76969581-8",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 14.0
-    },
-    {
       "empresa_id": "841",
       "nombre_empresa": "Digital itouch",
       "rut": "20606282851",
@@ -4067,6 +4057,16 @@
       "empresa_id": "1546",
       "nombre_empresa": "LIBGOT COLOMBIA SAS",
       "rut": "901442736",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 13.0
+    },
+    {
+      "empresa_id": "1720",
+      "nombre_empresa": "POTENCIA Y TECNOLOGIA S.A.S.",
+      "rut": "9004741440",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -4334,6 +4334,16 @@
       "usuarios_incentivados": 8.0
     },
     {
+      "empresa_id": "550",
+      "nombre_empresa": "Alborada",
+      "rut": "76969581-8",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 7.0
+    },
+    {
       "empresa_id": "2003",
       "nombre_empresa": "COMERCIAL CENTRAL CHILE",
       "rut": "76026619-1",
@@ -4404,32 +4414,12 @@
       "usuarios_incentivados": 6.0
     },
     {
-      "empresa_id": "1736",
-      "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
-      "rut": "77776240-0",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 6.0
-    },
-    {
       "empresa_id": "1940",
       "nombre_empresa": "Americar - Denali",
       "rut": "77461290-4",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 6.0
-    },
-    {
-      "empresa_id": "2033",
-      "nombre_empresa": "Envista",
-      "rut": "85025400-1",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 6.0
     },
@@ -4451,6 +4441,16 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
       "redistribuido_a": "KAM",
+      "usuarios_incentivados": 6.0
+    },
+    {
+      "empresa_id": "1012",
+      "nombre_empresa": "LICAVIR SAS",
+      "rut": "8300722812",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "usuarios_incentivados": 6.0
     },
     {
@@ -4532,6 +4532,16 @@
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 5.0
+    },
+    {
+      "empresa_id": "1736",
+      "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
+      "rut": "77776240-0",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
     },
     {
       "empresa_id": "1955",
