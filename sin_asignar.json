@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T00:39:55.184239+00:00",
+  "generated_at": "2026-11-09T11:10:06.232291+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -2931,7 +2931,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 841.0
+      "usuarios_incentivados": 842.0
     },
     {
       "empresa_id": "1074",
@@ -3424,6 +3424,16 @@
       "usuarios_incentivados": 48.0
     },
     {
+      "empresa_id": "2004",
+      "nombre_empresa": "Banco BCI",
+      "rut": "97006000-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 48.0
+    },
+    {
       "empresa_id": "1325",
       "nombre_empresa": "GLOBAL TALENT GT SAS",
       "rut": "9017487361",
@@ -3462,16 +3472,6 @@
       "email_kam_en_empresas": null,
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 47.0
-    },
-    {
-      "empresa_id": "2004",
-      "nombre_empresa": "Banco BCI",
-      "rut": "97006000-6",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 46.0
     },
     {
       "empresa_id": "88",

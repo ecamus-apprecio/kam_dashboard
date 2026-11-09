@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T00:39:55.184239+00:00",
+  "generated_at": "2026-11-09T11:10:06.232291+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -21,8 +21,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 114.4,
           "total_clientes": 572,
-          "usuarios_total": 175909.0,
-          "usuarios_exec": 35181.8,
+          "usuarios_total": 175906.0,
+          "usuarios_exec": 35181.2,
           "ejecutivos_detalle": [
             {
               "nombre": "Lorenzo Jamasmie",
@@ -30,7 +30,7 @@
               "tickets_mensual": 161.75,
               "reuniones_mensual": 0,
               "total_clientes": 109.2,
-              "usuarios_total": 41126.8
+              "usuarios_total": 41122.2
             },
             {
               "nombre": "Camilo Figueroa",
@@ -38,7 +38,7 @@
               "tickets_mensual": 116.68,
               "reuniones_mensual": 0,
               "total_clientes": 92.2,
-              "usuarios_total": 16984.8
+              "usuarios_total": 16985.2
             },
             {
               "nombre": "Benjamin Castro",
@@ -46,7 +46,7 @@
               "tickets_mensual": 111.6,
               "reuniones_mensual": 0,
               "total_clientes": 100.2,
-              "usuarios_total": 61252.8
+              "usuarios_total": 61253.2
             },
             {
               "nombre": "Benjamin Gonzalez",
@@ -54,7 +54,7 @@
               "tickets_mensual": 85.45,
               "reuniones_mensual": 0,
               "total_clientes": 108.2,
-              "usuarios_total": 46377.8
+              "usuarios_total": 46378.2
             },
             {
               "nombre": "Johanna Calzada",
@@ -62,7 +62,7 @@
               "tickets_mensual": 70.29,
               "reuniones_mensual": 0,
               "total_clientes": 165.2,
-              "usuarios_total": 10166.8
+              "usuarios_total": 10167.2
             }
           ]
         },
@@ -76,8 +76,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 81.8,
           "total_clientes": 409,
-          "usuarios_total": 100329.0,
-          "usuarios_exec": 20065.8,
+          "usuarios_total": 100309.0,
+          "usuarios_exec": 20061.8,
           "ejecutivos_detalle": [
             {
               "nombre": "Santiago Cuellar",
@@ -85,7 +85,7 @@
               "tickets_mensual": 102.63,
               "reuniones_mensual": 0,
               "total_clientes": 91.2,
-              "usuarios_total": 35981.2
+              "usuarios_total": 35968.2
             },
             {
               "nombre": "Sharon Hernandez",
@@ -93,7 +93,7 @@
               "tickets_mensual": 90.94,
               "reuniones_mensual": 0,
               "total_clientes": 70.2,
-              "usuarios_total": 21069.2
+              "usuarios_total": 21068.2
             },
             {
               "nombre": "Roberto Molina",
@@ -101,7 +101,7 @@
               "tickets_mensual": 87.63,
               "reuniones_mensual": 0,
               "total_clientes": 83.2,
-              "usuarios_total": 31595.2
+              "usuarios_total": 31589.2
             },
             {
               "nombre": "Andersson Leon",
@@ -351,8 +351,8 @@
           "reuniones_exec": 0.0,
           "clientes_exec": 75.5,
           "total_clientes": 151,
-          "usuarios_total": 18129.0,
-          "usuarios_exec": 9064.5,
+          "usuarios_total": 18130.0,
+          "usuarios_exec": 9065.0,
           "ejecutivos_detalle": [
             {
               "nombre": "Colombina Trujillo",
@@ -360,7 +360,7 @@
               "tickets_mensual": 42.73,
               "reuniones_mensual": 0,
               "total_clientes": 89.5,
-              "usuarios_total": 15708.5
+              "usuarios_total": 15709.0
             },
             {
               "nombre": "Giovanny Olvera",
@@ -368,7 +368,7 @@
               "tickets_mensual": 20.5,
               "reuniones_mensual": 0,
               "total_clientes": 62.5,
-              "usuarios_total": 2420.5
+              "usuarios_total": 2421.0
             }
           ]
         },
