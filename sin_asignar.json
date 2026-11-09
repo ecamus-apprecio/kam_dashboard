@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T11:10:06.232291+00:00",
+  "generated_at": "2026-11-09T22:08:33.448150+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -602,6 +602,16 @@
       "count": 4
     },
     {
+      "empresa_id": "1957",
+      "nombre_empresa": "B&F",
+      "rut": "78.200.745-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "2029",
       "nombre_empresa": "DUMMY",
       "rut": "76932696-0",
@@ -825,16 +835,6 @@
       "empresa_id": "1956",
       "nombre_empresa": "Casas Latam",
       "rut": "78071599-5",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1957",
-      "nombre_empresa": "B&F",
-      "rut": "78.200.745-9",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -1205,6 +1205,16 @@
       "empresa_id": "2033",
       "nombre_empresa": "Envista",
       "rut": "85025400-1",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "2051",
+      "nombre_empresa": "Ventus",
+      "rut": "99522260-4",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1835,16 +1845,6 @@
       "empresa_id": "2050",
       "nombre_empresa": "APIS",
       "rut": "77715125-8",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "2051",
-      "nombre_empresa": "Ventus",
-      "rut": "99522260-4",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
