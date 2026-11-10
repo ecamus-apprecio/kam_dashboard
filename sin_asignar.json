@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:08:33.448150+00:00",
+  "generated_at": "2026-11-10T06:47:31.543566+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -14,7 +14,7 @@
     {
       "empresa_id": "114",
       "nombre_empresa": "CONGRUPO",
-      "rut": "800146643",
+      "rut": "800.146.643",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
@@ -59,7 +59,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
-      "count": 25
+      "count": 27
     },
     {
       "empresa_id": "343",
@@ -92,6 +92,16 @@
       "count": 15
     },
     {
+      "empresa_id": "68",
+      "nombre_empresa": "SATRACK SA",
+      "rut": "1792337321001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 15
+    },
+    {
       "empresa_id": "1057",
       "nombre_empresa": "NEXOS SOFTWARE",
       "rut": "8110237291",
@@ -105,16 +115,6 @@
       "empresa_id": "63",
       "nombre_empresa": "LEAN SOLUTIONS GROUP S.A.S.",
       "rut": "993375303001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 14
-    },
-    {
-      "empresa_id": "68",
-      "nombre_empresa": "SATRACK SA",
-      "rut": "1792337321001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -162,6 +162,16 @@
       "count": 13
     },
     {
+      "empresa_id": "252",
+      "nombre_empresa": "ACSI RESEARCH",
+      "rut": "ARE150319Q48",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 13
+    },
+    {
       "empresa_id": "10",
       "nombre_empresa": "Apprecio",
       "rut": "76.339.081-0",
@@ -179,16 +189,6 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "count": 12
-    },
-    {
-      "empresa_id": "252",
-      "nombre_empresa": "ACSI RESEARCH",
-      "rut": "ARE150319Q48",
-      "pais": "México",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "Full Cycle",
       "count": 12
     },
     {
@@ -772,6 +772,16 @@
       "count": 4
     },
     {
+      "empresa_id": "1657",
+      "nombre_empresa": "GASCO COLOMBIA_MERCADEO",
+      "rut": "900335279",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "23",
       "nombre_empresa": "Siemens S.A",
       "rut": "1790219526001",
@@ -1015,16 +1025,6 @@
       "empresa_id": "1583",
       "nombre_empresa": "ALIMENTOS PROVERCOL SAS",
       "rut": "900557006",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1657",
-      "nombre_empresa": "GASCO COLOMBIA_MERCADEO",
-      "rut": "900335279",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1349,6 +1349,16 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1603",
+      "nombre_empresa": "IMPORMEDICAL EQUIPOS Y SUMINISTROS MEDICOS S A",
+      "rut": "9002610899",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "BDM",
       "count": 2
     },
     {
@@ -2122,16 +2132,6 @@
       "count": 1
     },
     {
-      "empresa_id": "1603",
-      "nombre_empresa": "IMPORMEDICAL EQUIPOS Y SUMINISTROS MEDICOS S A",
-      "rut": "9002610899",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "BDM",
-      "count": 1
-    },
-    {
       "empresa_id": "1741",
       "nombre_empresa": "ITALCOL ZONA FRANCA S.A.S",
       "rut": "9014851656",
@@ -2860,6 +2860,16 @@
       "email_kam_en_empresas": null,
       "redistribuido_a": "Full Cycle",
       "count": 1
+    },
+    {
+      "empresa_id": "271",
+      "nombre_empresa": "Mundo Joven",
+      "rut": "MAE1007128N4",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 1
     }
   ],
   "usuarios_sin_asignar": [
@@ -2961,7 +2971,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 501.0
+      "usuarios_incentivados": 502.0
     },
     {
       "empresa_id": "1528",
@@ -2984,6 +2994,16 @@
       "usuarios_incentivados": 459.0
     },
     {
+      "empresa_id": "1495",
+      "nombre_empresa": "CORPORACION INTERACTUAR",
+      "rut": "8909848433",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "BDM",
+      "usuarios_incentivados": 401.0
+    },
+    {
       "empresa_id": "60",
       "nombre_empresa": "MEGONETWORKS",
       "rut": "1793065457001",
@@ -2992,16 +3012,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 391.0
-    },
-    {
-      "empresa_id": "1495",
-      "nombre_empresa": "CORPORACION INTERACTUAR",
-      "rut": "8909848433",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "BDM",
-      "usuarios_incentivados": 381.0
     },
     {
       "empresa_id": "165",
@@ -3204,6 +3214,16 @@
       "usuarios_incentivados": 115.0
     },
     {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 104.0
+    },
+    {
       "empresa_id": "822",
       "nombre_empresa": "PERIFERIA IT CORP PERU S.A.C.",
       "rut": "20563741679",
@@ -3222,16 +3242,6 @@
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 93.0
-    },
-    {
-      "empresa_id": "1368",
-      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
-      "rut": "9009797448",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 89.0
     },
     {
       "empresa_id": "1567",
@@ -3274,6 +3284,16 @@
       "usuarios_incentivados": 77.0
     },
     {
+      "empresa_id": "861",
+      "nombre_empresa": "Habla Latam",
+      "rut": "20610759069",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 76.0
+    },
+    {
       "empresa_id": "894",
       "nombre_empresa": "CODELPA PERU S.A.C.",
       "rut": "20548977585",
@@ -3282,16 +3302,6 @@
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 76.0
-    },
-    {
-      "empresa_id": "861",
-      "nombre_empresa": "Habla Latam",
-      "rut": "20610759069",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 75.0
     },
     {
       "empresa_id": "1758",
@@ -3684,6 +3694,16 @@
       "usuarios_incentivados": 26.0
     },
     {
+      "empresa_id": "1657",
+      "nombre_empresa": "GASCO COLOMBIA_MERCADEO",
+      "rut": "900335279",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 26.0
+    },
+    {
       "empresa_id": "1547",
       "nombre_empresa": "COMERCIALIZADORA DISFRUVER S.A.S.",
       "rut": "900135976",
@@ -3854,6 +3874,16 @@
       "usuarios_incentivados": 18.0
     },
     {
+      "empresa_id": "320",
+      "nombre_empresa": "ENTEL - INNOVACIÓN",
+      "rut": "20106897914",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 17.0
+    },
+    {
       "empresa_id": "850",
       "nombre_empresa": "RENZO COSTA SAC",
       "rut": "20138998780",
@@ -3914,9 +3944,9 @@
       "usuarios_incentivados": 16.0
     },
     {
-      "empresa_id": "320",
-      "nombre_empresa": "ENTEL - INNOVACIÓN",
-      "rut": "20106897914",
+      "empresa_id": "881",
+      "nombre_empresa": "TIME INKJET",
+      "rut": "20614676770",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -3924,12 +3954,12 @@
       "usuarios_incentivados": 15.0
     },
     {
-      "empresa_id": "881",
-      "nombre_empresa": "TIME INKJET",
-      "rut": "20614676770",
-      "pais": "Perú",
+      "empresa_id": "1409",
+      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
+      "rut": "9010904869",
+      "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 15.0
     },
@@ -3984,9 +4014,9 @@
       "usuarios_incentivados": 14.0
     },
     {
-      "empresa_id": "1657",
-      "nombre_empresa": "GASCO COLOMBIA_MERCADEO",
-      "rut": "900335279",
+      "empresa_id": "1731",
+      "nombre_empresa": "FIX IT ASSISTANCE S.A.S",
+      "rut": "9012596064",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -4084,12 +4114,12 @@
       "usuarios_incentivados": 13.0
     },
     {
-      "empresa_id": "1409",
-      "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
-      "rut": "9010904869",
-      "pais": "Colombia",
+      "empresa_id": "1957",
+      "nombre_empresa": "B&F",
+      "rut": "78200745-9",
+      "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 12.0
     },
@@ -4147,16 +4177,6 @@
       "empresa_id": "1839",
       "nombre_empresa": "ZURICH CHILE ASSET",
       "rut": "77750920 -9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 10.0
-    },
-    {
-      "empresa_id": "1957",
-      "nombre_empresa": "B&F",
-      "rut": "78200745-9",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -4527,6 +4547,16 @@
       "empresa_id": "1573",
       "nombre_empresa": "CEIP-CENTRO DE ESTUDIOS EN INFECTOLOGIA PEDIATRICA",
       "rut": "9005785433",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 5.0
+    },
+    {
+      "empresa_id": "1658",
+      "nombre_empresa": "GRUPO BABEL COLOMBIA SAS",
+      "rut": "9014433233",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -4937,16 +4967,6 @@
       "empresa_id": "1653",
       "nombre_empresa": "JN PUBLICIDAD Y MONTAJES S.A.S",
       "rut": "9017013864",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "1658",
-      "nombre_empresa": "GRUPO BABEL COLOMBIA SAS",
-      "rut": "9014433233",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
