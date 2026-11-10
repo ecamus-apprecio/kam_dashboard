@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:54:16.991288+00:00",
+  "generated_at": "2026-11-10T23:02:21.226239+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -12,6 +12,16 @@
       "count": 135
     },
     {
+      "empresa_id": "1802",
+      "nombre_empresa": "TELEFONICA CHILE S.A.",
+      "rut": "90635000-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 52
+    },
+    {
       "empresa_id": "114",
       "nombre_empresa": "CONGRUPO",
       "rut": "800146643",
@@ -20,16 +30,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 52
-    },
-    {
-      "empresa_id": "1802",
-      "nombre_empresa": "TELEFONICA CHILE S.A.",
-      "rut": "90635000-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 51
     },
     {
       "empresa_id": "505",
@@ -362,6 +362,26 @@
       "count": 7
     },
     {
+      "empresa_id": "1407",
+      "nombre_empresa": "INNOVACURE SAS",
+      "rut": "9008728262",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 7
+    },
+    {
+      "empresa_id": "1744",
+      "nombre_empresa": "COMERCIAL SEKIP KAYA LIMITADA",
+      "rut": "76630803-1",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
       "empresa_id": "661",
       "nombre_empresa": "Bonda",
       "rut": "20609428253",
@@ -412,16 +432,6 @@
       "count": 6
     },
     {
-      "empresa_id": "1407",
-      "nombre_empresa": "INNOVACURE SAS",
-      "rut": "9008728262",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
       "empresa_id": "1409",
       "nombre_empresa": "TIENDAS MEDICAS ESPECIALIZADAS SAS",
       "rut": "9010904869",
@@ -448,16 +458,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "1744",
-      "nombre_empresa": "COMERCIAL SEKIP KAYA LIMITADA",
-      "rut": "76630803-1",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 5
     },
@@ -668,6 +668,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
+      "empresa_id": "1444",
+      "nombre_empresa": "GRASASBIO SAS",
+      "rut": "9011100720",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 4
     },
@@ -989,16 +999,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1444",
-      "nombre_empresa": "GRASASBIO SAS",
-      "rut": "9011100720",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
       "count": 3
     },
     {
@@ -1515,6 +1515,16 @@
       "empresa_id": "1679",
       "nombre_empresa": "PERPLEX GROUP COLOMBIA S.A.S",
       "rut": "9013903829",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1745",
+      "nombre_empresa": "KONEKSYON SAS",
+      "rut": "9013609529",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2595,6 +2605,16 @@
       "empresa_id": "1689",
       "nombre_empresa": "ASTRO SERVICIOS SAS",
       "rut": "9000581771",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1743",
+      "nombre_empresa": "COLOMBIANA DE COMERCIO S.A",
+      "rut": "8909009431",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
