@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T05:35:48.693631+00:00",
+  "generated_at": "2026-11-11T13:53:41.631497+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -944,7 +944,7 @@
     {
       "empresa_id": "430",
       "nombre_empresa": "Grasas S.A.",
-      "rut": "8.913.005.294",
+      "rut": "8913005294",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
