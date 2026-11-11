@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:53:41.631497+00:00",
+  "generated_at": "2026-11-11T21:48:38.980750+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 52
+      "count": 53
     },
     {
       "empresa_id": "114",
@@ -112,6 +112,16 @@
       "count": 15
     },
     {
+      "empresa_id": "15",
+      "nombre_empresa": "SIIGO",
+      "rut": "992560754001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 14
+    },
+    {
       "empresa_id": "1754",
       "nombre_empresa": "Americar",
       "rut": "76414568-2",
@@ -145,16 +155,6 @@
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 13
-    },
-    {
-      "empresa_id": "15",
-      "nombre_empresa": "SIIGO",
-      "rut": "992560754001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -354,7 +354,7 @@
     {
       "empresa_id": "533",
       "nombre_empresa": "Fidetech",
-      "rut": "9015865580",
+      "rut": "9.015.865.580",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -585,6 +585,16 @@
       "empresa_id": "1889",
       "nombre_empresa": "Ingeneria y Proyectos JR Telecomunicaciones Ltda",
       "rut": "76061491-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
+      "empresa_id": "550",
+      "nombre_empresa": "Alborada",
+      "rut": "769695818",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
@@ -842,16 +852,6 @@
       "count": 3
     },
     {
-      "empresa_id": "550",
-      "nombre_empresa": "Alborada",
-      "rut": "769695818",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
       "empresa_id": "1943",
       "nombre_empresa": "NILO ARROYO",
       "rut": "76.345.095-3",
@@ -1018,6 +1018,16 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "1589",
+      "nombre_empresa": "HOYA LENS COLOMBIA S.A.S.",
+      "rut": "901538753",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 3
     },
@@ -1482,16 +1492,6 @@
       "count": 2
     },
     {
-      "empresa_id": "1589",
-      "nombre_empresa": "HOYA LENS COLOMBIA S.A.S.",
-      "rut": "901538753",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
       "empresa_id": "1562",
       "nombre_empresa": "TRAMITPASS S.A.S",
       "rut": "9018279485",
@@ -1525,6 +1525,26 @@
       "empresa_id": "1679",
       "nombre_empresa": "PERPLEX GROUP COLOMBIA S.A.S",
       "rut": "9013903829",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1692",
+      "nombre_empresa": "TABI TECH INC",
+      "rut": "992375091",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1725",
+      "nombre_empresa": "UNIDAD MEDICO QUIRURGICA DE ORL S.A.S.",
+      "rut": "8605093230",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2492,16 +2512,6 @@
       "count": 1
     },
     {
-      "empresa_id": "1692",
-      "nombre_empresa": "TABI TECH INC",
-      "rut": "992375091",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "1701",
       "nombre_empresa": "ALLSNET SAC",
       "rut": "20609300087",
@@ -2565,16 +2575,6 @@
       "empresa_id": "1727",
       "nombre_empresa": "RED DESIGN SYSTEMS SOCIEDAD POR ACCIONES SIMPLIFIC",
       "rut": "9001332826",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1725",
-      "nombre_empresa": "UNIDAD MEDICO QUIRURGICA DE ORL S.A.S.",
-      "rut": "8605093230",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
