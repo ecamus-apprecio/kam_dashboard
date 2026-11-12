@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T17:28:14.064957+00:00",
+  "generated_at": "2026-11-12T23:24:00.867570+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -812,6 +812,16 @@
       "count": 4
     },
     {
+      "empresa_id": "1698",
+      "nombre_empresa": "BIEN RAIZ S.A.S",
+      "rut": "8909376555",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "23",
       "nombre_empresa": "Siemens S.A",
       "rut": "1790219526001",
@@ -1045,16 +1055,6 @@
       "empresa_id": "1638",
       "nombre_empresa": "BOLSA DE VALORES DE COLOMBIA S A",
       "rut": "830085426",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1698",
-      "nombre_empresa": "BIEN RAIZ S.A.S",
-      "rut": "8909376555",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1625,6 +1625,16 @@
       "empresa_id": "262",
       "nombre_empresa": "T2ó",
       "rut": "MME100831CU8",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 2
+    },
+    {
+      "empresa_id": "261",
+      "nombre_empresa": "COFLEX",
+      "rut": "COF980508MD4",
       "pais": "México",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2642,6 +2652,16 @@
       "count": 1
     },
     {
+      "empresa_id": "1747",
+      "nombre_empresa": "GLOBAL TRADING & ELECTRONIC EQUIPMENT SAS",
+      "rut": "9014537934",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "92",
       "nombre_empresa": "Madison Performance Group",
       "rut": "134141712",
@@ -2815,16 +2835,6 @@
       "empresa_id": "259",
       "nombre_empresa": "BIOSA MOTION",
       "rut": "BMT121126G44",
-      "pais": "México",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "Full Cycle",
-      "count": 1
-    },
-    {
-      "empresa_id": "261",
-      "nombre_empresa": "COFLEX",
-      "rut": "COF980508MD4",
       "pais": "México",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
