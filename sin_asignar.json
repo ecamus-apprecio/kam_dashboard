@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:24:00.867570+00:00",
+  "generated_at": "2026-11-13T05:58:02.578892+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -12,16 +12,6 @@
       "count": 135
     },
     {
-      "empresa_id": "1802",
-      "nombre_empresa": "TELEFONICA CHILE S.A.",
-      "rut": "90635000-9",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 53
-    },
-    {
       "empresa_id": "114",
       "nombre_empresa": "CONGRUPO",
       "rut": "800146643",
@@ -30,6 +20,16 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 53
+    },
+    {
+      "empresa_id": "1802",
+      "nombre_empresa": "TELEFONICA CHILE S.A.",
+      "rut": "90635000-9",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 51
     },
     {
       "empresa_id": "505",
@@ -49,7 +49,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 30
+      "count": 29
     },
     {
       "empresa_id": "89",
@@ -539,16 +539,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 5
-    },
-    {
-      "empresa_id": "104",
-      "nombre_empresa": "Blenastor",
-      "rut": "1790378489001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
       "count": 5
     },
     {
@@ -1069,6 +1059,16 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "104",
+      "nombre_empresa": "Blenastor",
+      "rut": "1790378489001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
       "count": 3
     },
     {
@@ -1688,16 +1688,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1877",
-      "nombre_empresa": "Botilleria de Barrio",
-      "rut": "76.172.616-1",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "ecamus@apprecio.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -2941,7 +2931,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2770.0
+      "usuarios_incentivados": 2768.0
     },
     {
       "empresa_id": "343",
@@ -2951,7 +2941,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2008.0
+      "usuarios_incentivados": 2018.0
     },
     {
       "empresa_id": "3",
@@ -2961,7 +2951,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 2002.0
+      "usuarios_incentivados": 1999.0
     },
     {
       "empresa_id": "1",
@@ -3131,7 +3121,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 243.0
+      "usuarios_incentivados": 241.0
     },
     {
       "empresa_id": "821",
@@ -3221,7 +3211,7 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 138.0
+      "usuarios_incentivados": 139.0
     },
     {
       "empresa_id": "79",
@@ -3374,22 +3364,22 @@
       "usuarios_incentivados": 74.0
     },
     {
-      "empresa_id": "1057",
-      "nombre_empresa": "NEXOS SOFTWARE",
-      "rut": "8110237291",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 73.0
-    },
-    {
       "empresa_id": "754",
       "nombre_empresa": "FORD - FUERZA",
       "rut": "20555903546",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 72.0
+    },
+    {
+      "empresa_id": "1057",
+      "nombre_empresa": "NEXOS SOFTWARE",
+      "rut": "8110237291",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 72.0
     },
@@ -3544,6 +3534,16 @@
       "usuarios_incentivados": 47.0
     },
     {
+      "empresa_id": "907",
+      "nombre_empresa": "NUAM - CAVALI",
+      "rut": "20346669625",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 46.0
+    },
+    {
       "empresa_id": "88",
       "nombre_empresa": "KUSHKI SA",
       "rut": "1792574218001",
@@ -3552,16 +3552,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 46.0
-    },
-    {
-      "empresa_id": "907",
-      "nombre_empresa": "NUAM - CAVALI",
-      "rut": "20346669625",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 45.0
     },
     {
       "empresa_id": "1052",
@@ -3584,6 +3574,16 @@
       "usuarios_incentivados": 45.0
     },
     {
+      "empresa_id": "1531",
+      "nombre_empresa": "CORPOEDUCACION",
+      "rut": "8300161450",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 44.0
+    },
+    {
       "empresa_id": "15",
       "nombre_empresa": "SIIGO",
       "rut": "992560754001",
@@ -3592,16 +3592,6 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "usuarios_incentivados": 44.0
-    },
-    {
-      "empresa_id": "1531",
-      "nombre_empresa": "CORPOEDUCACION",
-      "rut": "8300161450",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 43.0
     },
     {
       "empresa_id": "1343",
@@ -3644,6 +3634,16 @@
       "usuarios_incentivados": 37.0
     },
     {
+      "empresa_id": "1692",
+      "nombre_empresa": "TABI TECH INC",
+      "rut": "992375091",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 36.0
+    },
+    {
       "empresa_id": "121",
       "nombre_empresa": "FUNDACION UNIVERSITARIA INTERNACIONAL DE LA RIOJA",
       "rut": "90109661",
@@ -3664,14 +3664,14 @@
       "usuarios_incentivados": 35.0
     },
     {
-      "empresa_id": "1692",
-      "nombre_empresa": "TABI TECH INC",
-      "rut": "992375091",
+      "empresa_id": "1550",
+      "nombre_empresa": "SOLVO S.A.S",
+      "rut": "901180401",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 35.0
+      "usuarios_incentivados": 34.0
     },
     {
       "empresa_id": "86",
@@ -3692,16 +3692,6 @@
       "email_kam_en_empresas": null,
       "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 33.0
-    },
-    {
-      "empresa_id": "1550",
-      "nombre_empresa": "SOLVO S.A.S",
-      "rut": "901180401",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 32.0
     },
     {
       "empresa_id": "63",
@@ -3864,6 +3854,16 @@
       "usuarios_incentivados": 20.0
     },
     {
+      "empresa_id": "320",
+      "nombre_empresa": "ENTEL - INNOVACIÓN",
+      "rut": "20106897914",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 20.0
+    },
+    {
       "empresa_id": "855",
       "nombre_empresa": "JSMD MANAGEMENT S.A.S",
       "rut": "9014062521",
@@ -3894,6 +3894,16 @@
       "usuarios_incentivados": 20.0
     },
     {
+      "empresa_id": "1725",
+      "nombre_empresa": "UNIDAD MEDICO QUIRURGICA DE ORL S.A.S.",
+      "rut": "8605093230",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 20.0
+    },
+    {
       "empresa_id": "1748",
       "nombre_empresa": "RICOH CHILE S.A",
       "rut": "96513980-k",
@@ -3910,16 +3920,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 19.0
-    },
-    {
-      "empresa_id": "320",
-      "nombre_empresa": "ENTEL - INNOVACIÓN",
-      "rut": "20106897914",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 19.0
     },
@@ -3964,6 +3964,16 @@
       "usuarios_incentivados": 17.0
     },
     {
+      "empresa_id": "235",
+      "nombre_empresa": "H+Patrimonial",
+      "rut": "HSE080218RK5",
+      "pais": "México",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jtejada@dcanje.com",
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 17.0
+    },
+    {
       "empresa_id": "888",
       "nombre_empresa": "UPC CAMPAÑAS POST GRADO",
       "rut": "20211614545",
@@ -3991,16 +4001,6 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 16.0
-    },
-    {
-      "empresa_id": "235",
-      "nombre_empresa": "H+Patrimonial",
-      "rut": "HSE080218RK5",
-      "pais": "México",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jtejada@dcanje.com",
-      "redistribuido_a": "Full Cycle",
       "usuarios_incentivados": 16.0
     },
     {
@@ -4217,16 +4217,6 @@
       "empresa_id": "1535",
       "nombre_empresa": "KNOWLEDGE AT PROCESSES AND TRAINING ALLIES SAS",
       "rut": "900231103",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 11.0
-    },
-    {
-      "empresa_id": "1725",
-      "nombre_empresa": "UNIDAD MEDICO QUIRURGICA DE ORL S.A.S.",
-      "rut": "8605093230",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -4554,6 +4544,16 @@
       "usuarios_incentivados": 6.0
     },
     {
+      "empresa_id": "1658",
+      "nombre_empresa": "GRUPO BABEL COLOMBIA SAS",
+      "rut": "9014433233",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 6.0
+    },
+    {
       "empresa_id": "1668",
       "nombre_empresa": "ACCURO SAS",
       "rut": "8300231349",
@@ -4617,16 +4617,6 @@
       "empresa_id": "1573",
       "nombre_empresa": "CEIP-CENTRO DE ESTUDIOS EN INFECTOLOGIA PEDIATRICA",
       "rut": "9005785433",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 5.0
-    },
-    {
-      "empresa_id": "1658",
-      "nombre_empresa": "GRUPO BABEL COLOMBIA SAS",
-      "rut": "9014433233",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
