@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:58:02.578892+00:00",
+  "generated_at": "2026-11-13T14:27:25.875502+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -382,6 +382,16 @@
       "count": 6
     },
     {
+      "empresa_id": "1581",
+      "nombre_empresa": "FR Group Corredores de Seguros",
+      "rut": "79.619.240-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
       "empresa_id": "661",
       "nombre_empresa": "Bonda",
       "rut": "20609428253",
@@ -475,16 +485,6 @@
       "empresa_id": "1748",
       "nombre_empresa": "RICOH CHILE S.A",
       "rut": "96513980-k",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "1581",
-      "nombre_empresa": "FR Group Corredores de Seguros",
-      "rut": "79.619.240-2",
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
