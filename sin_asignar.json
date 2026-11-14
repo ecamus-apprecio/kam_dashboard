@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:19:18.137842+00:00",
+  "generated_at": "2026-11-14T05:47:28.469993+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -29,7 +29,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 51
+      "count": 50
     },
     {
       "empresa_id": "505",
@@ -852,16 +852,6 @@
       "count": 4
     },
     {
-      "empresa_id": "1713",
-      "nombre_empresa": "ODOOTECHNOLOGIES",
-      "rut": "55555555-5",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
       "empresa_id": "1943",
       "nombre_empresa": "NILO ARROYO",
       "rut": "76.345.095-3",
@@ -968,16 +958,6 @@
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "824",
-      "nombre_empresa": "beClassmates",
-      "rut": "764297687",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 3
     },
@@ -1118,6 +1098,16 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "1713",
+      "nombre_empresa": "ODOOTECHNOLOGIES",
+      "rut": "55555555-5",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -1405,6 +1395,16 @@
       "empresa_id": "1056",
       "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
       "rut": "9003602789",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "824",
+      "nombre_empresa": "beClassmates",
+      "rut": "764297687",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
@@ -2682,6 +2682,16 @@
       "count": 1
     },
     {
+      "empresa_id": "1660",
+      "nombre_empresa": "UNIVERSIDAD CES",
+      "rut": "8909840026",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "92",
       "nombre_empresa": "Madison Performance Group",
       "rut": "134141712",
@@ -2951,7 +2961,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2768.0
+      "usuarios_incentivados": 2767.0
     },
     {
       "empresa_id": "343",
@@ -2961,7 +2971,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2018.0
+      "usuarios_incentivados": 2024.0
     },
     {
       "empresa_id": "3",
@@ -2971,7 +2981,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 1999.0
+      "usuarios_incentivados": 1998.0
     },
     {
       "empresa_id": "1",
@@ -3001,7 +3011,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1022.0
+      "usuarios_incentivados": 1026.0
     },
     {
       "empresa_id": "234",
@@ -3041,7 +3051,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 502.0
+      "usuarios_incentivados": 500.0
     },
     {
       "empresa_id": "1528",
@@ -3071,7 +3081,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 401.0
+      "usuarios_incentivados": 406.0
     },
     {
       "empresa_id": "60",
@@ -3101,7 +3111,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 353.0
+      "usuarios_incentivados": 351.0
     },
     {
       "empresa_id": "938",
@@ -3234,16 +3244,6 @@
       "usuarios_incentivados": 139.0
     },
     {
-      "empresa_id": "79",
-      "nombre_empresa": "NTT-DATA ECUADOR S.A.",
-      "rut": "1793207896001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 137.0
-    },
-    {
       "empresa_id": "788",
       "nombre_empresa": "SALESLAND CHILE",
       "rut": "555555555",
@@ -3252,6 +3252,16 @@
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 136.0
+    },
+    {
+      "empresa_id": "79",
+      "nombre_empresa": "NTT-DATA ECUADOR S.A.",
+      "rut": "1793207896001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "usuarios_incentivados": 135.0
     },
     {
       "empresa_id": "1954",
@@ -3291,7 +3301,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 104.0
+      "usuarios_incentivados": 109.0
     },
     {
       "empresa_id": "822",
@@ -3684,6 +3694,16 @@
       "usuarios_incentivados": 35.0
     },
     {
+      "empresa_id": "1469",
+      "nombre_empresa": "CREATIVA PRODUCCIONES S.A",
+      "rut": "8300953526",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 35.0
+    },
+    {
       "empresa_id": "1550",
       "nombre_empresa": "SOLVO S.A.S",
       "rut": "901180401",
@@ -3761,13 +3781,23 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 28.0
+      "usuarios_incentivados": 27.0
     },
     {
       "empresa_id": "2045",
       "nombre_empresa": "GLC COMERCIAL",
       "rut": "78739210-5",
       "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 26.0
+    },
+    {
+      "empresa_id": "1589",
+      "nombre_empresa": "HOYA LENS COLOMBIA S.A.S.",
+      "rut": "901538753",
+      "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
@@ -3864,6 +3894,16 @@
       "usuarios_incentivados": 21.0
     },
     {
+      "empresa_id": "1546",
+      "nombre_empresa": "LIBGOT COLOMBIA SAS",
+      "rut": "901442736",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 21.0
+    },
+    {
       "empresa_id": "2043",
       "nombre_empresa": "CONSTRUCTORA VALKO",
       "rut": "83145600-0",
@@ -3940,16 +3980,6 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 19.0
-    },
-    {
-      "empresa_id": "1469",
-      "nombre_empresa": "CREATIVA PRODUCCIONES S.A",
-      "rut": "8300953526",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 19.0
     },
@@ -4074,6 +4104,16 @@
       "usuarios_incentivados": 15.0
     },
     {
+      "empresa_id": "1581",
+      "nombre_empresa": "FR Group Corredores de Seguros",
+      "rut": "79619240-2",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 14.0
+    },
+    {
       "empresa_id": "841",
       "nombre_empresa": "Digital itouch",
       "rut": "20606282851",
@@ -4114,16 +4154,6 @@
       "usuarios_incentivados": 14.0
     },
     {
-      "empresa_id": "1581",
-      "nombre_empresa": "FR Group Corredores de Seguros",
-      "rut": "79619240-2",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 13.0
-    },
-    {
       "empresa_id": "1056",
       "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
       "rut": "9003602789",
@@ -4157,16 +4187,6 @@
       "empresa_id": "1536",
       "nombre_empresa": "SIGNOS STUDIO SAS",
       "rut": "832004603",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 13.0
-    },
-    {
-      "empresa_id": "1546",
-      "nombre_empresa": "LIBGOT COLOMBIA SAS",
-      "rut": "901442736",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -5064,6 +5084,16 @@
       "usuarios_incentivados": 2.0
     },
     {
+      "empresa_id": "1747",
+      "nombre_empresa": "GLOBAL TRADING & ELECTRONIC EQUIPMENT SAS",
+      "rut": "9014537934",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 2.0
+    },
+    {
       "empresa_id": "71",
       "nombre_empresa": "EVALUAR",
       "rut": "1792213495001",
@@ -5204,6 +5234,16 @@
       "usuarios_incentivados": 1.0
     },
     {
+      "empresa_id": "1556",
+      "nombre_empresa": "Open Education LLC",
+      "rut": "27.4450263",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
       "empresa_id": "1562",
       "nombre_empresa": "TRAMITPASS S.A.S",
       "rut": "9018279485",
@@ -5317,6 +5357,16 @@
       "empresa_id": "259",
       "nombre_empresa": "BIOSA MOTION",
       "rut": "BMT121126G44",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "263",
+      "nombre_empresa": "REHAU INDUSTRIAL SOLUTIONS MEXICO",
+      "rut": "RIS2507072Q3",
       "pais": "México",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
