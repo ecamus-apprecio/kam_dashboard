@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:49:46.316320+00:00",
+  "generated_at": "2026-11-15T00:54:35.041532+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -9,7 +9,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 135
+      "count": 127
     },
     {
       "empresa_id": "114",
@@ -19,7 +19,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "count": 53
+      "count": 52
     },
     {
       "empresa_id": "1802",
@@ -1708,16 +1708,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1634",
-      "nombre_empresa": "Kuantiv",
-      "rut": "55555555-5",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 1
     },
