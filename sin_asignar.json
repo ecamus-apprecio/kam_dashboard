@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T00:53:24.929651+00:00",
+  "generated_at": "2026-11-16T10:51:29.569212+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -3944,16 +3944,6 @@
       "usuarios_incentivados": 20.0
     },
     {
-      "empresa_id": "1748",
-      "nombre_empresa": "RICOH CHILE S.A",
-      "rut": "96513980-k",
-      "pais": "Chile",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 19.0
-    },
-    {
       "empresa_id": "1958",
       "nombre_empresa": "Sincex",
       "rut": "78040780-8",
@@ -3962,6 +3952,16 @@
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 19.0
+    },
+    {
+      "empresa_id": "1748",
+      "nombre_empresa": "RICOH CHILE S.A",
+      "rut": "96513980-k",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 18.0
     },
     {
       "empresa_id": "1727",
