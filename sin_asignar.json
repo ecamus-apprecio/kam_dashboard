@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:25:06.818008+00:00",
+  "generated_at": "2026-11-17T18:19:59.536324+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -502,6 +502,26 @@
       "count": 5
     },
     {
+      "empresa_id": "2029",
+      "nombre_empresa": "DUMMY",
+      "rut": "76932696-0",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
+      "empresa_id": "901",
+      "nombre_empresa": "UPN CAMPAÑAS POSGRADO",
+      "rut": "20215276024",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
       "empresa_id": "758",
       "nombre_empresa": "Medifarma  - Comercial",
       "rut": "20100018625",
@@ -612,32 +632,12 @@
       "count": 4
     },
     {
-      "empresa_id": "2029",
-      "nombre_empresa": "DUMMY",
-      "rut": "76932696-0",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
       "empresa_id": "788",
       "nombre_empresa": "SALESLAND CHILE",
       "rut": "555555555",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 4
-    },
-    {
-      "empresa_id": "901",
-      "nombre_empresa": "UPN CAMPAÑAS POSGRADO",
-      "rut": "20215276024",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 4
     },
@@ -812,6 +812,16 @@
       "count": 4
     },
     {
+      "empresa_id": "1638",
+      "nombre_empresa": "BOLSA DE VALORES DE COLOMBIA S A",
+      "rut": "830085426",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "1698",
       "nombre_empresa": "BIEN RAIZ S.A.S",
       "rut": "8909376555",
@@ -932,6 +942,16 @@
       "count": 3
     },
     {
+      "empresa_id": "690",
+      "nombre_empresa": "TM Gestion inmobiliaria",
+      "rut": "20549790373",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "882",
       "nombre_empresa": "RUTACA PERU",
       "rut": "20601432472",
@@ -1035,16 +1055,6 @@
       "empresa_id": "1589",
       "nombre_empresa": "HOYA LENS COLOMBIA S.A.S.",
       "rut": "901538753",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
-      "empresa_id": "1638",
-      "nombre_empresa": "BOLSA DE VALORES DE COLOMBIA S A",
-      "rut": "830085426",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1272,6 +1282,16 @@
       "count": 2
     },
     {
+      "empresa_id": "105",
+      "nombre_empresa": "NORDEN",
+      "rut": "760594938",
+      "pais": "Chile",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "888",
       "nombre_empresa": "UPC CAMPAÑAS POST GRADO",
       "rut": "20211614545",
@@ -1298,16 +1318,6 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dduran@app",
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "690",
-      "nombre_empresa": "TM Gestion inmobiliaria",
-      "rut": "20549790373",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 2
     },
@@ -2718,16 +2728,6 @@
       "pais": "Ecuador",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": null,
-      "count": 1
-    },
-    {
-      "empresa_id": "105",
-      "nombre_empresa": "GURITBALSAFLEX",
-      "rut": "992500670001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": null,
       "count": 1
     },
