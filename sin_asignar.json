@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:23:29.327935+00:00",
+  "generated_at": "2026-11-18T20:15:17.086136+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -1602,6 +1602,16 @@
       "count": 2
     },
     {
+      "empresa_id": "1747",
+      "nombre_empresa": "GLOBAL TRADING & ELECTRONIC EQUIPMENT SAS",
+      "rut": "9014537934",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
       "empresa_id": "1",
       "nombre_empresa": "Apprecio",
       "rut": "763390810",
@@ -1992,6 +2002,16 @@
       "count": 1
     },
     {
+      "empresa_id": "2073",
+      "nombre_empresa": "MACO TATTERSALL S.A.",
+      "rut": "77078261-9",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "862",
       "nombre_empresa": "Madison Performance - EC",
       "rut": "134141712",
@@ -2158,6 +2178,16 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "932",
+      "nombre_empresa": "TATA CONSULTANCY - AREAS",
+      "rut": "20535627101",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
@@ -2658,16 +2688,6 @@
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
-      "empresa_id": "1747",
-      "nombre_empresa": "GLOBAL TRADING & ELECTRONIC EQUIPMENT SAS",
-      "rut": "9014537934",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
       "count": 1
     },
