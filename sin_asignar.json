@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:15:17.086136+00:00",
+  "generated_at": "2026-11-19T02:24:56.386203+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -112,16 +112,6 @@
       "count": 14
     },
     {
-      "empresa_id": "15",
-      "nombre_empresa": "SIIGO",
-      "rut": "992560754001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 14
-    },
-    {
       "empresa_id": "68",
       "nombre_empresa": "SATRACK SA",
       "rut": "1792337321001",
@@ -155,6 +145,16 @@
       "empresa_id": "72",
       "nombre_empresa": "GENFAR DEL ECUADOR S.A.S.",
       "rut": "1793197944001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 13
+    },
+    {
+      "empresa_id": "15",
+      "nombre_empresa": "SIIGO",
+      "rut": "992560754001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -202,13 +202,13 @@
       "count": 11
     },
     {
-      "empresa_id": "3",
-      "nombre_empresa": "Apprecio",
-      "rut": "90141619",
-      "pais": "Colombia",
+      "empresa_id": "821",
+      "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
+      "rut": "20614426692",
+      "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "BDM",
+      "email_kam_en_empresas": "dduran@app",
+      "redistribuido_a": "KAM",
       "count": 11
     },
     {
@@ -232,13 +232,13 @@
       "count": 10
     },
     {
-      "empresa_id": "821",
-      "nombre_empresa": "FRACTALIA IT SYSTEMS PERU",
-      "rut": "20614426692",
-      "pais": "Perú",
+      "empresa_id": "3",
+      "nombre_empresa": "Apprecio",
+      "rut": "90141619",
+      "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dduran@app",
-      "redistribuido_a": "KAM",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "BDM",
       "count": 10
     },
     {
@@ -392,16 +392,6 @@
       "count": 6
     },
     {
-      "empresa_id": "661",
-      "nombre_empresa": "Bonda",
-      "rut": "20609428253",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 6
-    },
-    {
       "empresa_id": "754",
       "nombre_empresa": "FORD - FUERZA",
       "rut": "20555903546",
@@ -472,6 +462,16 @@
       "count": 6
     },
     {
+      "empresa_id": "22",
+      "nombre_empresa": "KASKEY ECUADOR",
+      "rut": "1793045901001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "cbocanegra@dcanje.com",
+      "redistribuido_a": null,
+      "count": 6
+    },
+    {
       "empresa_id": "235",
       "nombre_empresa": "H+Patrimonial",
       "rut": "HSE080218RK5",
@@ -508,6 +508,16 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 5
+    },
+    {
+      "empresa_id": "661",
+      "nombre_empresa": "Bonda",
+      "rut": "20609428253",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 5
     },
@@ -588,16 +598,6 @@
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 5
-    },
-    {
-      "empresa_id": "22",
-      "nombre_empresa": "KASKEY ECUADOR",
-      "rut": "1793045901001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "cbocanegra@dcanje.com",
       "redistribuido_a": null,
       "count": 5
     },
@@ -1364,7 +1364,7 @@
     {
       "empresa_id": "883",
       "nombre_empresa": "DROGUERIA IMOFAR",
-      "rut": "20601396123",
+      "rut": "20.601.396.123",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -2991,7 +2991,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2742.0
+      "usuarios_incentivados": 2741.0
     },
     {
       "empresa_id": "343",
@@ -3011,7 +3011,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 1997.0
+      "usuarios_incentivados": 1996.0
     },
     {
       "empresa_id": "1",
@@ -3041,7 +3041,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1023.0
+      "usuarios_incentivados": 1013.0
     },
     {
       "empresa_id": "234",
@@ -3051,7 +3051,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
-      "usuarios_incentivados": 844.0
+      "usuarios_incentivados": 842.0
     },
     {
       "empresa_id": "1074",
@@ -3111,7 +3111,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "BDM",
-      "usuarios_incentivados": 406.0
+      "usuarios_incentivados": 408.0
     },
     {
       "empresa_id": "60",
@@ -3231,7 +3231,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 188.0
+      "usuarios_incentivados": 198.0
     },
     {
       "empresa_id": "889",
@@ -3314,6 +3314,16 @@
       "usuarios_incentivados": 125.0
     },
     {
+      "empresa_id": "1368",
+      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
+      "rut": "9009797448",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 118.0
+    },
+    {
       "empresa_id": "849",
       "nombre_empresa": "NATURA COSMETICOS S.A.",
       "rut": "20101796532",
@@ -3322,16 +3332,6 @@
       "email_kam_en_empresas": "ljamasmie@app",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 115.0
-    },
-    {
-      "empresa_id": "1368",
-      "nombre_empresa": "INDIGO SEGUROS LIMITADA",
-      "rut": "9009797448",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 112.0
     },
     {
       "empresa_id": "822",
@@ -3364,6 +3364,16 @@
       "usuarios_incentivados": 88.0
     },
     {
+      "empresa_id": "1679",
+      "nombre_empresa": "PERPLEX GROUP COLOMBIA S.A.S",
+      "rut": "9013903829",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 83.0
+    },
+    {
       "empresa_id": "398",
       "nombre_empresa": "PROYECTO E SAS",
       "rut": "900110407",
@@ -3372,16 +3382,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 79.0
-    },
-    {
-      "empresa_id": "754",
-      "nombre_empresa": "FORD - FUERZA",
-      "rut": "20555903546",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 77.0
     },
     {
       "empresa_id": "861",
@@ -3432,6 +3432,16 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 72.0
+    },
+    {
+      "empresa_id": "754",
+      "nombre_empresa": "FORD - FUERZA",
+      "rut": "20555903546",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 66.0
     },
     {
       "empresa_id": "2054",
@@ -3502,16 +3512,6 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "BDM",
       "usuarios_incentivados": 56.0
-    },
-    {
-      "empresa_id": "1679",
-      "nombre_empresa": "PERPLEX GROUP COLOMBIA S.A.S",
-      "rut": "9013903829",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 55.0
     },
     {
       "empresa_id": "746",
@@ -3811,6 +3811,16 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
+      "usuarios_incentivados": 28.0
+    },
+    {
+      "empresa_id": "1657",
+      "nombre_empresa": "GASCO COLOMBIA_MERCADEO",
+      "rut": "900335279",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
       "usuarios_incentivados": 27.0
     },
     {
@@ -3837,16 +3847,6 @@
       "empresa_id": "1589",
       "nombre_empresa": "HOYA LENS COLOMBIA S.A.S.",
       "rut": "901538753",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 26.0
-    },
-    {
-      "empresa_id": "1657",
-      "nombre_empresa": "GASCO COLOMBIA_MERCADEO",
-      "rut": "900335279",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3892,6 +3892,16 @@
       "email_kam_en_empresas": "aavila@apprecio.com",
       "redistribuido_a": "BDM",
       "usuarios_incentivados": 22.0
+    },
+    {
+      "empresa_id": "2067",
+      "nombre_empresa": "Centro de Atención Odontológica Norden",
+      "rut": "76059493-8",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 21.0
     },
     {
       "empresa_id": "1453",
@@ -4184,16 +4194,6 @@
       "usuarios_incentivados": 14.0
     },
     {
-      "empresa_id": "1056",
-      "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
-      "rut": "9003602789",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 13.0
-    },
-    {
       "empresa_id": "1141",
       "nombre_empresa": "EDUCA EDTECH COLOMBIA SAS",
       "rut": "9016655540",
@@ -4314,6 +4314,16 @@
       "usuarios_incentivados": 10.0
     },
     {
+      "empresa_id": "2029",
+      "nombre_empresa": "DUMMY",
+      "rut": "76932696-0",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 10.0
+    },
+    {
       "empresa_id": "2064",
       "nombre_empresa": "ASESORIAS JURIDICAS MOLLER Y ABADIE LTDA",
       "rut": "77727144-k",
@@ -4344,6 +4354,16 @@
       "usuarios_incentivados": 10.0
     },
     {
+      "empresa_id": "1733",
+      "nombre_empresa": "BRILLADORA EL DIAMANTE S.A.",
+      "rut": "8903003271",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 10.0
+    },
+    {
       "empresa_id": "663",
       "nombre_empresa": "INVERSIONES INT SAS",
       "rut": "9004393012",
@@ -4360,6 +4380,16 @@
       "pais": "Chile",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 9.0
+    },
+    {
+      "empresa_id": "1056",
+      "nombre_empresa": "TALENTO HUMANO Y GESTION S.A.S.",
+      "rut": "9003602789",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 9.0
     },
@@ -4424,9 +4454,9 @@
       "usuarios_incentivados": 8.0
     },
     {
-      "empresa_id": "2018",
-      "nombre_empresa": "Fika Express Rancagua",
-      "rut": "78228769-9",
+      "empresa_id": "2017",
+      "nombre_empresa": "Loopon",
+      "rut": "78095526-0",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -4434,9 +4464,9 @@
       "usuarios_incentivados": 8.0
     },
     {
-      "empresa_id": "2029",
-      "nombre_empresa": "DUMMY",
-      "rut": "76932696-0",
+      "empresa_id": "2018",
+      "nombre_empresa": "Fika Express Rancagua",
+      "rut": "78228769-9",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -4714,6 +4744,16 @@
       "usuarios_incentivados": 5.0
     },
     {
+      "empresa_id": "1625",
+      "nombre_empresa": "GRUPO DIMEO S A S",
+      "rut": "9010255330",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 5.0
+    },
+    {
       "empresa_id": "1736",
       "nombre_empresa": "SOC COMERCIAL TEKMA SPA",
       "rut": "77776240-0",
@@ -4874,6 +4914,16 @@
       "usuarios_incentivados": 4.0
     },
     {
+      "empresa_id": "1742",
+      "nombre_empresa": "CELERITY FIBER S.A.S.",
+      "rut": "9013442635",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 4.0
+    },
+    {
       "empresa_id": "106",
       "nombre_empresa": "DOTS SAS",
       "rut": "9008443137",
@@ -4904,12 +4954,12 @@
       "usuarios_incentivados": 4.0
     },
     {
-      "empresa_id": "2017",
-      "nombre_empresa": "Loopon",
-      "rut": "78095526-0",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
+      "empresa_id": "690",
+      "nombre_empresa": "TM Gestion inmobiliaria",
+      "rut": "20549790373",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 3.0
     },
@@ -4954,16 +5004,6 @@
       "usuarios_incentivados": 3.0
     },
     {
-      "empresa_id": "1625",
-      "nombre_empresa": "GRUPO DIMEO S A S",
-      "rut": "9010255330",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 3.0
-    },
-    {
       "empresa_id": "1744",
       "nombre_empresa": "COMERCIAL SEKIP KAYA LIMITADA",
       "rut": "76630803-1",
@@ -5000,16 +5040,6 @@
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "690",
-      "nombre_empresa": "TM Gestion inmobiliaria",
-      "rut": "20549790373",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 2.0
     },
@@ -5127,16 +5157,6 @@
       "empresa_id": "1708",
       "nombre_empresa": "Obvious Business SAS",
       "rut": "9005683941",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2.0
-    },
-    {
-      "empresa_id": "1742",
-      "nombre_empresa": "CELERITY FIBER S.A.S.",
-      "rut": "9013442635",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -5354,6 +5374,16 @@
       "usuarios_incentivados": 1.0
     },
     {
+      "empresa_id": "1750",
+      "nombre_empresa": "VAMOS APP S.A.S.",
+      "rut": "9019581363",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 1.0
+    },
+    {
       "empresa_id": "168",
       "nombre_empresa": "Q&C INGENIERIA S.A.S",
       "rut": "830092541",
@@ -5407,6 +5437,16 @@
       "empresa_id": "259",
       "nombre_empresa": "BIOSA MOTION",
       "rut": "BMT121126G44",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "usuarios_incentivados": 1.0
+    },
+    {
+      "empresa_id": "269",
+      "nombre_empresa": "REVZEN GROUP",
+      "rut": "RGR1604274X2",
       "pais": "México",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
