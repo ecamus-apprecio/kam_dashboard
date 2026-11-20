@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:09:45.191232+00:00",
+  "generated_at": "2026-11-20T19:50:08.742967+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -112,6 +112,16 @@
       "count": 14
     },
     {
+      "empresa_id": "1057",
+      "nombre_empresa": "NEXOS SOFTWARE",
+      "rut": "8110237291",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 14
+    },
+    {
       "empresa_id": "68",
       "nombre_empresa": "SATRACK SA",
       "rut": "1792337321001",
@@ -138,16 +148,6 @@
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 13
-    },
-    {
-      "empresa_id": "1057",
-      "nombre_empresa": "NEXOS SOFTWARE",
-      "rut": "8110237291",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 13
     },
@@ -252,6 +252,16 @@
       "count": 10
     },
     {
+      "empresa_id": "86",
+      "nombre_empresa": "ASPENPHARMA S.A.",
+      "rut": "1792453712001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "count": 10
+    },
+    {
       "empresa_id": "2009",
       "nombre_empresa": "DERCOMAQ",
       "rut": "76141853-K",
@@ -285,16 +295,6 @@
       "empresa_id": "79",
       "nombre_empresa": "NTT-DATA ECUADOR S.A.",
       "rut": "1793207896001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "count": 9
-    },
-    {
-      "empresa_id": "86",
-      "nombre_empresa": "ASPENPHARMA S.A.",
-      "rut": "1792453712001",
       "pais": "Ecuador",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
@@ -380,6 +380,16 @@
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 7
+    },
+    {
+      "empresa_id": "2004",
+      "nombre_empresa": "Banco BCI",
+      "rut": "97006000-6",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 6
     },
     {
       "empresa_id": "1744",
@@ -480,16 +490,6 @@
       "email_kam_en_empresas": "jtejada@dcanje.com",
       "redistribuido_a": "Full Cycle",
       "count": 6
-    },
-    {
-      "empresa_id": "2004",
-      "nombre_empresa": "Banco BCI",
-      "rut": "97006000-6",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 5
     },
     {
       "empresa_id": "1748",
@@ -922,6 +922,16 @@
       "count": 3
     },
     {
+      "empresa_id": "2044",
+      "nombre_empresa": "Sbpay",
+      "rut": "96623540-3",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
       "empresa_id": "2045",
       "nombre_empresa": "GLC COMERCIAL",
       "rut": "78739210-5",
@@ -1265,16 +1275,6 @@
       "empresa_id": "2051",
       "nombre_empresa": "Ventus",
       "rut": "99522260-4",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "2044",
-      "nombre_empresa": "Sbpay",
-      "rut": "96623540-3",
       "pais": "Chile",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2742,6 +2742,26 @@
       "count": 1
     },
     {
+      "empresa_id": "1570",
+      "nombre_empresa": "SOCIEDAD I.D.T. SAS",
+      "rut": "9006498171",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "1753",
+      "nombre_empresa": "MULTIDIOMAS LIMITADA",
+      "rut": "9000972925",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "92",
       "nombre_empresa": "Madison Performance Group",
       "rut": "134141712",
@@ -2985,6 +3005,26 @@
       "empresa_id": "271",
       "nombre_empresa": "Mundo Joven",
       "rut": "MAE1007128N4",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 1
+    },
+    {
+      "empresa_id": "276",
+      "nombre_empresa": "COMFU SA DE CV",
+      "rut": "COM150804TQ9",
+      "pais": "México",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "Full Cycle",
+      "count": 1
+    },
+    {
+      "empresa_id": "275",
+      "nombre_empresa": "AIRLIFE",
+      "rut": "GAM090724AV6",
       "pais": "México",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
