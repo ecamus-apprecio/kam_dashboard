@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:56:44.660583+00:00",
+  "generated_at": "2026-11-22T19:16:25.160090+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -307,8 +307,8 @@
         "Colombia": {
           "flag": "🇨🇴",
           "ejecutivos": 1,
-          "tickets_mensual": 74.77,
-          "tickets_exec": 74.77,
+          "tickets_mensual": 74.85,
+          "tickets_exec": 74.85,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -320,7 +320,7 @@
             {
               "nombre": "Paula Montoya",
               "correo": "pmontoya@apprecio.com",
-              "tickets_mensual": 74.77,
+              "tickets_mensual": 74.85,
               "reuniones_mensual": 0,
               "total_clientes": 112.0,
               "usuarios_total": 11276.0
