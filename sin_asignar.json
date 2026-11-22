@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:56:32.135117+00:00",
+  "generated_at": "2026-11-22T01:04:52.951573+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -352,16 +352,6 @@
       "count": 7
     },
     {
-      "empresa_id": "533",
-      "nombre_empresa": "Fidetech",
-      "rut": "9015865580",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
-      "redistribuido_a": "KAM",
-      "count": 7
-    },
-    {
       "empresa_id": "1334",
       "nombre_empresa": "NISUM COLOMBIA SAS",
       "rut": "9015511261",
@@ -428,6 +418,16 @@
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 6
+    },
+    {
+      "empresa_id": "533",
+      "nombre_empresa": "Fidetech",
+      "rut": "9015865580",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 6
     },
@@ -528,16 +528,6 @@
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 5
-    },
-    {
-      "empresa_id": "758",
-      "nombre_empresa": "Medifarma  - Comercial",
-      "rut": "20100018625",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 5
     },
@@ -655,6 +645,16 @@
       "empresa_id": "788",
       "nombre_empresa": "SALESLAND CHILE",
       "rut": "555555555",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
+      "empresa_id": "758",
+      "nombre_empresa": "Medifarma  - Comercial",
+      "rut": "20100018625",
       "pais": "Perú",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
