@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:04:52.951573+00:00",
+  "generated_at": "2026-11-22T10:56:44.660583+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -3101,7 +3101,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 1013.0
+      "usuarios_incentivados": 1012.0
     },
     {
       "empresa_id": "234",
@@ -3254,16 +3254,6 @@
       "usuarios_incentivados": 218.0
     },
     {
-      "empresa_id": "104",
-      "nombre_empresa": "Blenastor",
-      "rut": "1790378489001",
-      "pais": "Ecuador",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": null,
-      "usuarios_incentivados": 216.0
-    },
-    {
       "empresa_id": "1493",
       "nombre_empresa": "COMPAÑIA ASEGURADORA DE FIANZAS S A",
       "rut": "8600703749",
@@ -3292,6 +3282,16 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 199.0
+    },
+    {
+      "empresa_id": "104",
+      "nombre_empresa": "Blenastor",
+      "rut": "1790378489001",
+      "pais": "Ecuador",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": null,
+      "usuarios_incentivados": 192.0
     },
     {
       "empresa_id": "889",
