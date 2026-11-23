@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:16:25.160090+00:00",
+  "generated_at": "2026-11-23T01:28:29.829880+00:00",
   "month_labels": [],
   "country_order": [
     "Chile",
@@ -194,8 +194,8 @@
         "Chile": {
           "flag": "🇨🇱",
           "ejecutivos": 1,
-          "tickets_mensual": 10.23,
-          "tickets_exec": 10.23,
+          "tickets_mensual": 11.0,
+          "tickets_exec": 11.0,
           "reuniones_monthly": [],
           "reuniones_mensual": 0,
           "reuniones_exec": 0.0,
@@ -207,7 +207,7 @@
             {
               "nombre": "Darling Allendes",
               "correo": "dallendes@dcanje.com",
-              "tickets_mensual": 9.77,
+              "tickets_mensual": 10.5,
               "reuniones_mensual": 0,
               "total_clientes": 32.0,
               "usuarios_total": 779.0
