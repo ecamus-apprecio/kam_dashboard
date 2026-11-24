@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T12:03:28.077887+00:00",
+  "generated_at": "2026-11-24T02:03:57.705651+00:00",
   "tickets_sin_asignar": [
     {
       "empresa_id": "620",
@@ -342,6 +342,16 @@
       "count": 8
     },
     {
+      "empresa_id": "1407",
+      "nombre_empresa": "INNOVACURE SAS",
+      "rut": "9008728262",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "count": 8
+    },
+    {
       "empresa_id": "2005",
       "nombre_empresa": "SOCIAS INMOBILIARIAS",
       "rut": "78095861-8",
@@ -352,19 +362,19 @@
       "count": 7
     },
     {
-      "empresa_id": "1334",
-      "nombre_empresa": "NISUM COLOMBIA SAS",
-      "rut": "9015511261",
+      "empresa_id": "1202",
+      "nombre_empresa": "CRISTAR TABLETOP S.A.S",
+      "rut": "9014954528",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "count": 7
     },
     {
-      "empresa_id": "1407",
-      "nombre_empresa": "INNOVACURE SAS",
-      "rut": "9008728262",
+      "empresa_id": "1334",
+      "nombre_empresa": "NISUM COLOMBIA SAS",
+      "rut": "9015511261",
       "pais": "Colombia",
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
@@ -439,16 +449,6 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "BDM",
-      "count": 6
-    },
-    {
-      "empresa_id": "1202",
-      "nombre_empresa": "CRISTAR TABLETOP S.A.S",
-      "rut": "9014954528",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "dindaburu@dcanje.com",
-      "redistribuido_a": "KAM",
       "count": 6
     },
     {
@@ -642,6 +642,16 @@
       "count": 4
     },
     {
+      "empresa_id": "2021",
+      "nombre_empresa": "NUAM",
+      "rut": "77726203-3",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
       "empresa_id": "788",
       "nombre_empresa": "SALESLAND CHILE",
       "rut": "555555555",
@@ -805,6 +815,16 @@
       "empresa_id": "1567",
       "nombre_empresa": "OMEGA HEALTHCARE COLOMBIA SAS",
       "rut": "9017772911",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 4
+    },
+    {
+      "empresa_id": "1589",
+      "nombre_empresa": "HOYA LENS COLOMBIA S.A.S.",
+      "rut": "901538753",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1062,16 +1082,6 @@
       "count": 3
     },
     {
-      "empresa_id": "1589",
-      "nombre_empresa": "HOYA LENS COLOMBIA S.A.S.",
-      "rut": "901538753",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 3
-    },
-    {
       "empresa_id": "1679",
       "nombre_empresa": "PERPLEX GROUP COLOMBIA S.A.S",
       "rut": "9013903829",
@@ -1085,6 +1095,16 @@
       "empresa_id": "1725",
       "nombre_empresa": "UNIDAD MEDICO QUIRURGICA DE ORL S.A.S.",
       "rut": "8605093230",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 3
+    },
+    {
+      "empresa_id": "1745",
+      "nombre_empresa": "KONEKSYON SAS",
+      "rut": "9013609529",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1252,16 +1272,6 @@
       "count": 2
     },
     {
-      "empresa_id": "2021",
-      "nombre_empresa": "NUAM",
-      "rut": "77726203-3",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
       "empresa_id": "2039",
       "nombre_empresa": "Sinovac Chile",
       "rut": "77447449-8",
@@ -1395,6 +1405,16 @@
       "empresa_id": "902",
       "nombre_empresa": "Prueba CHOCOLATES DE PERU",
       "rut": "20514584789",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 2
+    },
+    {
+      "empresa_id": "907",
+      "nombre_empresa": "NUAM - CAVALI",
+      "rut": "20346669625",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -1585,16 +1605,6 @@
       "empresa_id": "1692",
       "nombre_empresa": "TABI TECH INC",
       "rut": "992375091",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 2
-    },
-    {
-      "empresa_id": "1745",
-      "nombre_empresa": "KONEKSYON SAS",
-      "rut": "9013609529",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -2032,6 +2042,16 @@
       "count": 1
     },
     {
+      "empresa_id": "2075",
+      "nombre_empresa": "COMERCIALIZADORA LOS ROBLES LTDA",
+      "rut": "96692040-8",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
       "empresa_id": "862",
       "nombre_empresa": "Madison Performance - EC",
       "rut": "134141712",
@@ -2162,16 +2182,6 @@
       "count": 1
     },
     {
-      "empresa_id": "907",
-      "nombre_empresa": "NUAM - CAVALI",
-      "rut": "20346669625",
-      "pais": "Perú",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "count": 1
-    },
-    {
       "empresa_id": "912",
       "nombre_empresa": "Call Center Zaz Colombia",
       "rut": "9 0 1 8 2 5 8 2",
@@ -2205,6 +2215,16 @@
       "empresa_id": "932",
       "nombre_empresa": "TATA CONSULTANCY - AREAS",
       "rut": "20535627101",
+      "pais": "Perú",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "count": 1
+    },
+    {
+      "empresa_id": "937",
+      "nombre_empresa": "LUMINICOS SAC",
+      "rut": "20551607322",
       "pais": "Perú",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -3051,7 +3071,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "sgajardo@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2740.0
+      "usuarios_incentivados": 2741.0
     },
     {
       "empresa_id": "343",
@@ -3061,7 +3081,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 2014.0
+      "usuarios_incentivados": 2023.0
     },
     {
       "empresa_id": "3",
@@ -3381,7 +3401,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "jvalencia@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 118.0
+      "usuarios_incentivados": 125.0
     },
     {
       "empresa_id": "849",
@@ -3394,6 +3414,16 @@
       "usuarios_incentivados": 115.0
     },
     {
+      "empresa_id": "2021",
+      "nombre_empresa": "NUAM",
+      "rut": "77726203-3",
+      "pais": "Chile",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 106.0
+    },
+    {
       "empresa_id": "822",
       "nombre_empresa": "PERIFERIA IT CORP PERU S.A.C.",
       "rut": "20563741679",
@@ -3402,16 +3432,6 @@
       "email_kam_en_empresas": "dduran@app",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 94.0
-    },
-    {
-      "empresa_id": "2021",
-      "nombre_empresa": "NUAM",
-      "rut": "77726203-3",
-      "pais": "Chile",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 93.0
     },
     {
       "empresa_id": "1567",
@@ -3441,7 +3461,17 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "alvaroagliati@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 79.0
+      "usuarios_incentivados": 80.0
+    },
+    {
+      "empresa_id": "861",
+      "nombre_empresa": "Habla Latam",
+      "rut": "20610759069",
+      "pais": "Perú",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "kli@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 80.0
     },
     {
       "empresa_id": "398",
@@ -3452,16 +3482,6 @@
       "email_kam_en_empresas": "dindaburu@dcanje.com",
       "redistribuido_a": "KAM",
       "usuarios_incentivados": 79.0
-    },
-    {
-      "empresa_id": "861",
-      "nombre_empresa": "Habla Latam",
-      "rut": "20610759069",
-      "pais": "Perú",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "kli@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 78.0
     },
     {
       "empresa_id": "894",
@@ -3511,7 +3531,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 66.0
+      "usuarios_incentivados": 70.0
     },
     {
       "empresa_id": "2054",
@@ -3561,7 +3581,7 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 57.0
+      "usuarios_incentivados": 58.0
     },
     {
       "empresa_id": "1334",
@@ -3834,6 +3854,16 @@
       "usuarios_incentivados": 33.0
     },
     {
+      "empresa_id": "1407",
+      "nombre_empresa": "INNOVACURE SAS",
+      "rut": "9008728262",
+      "pais": "Colombia",
+      "motivo": "email_kam_no_esta_en_leyenda",
+      "email_kam_en_empresas": "jvalencia@dcanje.com",
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 32.0
+    },
+    {
       "empresa_id": "1733",
       "nombre_empresa": "BRILLADORA EL DIAMANTE S.A.",
       "rut": "8903003271",
@@ -3864,16 +3894,6 @@
       "usuarios_incentivados": 31.0
     },
     {
-      "empresa_id": "1407",
-      "nombre_empresa": "INNOVACURE SAS",
-      "rut": "9008728262",
-      "pais": "Colombia",
-      "motivo": "email_kam_no_esta_en_leyenda",
-      "email_kam_en_empresas": "jvalencia@dcanje.com",
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 30.0
-    },
-    {
       "empresa_id": "1669",
       "nombre_empresa": "HIDRAULICOS J R S.A.S.",
       "rut": "9005210801",
@@ -3901,7 +3921,7 @@
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 28.0
+      "usuarios_incentivados": 29.0
     },
     {
       "empresa_id": "320",
@@ -3911,7 +3931,17 @@
       "motivo": "email_kam_no_esta_en_leyenda",
       "email_kam_en_empresas": "kli@dcanje.com",
       "redistribuido_a": "KAM",
-      "usuarios_incentivados": 27.0
+      "usuarios_incentivados": 28.0
+    },
+    {
+      "empresa_id": "1745",
+      "nombre_empresa": "KONEKSYON SAS",
+      "rut": "9013609529",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 28.0
     },
     {
       "empresa_id": "1657",
@@ -4107,16 +4137,6 @@
       "empresa_id": "1727",
       "nombre_empresa": "RED DESIGN SYSTEMS SOCIEDAD POR ACCIONES SIMPLIFIC",
       "rut": "9001332826",
-      "pais": "Colombia",
-      "motivo": "empresa_no_esta_en_hoja_empresas",
-      "email_kam_en_empresas": null,
-      "redistribuido_a": "KAM",
-      "usuarios_incentivados": 18.0
-    },
-    {
-      "empresa_id": "1745",
-      "nombre_empresa": "KONEKSYON SAS",
-      "rut": "9013609529",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
@@ -4747,6 +4767,16 @@
       "empresa_id": "1668",
       "nombre_empresa": "ACCURO SAS",
       "rut": "8300231349",
+      "pais": "Colombia",
+      "motivo": "empresa_no_esta_en_hoja_empresas",
+      "email_kam_en_empresas": null,
+      "redistribuido_a": "KAM",
+      "usuarios_incentivados": 6.0
+    },
+    {
+      "empresa_id": "1689",
+      "nombre_empresa": "ASTRO SERVICIOS SAS",
+      "rut": "9000581771",
       "pais": "Colombia",
       "motivo": "empresa_no_esta_en_hoja_empresas",
       "email_kam_en_empresas": null,
